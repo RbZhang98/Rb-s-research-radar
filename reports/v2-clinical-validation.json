@@ -1,0 +1,254 @@
+{
+  "window": {
+    "start": "2026-09-16",
+    "end": "2026-10-16"
+  },
+  "count": 45,
+  "withAuthors": 38,
+  "withAffiliations": 38,
+  "samples": [
+    {
+      "id": "10.1111/jcpe.70215",
+      "doi": "10.1111/jcpe.70215",
+      "title": "Intraoral Ultrasonography for Mid‐Buccal Probing Depth Assessment: A Proof‐of‐Concept Clinical Agreement Study",
+      "abstract": "ABSTRACT Aim To evaluate the agreement between ultrasound‐derived gingival sulcus depth ( uGSD ) and clinical probing depth ( PD ) at standardised mid‐buccal sites as a proof‐of‐concept study. Materials and Methods Mid‐buccal measurements were obtained from 963 sites in 69 participants (767 anterior, 127 premolars, 69 first molars) using an 18‐MHz ultrasound transducer and a UNC‐15 probe. uGSD was measured on B‐mode images; reliability was assessed by two trained examiners. Agreement was evaluated using intra‐class correlation coefficient (ICC), Bland–Altman analysis and mean absolute error (MAE). Generalised estimating equations and clustered ICCs accounted for within‐patient clustering. Subgroups included PD strata, bleeding, tooth type, calculus, restorations (prosthetic crowns/orthodontic attachments) and smoking. Results Ultrasound measurements showed high reliability (ICCs > 0.90). Agreement between uGSD and clinical PD was strong (ICC = 0.942; 95% CI: 0.935–0.949), with negligible mean difference (+0.023 mm) and low MAE (0.29 ± 0.32 mm). Subgroup ICCs ranged from 0.786 to 0.952; 85.0% of sites differed by ≤ 0.50 mm and 96.7% by ≤ 1.00 mm. Molar sites showed the highest MAE (0.38 mm) and slight underestimation (−0.123 mm). Conclusion Intraoral ultrasonography showed high agreement with clinical PD at standardised mid‐buccal sites in anterior teeth, premolars and first molars. It may serve as a non‐invasive adjunct to conventional probing; however, broader studies are needed across complex sites and examiner experience levels.",
+      "journal": "Journal of Clinical Periodontology",
+      "journalId": "jcp",
+      "date": "2026-10-16",
+      "datePrecision": "day",
+      "url": "https://doi.org/10.1111/jcpe.70215",
+      "sources": [
+        "Crossref"
+      ],
+      "sourceIds": {
+        "Crossref": "10.1111/jcpe.70215"
+      },
+      "authors": [
+        {
+          "name": "Sefa Aydindogan",
+          "affiliations": [
+            "Department of Periodontology, Faculty of Dentistry Selcuk University Konya Turkiye"
+          ],
+          "source": "Crossref"
+        },
+        {
+          "name": "Metehan Ozdemir",
+          "affiliations": [
+            "Department of Periodontology, Faculty of Dentistry Selcuk University Konya Turkiye"
+          ],
+          "source": "Crossref"
+        },
+        {
+          "name": "Yunus Emre Balaban",
+          "affiliations": [
+            "Department of Periodontology, Faculty of Dentistry Selcuk University Konya Turkiye"
+          ],
+          "source": "Crossref"
+        },
+        {
+          "name": "Elif Mutafcılar Velioğlu",
+          "affiliations": [
+            "Department of Periodontology, Faculty of Dentistry Selcuk University Konya Turkiye"
+          ],
+          "source": "Crossref"
+        },
+        {
+          "name": "Sema S. Hakki",
+          "affiliations": [
+            "Department of Periodontology, Faculty of Dentistry Selcuk University Konya Turkiye"
+          ],
+          "source": "Crossref"
+        },
+        {
+          "name": "Kaan Orhan",
+          "affiliations": [
+            "Department of Radiology, Faculty of Dentistry Ankara University Ankara Turkiye"
+          ],
+          "source": "Crossref"
+        }
+      ],
+      "publicationTypes": [
+        "journal-article"
+      ],
+      "metadataBySource": {
+        "Crossref": {
+          "authors": [
+            {
+              "name": "Sefa Aydindogan",
+              "affiliations": [
+                "Department of Periodontology, Faculty of Dentistry Selcuk University Konya Turkiye"
+              ],
+              "source": "Crossref"
+            },
+            {
+              "name": "Metehan Ozdemir",
+              "affiliations": [
+                "Department of Periodontology, Faculty of Dentistry Selcuk University Konya Turkiye"
+              ],
+              "source": "Crossref"
+            },
+            {
+              "name": "Yunus Emre Balaban",
+              "affiliations": [
+                "Department of Periodontology, Faculty of Dentistry Selcuk University Konya Turkiye"
+              ],
+              "source": "Crossref"
+            },
+            {
+              "name": "Elif Mutafcılar Velioğlu",
+              "affiliations": [
+                "Department of Periodontology, Faculty of Dentistry Selcuk University Konya Turkiye"
+              ],
+              "source": "Crossref"
+            },
+            {
+              "name": "Sema S. Hakki",
+              "affiliations": [
+                "Department of Periodontology, Faculty of Dentistry Selcuk University Konya Turkiye"
+              ],
+              "source": "Crossref"
+            },
+            {
+              "name": "Kaan Orhan",
+              "affiliations": [
+                "Department of Radiology, Faculty of Dentistry Ankara University Ankara Turkiye"
+              ],
+              "source": "Crossref"
+            }
+          ],
+          "publicationTypes": [
+            "journal-article"
+          ]
+        }
+      },
+      "grade": "B",
+      "score": 5,
+      "topics": [
+        "种植修复",
+        "牙周治疗"
+      ],
+      "pending": true,
+      "studyType": "研究类型待确认",
+      "studyTypeEvidence": {},
+      "evidence": {},
+      "reason": "临床独立规则：研究类型待确认。类型由词组初筛或信息不足，待确认；优先级不等同于研究质量评价。",
+      "rulesVersion": "2.0"
+    },
+    {
+      "id": "10.1111/prd.70104",
+      "doi": "10.1111/prd.70104",
+      "title": "Clinical efficacy of platelet‐rich fibrin therapy during oral surgical interventions in cigarette smokers: A systematic review of randomized controlled trials",
+      "abstract": "Abstract Objectives A limited number of randomized controlled trials have assessed the efficacy of platelet‐rich fibrin (PRF) therapy during oral surgical interventions in cigarette smokers. A systematic review of the currently available literature remains undocumented. The aim of this systematic review was to evaluate the clinical efficacy of adjunctive PRF therapy for enhancing wound healing and tissue regeneration and repair during oral surgical interventions in cigarette smokers. Materials and Methods The research question was: “In adult cigarette smokers undergoing OSI, does adjunctive PRF therapy, compared with non‐PRF or conventional comparator interventions, improve wound healing or tissue regeneration and repair?” A literature search was conducted in accordance with PRISMA guidelines. Indexed databases and Google Scholar were searched without time and language restrictions through June 2026. The risk of bias was assessed using the Cochrane Risk of Bias‐2 tool. The certainty of evidence for each clinical outcome was evaluated using the Grading of Recommendations Assessment, Development and Evaluation approach. Disagreements were resolved via discussion. Results Three randomized controlled trials reported in four publications were included. One trial was reported in two publications describing different outcomes and follow‐up periods. The number of participants in the individual trials ranged from 18 to 102 individuals. Sample‐size estimation was performed in two of the three trials. One trial, reported in two publications, evaluated socket preservation and reported short‐term soft‐tissue healing and postoperative pain outcomes as well as 6‐month radiographic and histologic outcomes. In general, all studies demonstrated that PRF improved healing. One study had a high risk of bias, and the remaining studies demonstrated some concerns. The certainty of evidence ranged from very low to moderate in the included studies. Conclusions The available evidence suggests that adjunctive PRF therapy promotes post‐extraction healing in cigarette smokers; however, its clinical efficacy remains inconclusive given the limited number of clinical trials, methodological heterogeneity, risk‐of‐bias concerns, and low‐to‐moderate certainty of evidence. Further well‐designed, adequately powered RCTs with standardized PRF protocols and long‐term follow‐up are warranted. Clinical Relevance The available evidence suggests that PRF may favor post‐extraction healing in cigarette smokers. Although a lower numerical occurrence of dry socket was reported in PRF‐treated sockets in one RCT, the current evidence is insufficient to establish a preventive effect. Overall, PRF appears promising; however, definitive clinical conclusions remain limited by the small number of trials, methodological limitations, and low‐to‐moderate certainty of evidence.",
+      "journal": "Periodontology 2000",
+      "journalId": "p2000",
+      "date": "2026-10-14",
+      "datePrecision": "day",
+      "url": "https://doi.org/10.1111/prd.70104",
+      "sources": [
+        "Crossref"
+      ],
+      "sourceIds": {
+        "Crossref": "10.1111/prd.70104"
+      },
+      "authors": [
+        {
+          "name": "Fawad Javed",
+          "affiliations": [
+            "Department of Orthodontics and Dentofacial Orthopedics, Eastman Institute for Oral Health University of Rochester Rochester New York USA"
+          ],
+          "source": "Crossref"
+        },
+        {
+          "name": "Muhammad Saad Shaikh",
+          "affiliations": [
+            "Department of Oral Biology, Sindh Institute of Oral Health Sciences Jinnah Sindh Medical University Karachi Pakistan"
+          ],
+          "source": "Crossref"
+        },
+        {
+          "name": "Anton Sculean",
+          "affiliations": [
+            "Department of Periodontology University of Bern Bern Switzerland"
+          ],
+          "source": "Crossref"
+        },
+        {
+          "name": "Richard J. Miron",
+          "affiliations": [
+            "Department of Periodontology University of Bern Bern Switzerland"
+          ],
+          "source": "Crossref"
+        }
+      ],
+      "publicationTypes": [
+        "journal-article"
+      ],
+      "metadataBySource": {
+        "Crossref": {
+          "authors": [
+            {
+              "name": "Fawad Javed",
+              "affiliations": [
+                "Department of Orthodontics and Dentofacial Orthopedics, Eastman Institute for Oral Health University of Rochester Rochester New York USA"
+              ],
+              "source": "Crossref"
+            },
+            {
+              "name": "Muhammad Saad Shaikh",
+              "affiliations": [
+                "Department of Oral Biology, Sindh Institute of Oral Health Sciences Jinnah Sindh Medical University Karachi Pakistan"
+              ],
+              "source": "Crossref"
+            },
+            {
+              "name": "Anton Sculean",
+              "affiliations": [
+                "Department of Periodontology University of Bern Bern Switzerland"
+              ],
+              "source": "Crossref"
+            },
+            {
+              "name": "Richard J. Miron",
+              "affiliations": [
+                "Department of Periodontology University of Bern Bern Switzerland"
+              ],
+              "source": "Crossref"
+            }
+          ],
+          "publicationTypes": [
+            "journal-article"
+          ]
+        }
+      },
+      "grade": "A",
+      "score": 10,
+      "topics": [
+        "临床方法与结局"
+      ],
+      "pending": true,
+      "studyType": "系统综述 / Meta分析",
+      "studyTypeEvidence": {
+        "terms": [
+          "systematic review"
+        ],
+        "source": "标题/摘要规则，未经人工确认"
+      },
+      "evidence": {
+        "系统综述 / Meta分析": {
+          "terms": [
+            "systematic review"
+          ],
+          "source": "标题/摘要规则，未经人工确认"
+        },
+        "综述": {
+          "terms": [
+            "review"
+          ],
+          "source": "标题/摘要规则，未经人工确认"
+        }
+      },
+      "reason": "临床独立规则：系统综述 / Meta分析。类型由词组初筛或信息不足，待确认；优先级不等同于研究质量评价。",
+      "rulesVersion": "2.0"
+    }
+  ]
+}

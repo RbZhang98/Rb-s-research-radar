@@ -9,7 +9,7 @@
   },
   "newCount": 0,
   "newIds": [],
-  "total": 1972,
+  "total": 16,
   "journals": [
     {
       "id": "nature",
@@ -39,9 +39,9 @@
           "query": "ISSNs 0028-0836, 1476-4687, publication 2026-10-02..2026-10-16"
         }
       ],
-      "total": 424,
-      "missingAbstract": 328,
-      "bothSources": 199
+      "total": 0,
+      "missingAbstract": 0,
+      "bothSources": 0
     },
     {
       "id": "science",
@@ -71,9 +71,9 @@
           "query": "ISSNs 0036-8075, 1095-9203, publication 2026-10-02..2026-10-16"
         }
       ],
-      "total": 209,
-      "missingAbstract": 33,
-      "bothSources": 120
+      "total": 0,
+      "missingAbstract": 0,
+      "bothSources": 0
     },
     {
       "id": "cell",
@@ -105,9 +105,9 @@
           "query": "ISSNs 0092-8674, 1097-4172, publication 2026-10-02..2026-10-16"
         }
       ],
-      "total": 83,
-      "missingAbstract": 51,
-      "bothSources": 14
+      "total": 0,
+      "missingAbstract": 0,
+      "bothSources": 0
     },
     {
       "id": "nature-medicine",
@@ -137,9 +137,9 @@
           "query": "ISSNs 1078-8956, 1546-170X, publication 2026-10-02..2026-10-16"
         }
       ],
-      "total": 62,
-      "missingAbstract": 34,
-      "bothSources": 39
+      "total": 0,
+      "missingAbstract": 0,
+      "bothSources": 0
     },
     {
       "id": "nature-biomedical-engineering",
@@ -169,9 +169,9 @@
           "query": "ISSNs 2157-846X, publication 2026-10-02..2026-10-16"
         }
       ],
-      "total": 25,
-      "missingAbstract": 18,
-      "bothSources": 7
+      "total": 0,
+      "missingAbstract": 0,
+      "bothSources": 0
     },
     {
       "id": "nature-materials",
@@ -201,9 +201,9 @@
           "query": "ISSNs 1476-1122, 1476-4660, publication 2026-10-02..2026-10-16"
         }
       ],
-      "total": 35,
-      "missingAbstract": 24,
-      "bothSources": 17
+      "total": 0,
+      "missingAbstract": 0,
+      "bothSources": 0
     },
     {
       "id": "nature-communications",
@@ -233,9 +233,9 @@
           "query": "ISSNs 2041-1723, publication 2026-10-02..2026-10-16"
         }
       ],
-      "total": 865,
-      "missingAbstract": 492,
-      "bothSources": 119
+      "total": 1,
+      "missingAbstract": 0,
+      "bothSources": 1
     },
     {
       "id": "cell-stem-cell",
@@ -267,9 +267,9 @@
           "query": "ISSNs 1934-5909, 1875-9777, publication 2026-10-02..2026-10-16"
         }
       ],
-      "total": 22,
-      "missingAbstract": 12,
-      "bothSources": 10
+      "total": 0,
+      "missingAbstract": 0,
+      "bothSources": 0
     },
     {
       "id": "cell-reports-medicine",
@@ -299,9 +299,9 @@
           "query": "ISSNs 2666-3791, publication 2026-10-02..2026-10-16"
         }
       ],
-      "total": 47,
-      "missingAbstract": 22,
-      "bothSources": 3
+      "total": 0,
+      "missingAbstract": 0,
+      "bothSources": 0
     },
     {
       "id": "cell-reports",
@@ -331,9 +331,9 @@
           "query": "ISSNs 2211-1247, publication 2026-10-02..2026-10-16"
         }
       ],
-      "total": 154,
-      "missingAbstract": 81,
-      "bothSources": 79
+      "total": 1,
+      "missingAbstract": 0,
+      "bothSources": 1
     },
     {
       "id": "bone-research",
@@ -363,9 +363,9 @@
           "query": "ISSNs 2095-4700, 2095-6231, publication 2026-10-02..2026-10-16"
         }
       ],
-      "total": 7,
+      "total": 5,
       "missingAbstract": 0,
-      "bothSources": 4
+      "bothSources": 3
     },
     {
       "id": "jbmr",
@@ -395,9 +395,9 @@
           "query": "ISSNs 0884-0431, 1523-4681, publication 2026-10-02..2026-10-16"
         }
       ],
-      "total": 13,
-      "missingAbstract": 5,
-      "bothSources": 7
+      "total": 3,
+      "missingAbstract": 0,
+      "bothSources": 3
     },
     {
       "id": "jdr",
@@ -427,9 +427,9 @@
           "query": "ISSNs 0022-0345, 1544-0591, publication 2026-10-02..2026-10-16"
         }
       ],
-      "total": 7,
+      "total": 3,
       "missingAbstract": 0,
-      "bothSources": 3
+      "bothSources": 1
     },
     {
       "id": "jcp",
@@ -459,9 +459,9 @@
           "query": "ISSNs 0303-6979, 1600-051X, publication 2026-10-02..2026-10-16"
         }
       ],
-      "total": 19,
-      "missingAbstract": 4,
-      "bothSources": 8
+      "total": 3,
+      "missingAbstract": 0,
+      "bothSources": 2
     }
   ],
   "verification": [
@@ -797,5 +797,7 @@
         }
       ]
     }
-  ]
+  ],
+  "retainedCount": 16,
+  "activated": false
 }

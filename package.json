@@ -1,12 +1,18 @@
 {
   "name": "research-radar",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "private": true,
   "type": "module",
   "scripts": {
     "build": "python scripts/build.py && python scripts/check_build.py",
-    "test": "python -m unittest discover -s tests -v && node --test tests/filter.test.js",
+    "test": "python -m unittest discover -s tests -v && node --test tests/*.test.js",
     "collect": "python scripts/radar.py",
-    "preview": "python -m http.server 4173 --directory dist"
+    "preview": "python -m http.server 4173 --directory dist",
+    "test:ui": "node --test tests/ui.test.js",
+    "collect:clinical": "python scripts/radar.py --radar clinical"
+  },
+  "devDependencies": {
+    "fake-indexeddb": "^6.2.6",
+    "jsdom": "^30.1.3"
   }
 }
