@@ -24,6 +24,102 @@
     "rulesVersion": "1.0"
   },
   {
+    "id": "10.1038/s41591-026-04719-6",
+    "doi": "10.1038/s41591-026-04719-6",
+    "title": "Conversational brain AI for adaptive epilepsy care",
+    "abstract": "",
+    "journal": "Nature Medicine",
+    "journalId": "nature-medicine",
+    "date": "2026-10-16",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1038/s41591-026-04719-6",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1038/s41591-026-04719-6"
+    },
+    "grade": "C",
+    "score": 0,
+    "topics": [],
+    "pending": true,
+    "evidence": {},
+    "reason": "未发现明确的目标领域词汇，作为低相关元数据归档。；摘要缺失或仅有可迁移线索，待人工确认。",
+    "rulesVersion": "1.0"
+  },
+  {
+    "id": "10.1038/s41591-026-04715-w",
+    "doi": "10.1038/s41591-026-04715-w",
+    "title": "EGFR-targeted antibody−toxin conjugate in recurrent glioma: a phase 1 trial",
+    "abstract": "",
+    "journal": "Nature Medicine",
+    "journalId": "nature-medicine",
+    "date": "2026-10-16",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1038/s41591-026-04715-w",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1038/s41591-026-04715-w"
+    },
+    "grade": "C",
+    "score": 0,
+    "topics": [],
+    "pending": true,
+    "evidence": {},
+    "reason": "未发现明确的目标领域词汇，作为低相关元数据归档。；摘要缺失或仅有可迁移线索，待人工确认。",
+    "rulesVersion": "1.0"
+  },
+  {
+    "id": "10.1038/s41591-026-04699-7",
+    "doi": "10.1038/s41591-026-04699-7",
+    "title": "Only time will tell",
+    "abstract": "",
+    "journal": "Nature Medicine",
+    "journalId": "nature-medicine",
+    "date": "2026-10-16",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1038/s41591-026-04699-7",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1038/s41591-026-04699-7"
+    },
+    "grade": "C",
+    "score": 0,
+    "topics": [],
+    "pending": true,
+    "evidence": {},
+    "reason": "未发现明确的目标领域词汇，作为低相关元数据归档。；摘要缺失或仅有可迁移线索，待人工确认。",
+    "rulesVersion": "1.0"
+  },
+  {
+    "id": "10.1038/s41591-026-04687-x",
+    "doi": "10.1038/s41591-026-04687-x",
+    "title": "Real-world, digital-first delivery of GLP-1 receptor agonist therapy in women",
+    "abstract": "Abstract Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have demonstrated substantial weight reduction and cardiometabolic benefit in randomized trials; however, prospective implementation evidence from digital care models and female sex community populations remains limited. Here we report outcomes from an observational study of 8,127 women initiating GLP-1RA therapy (99.8% tirzepatide) through a structured digital program incorporating mandatory biochemical monitoring, weekly video-supported follow-up and clinician-guided dose titration in the UK. Mean weight reduction was 16.1 kg (95% confidence interval 15.9 to 16.2; P − 1 (95% confidence interval 3.1 to 3.4; P − 1 , low-density lipoprotein cholesterol of 0.61 mmol l − 1 and triglycerides of 0.47 mmol l − 1 ). Retention was 91.4% at 6 months, with no serious treatment-related adverse events. These findings support the feasibility of delivering structured, digitally enabled obesity pharmacotherapy at scale and provide prospective real-world implementation evidence for this care model. Interpretation is limited by the observational design, absence of a comparator group, self-pay population and 6-month follow-up.",
+    "journal": "Nature Medicine",
+    "journalId": "nature-medicine",
+    "date": "2026-10-16",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1038/s41591-026-04687-x",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1038/s41591-026-04687-x"
+    },
+    "grade": "C",
+    "score": 0,
+    "topics": [],
+    "pending": false,
+    "evidence": {},
+    "reason": "未发现明确的目标领域词汇，作为低相关元数据归档。；分级仅表示关键词证据，未经语义或人工验证。",
+    "rulesVersion": "1.0"
+  },
+  {
     "id": "10.1038/s41467-026-78817-x",
     "doi": "10.1038/s41467-026-78817-x",
     "title": "Structural basis for loop-dependent inhibition by AcrIIC1 anti-CRISPR proteins",
@@ -96,6 +192,30 @@
     "rulesVersion": "1.0"
   },
   {
+    "id": "10.1038/s41467-026-78679-3",
+    "doi": "10.1038/s41467-026-78679-3",
+    "title": "Cobalt-catalyzed alkyne migratory hydroboration to access β-alkenylboronates via catalytic zipper-like alkyne translocation",
+    "abstract": "",
+    "journal": "Nature Communications",
+    "journalId": "nature-communications",
+    "date": "2026-10-16",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1038/s41467-026-78679-3",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1038/s41467-026-78679-3"
+    },
+    "grade": "C",
+    "score": 0,
+    "topics": [],
+    "pending": true,
+    "evidence": {},
+    "reason": "未发现明确的目标领域词汇，作为低相关元数据归档。；摘要缺失或仅有可迁移线索，待人工确认。",
+    "rulesVersion": "1.0"
+  },
+  {
     "id": "10.1038/s41467-026-78620-8",
     "doi": "10.1038/s41467-026-78620-8",
     "title": "Temporary carbon storage can mitigate slow-responding climate changes",
@@ -120,6 +240,174 @@
     "rulesVersion": "1.0"
   },
   {
+    "id": "10.1038/s41467-026-78588-5",
+    "doi": "10.1038/s41467-026-78588-5",
+    "title": "A smart photothermal microneedle system for dual-targeted therapy of osteoarthritis via MMPs inhibition",
+    "abstract": "",
+    "journal": "Nature Communications",
+    "journalId": "nature-communications",
+    "date": "2026-10-16",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1038/s41467-026-78588-5",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1038/s41467-026-78588-5"
+    },
+    "grade": "C",
+    "score": 0,
+    "topics": [],
+    "pending": true,
+    "evidence": {},
+    "reason": "未发现明确的目标领域词汇，作为低相关元数据归档。；摘要缺失或仅有可迁移线索，待人工确认。",
+    "rulesVersion": "1.0"
+  },
+  {
+    "id": "10.1038/s41467-026-78414-y",
+    "doi": "10.1038/s41467-026-78414-y",
+    "title": "3D confinement physically regulates cell cycle progression in budding yeast",
+    "abstract": "",
+    "journal": "Nature Communications",
+    "journalId": "nature-communications",
+    "date": "2026-10-16",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1038/s41467-026-78414-y",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1038/s41467-026-78414-y"
+    },
+    "grade": "C",
+    "score": 0,
+    "topics": [],
+    "pending": true,
+    "evidence": {},
+    "reason": "未发现明确的目标领域词汇，作为低相关元数据归档。；摘要缺失或仅有可迁移线索，待人工确认。",
+    "rulesVersion": "1.0"
+  },
+  {
+    "id": "10.1038/s41467-026-78384-1",
+    "doi": "10.1038/s41467-026-78384-1",
+    "title": "Orbital-driven Fulde–Ferrell–Larkin–Ovchinnikov state in a layer-locked 3D Ising superconductor",
+    "abstract": "",
+    "journal": "Nature Communications",
+    "journalId": "nature-communications",
+    "date": "2026-10-16",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1038/s41467-026-78384-1",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1038/s41467-026-78384-1"
+    },
+    "grade": "C",
+    "score": 0,
+    "topics": [],
+    "pending": true,
+    "evidence": {},
+    "reason": "未发现明确的目标领域词汇，作为低相关元数据归档。；摘要缺失或仅有可迁移线索，待人工确认。",
+    "rulesVersion": "1.0"
+  },
+  {
+    "id": "10.1038/s41467-026-78348-5",
+    "doi": "10.1038/s41467-026-78348-5",
+    "title": "Reconstructing the aqueous environment of the Ryugu parent body through the speciation of multiple elements",
+    "abstract": "",
+    "journal": "Nature Communications",
+    "journalId": "nature-communications",
+    "date": "2026-10-16",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1038/s41467-026-78348-5",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1038/s41467-026-78348-5"
+    },
+    "grade": "C",
+    "score": 0,
+    "topics": [],
+    "pending": true,
+    "evidence": {},
+    "reason": "未发现明确的目标领域词汇，作为低相关元数据归档。；摘要缺失或仅有可迁移线索，待人工确认。",
+    "rulesVersion": "1.0"
+  },
+  {
+    "id": "10.1038/s41467-026-78276-4",
+    "doi": "10.1038/s41467-026-78276-4",
+    "title": "Infant hippocampal and amygdala volume in an observational follow-up from a randomized clinical trial for maternal prenatal depression",
+    "abstract": "Abstract Prenatal maternal depression may have intergenerational effects on offspring brain development, with potential socioemotional consequences. This observational follow-up study examines brain development and subsequent negative emotionality among 109 infants born to mothers participating in a randomized clinical trial (NCT03011801). In the prior trial, brief interpersonal psychotherapy significantly reduced prenatal depression symptoms and disorder as the published primary and secondary endpoints. Exploratory infant outcomes include hippocampal and amygdala volumes at 6 weeks and negative emotionality at 6 months. Here we show that infants of mothers randomized to interpersonal psychotherapy during pregnancy have lower right hippocampal volume than infants of mothers in the enhanced usual care group ( p = .002, d = 0.62). No statistically significant group differences are observed in left hippocampal or amygdala volume. Smaller hippocampal volume predicts subsequent lower negative emotionality (r = 0.19, p = 0.045). In this study, a maternal prenatal depression intervention is associated with differences in infant brain development with implications for their subsequent emotional health.",
+    "journal": "Nature Communications",
+    "journalId": "nature-communications",
+    "date": "2026-10-16",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1038/s41467-026-78276-4",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1038/s41467-026-78276-4"
+    },
+    "grade": "C",
+    "score": 0,
+    "topics": [],
+    "pending": false,
+    "evidence": {},
+    "reason": "未发现明确的目标领域词汇，作为低相关元数据归档。；分级仅表示关键词证据，未经语义或人工验证。",
+    "rulesVersion": "1.0"
+  },
+  {
+    "id": "10.1038/s41467-026-78254-w",
+    "doi": "10.1038/s41467-026-78254-w",
+    "title": "From fragmentation to fault zone architecture as a structural framework for fault weakening",
+    "abstract": "",
+    "journal": "Nature Communications",
+    "journalId": "nature-communications",
+    "date": "2026-10-16",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1038/s41467-026-78254-w",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1038/s41467-026-78254-w"
+    },
+    "grade": "C",
+    "score": 0,
+    "topics": [],
+    "pending": true,
+    "evidence": {},
+    "reason": "未发现明确的目标领域词汇，作为低相关元数据归档。；摘要缺失或仅有可迁移线索，待人工确认。",
+    "rulesVersion": "1.0"
+  },
+  {
+    "id": "10.1038/s41467-026-77900-7",
+    "doi": "10.1038/s41467-026-77900-7",
+    "title": "The molecular heterogeneity and clinical impact of genomic driver alterations in prostate cancer",
+    "abstract": "",
+    "journal": "Nature Communications",
+    "journalId": "nature-communications",
+    "date": "2026-10-16",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1038/s41467-026-77900-7",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1038/s41467-026-77900-7"
+    },
+    "grade": "C",
+    "score": 0,
+    "topics": [],
+    "pending": true,
+    "evidence": {},
+    "reason": "未发现明确的目标领域词汇，作为低相关元数据归档。；摘要缺失或仅有可迁移线索，待人工确认。",
+    "rulesVersion": "1.0"
+  },
+  {
     "id": "10.1038/s41467-026-77893-3",
     "doi": "10.1038/s41467-026-77893-3",
     "title": "Market Integration Pathways for Enhanced Geothermal Systems in Europe",
@@ -141,6 +429,86 @@
     "pending": false,
     "evidence": {},
     "reason": "未发现明确的目标领域词汇，作为低相关元数据归档。；分级仅表示关键词证据，未经语义或人工验证。",
+    "rulesVersion": "1.0"
+  },
+  {
+    "id": "10.1038/s41467-026-77136-5",
+    "doi": "10.1038/s41467-026-77136-5",
+    "title": "Coordinated inhibition of SOX9 and cell-cycle progression by microRNA-200 restricts sebaceous gland fate specification",
+    "abstract": "Abstract The microRNA-200 family (miR-200s) is known for inhibiting epithelial-to-mesenchymal transition and cell-cycle progression in cancer, but its function in epithelial development remains unclear. Here we show that miR-200s are highly enriched in hair matrix progenitors but absent from the upper hair follicle (HF), where sebaceous gland (SG) and HF stem cells are specified. Ectopic miR-200 induction abolishes SG specification while preserving hair morphogenesis. Genome-wide identification of miR-200 targets reveals direct repression of negative regulators of WNT signaling and cell-cycle regulators. Single-cell and spatial transcriptomic analyses uncover mutually exclusive domains of WNT activity and SOX9 expression in the upper HF that is disrupted by miR-200 induction. Genome-wide mapping of SOX9 targets further uncovers a lipogenic and fatty-acid metabolic program required for SG specification. Together, these findings show that miR-200 blocks SG fate by inhibiting SOX9 function and restricting cell proliferation, defining a spatially organized regulatory network essential for SG development.",
+    "journal": "Nature Communications",
+    "journalId": "nature-communications",
+    "date": "2026-10-16",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1038/s41467-026-77136-5",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1038/s41467-026-77136-5"
+    },
+    "grade": "B",
+    "score": 3,
+    "topics": [
+      "E 可迁移基础发现与技术"
+    ],
+    "pending": true,
+    "evidence": {
+      "E 可迁移基础发现与技术": [
+        "stem cell",
+        "spatial transcriptom",
+        "single-cell"
+      ]
+    },
+    "reason": "规则命中：stem cell, spatial transcriptom, single-cell；摘要缺失或仅有可迁移线索，待人工确认。",
+    "rulesVersion": "1.0"
+  },
+  {
+    "id": "10.1038/s41413-026-00587-5",
+    "doi": "10.1038/s41413-026-00587-5",
+    "title": "Integrated stress signaling pathways promote adaptive reprogramming for chondrocyte survival in Metaphyseal Chondrodysplasia Type Schmid",
+    "abstract": "Abstract Collagen X, encoded by the Col10a1 gene, is expressed specifically by hypertrophic chondrocytes (HCs) in the cartilage. Mutations of the Col10a1 gene in humans, which increase the endoplasmic reticulum (ER) stress in HCs, lead to metaphyseal chondrodysplasia type Schmid (MCDS). However, the mechanism of how HCs respond to ER stress to affect bone development and growth is not entirely understood. In this study, we generated a new mouse model harboring a 13 bp deletion (13del) in the endogenous Col10a1 gene. These 13del-MCDS mice display all the known clinical characteristics of human MCDS, as well as the molecular and cellular changes within the growth plate cartilage. For the first time, we found that triggering ER stress leads to activation of hypoxia and HIFs pathways in vivo, promoting cellular survival in HCs of the 13del-MCDS mice. To test whether the activated hypoxia and HIFs pathways are triggered by ER stress or extrinsic factors, we generated WT/GFP-MCDS chimera mice. Our findings showed that the activation of hypoxia and the hypoxic pathway is an intrinsic response to ER stress, which may partly occur through activation of ATF4 in HCs of mice. In parallel, p53 pathway changes and autophagy-associated protein-quality-control responses were observed in spatial association with altered chondrocyte differentiation and survival. These findings reveal coordinated engagement of multiple stress-response pathways during the adaptive response of hypertrophic chondrocytes to chronic ER stress.",
+    "journal": "Bone Research",
+    "journalId": "bone-research",
+    "date": "2026-10-16",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1038/s41413-026-00587-5",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1038/s41413-026-00587-5"
+    },
+    "grade": "C",
+    "score": 2,
+    "topics": [],
+    "pending": false,
+    "evidence": {},
+    "reason": "未发现明确的目标领域词汇，作为低相关元数据归档。；分级仅表示关键词证据，未经语义或人工验证。",
+    "rulesVersion": "1.0"
+  },
+  {
+    "id": "10.1038/d41586-026-03112-0",
+    "doi": "10.1038/d41586-026-03112-0",
+    "title": "The pianist who never played",
+    "abstract": "",
+    "journal": "Nature",
+    "journalId": "nature",
+    "date": "2026-10-16",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1038/d41586-026-03112-0",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1038/d41586-026-03112-0"
+    },
+    "grade": "C",
+    "score": 0,
+    "topics": [],
+    "pending": true,
+    "evidence": {},
+    "reason": "未发现明确的目标领域词汇，作为低相关元数据归档。；摘要缺失或仅有可迁移线索，待人工确认。",
     "rulesVersion": "1.0"
   },
   {
