@@ -1,0 +1,23 @@
+V2 production accumulation begins: 2026-10-16
+{
+  "isolation": "temporary checkout; release lifecycle not activated",
+  "runs": [
+    {
+      "radar": "basic",
+      "exitCode": 0,
+      "fetchOk": true,
+      "retained": 16,
+      "new": 0,
+      "journalsOk": 14
+    },
+    {
+      "radar": "clinical",
+      "exitCode": 0,
+      "fetchOk": true,
+      "retained": 1,
+      "new": 1,
+      "journalsOk": 4
+    }
+  ],
+  "original16Preserved": true
+}

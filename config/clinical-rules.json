@@ -1,0 +1,96 @@
+{
+  "version": "2.0",
+  "types": {
+    "随机对照试验": [
+      "randomized controlled trial",
+      "randomised controlled trial",
+      "randomized clinical trial",
+      "randomised clinical trial"
+    ],
+    "系统综述 / Meta分析": [
+      "systematic review",
+      "meta-analysis",
+      "meta analysis"
+    ],
+    "队列研究": [
+      "cohort study",
+      "prospective cohort",
+      "retrospective cohort",
+      "longitudinal study"
+    ],
+    "病例对照研究": [
+      "case-control",
+      "case control"
+    ],
+    "横断面研究": [
+      "cross-sectional",
+      "cross sectional"
+    ],
+    "临床研究": [
+      "clinical trial",
+      "clinical study",
+      "clinical investigation"
+    ],
+    "综述": [
+      "review"
+    ],
+    "临床前研究": [
+      "in vitro",
+      "in-vitro",
+      "animal study",
+      "murine",
+      "rat model",
+      "mouse model"
+    ],
+    "更正 / 通知": [
+      "correction:",
+      "erratum",
+      "retraction",
+      "editorial"
+    ],
+    "前瞻性队列": [
+      "prospective cohort",
+      "prospective observational study"
+    ],
+    "回顾性队列": [
+      "retrospective cohort",
+      "retrospective observational study"
+    ],
+    "临床病例系列": [
+      "case series"
+    ],
+    "叙述性综述": [
+      "narrative review"
+    ]
+  },
+  "topics": {
+    "种植修复": [
+      "implant",
+      "prosthe",
+      "restoration"
+    ],
+    "围种植体疾病": [
+      "peri-implant",
+      "periimplant",
+      "peri implant"
+    ],
+    "牙周治疗": [
+      "periodont",
+      "gingiv"
+    ],
+    "骨增量与软组织": [
+      "bone augmentation",
+      "bone graft",
+      "sinus lift",
+      "soft tissue",
+      "guided bone regeneration"
+    ],
+    "临床方法与结局": [
+      "survival",
+      "patient-reported",
+      "randomized",
+      "randomised",
+      "systematic review"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> research-radar@2.0.0 build
+> python scripts/build.py && python scripts/check_build.py
+
+Production ready: fixed-size public shards (≤100 records); raw index and backup excluded.
+basic: 16 retained, 16 display rows; fixed shards and valid source names.
+clinical: 0 retained, 0 display rows; fixed shards and valid source names.
+PASS: relative assets, DOM IDs, bounded shards, unique DOI records; dedup index and old snapshot excluded from Pages.

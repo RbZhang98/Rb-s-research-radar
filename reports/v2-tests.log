@@ -1,0 +1,62 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> research-radar@2.0.0 test
+> python -m unittest discover -s tests -v && node --test tests/*.test.js
+
+test_encoded_tags_cleaned (test_radar.MarrowSpecificityTests.test_encoded_tags_cleaned) ... ok
+test_generic_bone_marrow_immune_not_high (test_radar.MarrowSpecificityTests.test_generic_bone_marrow_immune_not_high) ... ok
+test_crossref_issn_and_date_guard (test_radar.MetadataTests.test_crossref_issn_and_date_guard) ... ok
+test_dates (test_radar.MetadataTests.test_dates) ... ok
+test_doi_normalization (test_radar.MetadataTests.test_doi_normalization) ... ok
+test_epmc_pagination_and_issn_rejection (test_radar.MetadataTests.test_epmc_pagination_and_issn_rejection) ... ok
+test_generic_inflammation_is_not_recommended (test_radar.MetadataTests.test_generic_inflammation_is_not_recommended) ... ok
+test_http_retry_and_cache (test_radar.MetadataTests.test_http_retry_and_cache) ... ok
+test_jats_clean (test_radar.MetadataTests.test_jats_clean) ... ok
+test_merge_enrichment (test_radar.MetadataTests.test_merge_enrichment) ... ok
+test_missing_abstract_not_A (test_radar.MetadataTests.test_missing_abstract_not_A) ... ok
+test_nano_does_not_imply_relevance (test_radar.MetadataTests.test_nano_does_not_imply_relevance) ... ok
+test_specific_bone_mechanism (test_radar.MetadataTests.test_specific_bone_mechanism) ... ok
+test_stem_only_pending (test_radar.MetadataTests.test_stem_only_pending) ... ok
+test_correction_is_archive (test_radar.NoticeTests.test_correction_is_archive) ... ok
+test_crossref_queries_all_issns (test_radar.NoticeTests.test_crossref_queries_all_issns) ... ok
+test_crossref_author_links_not_inferred (test_v2.EvidenceTests.test_crossref_author_links_not_inferred) ... ok
+test_epmc_affiliation_relation (test_v2.EvidenceTests.test_epmc_affiliation_relation) ... ok
+test_fak_not_fake (test_v2.EvidenceTests.test_fak_not_fake) ... ok
+test_rct_and_review_types (test_v2.EvidenceTests.test_rct_and_review_types) ... ok
+test_same_doi_clinical_does_not_mutate_basic (test_v2.EvidenceTests.test_same_doi_clinical_does_not_mutate_basic) ... ok
+test_transfer_not_bone_proof (test_v2.EvidenceTests.test_transfer_not_bone_proof) ... ok
+test_clinical_launch_and_all_grades (test_v2.MigrationTests.test_clinical_launch_and_all_grades) ... ok
+test_exact_original_seeds_preserved (test_v2.MigrationTests.test_exact_original_seeds_preserved) ... ok
+test_explicit_rediscovery_is_not_new (test_v2.MigrationTests.test_explicit_rediscovery_is_not_new) ... ok
+test_new_and_repeat_and_low_retention (test_v2.MigrationTests.test_new_and_repeat_and_low_retention) ... ok
+test_no_deleted_legacy_reentry (test_v2.MigrationTests.test_no_deleted_legacy_reentry) ... ok
+test_transfer_candidate_not_longterm (test_v2.MigrationTests.test_transfer_candidate_not_longterm) ... ok
+test_rebase_disjoint_main_changes_before_bot_push (test_workflow.WorkflowTests.test_rebase_disjoint_main_changes_before_bot_push) ... ok
+test_single_writer_and_no_pr_deploy (test_workflow.WorkflowTests.test_single_writer_and_no_pr_deploy) ... ok
+
+----------------------------------------------------------------------
+Ran 30 tests in 0.147s
+
+OK
+✔ seven day vs all history (19.640449ms)
+✔ search includes abstract and DOI (0.484744ms)
+✔ combine journal, topic, grade and pending (0.351513ms)
+✔ custom date includes both boundaries (0.280172ms)
+✔ recommended excludes archive (0.298538ms)
+✔ A first without mutating input (1.221089ms)
+✔ empty search has results; impossible filter is empty (0.46735ms)
+✔ IndexedDB survives closing and reopening; edit, delete, DOI singleton and profile isolation (11.703403ms)
+✔ backup preview does not mutate; restore is complete and invalid data is rejected before mutation (4.714026ms)
+✔ CSV/RIS contain favorites metadata only and block spreadsheet formula injection (0.792436ms)
+✔ independent Radar filters do not share mutable state (1.156758ms)
+✔ weekly uses local profiles, Shanghai dates, DOI traceability and minimum-evidence keyword rules (13.996059ms)
+✔ few low ratings cannot prune core terms; personal ordering changes no public grade (1.513709ms)
+✔ DOM integration: Radar isolation, favorite, rating, notes, reopen, restore preview, and traced weekly report (661.84975ms)
+ℹ tests 14
+ℹ suites 0
+ℹ pass 14
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1235.395691

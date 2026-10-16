@@ -1,0 +1,255 @@
+{
+  "attemptAt": "2026-10-16T13:33:15.856307+00:00",
+  "lastSuccess": "2026-10-16T13:34:37.407431+00:00",
+  "fetchOk": true,
+  "publication": "local-unpublished",
+  "window": {
+    "start": "2026-09-16",
+    "end": "2026-10-16"
+  },
+  "newCount": 0,
+  "newIds": [],
+  "total": 0,
+  "journals": [
+    {
+      "id": "cidrr",
+      "name": "Clinical Implant Dentistry and Related Research",
+      "ok": true,
+      "lastSuccess": "2026-10-16T13:34:37.407431+00:00",
+      "sources": [
+        {
+          "journalId": "cidrr",
+          "source": "Europe PMC",
+          "ok": true,
+          "count": 6,
+          "finishedAt": "2026-10-16T13:34:08.706208+00:00",
+          "seconds": 10.84,
+          "rejected": 0,
+          "query": "(ISSN:1523-0899 OR ISSN:1708-8208) AND FIRST_PDATE:[2026-09-16 TO 2026-10-16]"
+        },
+        {
+          "journalId": "cidrr",
+          "source": "Crossref",
+          "ok": true,
+          "count": 4,
+          "finishedAt": "2026-10-16T13:34:16.151147+00:00",
+          "seconds": 18.28,
+          "rejected": 0,
+          "unsupportedIssns": [],
+          "query": "ISSNs 1523-0899, 1708-8208, publication 2026-09-16..2026-10-16"
+        }
+      ],
+      "total": 0,
+      "missingAbstract": 0,
+      "bothSources": 0
+    },
+    {
+      "id": "coir",
+      "name": "Clinical Oral Implants Research",
+      "ok": true,
+      "lastSuccess": "2026-10-16T13:34:37.407431+00:00",
+      "sources": [
+        {
+          "journalId": "coir",
+          "source": "Europe PMC",
+          "ok": true,
+          "count": 1,
+          "finishedAt": "2026-10-16T13:34:08.693209+00:00",
+          "seconds": 10.83,
+          "rejected": 0,
+          "query": "(ISSN:0905-7161 OR ISSN:1600-0501) AND FIRST_PDATE:[2026-09-16 TO 2026-10-16]"
+        },
+        {
+          "journalId": "coir",
+          "source": "Crossref",
+          "ok": true,
+          "count": 11,
+          "finishedAt": "2026-10-16T13:34:23.129226+00:00",
+          "seconds": 25.26,
+          "rejected": 0,
+          "unsupportedIssns": [],
+          "query": "ISSNs 0905-7161, 1600-0501, publication 2026-09-16..2026-10-16"
+        }
+      ],
+      "total": 0,
+      "missingAbstract": 0,
+      "bothSources": 0
+    },
+    {
+      "id": "jcp",
+      "name": "Journal of Clinical Periodontology",
+      "ok": true,
+      "lastSuccess": "2026-10-16T13:34:37.407431+00:00",
+      "sources": [
+        {
+          "journalId": "jcp",
+          "source": "Crossref",
+          "ok": true,
+          "count": 19,
+          "finishedAt": "2026-10-16T13:34:16.302542+00:00",
+          "seconds": 7.6,
+          "rejected": 0,
+          "unsupportedIssns": [],
+          "query": "ISSNs 0303-6979, 1600-051X, publication 2026-09-16..2026-10-16"
+        },
+        {
+          "journalId": "jcp",
+          "source": "Europe PMC",
+          "ok": true,
+          "count": 4,
+          "finishedAt": "2026-10-16T13:34:16.354090+00:00",
+          "seconds": 7.66,
+          "rejected": 0,
+          "query": "(ISSN:0303-6979 OR ISSN:1600-051X) AND FIRST_PDATE:[2026-09-16 TO 2026-10-16]"
+        }
+      ],
+      "total": 0,
+      "missingAbstract": 0,
+      "bothSources": 0
+    },
+    {
+      "id": "p2000",
+      "name": "Periodontology 2000",
+      "ok": true,
+      "lastSuccess": "2026-10-16T13:34:37.407431+00:00",
+      "sources": [
+        {
+          "journalId": "p2000",
+          "source": "Europe PMC",
+          "ok": true,
+          "count": 2,
+          "finishedAt": "2026-10-16T13:34:23.786732+00:00",
+          "seconds": 7.64,
+          "rejected": 0,
+          "query": "(ISSN:0906-6713 OR ISSN:1600-0757) AND FIRST_PDATE:[2026-09-16 TO 2026-10-16]"
+        },
+        {
+          "journalId": "p2000",
+          "source": "Crossref",
+          "ok": true,
+          "count": 6,
+          "finishedAt": "2026-10-16T13:34:37.406694+00:00",
+          "seconds": 21.1,
+          "rejected": 0,
+          "unsupportedIssns": [],
+          "query": "ISSNs 0906-6713, 1600-0757, publication 2026-09-16..2026-10-16"
+        }
+      ],
+      "total": 0,
+      "missingAbstract": 0,
+      "bothSources": 0
+    }
+  ],
+  "verification": [
+    {
+      "id": "cidrr",
+      "name": "Clinical Implant Dentistry and Related Research",
+      "verified": true,
+      "checks": [
+        {
+          "issn": "1523-0899",
+          "registryName": "Clinical Implant Dentistry and Related Research",
+          "registryIssns": [
+            "1523-0899",
+            "1708-8208"
+          ],
+          "verified": true,
+          "source": "https://api.crossref.org/journals/1523-0899"
+        },
+        {
+          "issn": "1708-8208",
+          "registryName": "Clinical Implant Dentistry and Related Research",
+          "registryIssns": [
+            "1523-0899",
+            "1708-8208"
+          ],
+          "verified": true,
+          "source": "https://api.crossref.org/journals/1708-8208"
+        }
+      ]
+    },
+    {
+      "id": "coir",
+      "name": "Clinical Oral Implants Research",
+      "verified": true,
+      "checks": [
+        {
+          "issn": "0905-7161",
+          "registryName": "Clinical Oral Implants Research",
+          "registryIssns": [
+            "0905-7161",
+            "1600-0501"
+          ],
+          "verified": true,
+          "source": "https://api.crossref.org/journals/0905-7161"
+        },
+        {
+          "issn": "1600-0501",
+          "registryName": "Clinical Oral Implants Research",
+          "registryIssns": [
+            "0905-7161",
+            "1600-0501"
+          ],
+          "verified": true,
+          "source": "https://api.crossref.org/journals/1600-0501"
+        }
+      ]
+    },
+    {
+      "id": "jcp",
+      "name": "Journal of Clinical Periodontology",
+      "verified": true,
+      "checks": [
+        {
+          "issn": "0303-6979",
+          "registryName": "Journal Of Clinical Periodontology",
+          "registryIssns": [
+            "0303-6979",
+            "1600-051X"
+          ],
+          "verified": true,
+          "source": "https://api.crossref.org/journals/0303-6979"
+        },
+        {
+          "issn": "1600-051X",
+          "registryName": "Journal Of Clinical Periodontology",
+          "registryIssns": [
+            "0303-6979",
+            "1600-051X"
+          ],
+          "verified": true,
+          "source": "https://api.crossref.org/journals/1600-051X"
+        }
+      ]
+    },
+    {
+      "id": "p2000",
+      "name": "Periodontology 2000",
+      "verified": true,
+      "checks": [
+        {
+          "issn": "0906-6713",
+          "registryName": "Periodontology 2000",
+          "registryIssns": [
+            "0906-6713",
+            "1600-0757"
+          ],
+          "verified": true,
+          "source": "https://api.crossref.org/journals/0906-6713"
+        },
+        {
+          "issn": "1600-0757",
+          "registryName": "Periodontology 2000",
+          "registryIssns": [
+            "0906-6713",
+            "1600-0757"
+          ],
+          "verified": true,
+          "source": "https://api.crossref.org/journals/1600-0757"
+        }
+      ]
+    }
+  ],
+  "retainedCount": 0,
+  "activated": false
+}

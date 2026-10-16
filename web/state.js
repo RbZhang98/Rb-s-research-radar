@@ -1,0 +1,2 @@
+export const defaultFilter=radar=>({period:'30',journal:'',topic:'',grade:radar==='clinical'?'':'recommended',pending:false,search:'',start:'',end:''});
+export function createRadarState(){const values={basic:defaultFilter('basic'),clinical:defaultFilter('clinical')};return {get:radar=>structuredClone(values[radar]),set:(radar,patch)=>{if(!values[radar])throw Error('未知 Radar');values[radar]={...values[radar],...patch};}};}

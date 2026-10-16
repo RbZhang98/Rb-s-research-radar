@@ -1,14 +1,139 @@
 {
- "version":"1.0",
- "topics": {
-  "A 牙周炎与牙槽骨吸收":["periodontitis","periodontal inflammation","alveolar bone loss","alveolar bone resorption","periodontal disease"],
-  "B 骨代谢与骨重塑":["osteoblast","osteoclast","osteogenesis","osteogenic","bone remodeling","bone remodelling","bone metabolism","osteoporosis","bone formation","bone resorption","osteocyte","skeletal stem"],
-  "C 骨与牙周组织再生":["bone regeneration","periodontal regeneration","bone repair","bone healing","periodontal ligament","mesenchymal stem","mesenchymal stromal","skeletal regeneration"],
-  "D 骨免疫与炎症微环境":["osteoimmun","bone marrow niche","skeletal inflammation"],
-  "E 可迁移基础发现与技术":["stem cell","tissue regeneration","tissue repair","spatial transcriptom","single-cell","mechanotransduction","senescence","organoid"]
- },
- "bone_context":["bone","skeletal","periodontal","periodontitis","osteoblast","osteoclast","osteocyte","osteogenic","osteogenesis"],
- "immune_context":["macrophage","immune","inflamm","lymphocyte","neutrophil","cytokine"],
- "mechanism":["signaling","signalling","pathway","regulat","receptor","mechanism","transcription","lineage","differentiation"],
- "thresholds":{"A":8,"B":3}
+  "version": "2.0",
+  "topics": {
+    "A 牙周炎与牙槽骨吸收": [
+      "periodontitis",
+      "periodontal inflammation",
+      "alveolar bone loss",
+      "alveolar bone resorption",
+      "periodontal disease"
+    ],
+    "B 骨代谢与骨重塑": [
+      "osteoblast",
+      "osteoclast",
+      "osteogenesis",
+      "osteogenic",
+      "bone remodeling",
+      "bone remodelling",
+      "bone metabolism",
+      "osteoporosis",
+      "bone formation",
+      "bone resorption",
+      "osteocyte",
+      "skeletal stem"
+    ],
+    "C 骨与牙周组织再生": [
+      "bone regeneration",
+      "periodontal regeneration",
+      "bone repair",
+      "bone healing",
+      "periodontal ligament",
+      "mesenchymal stem",
+      "mesenchymal stromal",
+      "skeletal regeneration"
+    ],
+    "D 骨免疫与炎症微环境": [
+      "osteoimmun",
+      "bone marrow niche",
+      "skeletal inflammation"
+    ],
+    "E 可迁移基础发现与技术": [
+      "stem cell",
+      "tissue regeneration",
+      "tissue repair",
+      "spatial transcriptom",
+      "single-cell",
+      "mechanotransduction",
+      "senescence",
+      "organoid"
+    ],
+    "F 跨领域启发性发现": [
+      "ligand spacing",
+      "inter-ligand distance",
+      "interligand distance",
+      "molecular dimensions",
+      "protein size",
+      "steric hindrance",
+      "spatial presentation",
+      "receptor clustering",
+      "integrin clustering",
+      "mechanotransduction",
+      "substrate stiffness",
+      "matrix elasticity",
+      "viscoelasticity",
+      "nanotopography",
+      "focal adhesion",
+      "cell-matrix interactions",
+      "cell matrix interactions",
+      "cell geometry",
+      "cell confinement",
+      "morphogen gradient",
+      "growth factor presentation",
+      "YAP/TAZ",
+      "Piezo1",
+      "FAK",
+      "cytoskeletal tension"
+    ]
+  },
+  "bone_context": [
+    "bone",
+    "skeletal",
+    "periodontal",
+    "periodontitis",
+    "osteoblast",
+    "osteoclast",
+    "osteocyte",
+    "osteogenic",
+    "osteogenesis"
+  ],
+  "immune_context": [
+    "macrophage",
+    "immune",
+    "inflamm",
+    "lymphocyte",
+    "neutrophil",
+    "cytokine"
+  ],
+  "mechanism": [
+    "signaling",
+    "signalling",
+    "pathway",
+    "regulat",
+    "receptor",
+    "mechanism",
+    "transcription",
+    "lineage",
+    "differentiation"
+  ],
+  "thresholds": {
+    "A": 8,
+    "B": 3
+  },
+  "transfer_mechanisms": [
+    "ligand spacing",
+    "inter-ligand distance",
+    "interligand distance",
+    "molecular dimensions",
+    "protein size",
+    "steric hindrance",
+    "spatial presentation",
+    "receptor clustering",
+    "integrin clustering",
+    "mechanotransduction",
+    "substrate stiffness",
+    "matrix elasticity",
+    "viscoelasticity",
+    "nanotopography",
+    "focal adhesion",
+    "cell-matrix interactions",
+    "cell matrix interactions",
+    "cell geometry",
+    "cell confinement",
+    "morphogen gradient",
+    "growth factor presentation",
+    "YAP/TAZ",
+    "Piezo1",
+    "FAK",
+    "cytoskeletal tension"
+  ]
 }
