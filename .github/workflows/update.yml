@@ -1,7 +1,7 @@
 name: Update Research Radar
 on:
   schedule:
-    - cron: '0 0 * * *' # 08:00 Asia/Shanghai; GitHub may delay scheduled jobs
+    - cron: '0 0 * * *'
   workflow_dispatch:
   push:
     branches: [main]
@@ -9,46 +9,62 @@ permissions:
   contents: write
   pages: write
   id-token: write
+# Same group as 1.0: queued old/new/manual/scheduled runs cannot write in parallel.
 concurrency:
   group: research-radar-pages
   cancel-in-progress: false
 jobs:
   collect-build:
+    if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
     outputs:
-      collector: ${{ steps.collect.outcome }}
+      basic: ${{ steps.basic.outcome }}
+      clinical: ${{ steps.clinical.outcome }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
+          cache: npm
+      - run: npm ci
       - uses: actions/cache@v4
         with:
           path: .cache
           key: radar-api-${{ github.run_id }}
           restore-keys: radar-api-
-      - name: Test
+      - name: Tests before production mutation
         run: npm test
-      - name: Collect rolling 14-day window
-        id: collect
+      - name: Activate accumulation once (production main only)
+        run: python scripts/activate_v2.py
+      - name: Basic metadata and retention
+        id: basic
         continue-on-error: true
-        run: python scripts/radar.py
-      - name: Persist history and failure status
+        run: python scripts/radar.py --radar basic
+      - name: Clinical metadata and retention
+        id: clinical
+        continue-on-error: true
+        run: python scripts/radar.py --radar clinical
+      - name: Persist public history once, before deployment
         run: |
           git config user.name 'research-radar[bot]'
           git config user.email 'research-radar[bot]@users.noreply.github.com'
-          git add data reports/last-run.json
+          git add data reports/last-run.json reports/clinical-last-run.json
           if ! git diff --cached --quiet; then
-            git commit -m 'data: refresh metadata and source status'
-            git fetch origin main
-            git rebase origin/main
-            git push origin HEAD:main
+            git commit -m 'data: refresh independent Radar histories and indexes'
+            for attempt in 1 2 3; do
+              git fetch origin main
+              git rebase origin/main || { git rebase --abort; exit 1; }
+              if git push origin HEAD:main; then break; fi
+              if [ "$attempt" = 3 ]; then exit 1; fi
+            done
           fi
-      - name: Production build
-        run: npm run build
+      - run: npm run build
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
@@ -60,11 +76,8 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
-      - name: Deploy Pages
+      - uses: actions/deploy-pages@v4
         id: deployment
-        uses: actions/deploy-pages@v4
-      - name: Fail run if metadata collection was incomplete
-        if: needs.collect-build.outputs.collector != 'success'
-        run: |
-          echo 'Published saved history and visible failure status, but metadata collection was incomplete.'
-          exit 1
+      - name: Incomplete collection is a failed update, even when failure status was published
+        if: needs.collect-build.outputs.basic != 'success' || needs.collect-build.outputs.clinical != 'success'
+        run: exit 1
