@@ -1,7 +1,7 @@
 {
   "version": 2,
   "migratedAt": "2026-10-16T13:45:48.802352+00:00",
-  "launchDate": null,
+  "launchDate": "2026-10-16",
   "snapshotSHA256": "f625bba41d9ff26541417b2b317fe4fd6a6c91e74187d8d9c59241d6546f402f",
   "snapshotCount": 1972,
   "seedIds": [
@@ -22,5 +22,6 @@
     "10.1093/jbmr/zjag138",
     "10.1038/s41413-026-00585-7"
   ],
-  "backup": "backups/v1-articles-2026-10-16.json.gz"
+  "backup": "backups/v1-articles-2026-10-16.json.gz",
+  "activatedAt": "2026-10-16T14:22:29.247234+00:00"
 }

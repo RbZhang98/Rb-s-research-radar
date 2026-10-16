@@ -1,1 +1,134 @@
-[]
+[
+  {
+    "id": "10.1111/jcpe.70215",
+    "doi": "10.1111/jcpe.70215",
+    "title": "Intraoral Ultrasonography for Mid‐Buccal Probing Depth Assessment: A Proof‐of‐Concept Clinical Agreement Study",
+    "abstract": "ABSTRACT Aim To evaluate the agreement between ultrasound‐derived gingival sulcus depth ( uGSD ) and clinical probing depth ( PD ) at standardised mid‐buccal sites as a proof‐of‐concept study. Materials and Methods Mid‐buccal measurements were obtained from 963 sites in 69 participants (767 anterior, 127 premolars, 69 first molars) using an 18‐MHz ultrasound transducer and a UNC‐15 probe. uGSD was measured on B‐mode images; reliability was assessed by two trained examiners. Agreement was evaluated using intra‐class correlation coefficient (ICC), Bland–Altman analysis and mean absolute error (MAE). Generalised estimating equations and clustered ICCs accounted for within‐patient clustering. Subgroups included PD strata, bleeding, tooth type, calculus, restorations (prosthetic crowns/orthodontic attachments) and smoking. Results Ultrasound measurements showed high reliability (ICCs > 0.90). Agreement between uGSD and clinical PD was strong (ICC = 0.942; 95% CI: 0.935–0.949), with negligible mean difference (+0.023 mm) and low MAE (0.29 ± 0.32 mm). Subgroup ICCs ranged from 0.786 to 0.952; 85.0% of sites differed by ≤ 0.50 mm and 96.7% by ≤ 1.00 mm. Molar sites showed the highest MAE (0.38 mm) and slight underestimation (−0.123 mm). Conclusion Intraoral ultrasonography showed high agreement with clinical PD at standardised mid‐buccal sites in anterior teeth, premolars and first molars. It may serve as a non‐invasive adjunct to conventional probing; however, broader studies are needed across complex sites and examiner experience levels.",
+    "journal": "Journal of Clinical Periodontology",
+    "journalId": "jcp",
+    "date": "2026-10-16",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1111/jcpe.70215",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1111/jcpe.70215"
+    },
+    "onlineDate": "2026-10-16",
+    "onlineDatePrecision": "day",
+    "authors": [
+      {
+        "name": "Sefa Aydindogan",
+        "affiliations": [
+          "Department of Periodontology, Faculty of Dentistry Selcuk University Konya Turkiye"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Metehan Ozdemir",
+        "affiliations": [
+          "Department of Periodontology, Faculty of Dentistry Selcuk University Konya Turkiye"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Yunus Emre Balaban",
+        "affiliations": [
+          "Department of Periodontology, Faculty of Dentistry Selcuk University Konya Turkiye"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Elif Mutafcılar Velioğlu",
+        "affiliations": [
+          "Department of Periodontology, Faculty of Dentistry Selcuk University Konya Turkiye"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Sema S. Hakki",
+        "affiliations": [
+          "Department of Periodontology, Faculty of Dentistry Selcuk University Konya Turkiye"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Kaan Orhan",
+        "affiliations": [
+          "Department of Radiology, Faculty of Dentistry Ankara University Ankara Turkiye"
+        ],
+        "source": "Crossref"
+      }
+    ],
+    "publicationTypes": [
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Sefa Aydindogan",
+            "affiliations": [
+              "Department of Periodontology, Faculty of Dentistry Selcuk University Konya Turkiye"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Metehan Ozdemir",
+            "affiliations": [
+              "Department of Periodontology, Faculty of Dentistry Selcuk University Konya Turkiye"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Yunus Emre Balaban",
+            "affiliations": [
+              "Department of Periodontology, Faculty of Dentistry Selcuk University Konya Turkiye"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Elif Mutafcılar Velioğlu",
+            "affiliations": [
+              "Department of Periodontology, Faculty of Dentistry Selcuk University Konya Turkiye"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Sema S. Hakki",
+            "affiliations": [
+              "Department of Periodontology, Faculty of Dentistry Selcuk University Konya Turkiye"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Kaan Orhan",
+            "affiliations": [
+              "Department of Radiology, Faculty of Dentistry Ankara University Ankara Turkiye"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "grade": "B",
+    "score": 5,
+    "topics": [
+      "种植修复",
+      "牙周治疗"
+    ],
+    "pending": true,
+    "studyType": "研究类型待确认",
+    "studyTypeEvidence": {},
+    "evidence": {},
+    "reason": "临床独立规则：研究类型待确认。类型由词组初筛或信息不足，待确认；优先级不等同于研究质量评价。",
+    "rulesVersion": "2.0",
+    "firstSeenAt": "2026-10-16T14:22:36.632101+00:00",
+    "lastSeenAt": "2026-10-16T14:22:36.632101+00:00",
+    "discoveryKind": "new"
+  }
+]

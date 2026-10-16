@@ -48,7 +48,66 @@
       "pending": false
     },
     "firstSeenAt": null,
-    "discoveryKind": "legacy-seed"
+    "discoveryKind": "legacy-seed",
+    "onlineDate": "2026-10-15",
+    "onlineDatePrecision": "day",
+    "authors": [
+      {
+        "name": "Qiaojie Chen",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Haijun Zhang",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Yang Chen",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Bo Zhang",
+        "affiliations": [],
+        "source": "Crossref"
+      }
+    ],
+    "publicationTypes": [
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Qiaojie Chen",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Haijun Zhang",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Yang Chen",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Bo Zhang",
+            "affiliations": [],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "inspirationScore": 0,
+    "transferMechanisms": [],
+    "evidenceScope": "直接领域词汇证据"
   },
   {
     "id": "10.1177/00220345261488338",
@@ -124,7 +183,110 @@
       "pending": false
     },
     "firstSeenAt": null,
-    "discoveryKind": "legacy-seed"
+    "discoveryKind": "legacy-seed",
+    "onlineDate": "2026-10-14",
+    "onlineDatePrecision": "day",
+    "authors": [
+      {
+        "name": "N. Werner",
+        "affiliations": [
+          "Department of Conservative Dentistry, Periodontology and Digital Dentistry, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "V. Pitchika",
+        "affiliations": [
+          "Department of Conservative Dentistry, Periodontology and Digital Dentistry, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "C.V. Bumm",
+        "affiliations": [
+          "Department of Conservative Dentistry, Periodontology and Digital Dentistry, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "K. Heck",
+        "affiliations": [
+          "Department of Conservative Dentistry, Periodontology and Digital Dentistry, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "M. Folwaczny",
+        "affiliations": [
+          "Department of Conservative Dentistry, Periodontology and Digital Dentistry, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "F. Schwendicke",
+        "affiliations": [
+          "Department of Conservative Dentistry, Periodontology and Digital Dentistry, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany"
+        ],
+        "source": "Crossref"
+      }
+    ],
+    "publicationTypes": [
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "N. Werner",
+            "affiliations": [
+              "Department of Conservative Dentistry, Periodontology and Digital Dentistry, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "V. Pitchika",
+            "affiliations": [
+              "Department of Conservative Dentistry, Periodontology and Digital Dentistry, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "C.V. Bumm",
+            "affiliations": [
+              "Department of Conservative Dentistry, Periodontology and Digital Dentistry, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "K. Heck",
+            "affiliations": [
+              "Department of Conservative Dentistry, Periodontology and Digital Dentistry, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "M. Folwaczny",
+            "affiliations": [
+              "Department of Conservative Dentistry, Periodontology and Digital Dentistry, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "F. Schwendicke",
+            "affiliations": [
+              "Department of Conservative Dentistry, Periodontology and Digital Dentistry, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "inspirationScore": 0,
+    "transferMechanisms": [],
+    "evidenceScope": "直接领域词汇证据"
   },
   {
     "id": "10.1177/00220345261479223",
@@ -206,7 +368,96 @@
       "pending": false
     },
     "firstSeenAt": null,
-    "discoveryKind": "legacy-seed"
+    "discoveryKind": "legacy-seed",
+    "onlineDate": "2026-10-12",
+    "onlineDatePrecision": "day",
+    "authors": [
+      {
+        "name": "C. Zhan",
+        "affiliations": [
+          "Division of Paediatric Dentistry & Orthodontics, Faculty of Dentistry, the University of Hong Kong, Hong Kong SAR, China"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "M. Huang",
+        "affiliations": [
+          "Division of Restorative Dental Sciences, Faculty of Dentistry, the University of Hong Kong, Hong Kong SAR, China"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Q. Dai",
+        "affiliations": [
+          "Division of Paediatric Dentistry & Orthodontics, Faculty of Dentistry, the University of Hong Kong, Hong Kong SAR, China"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "L. Jin",
+        "affiliations": [
+          "Division of Periodontology and Implant Dentistry, Faculty of Dentistry, the University of Hong Kong, Hong Kong SAR, China"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Y. Lin",
+        "affiliations": [
+          "Division of Paediatric Dentistry & Orthodontics, Faculty of Dentistry, the University of Hong Kong, Hong Kong SAR, China"
+        ],
+        "source": "Crossref"
+      }
+    ],
+    "publicationTypes": [
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "C. Zhan",
+            "affiliations": [
+              "Division of Paediatric Dentistry & Orthodontics, Faculty of Dentistry, the University of Hong Kong, Hong Kong SAR, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "M. Huang",
+            "affiliations": [
+              "Division of Restorative Dental Sciences, Faculty of Dentistry, the University of Hong Kong, Hong Kong SAR, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Q. Dai",
+            "affiliations": [
+              "Division of Paediatric Dentistry & Orthodontics, Faculty of Dentistry, the University of Hong Kong, Hong Kong SAR, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "L. Jin",
+            "affiliations": [
+              "Division of Periodontology and Implant Dentistry, Faculty of Dentistry, the University of Hong Kong, Hong Kong SAR, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Y. Lin",
+            "affiliations": [
+              "Division of Paediatric Dentistry & Orthodontics, Faculty of Dentistry, the University of Hong Kong, Hong Kong SAR, China"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "inspirationScore": 0,
+    "transferMechanisms": [],
+    "evidenceScope": "直接领域词汇证据"
   },
   {
     "id": "10.1038/s41413-026-00565-x",
@@ -270,7 +521,166 @@
       "pending": false
     },
     "firstSeenAt": null,
-    "discoveryKind": "legacy-seed"
+    "discoveryKind": "legacy-seed",
+    "onlineDate": "2026-10-12",
+    "onlineDatePrecision": "day",
+    "authors": [
+      {
+        "name": "Xi Chen",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Xin Li",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Zenghui Gu",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Qi Lu",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Xinyu Qian",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Yier Fan",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Ke Deng",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Shanshan Li",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Zhe Wei",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Yang Xu",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Wenzhen Fu",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Hou-Feng Zheng",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Weiwei Hu",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Zhenlin Zhang",
+        "affiliations": [],
+        "source": "Crossref"
+      }
+    ],
+    "publicationTypes": [
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Xi Chen",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Xin Li",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Zenghui Gu",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Qi Lu",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Xinyu Qian",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Yier Fan",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Ke Deng",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Shanshan Li",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Zhe Wei",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Yang Xu",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Wenzhen Fu",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Hou-Feng Zheng",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Weiwei Hu",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Zhenlin Zhang",
+            "affiliations": [],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "inspirationScore": 0,
+    "transferMechanisms": [],
+    "evidenceScope": "直接领域词汇证据"
   },
   {
     "id": "10.1111/jcpe.70206",
@@ -323,7 +733,98 @@
       "pending": false
     },
     "firstSeenAt": null,
-    "discoveryKind": "legacy-seed"
+    "discoveryKind": "legacy-seed",
+    "onlineDate": "2026-10-11",
+    "onlineDatePrecision": "day",
+    "authors": [
+      {
+        "name": "Aysegul Sarı",
+        "affiliations": [
+          "Department of Periodontology, Faculty of Dentistry Hatay Mustafa Kemal University Hatay Turkey",
+          "Periodontology Unit, Centre for Host‐Microbiome Interactions King's College London Dental Institute London UK"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Oguzhan Ozcan",
+        "affiliations": [
+          "Department of Biochemistry, Faculty of Medicine Mustafa Kemal University Hatay Turkey"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Filiz Kaçmaz",
+        "affiliations": [
+          "Department of Molecular Biochemistry and Genetics Health Science Institute, Mustafa Kemal University Hatay Turkey"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Anton Sculean",
+        "affiliations": [
+          "Department of Periodontology, School of Dental Medicine University of Bern Bern Switzerland"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Alpdogan Kantarci",
+        "affiliations": [
+          "School of Dentistry University of Minnesota Minneapolis Minnesota USA"
+        ],
+        "source": "Crossref"
+      }
+    ],
+    "publicationTypes": [
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Aysegul Sarı",
+            "affiliations": [
+              "Department of Periodontology, Faculty of Dentistry Hatay Mustafa Kemal University Hatay Turkey",
+              "Periodontology Unit, Centre for Host‐Microbiome Interactions King's College London Dental Institute London UK"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Oguzhan Ozcan",
+            "affiliations": [
+              "Department of Biochemistry, Faculty of Medicine Mustafa Kemal University Hatay Turkey"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Filiz Kaçmaz",
+            "affiliations": [
+              "Department of Molecular Biochemistry and Genetics Health Science Institute, Mustafa Kemal University Hatay Turkey"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Anton Sculean",
+            "affiliations": [
+              "Department of Periodontology, School of Dental Medicine University of Bern Bern Switzerland"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Alpdogan Kantarci",
+            "affiliations": [
+              "School of Dentistry University of Minnesota Minneapolis Minnesota USA"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "inspirationScore": 0,
+    "transferMechanisms": [],
+    "evidenceScope": "直接领域词汇证据"
   },
   {
     "id": "10.1038/s41467-026-77654-2",
