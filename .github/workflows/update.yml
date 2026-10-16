@@ -43,6 +43,8 @@ jobs:
           git add data reports/last-run.json
           if ! git diff --cached --quiet; then
             git commit -m 'data: refresh metadata and source status'
+            git fetch origin main
+            git rebase origin/main
             git push origin HEAD:main
           fi
       - name: Production build
