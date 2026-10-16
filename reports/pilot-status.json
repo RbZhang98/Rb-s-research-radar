@@ -1,0 +1,147 @@
+{
+  "attemptAt": "2026-10-16T09:48:54.054691+00:00",
+  "lastSuccess": null,
+  "fetchOk": true,
+  "publication": "local-unpublished",
+  "window": {
+    "start": "2026-09-16",
+    "end": "2026-10-16"
+  },
+  "newCount": 4,
+  "newIds": [
+    "10.1038/s41413-026-00567-9",
+    "10.1038/s41413-026-00559-9",
+    "10.1038/s41413-026-00585-7",
+    "10.1038/s41413-026-00575-9"
+  ],
+  "total": 1283,
+  "journals": [
+    {
+      "id": "nature",
+      "name": "Nature",
+      "ok": true,
+      "lastSuccess": "2026-10-16T09:48:54.054691+00:00",
+      "sources": [
+        {
+          "journalId": "nature",
+          "source": "Europe PMC",
+          "ok": true,
+          "count": 200,
+          "finishedAt": "2026-10-16T09:48:54.089173+00:00",
+          "seconds": 0.02,
+          "rejected": 0,
+          "query": "(ISSN:0028-0836 OR ISSN:1476-4687) AND FIRST_PDATE:[2026-09-16 TO 2026-10-16]"
+        },
+        {
+          "journalId": "nature",
+          "source": "Crossref",
+          "ok": true,
+          "count": 422,
+          "finishedAt": "2026-10-16T09:48:54.161546+00:00",
+          "seconds": 0.09,
+          "rejected": 0,
+          "query": "ISSN 0028-0836, publication 2026-09-16..2026-10-16"
+        }
+      ],
+      "total": 423,
+      "missingAbstract": 327,
+      "bothSources": 199
+    },
+    {
+      "id": "nature-communications",
+      "name": "Nature Communications",
+      "ok": true,
+      "lastSuccess": "2026-10-16T09:48:54.054691+00:00",
+      "sources": [
+        {
+          "journalId": "nature-communications",
+          "source": "Europe PMC",
+          "ok": true,
+          "count": 120,
+          "finishedAt": "2026-10-16T09:48:54.150025+00:00",
+          "seconds": 0.09,
+          "rejected": 0,
+          "query": "(ISSN:2041-1723) AND FIRST_PDATE:[2026-09-16 TO 2026-10-16]"
+        },
+        {
+          "journalId": "nature-communications",
+          "source": "Crossref",
+          "ok": true,
+          "count": 855,
+          "finishedAt": "2026-10-16T09:48:54.313414+00:00",
+          "seconds": 0.23,
+          "rejected": 0,
+          "query": "ISSN 2041-1723, publication 2026-09-16..2026-10-16"
+        }
+      ],
+      "total": 856,
+      "missingAbstract": 485,
+      "bothSources": 119
+    },
+    {
+      "id": "bone-research",
+      "name": "Bone Research",
+      "ok": true,
+      "lastSuccess": "2026-10-16T09:48:54.054691+00:00",
+      "sources": [
+        {
+          "journalId": "bone-research",
+          "source": "Crossref",
+          "ok": true,
+          "count": 0,
+          "finishedAt": "2026-10-16T09:49:00.031299+00:00",
+          "seconds": 5.87,
+          "rejected": 0,
+          "query": "ISSN 2095-4700, publication 2026-09-16..2026-10-16"
+        },
+        {
+          "journalId": "bone-research",
+          "source": "Europe PMC",
+          "ok": true,
+          "count": 4,
+          "finishedAt": "2026-10-16T09:49:03.390486+00:00",
+          "seconds": 9.23,
+          "rejected": 0,
+          "query": "(ISSN:2095-4700 OR ISSN:2095-6231) AND FIRST_PDATE:[2026-09-16 TO 2026-10-16]"
+        }
+      ],
+      "total": 4,
+      "missingAbstract": 0,
+      "bothSources": 0
+    }
+  ],
+  "verification": [
+    {
+      "id": "nature",
+      "name": "Nature",
+      "registryName": "Nature",
+      "issns": [
+        "0028-0836",
+        "1476-4687"
+      ],
+      "verified": true,
+      "source": "https://api.crossref.org/journals/0028-0836"
+    },
+    {
+      "id": "nature-communications",
+      "name": "Nature Communications",
+      "registryName": "Nature Communications",
+      "issns": [
+        "2041-1723"
+      ],
+      "verified": true,
+      "source": "https://api.crossref.org/journals/2041-1723"
+    },
+    {
+      "id": "bone-research",
+      "name": "Bone Research",
+      "registryName": "Bone Research",
+      "issns": [
+        "2095-4700",
+        "2095-6231"
+      ],
+      "verified": true,
+      "source": "https://api.crossref.org/journals/2095-4700"
+    }
+  ]
+}

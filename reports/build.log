@@ -1,0 +1,7 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> research-radar@1.0.0 build
+> python scripts/build.py && python scripts/check_build.py
+
+Production build ready: dist/
+Production integrity PASS: 1957 records, 14 journals; assets, DOM IDs, DOI uniqueness, metadata fields and grade safeguards valid.

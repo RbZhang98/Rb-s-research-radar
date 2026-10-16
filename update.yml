@@ -1,0 +1,68 @@
+name: Update Research Radar
+on:
+  schedule:
+    - cron: '0 0 * * *' # 08:00 Asia/Shanghai; GitHub may delay scheduled jobs
+  workflow_dispatch:
+  push:
+    branches: [main]
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: research-radar-pages
+  cancel-in-progress: false
+jobs:
+  collect-build:
+    runs-on: ubuntu-latest
+    outputs:
+      collector: ${{ steps.collect.outcome }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/cache@v4
+        with:
+          path: .cache
+          key: radar-api-${{ github.run_id }}
+          restore-keys: radar-api-
+      - name: Test
+        run: npm test
+      - name: Collect rolling 14-day window
+        id: collect
+        continue-on-error: true
+        run: python scripts/radar.py
+      - name: Persist history and failure status
+        run: |
+          git config user.name 'research-radar[bot]'
+          git config user.email 'research-radar[bot]@users.noreply.github.com'
+          git add data reports/last-run.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'data: refresh metadata and source status'
+            git push origin HEAD:main
+          fi
+      - name: Production build
+        run: npm run build
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+  deploy:
+    needs: collect-build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+      - name: Fail run if metadata collection was incomplete
+        if: needs.collect-build.outputs.collector != 'success'
+        run: |
+          echo 'Published saved history and visible failure status, but metadata collection was incomplete.'
+          exit 1

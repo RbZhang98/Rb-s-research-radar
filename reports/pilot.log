@@ -1,0 +1,7 @@
+{"journalId": "nature", "source": "Europe PMC", "ok": true, "count": 200, "finishedAt": "2026-10-16T09:48:54.089173+00:00", "seconds": 0.02, "rejected": 0, "query": "(ISSN:0028-0836 OR ISSN:1476-4687) AND FIRST_PDATE:[2026-09-16 TO 2026-10-16]"}
+{"journalId": "nature-communications", "source": "Europe PMC", "ok": true, "count": 120, "finishedAt": "2026-10-16T09:48:54.150025+00:00", "seconds": 0.09, "rejected": 0, "query": "(ISSN:2041-1723) AND FIRST_PDATE:[2026-09-16 TO 2026-10-16]"}
+{"journalId": "nature", "source": "Crossref", "ok": true, "count": 422, "finishedAt": "2026-10-16T09:48:54.161546+00:00", "seconds": 0.09, "rejected": 0, "query": "ISSN 0028-0836, publication 2026-09-16..2026-10-16"}
+{"journalId": "nature-communications", "source": "Crossref", "ok": true, "count": 855, "finishedAt": "2026-10-16T09:48:54.313414+00:00", "seconds": 0.23, "rejected": 0, "query": "ISSN 2041-1723, publication 2026-09-16..2026-10-16"}
+{"journalId": "bone-research", "source": "Crossref", "ok": true, "count": 0, "finishedAt": "2026-10-16T09:49:00.031299+00:00", "seconds": 5.87, "rejected": 0, "query": "ISSN 2095-4700, publication 2026-09-16..2026-10-16"}
+{"journalId": "bone-research", "source": "Europe PMC", "ok": true, "count": 4, "finishedAt": "2026-10-16T09:49:03.390486+00:00", "seconds": 9.23, "rejected": 0, "query": "(ISSN:2095-4700 OR ISSN:2095-6231) AND FIRST_PDATE:[2026-09-16 TO 2026-10-16]"}
+TOTAL=1283 NEW=4 JOURNALS_OK=3/3

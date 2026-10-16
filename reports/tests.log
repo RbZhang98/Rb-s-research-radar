@@ -1,0 +1,41 @@
+npm warn Unknown env config "http-proxy". This will stop working in the next major version of npm.
+
+> research-radar@1.0.0 test
+> python -m unittest discover -s tests -v && node --test tests/filter.test.js
+
+test_encoded_tags_cleaned (test_radar.MarrowSpecificityTests.test_encoded_tags_cleaned) ... ok
+test_generic_bone_marrow_immune_not_high (test_radar.MarrowSpecificityTests.test_generic_bone_marrow_immune_not_high) ... ok
+test_crossref_issn_and_date_guard (test_radar.MetadataTests.test_crossref_issn_and_date_guard) ... ok
+test_dates (test_radar.MetadataTests.test_dates) ... ok
+test_doi_normalization (test_radar.MetadataTests.test_doi_normalization) ... ok
+test_epmc_pagination_and_issn_rejection (test_radar.MetadataTests.test_epmc_pagination_and_issn_rejection) ... ok
+test_generic_inflammation_is_not_recommended (test_radar.MetadataTests.test_generic_inflammation_is_not_recommended) ... ok
+test_http_retry_and_cache (test_radar.MetadataTests.test_http_retry_and_cache) ... ok
+test_jats_clean (test_radar.MetadataTests.test_jats_clean) ... ok
+test_merge_enrichment (test_radar.MetadataTests.test_merge_enrichment) ... ok
+test_missing_abstract_not_A (test_radar.MetadataTests.test_missing_abstract_not_A) ... ok
+test_nano_does_not_imply_relevance (test_radar.MetadataTests.test_nano_does_not_imply_relevance) ... ok
+test_specific_bone_mechanism (test_radar.MetadataTests.test_specific_bone_mechanism) ... ok
+test_stem_only_pending (test_radar.MetadataTests.test_stem_only_pending) ... ok
+test_correction_is_archive (test_radar.NoticeTests.test_correction_is_archive) ... ok
+test_crossref_queries_all_issns (test_radar.NoticeTests.test_crossref_queries_all_issns) ... ok
+
+----------------------------------------------------------------------
+Ran 16 tests in 0.006s
+
+OK
+✔ seven day vs all history (14.731104ms)
+✔ search includes abstract and DOI (0.512421ms)
+✔ combine journal, topic, grade and pending (0.237388ms)
+✔ custom date includes both boundaries (0.19967ms)
+✔ recommended excludes archive (0.276156ms)
+✔ A first without mutating input (0.783268ms)
+✔ empty search has results; impossible filter is empty (1.434999ms)
+ℹ tests 7
+ℹ suites 0
+ℹ pass 7
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 102.311635

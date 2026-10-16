@@ -1,0 +1,12 @@
+{
+  "name": "research-radar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "python scripts/build.py && python scripts/check_build.py",
+    "test": "python -m unittest discover -s tests -v && node --test tests/filter.test.js",
+    "collect": "python scripts/radar.py",
+    "preview": "python -m http.server 4173 --directory dist"
+  }
+}

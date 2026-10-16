@@ -1,0 +1,110 @@
+[
+  {
+    "id": "nature",
+    "name": "Nature",
+    "issns": [
+      "0028-0836",
+      "1476-4687"
+    ]
+  },
+  {
+    "id": "science",
+    "name": "Science",
+    "issns": [
+      "0036-8075",
+      "1095-9203"
+    ]
+  },
+  {
+    "id": "cell",
+    "name": "Cell",
+    "issns": [
+      "0092-8674",
+      "1097-4172"
+    ]
+  },
+  {
+    "id": "nature-medicine",
+    "name": "Nature Medicine",
+    "issns": [
+      "1078-8956",
+      "1546-170X"
+    ]
+  },
+  {
+    "id": "nature-biomedical-engineering",
+    "name": "Nature Biomedical Engineering",
+    "issns": [
+      "2157-846X"
+    ]
+  },
+  {
+    "id": "nature-materials",
+    "name": "Nature Materials",
+    "issns": [
+      "1476-1122",
+      "1476-4660"
+    ]
+  },
+  {
+    "id": "nature-communications",
+    "name": "Nature Communications",
+    "issns": [
+      "2041-1723"
+    ]
+  },
+  {
+    "id": "cell-stem-cell",
+    "name": "Cell Stem Cell",
+    "issns": [
+      "1934-5909",
+      "1875-9777"
+    ]
+  },
+  {
+    "id": "cell-reports-medicine",
+    "name": "Cell Reports Medicine",
+    "issns": [
+      "2666-3791"
+    ]
+  },
+  {
+    "id": "cell-reports",
+    "name": "Cell Reports",
+    "issns": [
+      "2211-1247"
+    ]
+  },
+  {
+    "id": "bone-research",
+    "name": "Bone Research",
+    "issns": [
+      "2095-4700",
+      "2095-6231"
+    ]
+  },
+  {
+    "id": "jbmr",
+    "name": "Journal of Bone and Mineral Research",
+    "issns": [
+      "0884-0431",
+      "1523-4681"
+    ]
+  },
+  {
+    "id": "jdr",
+    "name": "Journal of Dental Research",
+    "issns": [
+      "0022-0345",
+      "1544-0591"
+    ]
+  },
+  {
+    "id": "jcp",
+    "name": "Journal of Clinical Periodontology",
+    "issns": [
+      "0303-6979",
+      "1600-051X"
+    ]
+  }
+]

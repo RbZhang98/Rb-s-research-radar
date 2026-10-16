@@ -1,0 +1,10 @@
+import test from 'node:test';import assert from 'node:assert/strict';import {filterArticles,sortArticles} from '../web/filter.js';
+const rows=[{id:1,title:'Bone formation',abstract:'Osteoblast pathway',doi:'10.1/a',journalId:'nature',date:'2026-10-16',grade:'A',topics:['bone'],pending:false,score:9},{id:2,title:'Stem cell',abstract:'Tissue repair',doi:'10.1/b',journalId:'cell',date:'2026-10-02',grade:'B',topics:['repair'],pending:true,score:4},{id:3,title:'Macrophages',abstract:'Lung inflammation',doi:'10.1/c',journalId:'nature',date:'2026-09-01',grade:'C',topics:[],pending:false,score:0}];
+const now=new Date('2026-10-16T09:00:00Z');
+test('seven day vs all history',()=>{assert.equal(filterArticles(rows,{period:'7'},now).length,1);assert.equal(filterArticles(rows,{period:'all'},now).length,3)});
+test('search includes abstract and DOI',()=>{assert.equal(filterArticles(rows,{search:'osteoblast'},now)[0].id,1);assert.equal(filterArticles(rows,{search:'10.1/b'},now)[0].id,2)});
+test('combine journal, topic, grade and pending',()=>{assert.equal(filterArticles(rows,{journal:'cell',topic:'repair',grade:'B',pending:true},now)[0].id,2)});
+test('custom date includes both boundaries',()=>{assert.equal(filterArticles(rows,{period:'custom',start:'2026-10-02',end:'2026-10-16'},now).length,2)});
+test('recommended excludes archive',()=>{assert.equal(filterArticles(rows,{grade:'recommended'},now).length,2)});
+test('A first without mutating input',()=>{const reversed=[...rows].reverse();assert.equal(sortArticles(reversed)[0].id,1);assert.equal(reversed[0].id,3)});
+test('empty search has results; impossible filter is empty',()=>{assert.equal(filterArticles(rows,{search:'  '},now).length,3);assert.equal(filterArticles(rows,{journal:'missing'},now).length,0)});
