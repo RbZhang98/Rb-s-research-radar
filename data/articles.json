@@ -1,5 +1,238 @@
 [
   {
+    "id": "10.1038/s41467-026-78662-y",
+    "doi": "10.1038/s41467-026-78662-y",
+    "title": "Immune-stimulatory cytokine IL-18 induces inflammatory senescence and impairs stem cell-mediated experimental skeletal regeneration",
+    "abstract": "",
+    "journal": "Nature Communications",
+    "journalId": "nature-communications",
+    "date": "2026-10-16",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1038/s41467-026-78662-y",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1038/s41467-026-78662-y"
+    },
+    "onlineDate": "2026-10-16",
+    "onlineDatePrecision": "day",
+    "authors": [
+      {
+        "name": "Yangshuai Gao",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Liang Wang",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Yaokai Gan",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Qixuan Lin",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Shaokang Chen",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Mingheng Li",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Jiahan Chen",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Hang Shen",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Quan Zheng",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Dimitri Sokolowskei",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Robert J. Tower",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Minjun Huang",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Jiankun Xu",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Aaron W. James",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Xiaochun Bai",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Zhongmin Zhang",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Jiajia Xu",
+        "affiliations": [],
+        "source": "Crossref"
+      }
+    ],
+    "publicationTypes": [
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Yangshuai Gao",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Liang Wang",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Yaokai Gan",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Qixuan Lin",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Shaokang Chen",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Mingheng Li",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jiahan Chen",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Hang Shen",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Quan Zheng",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Dimitri Sokolowskei",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Robert J. Tower",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Minjun Huang",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jiankun Xu",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Aaron W. James",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Xiaochun Bai",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Zhongmin Zhang",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jiajia Xu",
+            "affiliations": [],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "grade": "B",
+    "score": 8,
+    "topics": [
+      "C 骨与牙周组织再生",
+      "E 可迁移基础发现与技术",
+      "D 骨免疫与炎症微环境"
+    ],
+    "pending": true,
+    "evidence": {
+      "C 骨与牙周组织再生": [
+        "skeletal regeneration"
+      ],
+      "E 可迁移基础发现与技术": [
+        "stem cell",
+        "senescence"
+      ],
+      "D 骨免疫与炎症微环境": [
+        "immune",
+        "inflamm",
+        "cytokine"
+      ]
+    },
+    "reason": "规则命中：skeletal regeneration；stem cell, senescence；immune, inflamm, cytokine；摘要缺失或仅有可迁移线索，待人工确认。",
+    "rulesVersion": "2.0",
+    "inspirationScore": 0,
+    "transferMechanisms": [],
+    "evidenceScope": "直接领域词汇证据",
+    "firstSeenAt": "2026-10-17T00:24:14.397780+00:00",
+    "lastSeenAt": "2026-10-17T00:24:14.397780+00:00",
+    "discoveryKind": "new"
+  },
+  {
     "id": "10.1038/s41413-026-00589-3",
     "doi": "10.1038/s41413-026-00589-3",
     "title": "15-PGDH inhibition in osteoarthritis: PGE2 skeletal interoception, cartilage regeneration and compartment-managed disease modification",

@@ -1,44 +1,46 @@
 {
-  "attemptAt": "2026-10-16T14:23:56.382080+00:00",
-  "lastSuccess": "2026-10-16T14:23:56.815147+00:00",
+  "attemptAt": "2026-10-17T00:24:01.412806+00:00",
+  "lastSuccess": "2026-10-17T00:24:14.397780+00:00",
   "fetchOk": true,
   "publication": "see-github-actions",
   "activated": true,
-  "retainedCount": 16,
+  "retainedCount": 17,
   "window": {
-    "start": "2026-10-02",
-    "end": "2026-10-16"
+    "start": "2026-10-03",
+    "end": "2026-10-17"
   },
-  "newCount": 0,
-  "newIds": [],
-  "total": 16,
+  "newCount": 1,
+  "newIds": [
+    "10.1038/s41467-026-78662-y"
+  ],
+  "total": 17,
   "journals": [
     {
       "id": "nature",
       "name": "Nature",
       "ok": true,
-      "lastSuccess": "2026-10-16T14:23:56.815147+00:00",
+      "lastSuccess": "2026-10-17T00:24:14.397780+00:00",
       "sources": [
         {
           "journalId": "nature",
           "source": "Europe PMC",
           "ok": true,
-          "count": 1,
-          "finishedAt": "2026-10-16T14:23:56.558261+00:00",
-          "seconds": 0.0,
+          "count": 69,
+          "finishedAt": "2026-10-17T00:24:06.738615+00:00",
+          "seconds": 1.35,
           "rejected": 0,
-          "query": "(ISSN:0028-0836 OR ISSN:1476-4687) AND FIRST_PDATE:[2026-10-02 TO 2026-10-16]"
+          "query": "(ISSN:0028-0836 OR ISSN:1476-4687) AND FIRST_PDATE:[2026-10-03 TO 2026-10-17]"
         },
         {
           "journalId": "nature",
           "source": "Crossref",
           "ok": true,
-          "count": 189,
-          "finishedAt": "2026-10-16T14:23:56.678396+00:00",
-          "seconds": 0.12,
+          "count": 183,
+          "finishedAt": "2026-10-17T00:24:07.882457+00:00",
+          "seconds": 2.49,
           "rejected": 0,
           "unsupportedIssns": [],
-          "query": "ISSNs 0028-0836, 1476-4687, publication 2026-10-02..2026-10-16"
+          "query": "ISSNs 0028-0836, 1476-4687, publication 2026-10-03..2026-10-17"
         }
       ],
       "total": 0,
@@ -49,28 +51,28 @@
       "id": "science",
       "name": "Science",
       "ok": true,
-      "lastSuccess": "2026-10-16T14:23:56.815147+00:00",
+      "lastSuccess": "2026-10-17T00:24:14.397780+00:00",
       "sources": [
         {
           "journalId": "science",
           "source": "Europe PMC",
           "ok": true,
-          "count": 0,
-          "finishedAt": "2026-10-16T14:23:56.616983+00:00",
-          "seconds": 0.06,
+          "count": 39,
+          "finishedAt": "2026-10-17T00:24:06.698624+00:00",
+          "seconds": 1.31,
           "rejected": 0,
-          "query": "(ISSN:0036-8075 OR ISSN:1095-9203) AND FIRST_PDATE:[2026-10-02 TO 2026-10-16]"
+          "query": "(ISSN:0036-8075 OR ISSN:1095-9203) AND FIRST_PDATE:[2026-10-03 TO 2026-10-17]"
         },
         {
           "journalId": "science",
           "source": "Crossref",
           "ok": true,
           "count": 82,
-          "finishedAt": "2026-10-16T14:23:56.684505+00:00",
-          "seconds": 0.13,
+          "finishedAt": "2026-10-17T00:24:07.185374+00:00",
+          "seconds": 1.8,
           "rejected": 0,
           "unsupportedIssns": [],
-          "query": "ISSNs 0036-8075, 1095-9203, publication 2026-10-02..2026-10-16"
+          "query": "ISSNs 0036-8075, 1095-9203, publication 2026-10-03..2026-10-17"
         }
       ],
       "total": 0,
@@ -81,30 +83,30 @@
       "id": "cell",
       "name": "Cell",
       "ok": true,
-      "lastSuccess": "2026-10-16T14:23:56.815147+00:00",
+      "lastSuccess": "2026-10-17T00:24:14.397780+00:00",
       "sources": [
-        {
-          "journalId": "cell",
-          "source": "Europe PMC",
-          "ok": true,
-          "count": 1,
-          "finishedAt": "2026-10-16T14:23:56.608811+00:00",
-          "seconds": 0.05,
-          "rejected": 0,
-          "query": "(ISSN:0092-8674 OR ISSN:1097-4172) AND FIRST_PDATE:[2026-10-02 TO 2026-10-16]"
-        },
         {
           "journalId": "cell",
           "source": "Crossref",
           "ok": true,
           "count": 0,
-          "finishedAt": "2026-10-16T14:23:56.796131+00:00",
-          "seconds": 0.19,
+          "finishedAt": "2026-10-17T00:24:07.200977+00:00",
+          "seconds": 0.46,
           "rejected": 0,
           "unsupportedIssns": [
             "1097-4172"
           ],
-          "query": "ISSNs 0092-8674, 1097-4172, publication 2026-10-02..2026-10-16"
+          "query": "ISSNs 0092-8674, 1097-4172, publication 2026-10-03..2026-10-17"
+        },
+        {
+          "journalId": "cell",
+          "source": "Europe PMC",
+          "ok": true,
+          "count": 10,
+          "finishedAt": "2026-10-17T00:24:07.681030+00:00",
+          "seconds": 0.98,
+          "rejected": 0,
+          "query": "(ISSN:0092-8674 OR ISSN:1097-4172) AND FIRST_PDATE:[2026-10-03 TO 2026-10-17]"
         }
       ],
       "total": 0,
@@ -115,28 +117,28 @@
       "id": "nature-medicine",
       "name": "Nature Medicine",
       "ok": true,
-      "lastSuccess": "2026-10-16T14:23:56.815147+00:00",
+      "lastSuccess": "2026-10-17T00:24:14.397780+00:00",
       "sources": [
         {
           "journalId": "nature-medicine",
           "source": "Europe PMC",
           "ok": true,
-          "count": 3,
-          "finishedAt": "2026-10-16T14:23:56.618783+00:00",
-          "seconds": 0.0,
+          "count": 6,
+          "finishedAt": "2026-10-17T00:24:08.119062+00:00",
+          "seconds": 0.93,
           "rejected": 0,
-          "query": "(ISSN:1078-8956 OR ISSN:1546-170X) AND FIRST_PDATE:[2026-10-02 TO 2026-10-16]"
+          "query": "(ISSN:1078-8956 OR ISSN:1546-170X) AND FIRST_PDATE:[2026-10-03 TO 2026-10-17]"
         },
         {
           "journalId": "nature-medicine",
           "source": "Crossref",
           "ok": true,
           "count": 21,
-          "finishedAt": "2026-10-16T14:23:56.672359+00:00",
-          "seconds": 0.05,
+          "finishedAt": "2026-10-17T00:24:08.751981+00:00",
+          "seconds": 1.55,
           "rejected": 0,
           "unsupportedIssns": [],
-          "query": "ISSNs 1078-8956, 1546-170X, publication 2026-10-02..2026-10-16"
+          "query": "ISSNs 1078-8956, 1546-170X, publication 2026-10-03..2026-10-17"
         }
       ],
       "total": 0,
@@ -147,28 +149,28 @@
       "id": "nature-biomedical-engineering",
       "name": "Nature Biomedical Engineering",
       "ok": true,
-      "lastSuccess": "2026-10-16T14:23:56.815147+00:00",
+      "lastSuccess": "2026-10-17T00:24:14.397780+00:00",
       "sources": [
         {
           "journalId": "nature-biomedical-engineering",
           "source": "Europe PMC",
           "ok": true,
-          "count": 0,
-          "finishedAt": "2026-10-16T14:23:56.678775+00:00",
-          "seconds": 0.01,
+          "count": 6,
+          "finishedAt": "2026-10-17T00:24:08.490521+00:00",
+          "seconds": 0.81,
           "rejected": 0,
-          "query": "(ISSN:2157-846X) AND FIRST_PDATE:[2026-10-02 TO 2026-10-16]"
+          "query": "(ISSN:2157-846X) AND FIRST_PDATE:[2026-10-03 TO 2026-10-17]"
         },
         {
           "journalId": "nature-biomedical-engineering",
           "source": "Crossref",
           "ok": true,
           "count": 16,
-          "finishedAt": "2026-10-16T14:23:56.692001+00:00",
-          "seconds": 0.01,
+          "finishedAt": "2026-10-17T00:24:08.529624+00:00",
+          "seconds": 0.65,
           "rejected": 0,
           "unsupportedIssns": [],
-          "query": "ISSNs 2157-846X, publication 2026-10-02..2026-10-16"
+          "query": "ISSNs 2157-846X, publication 2026-10-03..2026-10-17"
         }
       ],
       "total": 0,
@@ -179,28 +181,28 @@
       "id": "nature-materials",
       "name": "Nature Materials",
       "ok": true,
-      "lastSuccess": "2026-10-16T14:23:56.815147+00:00",
+      "lastSuccess": "2026-10-17T00:24:14.397780+00:00",
       "sources": [
         {
           "journalId": "nature-materials",
           "source": "Europe PMC",
           "ok": true,
-          "count": 2,
-          "finishedAt": "2026-10-16T14:23:56.685983+00:00",
-          "seconds": 0.01,
+          "count": 5,
+          "finishedAt": "2026-10-17T00:24:08.858427+00:00",
+          "seconds": 0.74,
           "rejected": 0,
-          "query": "(ISSN:1476-1122 OR ISSN:1476-4660) AND FIRST_PDATE:[2026-10-02 TO 2026-10-16]"
+          "query": "(ISSN:1476-1122 OR ISSN:1476-4660) AND FIRST_PDATE:[2026-10-03 TO 2026-10-17]"
         },
         {
           "journalId": "nature-materials",
           "source": "Crossref",
           "ok": true,
-          "count": 9,
-          "finishedAt": "2026-10-16T14:23:56.774882+00:00",
-          "seconds": 0.09,
+          "count": 7,
+          "finishedAt": "2026-10-17T00:24:10.561768+00:00",
+          "seconds": 2.07,
           "rejected": 0,
           "unsupportedIssns": [],
-          "query": "ISSNs 1476-1122, 1476-4660, publication 2026-10-02..2026-10-16"
+          "query": "ISSNs 1476-1122, 1476-4660, publication 2026-10-03..2026-10-17"
         }
       ],
       "total": 0,
@@ -211,62 +213,62 @@
       "id": "nature-communications",
       "name": "Nature Communications",
       "ok": true,
-      "lastSuccess": "2026-10-16T14:23:56.815147+00:00",
+      "lastSuccess": "2026-10-17T00:24:14.397780+00:00",
       "sources": [
         {
           "journalId": "nature-communications",
           "source": "Europe PMC",
           "ok": true,
-          "count": 5,
-          "finishedAt": "2026-10-16T14:23:56.687496+00:00",
-          "seconds": 0.0,
+          "count": 31,
+          "finishedAt": "2026-10-17T00:24:09.787846+00:00",
+          "seconds": 1.26,
           "rejected": 0,
-          "query": "(ISSN:2041-1723) AND FIRST_PDATE:[2026-10-02 TO 2026-10-16]"
+          "query": "(ISSN:2041-1723) AND FIRST_PDATE:[2026-10-03 TO 2026-10-17]"
         },
         {
           "journalId": "nature-communications",
           "source": "Crossref",
           "ok": true,
-          "count": 404,
-          "finishedAt": "2026-10-16T14:23:56.775892+00:00",
-          "seconds": 0.09,
+          "count": 405,
+          "finishedAt": "2026-10-17T00:24:10.164023+00:00",
+          "seconds": 1.41,
           "rejected": 0,
           "unsupportedIssns": [],
-          "query": "ISSNs 2041-1723, publication 2026-10-02..2026-10-16"
+          "query": "ISSNs 2041-1723, publication 2026-10-03..2026-10-17"
         }
       ],
-      "total": 1,
-      "missingAbstract": 0,
+      "total": 2,
+      "missingAbstract": 1,
       "bothSources": 1
     },
     {
       "id": "cell-stem-cell",
       "name": "Cell Stem Cell",
       "ok": true,
-      "lastSuccess": "2026-10-16T14:23:56.815147+00:00",
+      "lastSuccess": "2026-10-17T00:24:14.397780+00:00",
       "sources": [
         {
           "journalId": "cell-stem-cell",
           "source": "Europe PMC",
           "ok": true,
           "count": 0,
-          "finishedAt": "2026-10-16T14:23:56.738468+00:00",
-          "seconds": 0.05,
+          "finishedAt": "2026-10-17T00:24:09.493197+00:00",
+          "seconds": 0.63,
           "rejected": 0,
-          "query": "(ISSN:1934-5909 OR ISSN:1875-9777) AND FIRST_PDATE:[2026-10-02 TO 2026-10-16]"
+          "query": "(ISSN:1934-5909 OR ISSN:1875-9777) AND FIRST_PDATE:[2026-10-03 TO 2026-10-17]"
         },
         {
           "journalId": "cell-stem-cell",
           "source": "Crossref",
           "ok": true,
           "count": 0,
-          "finishedAt": "2026-10-16T14:23:56.814607+00:00",
-          "seconds": 0.08,
+          "finishedAt": "2026-10-17T00:24:11.069078+00:00",
+          "seconds": 1.58,
           "rejected": 0,
           "unsupportedIssns": [
             "1875-9777"
           ],
-          "query": "ISSNs 1934-5909, 1875-9777, publication 2026-10-02..2026-10-16"
+          "query": "ISSNs 1934-5909, 1875-9777, publication 2026-10-03..2026-10-17"
         }
       ],
       "total": 0,
@@ -277,28 +279,28 @@
       "id": "cell-reports-medicine",
       "name": "Cell Reports Medicine",
       "ok": true,
-      "lastSuccess": "2026-10-16T14:23:56.815147+00:00",
+      "lastSuccess": "2026-10-17T00:24:14.397780+00:00",
       "sources": [
-        {
-          "journalId": "cell-reports-medicine",
-          "source": "Europe PMC",
-          "ok": true,
-          "count": 2,
-          "finishedAt": "2026-10-16T14:23:56.775675+00:00",
-          "seconds": 0.0,
-          "rejected": 0,
-          "query": "(ISSN:2666-3791) AND FIRST_PDATE:[2026-10-02 TO 2026-10-16]"
-        },
         {
           "journalId": "cell-reports-medicine",
           "source": "Crossref",
           "ok": true,
           "count": 0,
-          "finishedAt": "2026-10-16T14:23:56.776796+00:00",
-          "seconds": 0.0,
+          "finishedAt": "2026-10-17T00:24:10.654759+00:00",
+          "seconds": 0.49,
           "rejected": 0,
           "unsupportedIssns": [],
-          "query": "ISSNs 2666-3791, publication 2026-10-02..2026-10-16"
+          "query": "ISSNs 2666-3791, publication 2026-10-03..2026-10-17"
+        },
+        {
+          "journalId": "cell-reports-medicine",
+          "source": "Europe PMC",
+          "ok": true,
+          "count": 13,
+          "finishedAt": "2026-10-17T00:24:10.791417+00:00",
+          "seconds": 1.0,
+          "rejected": 0,
+          "query": "(ISSN:2666-3791) AND FIRST_PDATE:[2026-10-03 TO 2026-10-17]"
         }
       ],
       "total": 0,
@@ -309,28 +311,28 @@
       "id": "cell-reports",
       "name": "Cell Reports",
       "ok": true,
-      "lastSuccess": "2026-10-16T14:23:56.815147+00:00",
+      "lastSuccess": "2026-10-17T00:24:14.397780+00:00",
       "sources": [
-        {
-          "journalId": "cell-reports",
-          "source": "Europe PMC",
-          "ok": true,
-          "count": 0,
-          "finishedAt": "2026-10-16T14:23:56.776402+00:00",
-          "seconds": 0.0,
-          "rejected": 0,
-          "query": "(ISSN:2211-1247) AND FIRST_PDATE:[2026-10-02 TO 2026-10-16]"
-        },
         {
           "journalId": "cell-reports",
           "source": "Crossref",
           "ok": true,
           "count": 0,
-          "finishedAt": "2026-10-16T14:23:56.777070+00:00",
-          "seconds": 0.0,
+          "finishedAt": "2026-10-17T00:24:11.065151+00:00",
+          "seconds": 0.41,
           "rejected": 0,
           "unsupportedIssns": [],
-          "query": "ISSNs 2211-1247, publication 2026-10-02..2026-10-16"
+          "query": "ISSNs 2211-1247, publication 2026-10-03..2026-10-17"
+        },
+        {
+          "journalId": "cell-reports",
+          "source": "Europe PMC",
+          "ok": true,
+          "count": 25,
+          "finishedAt": "2026-10-17T00:24:11.638534+00:00",
+          "seconds": 1.08,
+          "rejected": 0,
+          "query": "(ISSN:2211-1247) AND FIRST_PDATE:[2026-10-03 TO 2026-10-17]"
         }
       ],
       "total": 1,
@@ -341,28 +343,28 @@
       "id": "bone-research",
       "name": "Bone Research",
       "ok": true,
-      "lastSuccess": "2026-10-16T14:23:56.815147+00:00",
+      "lastSuccess": "2026-10-17T00:24:14.397780+00:00",
       "sources": [
         {
           "journalId": "bone-research",
           "source": "Europe PMC",
           "ok": true,
           "count": 0,
-          "finishedAt": "2026-10-16T14:23:56.777459+00:00",
-          "seconds": 0.0,
+          "finishedAt": "2026-10-17T00:24:11.377195+00:00",
+          "seconds": 0.59,
           "rejected": 0,
-          "query": "(ISSN:2095-4700 OR ISSN:2095-6231) AND FIRST_PDATE:[2026-10-02 TO 2026-10-16]"
+          "query": "(ISSN:2095-4700 OR ISSN:2095-6231) AND FIRST_PDATE:[2026-10-03 TO 2026-10-17]"
         },
         {
           "journalId": "bone-research",
           "source": "Crossref",
           "ok": true,
           "count": 3,
-          "finishedAt": "2026-10-16T14:23:56.780325+00:00",
-          "seconds": 0.0,
+          "finishedAt": "2026-10-17T00:24:11.850943+00:00",
+          "seconds": 0.79,
           "rejected": 0,
           "unsupportedIssns": [],
-          "query": "ISSNs 2095-4700, 2095-6231, publication 2026-10-02..2026-10-16"
+          "query": "ISSNs 2095-4700, 2095-6231, publication 2026-10-03..2026-10-17"
         }
       ],
       "total": 5,
@@ -373,28 +375,28 @@
       "id": "jbmr",
       "name": "Journal of Bone and Mineral Research",
       "ok": true,
-      "lastSuccess": "2026-10-16T14:23:56.815147+00:00",
+      "lastSuccess": "2026-10-17T00:24:14.397780+00:00",
       "sources": [
         {
           "journalId": "jbmr",
           "source": "Europe PMC",
           "ok": true,
-          "count": 0,
-          "finishedAt": "2026-10-16T14:23:56.777927+00:00",
-          "seconds": 0.0,
+          "count": 2,
+          "finishedAt": "2026-10-17T00:24:11.703650+00:00",
+          "seconds": 0.63,
           "rejected": 0,
-          "query": "(ISSN:0884-0431 OR ISSN:1523-4681) AND FIRST_PDATE:[2026-10-02 TO 2026-10-16]"
+          "query": "(ISSN:0884-0431 OR ISSN:1523-4681) AND FIRST_PDATE:[2026-10-03 TO 2026-10-17]"
         },
         {
           "journalId": "jbmr",
           "source": "Crossref",
           "ok": true,
           "count": 5,
-          "finishedAt": "2026-10-16T14:23:56.781496+00:00",
-          "seconds": 0.0,
+          "finishedAt": "2026-10-17T00:24:12.083072+00:00",
+          "seconds": 0.71,
           "rejected": 0,
           "unsupportedIssns": [],
-          "query": "ISSNs 0884-0431, 1523-4681, publication 2026-10-02..2026-10-16"
+          "query": "ISSNs 0884-0431, 1523-4681, publication 2026-10-03..2026-10-17"
         }
       ],
       "total": 3,
@@ -405,28 +407,28 @@
       "id": "jdr",
       "name": "Journal of Dental Research",
       "ok": true,
-      "lastSuccess": "2026-10-16T14:23:56.815147+00:00",
+      "lastSuccess": "2026-10-17T00:24:14.397780+00:00",
       "sources": [
         {
           "journalId": "jdr",
           "source": "Europe PMC",
           "ok": true,
           "count": 0,
-          "finishedAt": "2026-10-16T14:23:56.781775+00:00",
-          "seconds": 0.0,
+          "finishedAt": "2026-10-17T00:24:12.194561+00:00",
+          "seconds": 0.56,
           "rejected": 0,
-          "query": "(ISSN:0022-0345 OR ISSN:1544-0591) AND FIRST_PDATE:[2026-10-02 TO 2026-10-16]"
+          "query": "(ISSN:0022-0345 OR ISSN:1544-0591) AND FIRST_PDATE:[2026-10-03 TO 2026-10-17]"
         },
         {
           "journalId": "jdr",
           "source": "Crossref",
           "ok": true,
           "count": 4,
-          "finishedAt": "2026-10-16T14:23:56.786162+00:00",
-          "seconds": 0.0,
+          "finishedAt": "2026-10-17T00:24:14.397082+00:00",
+          "seconds": 2.69,
           "rejected": 0,
           "unsupportedIssns": [],
-          "query": "ISSNs 0022-0345, 1544-0591, publication 2026-10-02..2026-10-16"
+          "query": "ISSNs 0022-0345, 1544-0591, publication 2026-10-03..2026-10-17"
         }
       ],
       "total": 3,
@@ -437,28 +439,28 @@
       "id": "jcp",
       "name": "Journal of Clinical Periodontology",
       "ok": true,
-      "lastSuccess": "2026-10-16T14:23:56.815147+00:00",
+      "lastSuccess": "2026-10-17T00:24:14.397780+00:00",
       "sources": [
         {
           "journalId": "jcp",
           "source": "Europe PMC",
           "ok": true,
-          "count": 1,
-          "finishedAt": "2026-10-16T14:23:56.782652+00:00",
-          "seconds": 0.0,
+          "count": 3,
+          "finishedAt": "2026-10-17T00:24:12.499022+00:00",
+          "seconds": 0.65,
           "rejected": 0,
-          "query": "(ISSN:0303-6979 OR ISSN:1600-051X) AND FIRST_PDATE:[2026-10-02 TO 2026-10-16]"
+          "query": "(ISSN:0303-6979 OR ISSN:1600-051X) AND FIRST_PDATE:[2026-10-03 TO 2026-10-17]"
         },
         {
           "journalId": "jcp",
           "source": "Crossref",
           "ok": true,
           "count": 11,
-          "finishedAt": "2026-10-16T14:23:56.792238+00:00",
-          "seconds": 0.01,
+          "finishedAt": "2026-10-17T00:24:13.055191+00:00",
+          "seconds": 0.97,
           "rejected": 0,
           "unsupportedIssns": [],
-          "query": "ISSNs 0303-6979, 1600-051X, publication 2026-10-02..2026-10-16"
+          "query": "ISSNs 0303-6979, 1600-051X, publication 2026-10-03..2026-10-17"
         }
       ],
       "total": 3,
