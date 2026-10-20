@@ -243,9 +243,11 @@
     "datePrecision": "day",
     "url": "https://doi.org/10.1038/s41413-026-00589-3",
     "sources": [
-      "Crossref"
+      "Crossref",
+      "Europe PMC"
     ],
     "sourceIds": {
+      "Europe PMC": "42881169",
       "Crossref": "10.1038/s41413-026-00589-3"
     },
     "grade": "A",
@@ -286,30 +288,76 @@
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "Qiaojie Chen",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Chen Q",
+        "affiliations": [
+          "Department of Orthopedics, Ningbo No. 2 Hospital, Ningbo, 315010, China."
+        ],
+        "source": "Europe PMC"
       },
       {
-        "name": "Haijun Zhang",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Zhang H",
+        "affiliations": [
+          "Department of Orthopedics, Ningbo No. 2 Hospital, Ningbo, 315010, China."
+        ],
+        "source": "Europe PMC"
       },
       {
-        "name": "Yang Chen",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Chen Y",
+        "affiliations": [
+          "Department of Orthopedics, Ningbo No. 2 Hospital, Ningbo, 315010, China."
+        ],
+        "source": "Europe PMC"
       },
       {
-        "name": "Bo Zhang",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Zhang B",
+        "affiliations": [
+          "Department of Orthopedics, Ningbo No. 2 Hospital, Ningbo, 315010, China. zhangbozhoushan@163.com."
+        ],
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
+      "Journal Article",
+      "Review",
       "journal-article"
     ],
     "metadataBySource": {
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Chen Q",
+            "affiliations": [
+              "Department of Orthopedics, Ningbo No. 2 Hospital, Ningbo, 315010, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Zhang H",
+            "affiliations": [
+              "Department of Orthopedics, Ningbo No. 2 Hospital, Ningbo, 315010, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Chen Y",
+            "affiliations": [
+              "Department of Orthopedics, Ningbo No. 2 Hospital, Ningbo, 315010, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Zhang B",
+            "affiliations": [
+              "Department of Orthopedics, Ningbo No. 2 Hospital, Ningbo, 315010, China. zhangbozhoushan@163.com."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "Review",
+          "Journal Article"
+        ]
+      },
       "Crossref": {
         "authors": [
           {
@@ -353,9 +401,11 @@
     "datePrecision": "day",
     "url": "https://doi.org/10.1177/00220345261488338",
     "sources": [
-      "Crossref"
+      "Crossref",
+      "Europe PMC"
     ],
     "sourceIds": {
+      "Europe PMC": "42873199",
       "Crossref": "10.1177/00220345261488338"
     },
     "grade": "A",
@@ -421,52 +471,102 @@
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "N. Werner",
+        "name": "Werner N",
         "affiliations": [
-          "Department of Conservative Dentistry, Periodontology and Digital Dentistry, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany"
+          "Department of Conservative Dentistry, Periodontology and Digital Dentistry, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "V. Pitchika",
+        "name": "Pitchika V",
         "affiliations": [
-          "Department of Conservative Dentistry, Periodontology and Digital Dentistry, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany"
+          "Department of Conservative Dentistry, Periodontology and Digital Dentistry, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "C.V. Bumm",
+        "name": "Bumm CV",
         "affiliations": [
-          "Department of Conservative Dentistry, Periodontology and Digital Dentistry, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany"
+          "Department of Conservative Dentistry, Periodontology and Digital Dentistry, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "K. Heck",
+        "name": "Heck K",
         "affiliations": [
-          "Department of Conservative Dentistry, Periodontology and Digital Dentistry, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany"
+          "Department of Conservative Dentistry, Periodontology and Digital Dentistry, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "M. Folwaczny",
+        "name": "Folwaczny M",
         "affiliations": [
-          "Department of Conservative Dentistry, Periodontology and Digital Dentistry, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany"
+          "Department of Conservative Dentistry, Periodontology and Digital Dentistry, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "F. Schwendicke",
+        "name": "Schwendicke F",
         "affiliations": [
-          "Department of Conservative Dentistry, Periodontology and Digital Dentistry, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany"
+          "Department of Conservative Dentistry, Periodontology and Digital Dentistry, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
+      "Journal Article",
       "journal-article"
     ],
     "metadataBySource": {
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Werner N",
+            "affiliations": [
+              "Department of Conservative Dentistry, Periodontology and Digital Dentistry, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Pitchika V",
+            "affiliations": [
+              "Department of Conservative Dentistry, Periodontology and Digital Dentistry, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Bumm CV",
+            "affiliations": [
+              "Department of Conservative Dentistry, Periodontology and Digital Dentistry, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Heck K",
+            "affiliations": [
+              "Department of Conservative Dentistry, Periodontology and Digital Dentistry, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Folwaczny M",
+            "affiliations": [
+              "Department of Conservative Dentistry, Periodontology and Digital Dentistry, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Schwendicke F",
+            "affiliations": [
+              "Department of Conservative Dentistry, Periodontology and Digital Dentistry, LMU University Hospital, LMU Medizin, LMU Munich, Munich, Germany."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ]
+      },
       "Crossref": {
         "authors": [
           {
@@ -532,9 +632,11 @@
     "datePrecision": "day",
     "url": "https://doi.org/10.1177/00220345261479223",
     "sources": [
-      "Crossref"
+      "Crossref",
+      "Europe PMC"
     ],
     "sourceIds": {
+      "Europe PMC": "42865008",
       "Crossref": "10.1177/00220345261479223"
     },
     "grade": "A",
@@ -606,45 +708,90 @@
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "C. Zhan",
+        "name": "Zhan C",
         "affiliations": [
-          "Division of Paediatric Dentistry & Orthodontics, Faculty of Dentistry, the University of Hong Kong, Hong Kong SAR, China"
+          "Division of Paediatric Dentistry & Orthodontics, Faculty of Dentistry, the University of Hong Kong, Hong Kong SAR, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "M. Huang",
+        "name": "Huang M",
         "affiliations": [
-          "Division of Restorative Dental Sciences, Faculty of Dentistry, the University of Hong Kong, Hong Kong SAR, China"
+          "Division of Restorative Dental Sciences, Faculty of Dentistry, the University of Hong Kong, Hong Kong SAR, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Q. Dai",
+        "name": "Dai Q",
         "affiliations": [
-          "Division of Paediatric Dentistry & Orthodontics, Faculty of Dentistry, the University of Hong Kong, Hong Kong SAR, China"
+          "Division of Paediatric Dentistry & Orthodontics, Faculty of Dentistry, the University of Hong Kong, Hong Kong SAR, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "L. Jin",
+        "name": "Jin L",
         "affiliations": [
-          "Division of Periodontology and Implant Dentistry, Faculty of Dentistry, the University of Hong Kong, Hong Kong SAR, China"
+          "Division of Periodontology and Implant Dentistry, Faculty of Dentistry, the University of Hong Kong, Hong Kong SAR, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Y. Lin",
+        "name": "Lin Y",
         "affiliations": [
-          "Division of Paediatric Dentistry & Orthodontics, Faculty of Dentistry, the University of Hong Kong, Hong Kong SAR, China"
+          "Division of Paediatric Dentistry & Orthodontics, Faculty of Dentistry, the University of Hong Kong, Hong Kong SAR, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
+      "Journal Article",
+      "Review",
       "journal-article"
     ],
     "metadataBySource": {
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Zhan C",
+            "affiliations": [
+              "Division of Paediatric Dentistry & Orthodontics, Faculty of Dentistry, the University of Hong Kong, Hong Kong SAR, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Huang M",
+            "affiliations": [
+              "Division of Restorative Dental Sciences, Faculty of Dentistry, the University of Hong Kong, Hong Kong SAR, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Dai Q",
+            "affiliations": [
+              "Division of Paediatric Dentistry & Orthodontics, Faculty of Dentistry, the University of Hong Kong, Hong Kong SAR, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Jin L",
+            "affiliations": [
+              "Division of Periodontology and Implant Dentistry, Faculty of Dentistry, the University of Hong Kong, Hong Kong SAR, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Lin Y",
+            "affiliations": [
+              "Division of Paediatric Dentistry & Orthodontics, Faculty of Dentistry, the University of Hong Kong, Hong Kong SAR, China."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "Review",
+          "Journal Article"
+        ]
+      },
       "Crossref": {
         "authors": [
           {
@@ -703,9 +850,11 @@
     "datePrecision": "day",
     "url": "https://doi.org/10.1038/s41413-026-00565-x",
     "sources": [
-      "Crossref"
+      "Crossref",
+      "Europe PMC"
     ],
     "sourceIds": {
+      "Europe PMC": "42864320",
       "Crossref": "10.1038/s41413-026-00565-x"
     },
     "grade": "A",
@@ -759,80 +908,224 @@
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "Xi Chen",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Chen X",
+        "affiliations": [
+          "Shanghai Clinical Research Center of Bone Diseases, Department of Osteoporosis and Bone Diseases, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ],
+        "source": "Europe PMC"
       },
       {
-        "name": "Xin Li",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Li X",
+        "affiliations": [
+          "Department of Endocrinology and Metabolism, Shanghai Children's Medical Center, School of Medicine, Shanghai Jiao Tong University, Shanghai, China."
+        ],
+        "source": "Europe PMC"
       },
       {
-        "name": "Zenghui Gu",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Gu Z",
+        "affiliations": [
+          "Suzhou Laboratory of Precision Health and Data Science, the Second Affiliated Hospital of Soochow University, Suzhou, Jiangsu, China.",
+          "Institute of Health Data Science, Soochow University, Suzhou, Jiangsu, China.",
+          "Institute of Basic Medical Sciences, Westlake Institute for Advanced Study and Westlake University, Hangzhou, China."
+        ],
+        "source": "Europe PMC"
       },
       {
-        "name": "Qi Lu",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Lu Q",
+        "affiliations": [
+          "Shanghai Clinical Research Center of Bone Diseases, Department of Osteoporosis and Bone Diseases, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ],
+        "source": "Europe PMC"
       },
       {
-        "name": "Xinyu Qian",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Qian X",
+        "affiliations": [
+          "Shanghai Clinical Research Center of Bone Diseases, Department of Osteoporosis and Bone Diseases, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ],
+        "source": "Europe PMC"
       },
       {
-        "name": "Yier Fan",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Fan Y",
+        "affiliations": [
+          "Shanghai Clinical Research Center of Bone Diseases, Department of Osteoporosis and Bone Diseases, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ],
+        "source": "Europe PMC"
       },
       {
-        "name": "Ke Deng",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Deng K",
+        "affiliations": [
+          "Shanghai Clinical Research Center of Bone Diseases, Department of Osteoporosis and Bone Diseases, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ],
+        "source": "Europe PMC"
       },
       {
-        "name": "Shanshan Li",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Li S",
+        "affiliations": [
+          "Shanghai Clinical Research Center of Bone Diseases, Department of Osteoporosis and Bone Diseases, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ],
+        "source": "Europe PMC"
       },
       {
-        "name": "Zhe Wei",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Wei Z",
+        "affiliations": [
+          "Shanghai Clinical Research Center of Bone Diseases, Department of Osteoporosis and Bone Diseases, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ],
+        "source": "Europe PMC"
       },
       {
-        "name": "Yang Xu",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Xu Y",
+        "affiliations": [
+          "Shanghai Clinical Research Center of Bone Diseases, Department of Osteoporosis and Bone Diseases, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ],
+        "source": "Europe PMC"
       },
       {
-        "name": "Wenzhen Fu",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Fu W",
+        "affiliations": [
+          "Shanghai Clinical Research Center of Bone Diseases, Department of Osteoporosis and Bone Diseases, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+        ],
+        "source": "Europe PMC"
       },
       {
-        "name": "Hou-Feng Zheng",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Zheng HF",
+        "affiliations": [
+          "Suzhou Laboratory of Precision Health and Data Science, the Second Affiliated Hospital of Soochow University, Suzhou, Jiangsu, China. houf.zheng@suda.edu.cn.",
+          "Institute of Health Data Science, Soochow University, Suzhou, Jiangsu, China. houf.zheng@suda.edu.cn.",
+          "Institute of Basic Medical Sciences, Westlake Institute for Advanced Study and Westlake University, Hangzhou, China. houf.zheng@suda.edu.cn."
+        ],
+        "source": "Europe PMC"
       },
       {
-        "name": "Weiwei Hu",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Hu W",
+        "affiliations": [
+          "Shanghai Clinical Research Center of Bone Diseases, Department of Osteoporosis and Bone Diseases, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China. huweiwei1980@163.com."
+        ],
+        "source": "Europe PMC"
       },
       {
-        "name": "Zhenlin Zhang",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Zhang Z",
+        "affiliations": [
+          "Shanghai Clinical Research Center of Bone Diseases, Department of Osteoporosis and Bone Diseases, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China. zhangzl@sjtu.edu.cn.",
+          "Clinical Research Center, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China. zhangzl@sjtu.edu.cn."
+        ],
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
+      "Journal Article",
       "journal-article"
     ],
     "metadataBySource": {
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Chen X",
+            "affiliations": [
+              "Shanghai Clinical Research Center of Bone Diseases, Department of Osteoporosis and Bone Diseases, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Li X",
+            "affiliations": [
+              "Department of Endocrinology and Metabolism, Shanghai Children's Medical Center, School of Medicine, Shanghai Jiao Tong University, Shanghai, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Gu Z",
+            "affiliations": [
+              "Suzhou Laboratory of Precision Health and Data Science, the Second Affiliated Hospital of Soochow University, Suzhou, Jiangsu, China.",
+              "Institute of Health Data Science, Soochow University, Suzhou, Jiangsu, China.",
+              "Institute of Basic Medical Sciences, Westlake Institute for Advanced Study and Westlake University, Hangzhou, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Lu Q",
+            "affiliations": [
+              "Shanghai Clinical Research Center of Bone Diseases, Department of Osteoporosis and Bone Diseases, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Qian X",
+            "affiliations": [
+              "Shanghai Clinical Research Center of Bone Diseases, Department of Osteoporosis and Bone Diseases, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Fan Y",
+            "affiliations": [
+              "Shanghai Clinical Research Center of Bone Diseases, Department of Osteoporosis and Bone Diseases, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Deng K",
+            "affiliations": [
+              "Shanghai Clinical Research Center of Bone Diseases, Department of Osteoporosis and Bone Diseases, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Li S",
+            "affiliations": [
+              "Shanghai Clinical Research Center of Bone Diseases, Department of Osteoporosis and Bone Diseases, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Wei Z",
+            "affiliations": [
+              "Shanghai Clinical Research Center of Bone Diseases, Department of Osteoporosis and Bone Diseases, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Xu Y",
+            "affiliations": [
+              "Shanghai Clinical Research Center of Bone Diseases, Department of Osteoporosis and Bone Diseases, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Fu W",
+            "affiliations": [
+              "Shanghai Clinical Research Center of Bone Diseases, Department of Osteoporosis and Bone Diseases, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Zheng HF",
+            "affiliations": [
+              "Suzhou Laboratory of Precision Health and Data Science, the Second Affiliated Hospital of Soochow University, Suzhou, Jiangsu, China. houf.zheng@suda.edu.cn.",
+              "Institute of Health Data Science, Soochow University, Suzhou, Jiangsu, China. houf.zheng@suda.edu.cn.",
+              "Institute of Basic Medical Sciences, Westlake Institute for Advanced Study and Westlake University, Hangzhou, China. houf.zheng@suda.edu.cn."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Hu W",
+            "affiliations": [
+              "Shanghai Clinical Research Center of Bone Diseases, Department of Osteoporosis and Bone Diseases, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China. huweiwei1980@163.com."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Zhang Z",
+            "affiliations": [
+              "Shanghai Clinical Research Center of Bone Diseases, Department of Osteoporosis and Bone Diseases, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China. zhangzl@sjtu.edu.cn.",
+              "Clinical Research Center, Shanghai Sixth People's Hospital Affiliated to Shanghai Jiao Tong University School of Medicine, Shanghai, China. zhangzl@sjtu.edu.cn."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ]
+      },
       "Crossref": {
         "authors": [
           {
@@ -926,10 +1219,12 @@
     "datePrecision": "day",
     "url": "https://doi.org/10.1111/jcpe.70206",
     "sources": [
-      "Crossref"
+      "Crossref",
+      "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1111/jcpe.70206"
+      "Crossref": "10.1111/jcpe.70206",
+      "Europe PMC": "42860768"
     },
     "grade": "A",
     "score": 9,
@@ -1008,6 +1303,7 @@
       }
     ],
     "publicationTypes": [
+      "Journal Article",
       "journal-article"
     ],
     "metadataBySource": {
@@ -1052,6 +1348,49 @@
         ],
         "publicationTypes": [
           "journal-article"
+        ]
+      },
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Sarı A",
+            "affiliations": [
+              "Department of Periodontology, Faculty of Dentistry, Hatay Mustafa Kemal University, Hatay, Turkey.",
+              "Periodontology Unit, Centre for Host-Microbiome Interactions, King's College London Dental Institute, London, UK."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Ozcan O",
+            "affiliations": [
+              "Department of Biochemistry, Faculty of Medicine, Mustafa Kemal University, Hatay, Turkey."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Kaçmaz F",
+            "affiliations": [
+              "Department of Molecular Biochemistry and Genetics, Health Science Institute, Mustafa Kemal University, Hatay, Turkey."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Sculean A",
+            "affiliations": [
+              "Department of Periodontology, School of Dental Medicine, University of Bern, Bern, Switzerland."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Kantarci A",
+            "affiliations": [
+              "School of Dentistry, University of Minnesota, Minneapolis, Minnesota, USA."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "Journal Article"
         ]
       }
     },
