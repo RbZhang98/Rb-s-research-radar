@@ -1,5 +1,167 @@
 [
   {
+    "id": "10.1038/s41467-026-77684-w",
+    "doi": "10.1038/s41467-026-77684-w",
+    "title": "Nutrient stress-driven ACSS1 controls metabolic flexibility and bone formation",
+    "abstract": "",
+    "journal": "Nature Communications",
+    "journalId": "nature-communications",
+    "date": "2026-10-20",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1038/s41467-026-77684-w",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1038/s41467-026-77684-w"
+    },
+    "onlineDate": "2026-10-20",
+    "onlineDatePrecision": "day",
+    "authors": [
+      {
+        "name": "Lu Gao",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Zhuolei Yuan",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Tongling Huang",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Pengda Li",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Yanting Zhong",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Jun Gao",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Yifan Luo",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Bin Li",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Haobo Pan",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Keqiang Ye",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Min Guan",
+        "affiliations": [],
+        "source": "Crossref"
+      }
+    ],
+    "publicationTypes": [
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Lu Gao",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Zhuolei Yuan",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Tongling Huang",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Pengda Li",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Yanting Zhong",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jun Gao",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Yifan Luo",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Bin Li",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Haobo Pan",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Keqiang Ye",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Min Guan",
+            "affiliations": [],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "grade": "B",
+    "score": 3,
+    "topics": [
+      "B 骨代谢与骨重塑"
+    ],
+    "pending": true,
+    "evidence": {
+      "B 骨代谢与骨重塑": [
+        "bone formation"
+      ]
+    },
+    "reason": "规则命中：bone formation；摘要缺失或仅有可迁移线索，待人工确认。",
+    "rulesVersion": "2.0",
+    "inspirationScore": 0,
+    "transferMechanisms": [],
+    "evidenceScope": "直接领域词汇证据",
+    "firstSeenAt": "2026-10-21T00:24:55.977076+00:00",
+    "lastSeenAt": "2026-10-21T00:24:55.977076+00:00",
+    "discoveryKind": "new"
+  },
+  {
     "id": "10.1038/s41467-026-78662-y",
     "doi": "10.1038/s41467-026-78662-y",
     "title": "Immune-stimulatory cytokine IL-18 induces inflammatory senescence and impairs stem cell-mediated experimental skeletal regeneration",
@@ -1223,8 +1385,8 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1111/jcpe.70206",
-      "Europe PMC": "42860768"
+      "Europe PMC": "42860768",
+      "Crossref": "10.1111/jcpe.70206"
     },
     "grade": "A",
     "score": 9,
@@ -1266,40 +1428,40 @@
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "Aysegul Sarı",
+        "name": "Sarı A",
         "affiliations": [
-          "Department of Periodontology, Faculty of Dentistry Hatay Mustafa Kemal University Hatay Turkey",
-          "Periodontology Unit, Centre for Host‐Microbiome Interactions King's College London Dental Institute London UK"
+          "Department of Periodontology, Faculty of Dentistry, Hatay Mustafa Kemal University, Hatay, Turkey.",
+          "Periodontology Unit, Centre for Host-Microbiome Interactions, King's College London Dental Institute, London, UK."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Oguzhan Ozcan",
+        "name": "Ozcan O",
         "affiliations": [
-          "Department of Biochemistry, Faculty of Medicine Mustafa Kemal University Hatay Turkey"
+          "Department of Biochemistry, Faculty of Medicine, Mustafa Kemal University, Hatay, Turkey."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Filiz Kaçmaz",
+        "name": "Kaçmaz F",
         "affiliations": [
-          "Department of Molecular Biochemistry and Genetics Health Science Institute, Mustafa Kemal University Hatay Turkey"
+          "Department of Molecular Biochemistry and Genetics, Health Science Institute, Mustafa Kemal University, Hatay, Turkey."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Anton Sculean",
+        "name": "Sculean A",
         "affiliations": [
-          "Department of Periodontology, School of Dental Medicine University of Bern Bern Switzerland"
+          "Department of Periodontology, School of Dental Medicine, University of Bern, Bern, Switzerland."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Alpdogan Kantarci",
+        "name": "Kantarci A",
         "affiliations": [
-          "School of Dentistry University of Minnesota Minneapolis Minnesota USA"
+          "School of Dentistry, University of Minnesota, Minneapolis, Minnesota, USA."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
@@ -1307,49 +1469,6 @@
       "journal-article"
     ],
     "metadataBySource": {
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Aysegul Sarı",
-            "affiliations": [
-              "Department of Periodontology, Faculty of Dentistry Hatay Mustafa Kemal University Hatay Turkey",
-              "Periodontology Unit, Centre for Host‐Microbiome Interactions King's College London Dental Institute London UK"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Oguzhan Ozcan",
-            "affiliations": [
-              "Department of Biochemistry, Faculty of Medicine Mustafa Kemal University Hatay Turkey"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Filiz Kaçmaz",
-            "affiliations": [
-              "Department of Molecular Biochemistry and Genetics Health Science Institute, Mustafa Kemal University Hatay Turkey"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Anton Sculean",
-            "affiliations": [
-              "Department of Periodontology, School of Dental Medicine University of Bern Bern Switzerland"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Alpdogan Kantarci",
-            "affiliations": [
-              "School of Dentistry University of Minnesota Minneapolis Minnesota USA"
-            ],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
-        ]
-      },
       "Europe PMC": {
         "authors": [
           {
@@ -1391,6 +1510,49 @@
         ],
         "publicationTypes": [
           "Journal Article"
+        ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Aysegul Sarı",
+            "affiliations": [
+              "Department of Periodontology, Faculty of Dentistry Hatay Mustafa Kemal University Hatay Turkey",
+              "Periodontology Unit, Centre for Host‐Microbiome Interactions King's College London Dental Institute London UK"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Oguzhan Ozcan",
+            "affiliations": [
+              "Department of Biochemistry, Faculty of Medicine Mustafa Kemal University Hatay Turkey"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Filiz Kaçmaz",
+            "affiliations": [
+              "Department of Molecular Biochemistry and Genetics Health Science Institute, Mustafa Kemal University Hatay Turkey"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Anton Sculean",
+            "affiliations": [
+              "Department of Periodontology, School of Dental Medicine University of Bern Bern Switzerland"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Alpdogan Kantarci",
+            "affiliations": [
+              "School of Dentistry University of Minnesota Minneapolis Minnesota USA"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
         ]
       }
     },

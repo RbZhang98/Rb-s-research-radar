@@ -1,5 +1,96 @@
 [
   {
+    "id": "10.1111/clr.70188",
+    "doi": "10.1111/clr.70188",
+    "title": "Masseter Muscle Volume and Cross‐Sectional Area as Risk Factors for Late Mechanical Dental Implant Failure: A Matched Case–Control Study",
+    "abstract": "ABSTRACT Objectives This study aimed to investigate whether three‐dimensional (3D) masseter muscle morphology—volume and cross‐sectional area (CSA)—is associated with the risk of late mechanical dental implant failure and to derive preliminary cut‐off values for risk stratification. Material and Methods This 1:4 matched case–control study investigated 23 cases of late mechanical failure (fixture fracture, screw fracture, or abutment fracture) and 92 successful controls. Participants were matched by gender, age (±10 years), anatomical location, and maintenance period (±2 years). Masseter morphology was quantified using the 3D reconstruction of the cone‐beam computed tomography (CBCT) data. Independent risk factors were determined using a multivariable generalized estimating equation model adjusting for potential confounders. Results Increased masseter muscle bulk was significantly associated with mechanical failure ( p 3 increase in masseter volume and by 1.11‐fold per 10 mm 2 increase in CSA. ROC analysis demonstrated AUCs of 0.846 for masseter volume and 0.871 for CSA. The maximum‐Youden thresholds were 31,272.56 mm 3 for volume and 691.30 mm 2 for CSA, with sensitivities of 86.96% and 82.61% and specificities of 77.17% and 79.35%, respectively. Internal bootstrap validation yielded AUC 95% confidence intervals of 0.751–0.931 and 0.767–0.951, respectively. Conclusions Greater masseter muscle volume and CSA were significantly associated with late mechanical implant failure in this matched case–control study. The proposed cut‐off values may provide preliminary reference values for risk stratification. However, these findings should be regarded as exploratory and require prospective validation in independent cohorts before routine clinical implementation.",
+    "journal": "Clinical Oral Implants Research",
+    "journalId": "coir",
+    "date": "2026-10-19",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1111/clr.70188",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1111/clr.70188"
+    },
+    "onlineDate": "2026-10-19",
+    "onlineDatePrecision": "day",
+    "authors": [
+      {
+        "name": "Hee‐Sun Choi",
+        "affiliations": [
+          "Department of Periodontology Ewha Womans University Mokdong Hospital Seoul Republic of Korea"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Eun‐Chong Lee",
+        "affiliations": [
+          "Department of Periodontology Ewha Womans University Mokdong Hospital Seoul Republic of Korea"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Eun‐Kyoung Pang",
+        "affiliations": [
+          "Department of Periodontology Ewha Womans University Mokdong Hospital Seoul Republic of Korea",
+          "Department of Dentistry, College of Medicine Ewha Womans University Seoul Republic of Korea"
+        ],
+        "source": "Crossref"
+      }
+    ],
+    "publicationTypes": [
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Hee‐Sun Choi",
+            "affiliations": [
+              "Department of Periodontology Ewha Womans University Mokdong Hospital Seoul Republic of Korea"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Eun‐Chong Lee",
+            "affiliations": [
+              "Department of Periodontology Ewha Womans University Mokdong Hospital Seoul Republic of Korea"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Eun‐Kyoung Pang",
+            "affiliations": [
+              "Department of Periodontology Ewha Womans University Mokdong Hospital Seoul Republic of Korea",
+              "Department of Dentistry, College of Medicine Ewha Womans University Seoul Republic of Korea"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "grade": "B",
+    "score": 5,
+    "topics": [
+      "种植修复"
+    ],
+    "pending": true,
+    "studyType": "研究类型待确认",
+    "studyTypeEvidence": {},
+    "evidence": {},
+    "reason": "临床独立规则：研究类型待确认。类型由词组初筛或信息不足，待确认；优先级不等同于研究质量评价。",
+    "rulesVersion": "2.0",
+    "firstSeenAt": "2026-10-21T00:25:04.127196+00:00",
+    "lastSeenAt": "2026-10-21T00:25:04.127196+00:00",
+    "discoveryKind": "new"
+  },
+  {
     "id": "10.1111/jcpe.70215",
     "doi": "10.1111/jcpe.70215",
     "title": "Intraoral Ultrasonography for Mid-Buccal Probing Depth Assessment: A Proof-of-Concept Clinical Agreement Study.",
