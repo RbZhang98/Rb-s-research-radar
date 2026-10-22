@@ -1,1 +1,392 @@
-[]
+[
+  {
+    "id": "10.1038/s41467-026-78845-7",
+    "doi": "10.1038/s41467-026-78845-7",
+    "title": "Chronic TFE3 activation in TFE3-associated neurodevelopmental disorder drives metabolic rigidity, lysosomal failure, and cell-extracellular matrix destabilization",
+    "abstract": "Abstract The transcription factor TFE3 coordinates cellular adaptation to stress. While its acute activation is cytoprotective, chronic TFE3 dysregulation is linked to diverse pathologies. Here, we characterize the cellular landscape of TFE3-NDD, a recently described neurodevelopmental disorder caused by mutations that disrupt the TFE3-Rag GTPase interface, leading to constitutive TFE3 nuclear localization. Using patient-derived fibroblasts, we show that TFE3-NDD is primarily a metabolic and homeostatic disorder. Mutant cells undergo a profound rewiring toward oxidative phosphorylation (OXPHOS), resulting in metabolic rigidity and a vulnerability to energy failure. Despite a massive expansion of the lysosomal compartment, we observe a paradoxical qualitative failure characterized by impaired acidification, defective protease maturation, increased lysosomal exocytosis, and aberrant cathepsin K secretion. This secretory phenotype is coupled with a destabilized cell-extracellular matrix interface, marked by impaired migration, defective coordination between actomyosin tension and focal adhesion maturation, and a loss of synaptic stabilizers. Notably, TFE3-NDD shares a signature of high OXPHOS and ferroptosis resistance with TFE3-dependent cancers, such as translocation renal cell carcinoma. Our findings reveal how the chronic hyperactivation of a protective stress-response factor collapses cellular homeostasis, providing a mechanistic framework for the tissue malformations and neurodevelopmental deficits that define TFE3-NDD.",
+    "journal": "Nature Communications",
+    "journalId": "nature-communications",
+    "date": "2026-10-21",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1038/s41467-026-78845-7",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1038/s41467-026-78845-7"
+    },
+    "onlineDate": "2026-10-21",
+    "onlineDatePrecision": "day",
+    "authors": [
+      {
+        "name": "José A. Martina",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Akriti Prashar",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Ana M. Pasapera",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Katie Rollins",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Eutteum Jeong",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Rosa Puertollano",
+        "affiliations": [],
+        "source": "Crossref"
+      }
+    ],
+    "publicationTypes": [
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "José A. Martina",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Akriti Prashar",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Ana M. Pasapera",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Katie Rollins",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Eutteum Jeong",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Rosa Puertollano",
+            "affiliations": [],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "grade": "C",
+    "score": 0,
+    "topics": [
+      "F 跨领域启发性发现"
+    ],
+    "pending": true,
+    "evidence": {
+      "F 跨领域启发性发现": [
+        "focal adhesion"
+      ]
+    },
+    "reason": "规则命中：focal adhesion；摘要缺失或仅有可迁移线索，待人工确认。",
+    "rulesVersion": "2.0",
+    "inspirationScore": 2,
+    "transferMechanisms": [
+      "focal adhesion"
+    ],
+    "evidenceScope": "可能迁移的科学原理，未验证骨/牙周适用性",
+    "firstSeenAt": "2026-10-22T00:26:16.630084+00:00",
+    "lastSeenAt": "2026-10-22T00:26:16.630084+00:00",
+    "discoveryKind": "new",
+    "temporary": true,
+    "expiresAt": "2026-11-05T00:26:16.630084+00:00"
+  },
+  {
+    "id": "10.1038/s41467-026-78462-4",
+    "doi": "10.1038/s41467-026-78462-4",
+    "title": "Nano-kinetic implant surface mediates osteo-antibacterial synergy through electromagnetic-mechanical coupling.",
+    "abstract": "Periprosthetic joint infection (PJI) is a devastating complication of total joint arthroplasty, mainly caused by bacterial biofilm formation and antibiotic resistance. Traditional static surfaces rely on contact killing-based bactericidal properties and cannot reliably clear mature biofilms. In this study, we fabricate a remote-activated dynamic biomimetic system, namely a movable magnetic topographic surface (MMTS). Here we show that under the exposure of external electromagnetic field (EMF), the anchored Janus nano-heterodimers oscillate periodically to mechanically disrupt bacterial membranes and eradicates biofilms of Staphylococcus aureus and Escherichia coli. This mechanical force can also activates Piezo1 mechanosensitive ion channel in bone marrow mesenchymal stem cells (BMSCs), inducing calcium oscillations, upregulating gene expression of Runx2 and BMP2, and enhancing extracellular matrix mineralization. In vivo, MMTS combined with EMF exposure eliminates local infection and promoted osseointegration. This remote-activated dynamic biomimetic strategy offers a promising multifunctional platform for PJI treatment, and improved implant osteointegration in clinical orthopedics.",
+    "journal": "Nature Communications",
+    "journalId": "nature-communications",
+    "date": "2026-10-19",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1038/s41467-026-78462-4",
+    "sources": [
+      "Crossref",
+      "Europe PMC"
+    ],
+    "sourceIds": {
+      "Europe PMC": "42897207",
+      "Crossref": "10.1038/s41467-026-78462-4"
+    },
+    "authors": [
+      {
+        "name": "Chen Y",
+        "affiliations": [
+          "Department of Orthopedics and Research Institute of Orthopedics, West China Hospital, Sichuan University, Chengdu, China."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Du H",
+        "affiliations": [
+          "Department of Orthopedics and Research Institute of Orthopedics, West China Hospital, Sichuan University, Chengdu, China."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Sun H",
+        "affiliations": [
+          "Faculty of Medicine, University of Macau, Macau SAR, China.",
+          "MOE Frontiers Science Center for Precision Oncology, University of Macau, Macau SAR, China."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Huang X",
+        "affiliations": [
+          "School of Biomedical Engineering, Cheeloo College of Medicine, Shandong University, Jinan, China."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Wang D",
+        "affiliations": [
+          "Department of Orthopedics and Research Institute of Orthopedics, West China Hospital, Sichuan University, Chengdu, China."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Chen X",
+        "affiliations": [
+          "Department of Orthopedics and Research Institute of Orthopedics, West China Hospital, Sichuan University, Chengdu, China."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Chen J",
+        "affiliations": [
+          "Animal Experimental Center, West China Hospital, Sichuan University, Chengdu, China."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Zhang X",
+        "affiliations": [
+          "Faculty of Medicine, University of Macau, Macau SAR, China.",
+          "MOE Frontiers Science Center for Precision Oncology, University of Macau, Macau SAR, China."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Zhou L",
+        "affiliations": [
+          "Faculty of Medicine, University of Macau, Macau SAR, China. liqiangzhou@um.edu.mo.",
+          "MOE Frontiers Science Center for Precision Oncology, University of Macau, Macau SAR, China. liqiangzhou@um.edu.mo.",
+          "School of Biomedical Engineering, Cheeloo College of Medicine, Shandong University, Jinan, China. liqiangzhou@um.edu.mo."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Zhou Z",
+        "affiliations": [
+          "Department of Orthopedics and Research Institute of Orthopedics, West China Hospital, Sichuan University, Chengdu, China. zhouzongke@scu.edu.cn."
+        ],
+        "source": "Europe PMC"
+      }
+    ],
+    "publicationTypes": [
+      "Journal Article",
+      "journal-article",
+      "research-article"
+    ],
+    "metadataBySource": {
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Chen Y",
+            "affiliations": [
+              "Department of Orthopedics and Research Institute of Orthopedics, West China Hospital, Sichuan University, Chengdu, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Du H",
+            "affiliations": [
+              "Department of Orthopedics and Research Institute of Orthopedics, West China Hospital, Sichuan University, Chengdu, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Sun H",
+            "affiliations": [
+              "Faculty of Medicine, University of Macau, Macau SAR, China.",
+              "MOE Frontiers Science Center for Precision Oncology, University of Macau, Macau SAR, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Huang X",
+            "affiliations": [
+              "School of Biomedical Engineering, Cheeloo College of Medicine, Shandong University, Jinan, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Wang D",
+            "affiliations": [
+              "Department of Orthopedics and Research Institute of Orthopedics, West China Hospital, Sichuan University, Chengdu, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Chen X",
+            "affiliations": [
+              "Department of Orthopedics and Research Institute of Orthopedics, West China Hospital, Sichuan University, Chengdu, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Chen J",
+            "affiliations": [
+              "Animal Experimental Center, West China Hospital, Sichuan University, Chengdu, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Zhang X",
+            "affiliations": [
+              "Faculty of Medicine, University of Macau, Macau SAR, China.",
+              "MOE Frontiers Science Center for Precision Oncology, University of Macau, Macau SAR, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Zhou L",
+            "affiliations": [
+              "Faculty of Medicine, University of Macau, Macau SAR, China. liqiangzhou@um.edu.mo.",
+              "MOE Frontiers Science Center for Precision Oncology, University of Macau, Macau SAR, China. liqiangzhou@um.edu.mo.",
+              "School of Biomedical Engineering, Cheeloo College of Medicine, Shandong University, Jinan, China. liqiangzhou@um.edu.mo."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Zhou Z",
+            "affiliations": [
+              "Department of Orthopedics and Research Institute of Orthopedics, West China Hospital, Sichuan University, Chengdu, China. zhouzongke@scu.edu.cn."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "research-article",
+          "Journal Article"
+        ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Yangmengfan Chen",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Hao Du",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Heng Sun",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Xingcan Huang",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Duan Wang",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Xuming Chen",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jiehao Chen",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Xuanjun Zhang",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Liqiang Zhou",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Zongke Zhou",
+            "affiliations": [],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "onlineDate": "2026-10-19",
+    "onlineDatePrecision": "day",
+    "grade": "C",
+    "score": 4,
+    "topics": [
+      "C 骨与牙周组织再生",
+      "E 可迁移基础发现与技术",
+      "F 跨领域启发性发现"
+    ],
+    "pending": true,
+    "evidence": {
+      "C 骨与牙周组织再生": [
+        "mesenchymal stem"
+      ],
+      "E 可迁移基础发现与技术": [
+        "stem cell"
+      ],
+      "F 跨领域启发性发现": [
+        "Piezo1"
+      ]
+    },
+    "reason": "规则命中：mesenchymal stem；stem cell；Piezo1；摘要缺失或仅有可迁移线索，待人工确认。",
+    "rulesVersion": "2.0",
+    "inspirationScore": 2,
+    "transferMechanisms": [
+      "Piezo1"
+    ],
+    "evidenceScope": "可能迁移的科学原理，未验证骨/牙周适用性",
+    "firstSeenAt": "2026-10-20T00:27:42.210895+00:00",
+    "lastSeenAt": "2026-10-22T00:26:16.630084+00:00",
+    "discoveryKind": "historical-rediscovery",
+    "temporary": true,
+    "expiresAt": "2026-11-03T00:27:42.210895+00:00"
+  }
+]

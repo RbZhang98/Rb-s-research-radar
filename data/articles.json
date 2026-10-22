@@ -162,6 +162,239 @@
     "discoveryKind": "new"
   },
   {
+    "id": "10.1016/j.cell.2026.09.015",
+    "doi": "10.1016/j.cell.2026.09.015",
+    "title": "The pyrin inflammasome senses OCTN2-mediated uptake of extracellular ʟ-carnitine from muscle injury or ingestion.",
+    "abstract": "Red-meat-containing diets are epidemiologically associated with diseases of chronic inflammation, while diets that restrict red meat improve health. Yet, it is uncertain how red meat incites inflammation. Here, we discover that ʟ-carnitine, an amino acid highly concentrated in skeletal muscle myocytes, drives inflammasome activation in lipopolysaccharide (LPS)-challenged mice and LPS-primed murine and human macrophages. We find that extracellular ʟ-carnitine represses mevalonate synthesis, thereby triggering activation of the pyrin inflammasome, downstream of cellular import by the high-affinity ʟ-carnitine transporter OCTN2. We find that the inflammatory response to skeletal muscle injury also requires pyrin and OCTN2. Thus, in summary, we identify macrophages as sentinels of exogenous and endogenous extracellular ʟ-carnitine that serve as a proxy for skeletal myocyte damage, and we open the field to examine the mechanistic basis for how excess dietary intake of carnitine-rich food drives inflammatory disease.",
+    "journal": "Cell",
+    "journalId": "cell",
+    "date": "2026-10-19",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1016/j.cell.2026.09.015",
+    "sources": [
+      "Europe PMC"
+    ],
+    "sourceIds": {
+      "Europe PMC": "42896553"
+    },
+    "authors": [
+      {
+        "name": "Elliott EI",
+        "affiliations": [
+          "Department of Internal Medicine (Section of Infectious Diseases), Yale University School of Medicine, New Haven, CT 06510, USA. Electronic address: eric.elliott@yale.edu."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Yoshida TM",
+        "affiliations": [
+          "Department of Internal Medicine (Section of Rheumatology, Allergy, and Immunology), Yale University School of Medicine, New Haven, CT 06510, USA; Department of Immunobiology, Yale University School of Medicine, New Haven, CT 06510, USA; Department of Neurology, Yale University School of Medicine, New Haven, CT 06510, USA."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Nakandakari SCBR",
+        "affiliations": [
+          "Department of Cellular & Molecular Physiology, Yale University School of Medicine, New Haven, CT 06510, USA."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Pope S",
+        "affiliations": [
+          "Department of Immunobiology, Yale University School of Medicine, New Haven, CT 06510, USA."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Zhang C",
+        "affiliations": [
+          "Department of Immunobiology, Yale University School of Medicine, New Haven, CT 06510, USA."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Nottoli T",
+        "affiliations": [
+          "Department of Comparative Medicine, Yale University School of Medicine, New Haven, CT 06510, USA."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Chae JJ",
+        "affiliations": [
+          "Inflammatory Diseases Section, Medical Genetics Branch, National Human Genome Research Institute, Bethesda, MD 20892, USA."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Kastner DL",
+        "affiliations": [
+          "Inflammatory Diseases Section, Medical Genetics Branch, National Human Genome Research Institute, Bethesda, MD 20892, USA."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Flavell RA",
+        "affiliations": [
+          "Department of Immunobiology, Yale University School of Medicine, New Haven, CT 06510, USA; Howard Hughes Medical Institute, Chevy Chase, MD 20815, USA."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Dixit VD",
+        "affiliations": [
+          "Department of Immunobiology, Yale University School of Medicine, New Haven, CT 06510, USA; Department of Comparative Medicine, Yale University School of Medicine, New Haven, CT 06510, USA; Department of Pathology and Yale Center for Research on Aging, Yale University School of Medicine, New Haven, CT 06510, USA."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Rathinam VA",
+        "affiliations": [
+          "Department of Immunology, UConn Health, Farmington, CT 06030, USA."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Sutterwala FS",
+        "affiliations": [
+          "Department of Medicine, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA; Women's Guild Lung Institute, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA; Department of Biomedical Sciences, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Wang A",
+        "affiliations": [
+          "Department of Internal Medicine (Section of Rheumatology, Allergy, and Immunology), Yale University School of Medicine, New Haven, CT 06510, USA; Department of Immunobiology, Yale University School of Medicine, New Haven, CT 06510, USA. Electronic address: andrew.wang@yale.edu."
+        ],
+        "source": "Europe PMC"
+      }
+    ],
+    "publicationTypes": [
+      "Journal Article"
+    ],
+    "metadataBySource": {
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Elliott EI",
+            "affiliations": [
+              "Department of Internal Medicine (Section of Infectious Diseases), Yale University School of Medicine, New Haven, CT 06510, USA. Electronic address: eric.elliott@yale.edu."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Yoshida TM",
+            "affiliations": [
+              "Department of Internal Medicine (Section of Rheumatology, Allergy, and Immunology), Yale University School of Medicine, New Haven, CT 06510, USA; Department of Immunobiology, Yale University School of Medicine, New Haven, CT 06510, USA; Department of Neurology, Yale University School of Medicine, New Haven, CT 06510, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Nakandakari SCBR",
+            "affiliations": [
+              "Department of Cellular & Molecular Physiology, Yale University School of Medicine, New Haven, CT 06510, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Pope S",
+            "affiliations": [
+              "Department of Immunobiology, Yale University School of Medicine, New Haven, CT 06510, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Zhang C",
+            "affiliations": [
+              "Department of Immunobiology, Yale University School of Medicine, New Haven, CT 06510, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Nottoli T",
+            "affiliations": [
+              "Department of Comparative Medicine, Yale University School of Medicine, New Haven, CT 06510, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Chae JJ",
+            "affiliations": [
+              "Inflammatory Diseases Section, Medical Genetics Branch, National Human Genome Research Institute, Bethesda, MD 20892, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Kastner DL",
+            "affiliations": [
+              "Inflammatory Diseases Section, Medical Genetics Branch, National Human Genome Research Institute, Bethesda, MD 20892, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Flavell RA",
+            "affiliations": [
+              "Department of Immunobiology, Yale University School of Medicine, New Haven, CT 06510, USA; Howard Hughes Medical Institute, Chevy Chase, MD 20815, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Dixit VD",
+            "affiliations": [
+              "Department of Immunobiology, Yale University School of Medicine, New Haven, CT 06510, USA; Department of Comparative Medicine, Yale University School of Medicine, New Haven, CT 06510, USA; Department of Pathology and Yale Center for Research on Aging, Yale University School of Medicine, New Haven, CT 06510, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Rathinam VA",
+            "affiliations": [
+              "Department of Immunology, UConn Health, Farmington, CT 06030, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Sutterwala FS",
+            "affiliations": [
+              "Department of Medicine, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA; Women's Guild Lung Institute, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA; Department of Biomedical Sciences, Cedars-Sinai Medical Center, Los Angeles, CA 90048, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Wang A",
+            "affiliations": [
+              "Department of Internal Medicine (Section of Rheumatology, Allergy, and Immunology), Yale University School of Medicine, New Haven, CT 06510, USA; Department of Immunobiology, Yale University School of Medicine, New Haven, CT 06510, USA. Electronic address: andrew.wang@yale.edu."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ]
+      }
+    },
+    "grade": "B",
+    "score": 3,
+    "topics": [
+      "D 骨免疫与炎症微环境"
+    ],
+    "pending": false,
+    "evidence": {
+      "D 骨免疫与炎症微环境": [
+        "macrophage",
+        "inflamm"
+      ]
+    },
+    "reason": "规则命中：macrophage, inflamm；分级仅表示关键词证据，未经语义或人工验证。",
+    "rulesVersion": "2.0",
+    "inspirationScore": 0,
+    "transferMechanisms": [],
+    "evidenceScope": "直接领域词汇证据",
+    "firstSeenAt": "2026-10-22T00:26:16.630084+00:00",
+    "lastSeenAt": "2026-10-22T00:26:16.630084+00:00",
+    "discoveryKind": "new"
+  },
+  {
     "id": "10.1038/s41467-026-78662-y",
     "doi": "10.1038/s41467-026-78662-y",
     "title": "Immune-stimulatory cytokine IL-18 induces inflammatory senescence and impairs stem cell-mediated experimental skeletal regeneration",
