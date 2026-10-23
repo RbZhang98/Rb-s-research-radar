@@ -1,5 +1,143 @@
 [
   {
+    "id": "10.1093/jbmr/zjag149",
+    "doi": "10.1093/jbmr/zjag149",
+    "title": "Isoform Runx2-II is sufficient for the development of calvaria, clavicles, and limb bones in the absence of Runx2-I",
+    "abstract": "Abstract Runx2 is an essential transcription factor for osteoblast differentiation and chondrocyte maturation. Heterozygous mutations in RUNX2 cause cleidocranial dysplasia, characterized by an open fontanel, hypoplastic clavicles, and short stature. Runx2 is transcribed from two promoters, P1 and P2, generating Runx2-II and Runx2-I, respectively. However, the function of Runx2-I remains unclear. To clarify its function, we generated Runx2-I-specific knockout mice by systematically deleting the P2 region while retaining the downstream sequence from the branch site for intron 1 splicing. As the 2.5-kb and 24-kb deletions did not disrupt P2, the deletion was extended to 76 kb (Int1del/+ mice). Because this intron contains Supt3, whose homozygous deletion was lethal on embryonic day 9.5-10.5, we crossed Int1del/+ mice with Runx2+/– mice. Cap analysis of gene expression showed that Runx2-I mRNA was absent in Int1del/+Runx2+/– mice. In newborn calvaria and 6-week-old femurs, real-time reverse transcription-polymerase chain reaction analysis showed that Runx2-II mRNA in Int1del/+Runx2+/– mice was upregulated to wild-type levels, whereas the total Runx2 mRNA was comparable to Runx2+/– mice. At E16.5 and the newborn stage, skeletal preparation and histological and micro-CT analyses showed that the impaired development of cranial bones, clavicles, and limb bones in Runx2+/– mice was rescued in Int1del/+Runx2+/– mice, whereas that of the ribs, sternum, and vertebrae was not. In 6-week-old females, reduced femoral cortical thickness in Runx2+/– mice was restored in Int1del/+Runx2+/– mice. Neither Runx2-I nor Runx2-II overexpression exhibited negative autoregulation of endogenous expression. Depending on the cell type examined, their overexpression or Runx2 knockdown differentially affected P1 and P2 reporter activities, which were also influenced by an osteoblast-specific enhancer. These findings indicate that wild-type levels of Runx2-II can substitute for Runx2-I in calvaria, clavicle, and limb bone development. Upregulation of Runx2-II in Int1del/+Runx2+/– mice cannot be explained by negative autoregulation, offering a hypothetical model of reciprocal P1/P2 regulation.",
+    "journal": "Journal of Bone and Mineral Research",
+    "journalId": "jbmr",
+    "date": "2026-10-22",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1093/jbmr/zjag149",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1093/jbmr/zjag149"
+    },
+    "onlineDate": "2026-10-22",
+    "onlineDatePrecision": "day",
+    "authors": [
+      {
+        "name": "Yuki Matsuo",
+        "affiliations": [
+          "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,",
+          "Department of Skeletal Development and Regenerative Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Suemi Yabuta",
+        "affiliations": [
+          "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Takeshi Moriishi",
+        "affiliations": [
+          "Department of Skeletal Development and Regenerative Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Chiharu Sakane",
+        "affiliations": [
+          "Research Center for Biomedical Models and Animal Welfare, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki, 852–8588 ,"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Hisato Komori",
+        "affiliations": [
+          "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Toshihisa Komori",
+        "affiliations": [
+          "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,"
+        ],
+        "source": "Crossref"
+      }
+    ],
+    "publicationTypes": [
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Yuki Matsuo",
+            "affiliations": [
+              "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,",
+              "Department of Skeletal Development and Regenerative Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Suemi Yabuta",
+            "affiliations": [
+              "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Takeshi Moriishi",
+            "affiliations": [
+              "Department of Skeletal Development and Regenerative Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Chiharu Sakane",
+            "affiliations": [
+              "Research Center for Biomedical Models and Animal Welfare, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki, 852–8588 ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Hisato Komori",
+            "affiliations": [
+              "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Toshihisa Komori",
+            "affiliations": [
+              "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "grade": "B",
+    "score": 5,
+    "topics": [
+      "B 骨代谢与骨重塑"
+    ],
+    "pending": false,
+    "evidence": {
+      "B 骨代谢与骨重塑": [
+        "osteoblast"
+      ]
+    },
+    "reason": "规则命中：osteoblast；分级仅表示关键词证据，未经语义或人工验证。",
+    "rulesVersion": "2.0",
+    "inspirationScore": 0,
+    "transferMechanisms": [],
+    "evidenceScope": "直接领域词汇证据",
+    "firstSeenAt": "2026-10-23T00:27:45.016348+00:00",
+    "lastSeenAt": "2026-10-23T00:27:45.016348+00:00",
+    "discoveryKind": "new"
+  },
+  {
     "id": "10.1038/s41467-026-77684-w",
     "doi": "10.1038/s41467-026-77684-w",
     "title": "Nutrient stress-driven ACSS1 controls metabolic flexibility and bone formation",
@@ -1618,8 +1756,8 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Europe PMC": "42860768",
-      "Crossref": "10.1111/jcpe.70206"
+      "Crossref": "10.1111/jcpe.70206",
+      "Europe PMC": "42860768"
     },
     "grade": "A",
     "score": 9,
@@ -1661,40 +1799,40 @@
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "Sarı A",
+        "name": "Aysegul Sarı",
         "affiliations": [
-          "Department of Periodontology, Faculty of Dentistry, Hatay Mustafa Kemal University, Hatay, Turkey.",
-          "Periodontology Unit, Centre for Host-Microbiome Interactions, King's College London Dental Institute, London, UK."
+          "Department of Periodontology, Faculty of Dentistry Hatay Mustafa Kemal University Hatay Turkey",
+          "Periodontology Unit, Centre for Host‐Microbiome Interactions King's College London Dental Institute London UK"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Ozcan O",
+        "name": "Oguzhan Ozcan",
         "affiliations": [
-          "Department of Biochemistry, Faculty of Medicine, Mustafa Kemal University, Hatay, Turkey."
+          "Department of Biochemistry, Faculty of Medicine Mustafa Kemal University Hatay Turkey"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Kaçmaz F",
+        "name": "Filiz Kaçmaz",
         "affiliations": [
-          "Department of Molecular Biochemistry and Genetics, Health Science Institute, Mustafa Kemal University, Hatay, Turkey."
+          "Department of Molecular Biochemistry and Genetics Health Science Institute, Mustafa Kemal University Hatay Turkey"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Sculean A",
+        "name": "Anton Sculean",
         "affiliations": [
-          "Department of Periodontology, School of Dental Medicine, University of Bern, Bern, Switzerland."
+          "Department of Periodontology, School of Dental Medicine University of Bern Bern Switzerland"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Kantarci A",
+        "name": "Alpdogan Kantarci",
         "affiliations": [
-          "School of Dentistry, University of Minnesota, Minneapolis, Minnesota, USA."
+          "School of Dentistry University of Minnesota Minneapolis Minnesota USA"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       }
     ],
     "publicationTypes": [
@@ -1702,49 +1840,6 @@
       "journal-article"
     ],
     "metadataBySource": {
-      "Europe PMC": {
-        "authors": [
-          {
-            "name": "Sarı A",
-            "affiliations": [
-              "Department of Periodontology, Faculty of Dentistry, Hatay Mustafa Kemal University, Hatay, Turkey.",
-              "Periodontology Unit, Centre for Host-Microbiome Interactions, King's College London Dental Institute, London, UK."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Ozcan O",
-            "affiliations": [
-              "Department of Biochemistry, Faculty of Medicine, Mustafa Kemal University, Hatay, Turkey."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Kaçmaz F",
-            "affiliations": [
-              "Department of Molecular Biochemistry and Genetics, Health Science Institute, Mustafa Kemal University, Hatay, Turkey."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Sculean A",
-            "affiliations": [
-              "Department of Periodontology, School of Dental Medicine, University of Bern, Bern, Switzerland."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Kantarci A",
-            "affiliations": [
-              "School of Dentistry, University of Minnesota, Minneapolis, Minnesota, USA."
-            ],
-            "source": "Europe PMC"
-          }
-        ],
-        "publicationTypes": [
-          "Journal Article"
-        ]
-      },
       "Crossref": {
         "authors": [
           {
@@ -1786,6 +1881,49 @@
         ],
         "publicationTypes": [
           "journal-article"
+        ]
+      },
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Sarı A",
+            "affiliations": [
+              "Department of Periodontology, Faculty of Dentistry, Hatay Mustafa Kemal University, Hatay, Turkey.",
+              "Periodontology Unit, Centre for Host-Microbiome Interactions, King's College London Dental Institute, London, UK."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Ozcan O",
+            "affiliations": [
+              "Department of Biochemistry, Faculty of Medicine, Mustafa Kemal University, Hatay, Turkey."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Kaçmaz F",
+            "affiliations": [
+              "Department of Molecular Biochemistry and Genetics, Health Science Institute, Mustafa Kemal University, Hatay, Turkey."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Sculean A",
+            "affiliations": [
+              "Department of Periodontology, School of Dental Medicine, University of Bern, Bern, Switzerland."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Kantarci A",
+            "affiliations": [
+              "School of Dentistry, University of Minnesota, Minneapolis, Minnesota, USA."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "Journal Article"
         ]
       }
     },
