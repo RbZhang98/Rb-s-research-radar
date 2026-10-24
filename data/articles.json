@@ -1,5 +1,167 @@
 [
   {
+    "id": "10.1038/s41551-026-01817-1",
+    "doi": "10.1038/s41551-026-01817-1",
+    "title": "Hydrogel for sustained and localized delivery of a regulatory T cell-inducing agent promotes bone regeneration",
+    "abstract": "",
+    "journal": "Nature Biomedical Engineering",
+    "journalId": "nature-biomedical-engineering",
+    "date": "2026-10-23",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1038/s41551-026-01817-1",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1038/s41551-026-01817-1"
+    },
+    "onlineDate": "2026-10-23",
+    "onlineDatePrecision": "day",
+    "authors": [
+      {
+        "name": "Gabriele Nasello",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Nuria Lafuente-Gómez",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Leila Krajnovic",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "David T. Wu",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Mason T. Dacus",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Einat B. Vitner",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Shawn Kang",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Emily Roloson",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Giovanni Bovone",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Liesbet Geris",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "David J. Mooney",
+        "affiliations": [],
+        "source": "Crossref"
+      }
+    ],
+    "publicationTypes": [
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Gabriele Nasello",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Nuria Lafuente-Gómez",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Leila Krajnovic",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "David T. Wu",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Mason T. Dacus",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Einat B. Vitner",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Shawn Kang",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Emily Roloson",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Giovanni Bovone",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Liesbet Geris",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "David J. Mooney",
+            "affiliations": [],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "grade": "B",
+    "score": 5,
+    "topics": [
+      "C 骨与牙周组织再生"
+    ],
+    "pending": true,
+    "evidence": {
+      "C 骨与牙周组织再生": [
+        "bone regeneration"
+      ]
+    },
+    "reason": "规则命中：bone regeneration；摘要缺失或仅有可迁移线索，待人工确认。",
+    "rulesVersion": "2.0",
+    "inspirationScore": 0,
+    "transferMechanisms": [],
+    "evidenceScope": "直接领域词汇证据",
+    "firstSeenAt": "2026-10-24T00:29:34.080435+00:00",
+    "lastSeenAt": "2026-10-24T00:29:34.080435+00:00",
+    "discoveryKind": "new"
+  },
+  {
     "id": "10.1093/jbmr/zjag149",
     "doi": "10.1093/jbmr/zjag149",
     "title": "Isoform Runx2-II is sufficient for the development of calvaria, clavicles, and limb bones in the absence of Runx2-I",
@@ -135,6 +297,118 @@
     "evidenceScope": "直接领域词汇证据",
     "firstSeenAt": "2026-10-23T00:27:45.016348+00:00",
     "lastSeenAt": "2026-10-23T00:27:45.016348+00:00",
+    "discoveryKind": "new"
+  },
+  {
+    "id": "10.1016/j.stem.2026.09.014",
+    "doi": "10.1016/j.stem.2026.09.014",
+    "title": "A self-organized tri-lineage bone model in liquefied microcapsules captures matrix dynamics in early remodeling.",
+    "abstract": "Bone tissue is inherently complex, featuring specialized cells, a dynamic extracellular matrix (ECM), vascular networks, and continuous remodeling. These processes are tightly regulated by cell-cell and cell-ECM interactions, making them difficult to replicate in vitro. Here, we developed a self-regulated, bone-like three-dimensional microenvironment using liquefied microcapsules composed of hydroxypyridinone- and dopamine-modified gelatins, supporting scaffold structure and bioactivity. Bone marrow-derived human mesenchymal stromal cells (BM-hMSCs) and a human monocyte cell line (THP-1) were directly co-cultured in a 3:1 ratio for 35 days within the microcapsules. This heterotypic system, without exogenous differentiating inducers, supported differentiation into osteoblasts, osteocytes, and osteoclasts, alongside ECM deposition, mineralization, and resorption. Proteomic signatures further indicated features associated with bone development and early remodeling. This self-organized tri-lineage bone model provides a simplified tool for studying cellular crosstalk and ECM dynamics, with potential to reduce reliance on animal models.",
+    "journal": "Cell Stem Cell",
+    "journalId": "cell-stem-cell",
+    "date": "2026-10-21",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1016/j.stem.2026.09.014",
+    "sources": [
+      "Europe PMC"
+    ],
+    "sourceIds": {
+      "Europe PMC": "42906548"
+    },
+    "authors": [
+      {
+        "name": "Pinho AR",
+        "affiliations": [
+          "CICECO - Aveiro Institute of Materials, Department of Chemistry, University of Aveiro, Campus Universitário de Santiago, Aveiro 3810-193, Portugal."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Henriques MC",
+        "affiliations": [
+          "CICECO - Aveiro Institute of Materials, Department of Chemistry, University of Aveiro, Campus Universitário de Santiago, Aveiro 3810-193, Portugal."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Gomes MC",
+        "affiliations": [
+          "CICECO - Aveiro Institute of Materials, Department of Chemistry, University of Aveiro, Campus Universitário de Santiago, Aveiro 3810-193, Portugal. Electronic address: clara.gomes@ua.pt."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Mano JF",
+        "affiliations": [
+          "CICECO - Aveiro Institute of Materials, Department of Chemistry, University of Aveiro, Campus Universitário de Santiago, Aveiro 3810-193, Portugal. Electronic address: jmano@ua.pt."
+        ],
+        "source": "Europe PMC"
+      }
+    ],
+    "publicationTypes": [
+      "Journal Article"
+    ],
+    "metadataBySource": {
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Pinho AR",
+            "affiliations": [
+              "CICECO - Aveiro Institute of Materials, Department of Chemistry, University of Aveiro, Campus Universitário de Santiago, Aveiro 3810-193, Portugal."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Henriques MC",
+            "affiliations": [
+              "CICECO - Aveiro Institute of Materials, Department of Chemistry, University of Aveiro, Campus Universitário de Santiago, Aveiro 3810-193, Portugal."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Gomes MC",
+            "affiliations": [
+              "CICECO - Aveiro Institute of Materials, Department of Chemistry, University of Aveiro, Campus Universitário de Santiago, Aveiro 3810-193, Portugal. Electronic address: clara.gomes@ua.pt."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Mano JF",
+            "affiliations": [
+              "CICECO - Aveiro Institute of Materials, Department of Chemistry, University of Aveiro, Campus Universitário de Santiago, Aveiro 3810-193, Portugal. Electronic address: jmano@ua.pt."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ]
+      }
+    },
+    "grade": "A",
+    "score": 14,
+    "topics": [
+      "B 骨代谢与骨重塑",
+      "C 骨与牙周组织再生"
+    ],
+    "pending": false,
+    "evidence": {
+      "B 骨代谢与骨重塑": [
+        "osteoblast",
+        "osteoclast",
+        "osteocyte"
+      ],
+      "C 骨与牙周组织再生": [
+        "mesenchymal stromal"
+      ]
+    },
+    "reason": "规则命中：osteoblast, osteoclast, osteocyte；mesenchymal stromal；分级仅表示关键词证据，未经语义或人工验证。",
+    "rulesVersion": "2.0",
+    "inspirationScore": 0,
+    "transferMechanisms": [],
+    "evidenceScope": "直接领域词汇证据",
+    "firstSeenAt": "2026-10-24T00:29:34.080435+00:00",
+    "lastSeenAt": "2026-10-24T00:29:34.080435+00:00",
     "discoveryKind": "new"
   },
   {
@@ -780,8 +1054,8 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Europe PMC": "42881169",
-      "Crossref": "10.1038/s41413-026-00589-3"
+      "Crossref": "10.1038/s41413-026-00589-3",
+      "Europe PMC": "42881169"
     },
     "grade": "A",
     "score": 8,
@@ -855,6 +1129,33 @@
       "journal-article"
     ],
     "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Qiaojie Chen",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Haijun Zhang",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Yang Chen",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Bo Zhang",
+            "affiliations": [],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      },
       "Europe PMC": {
         "authors": [
           {
@@ -889,33 +1190,6 @@
         "publicationTypes": [
           "Review",
           "Journal Article"
-        ]
-      },
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Qiaojie Chen",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Haijun Zhang",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Yang Chen",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Bo Zhang",
-            "affiliations": [],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
         ]
       }
     },
@@ -1387,8 +1661,8 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Europe PMC": "42864320",
-      "Crossref": "10.1038/s41413-026-00565-x"
+      "Crossref": "10.1038/s41413-026-00565-x",
+      "Europe PMC": "42864320"
     },
     "grade": "A",
     "score": 15,
@@ -1549,6 +1823,83 @@
       "journal-article"
     ],
     "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Xi Chen",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Xin Li",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Zenghui Gu",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Qi Lu",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Xinyu Qian",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Yier Fan",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Ke Deng",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Shanshan Li",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Zhe Wei",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Yang Xu",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Wenzhen Fu",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Hou-Feng Zheng",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Weiwei Hu",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Zhenlin Zhang",
+            "affiliations": [],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      },
       "Europe PMC": {
         "authors": [
           {
@@ -1657,83 +2008,6 @@
         ],
         "publicationTypes": [
           "Journal Article"
-        ]
-      },
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Xi Chen",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Xin Li",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Zenghui Gu",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Qi Lu",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Xinyu Qian",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Yier Fan",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Ke Deng",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Shanshan Li",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Zhe Wei",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Yang Xu",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Wenzhen Fu",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Hou-Feng Zheng",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Weiwei Hu",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Zhenlin Zhang",
-            "affiliations": [],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
         ]
       }
     },
