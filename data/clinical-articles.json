@@ -1,5 +1,150 @@
 [
   {
+    "id": "10.1111/jcpe.70216",
+    "doi": "10.1111/jcpe.70216",
+    "title": "An Exploratory Longitudinal Analysis of Salivary Host, Bacterial and Fungal Extracellular Vesicles Following 6‐Month Non‐Surgical Periodontal Therapy in Periodontitis",
+    "abstract": "ABSTRACT Aim To evaluate the longitudinal changes in salivary host and non‐host extracellular vesicles (EVs) following non‐surgical periodontal therapy (NSPT). Materials and Methods Unstimulated saliva and plaque (from a deep pocket) were collected from 25 Stage III/IV periodontitis patients at baseline and at 3 and 6 months post NSPT. Host salivary EVs and non‐host EVs were isolated using immunoaffinity, and size‐exclusion chromatography, respectively. Host EV cytokines were assessed by multiplex flow cytometry, and non‐host EVs, saliva and plaque were profiled by 16S rRNA and fungal internal transcribed spacer (ITS) sequencing. Results Periodontal parameters significantly decreased at 3 and 6 months post NSPT (vs. baseline), accompanied by increased host‐EVs associated cytokines interleukin‐4 (IL‐4), IL‐12 and IL‐9 (not whole saliva). At both timepoints, bacterial EVs also declined, including the genera Filifactor , Parvimonas and Lentimicrobium and the species Fusobacterium nucleatum , Filifactor alocis , Tannerella forsythia , Treponema denticola , Porphyromonas gingivalis , P. endodontalis , P. micra and Lachnospiraceae bacterium; similar reductions were observed in plaque and saliva taxa, including Treponema , Tannerella , Parvimonas , T. forsythia , T. socranskii and P. micra . At 6 months, fungal EVs from Malassezia arunalokei were decreased and the fungal Candida parapsilosis EVs were increased. Conclusions NSPT led to changes in salivary host and non‐host EV cargoes, suggesting that they may serve as a non‐invasive tool for disease treatment monitoring in periodontitis.",
+    "journal": "Journal of Clinical Periodontology",
+    "journalId": "jcp",
+    "date": "2026-10-23",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1111/jcpe.70216",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1111/jcpe.70216"
+    },
+    "onlineDate": "2026-10-23",
+    "onlineDatePrecision": "day",
+    "authors": [
+      {
+        "name": "Chun Liu",
+        "affiliations": [
+          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Jenny Wang",
+        "affiliations": [
+          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Andrew Lai",
+        "affiliations": [
+          "Translational Extracellular Vesicles in Obstetrics and Gynae‐Oncology Group, The University of Queensland Frazer Institute, Royal Brisbane and Women's Hospital, Faculty of Medicine The University of Queensland Brisbane Queensland Australia"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Carlos Salomon",
+        "affiliations": [
+          "Translational Extracellular Vesicles in Obstetrics and Gynae‐Oncology Group, The University of Queensland Frazer Institute, Royal Brisbane and Women's Hospital, Faculty of Medicine The University of Queensland Brisbane Queensland Australia"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Chaminda Jayampath Seneviratne",
+        "affiliations": [
+          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Sašo Ivanovski",
+        "affiliations": [
+          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Pingping Han",
+        "affiliations": [
+          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
+        ],
+        "source": "Crossref"
+      }
+    ],
+    "publicationTypes": [
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Chun Liu",
+            "affiliations": [
+              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jenny Wang",
+            "affiliations": [
+              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Andrew Lai",
+            "affiliations": [
+              "Translational Extracellular Vesicles in Obstetrics and Gynae‐Oncology Group, The University of Queensland Frazer Institute, Royal Brisbane and Women's Hospital, Faculty of Medicine The University of Queensland Brisbane Queensland Australia"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Carlos Salomon",
+            "affiliations": [
+              "Translational Extracellular Vesicles in Obstetrics and Gynae‐Oncology Group, The University of Queensland Frazer Institute, Royal Brisbane and Women's Hospital, Faculty of Medicine The University of Queensland Brisbane Queensland Australia"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Chaminda Jayampath Seneviratne",
+            "affiliations": [
+              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Sašo Ivanovski",
+            "affiliations": [
+              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Pingping Han",
+            "affiliations": [
+              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "grade": "B",
+    "score": 5,
+    "topics": [
+      "牙周治疗"
+    ],
+    "pending": true,
+    "studyType": "研究类型待确认",
+    "studyTypeEvidence": {},
+    "evidence": {},
+    "reason": "临床独立规则：研究类型待确认。类型由词组初筛或信息不足，待确认；优先级不等同于研究质量评价。",
+    "rulesVersion": "2.0",
+    "firstSeenAt": "2026-10-25T00:21:10.092286+00:00",
+    "lastSeenAt": "2026-10-25T00:21:10.092286+00:00",
+    "discoveryKind": "new"
+  },
+  {
     "id": "10.1111/prd.70100",
     "doi": "10.1111/prd.70100",
     "title": "Contemporary zygomatic implant rehabilitation: A critical review of the evidence and clinical recommendations",

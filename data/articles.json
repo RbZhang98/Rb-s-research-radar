@@ -1,5 +1,388 @@
 [
   {
+    "id": "10.1177/00220345261493895",
+    "doi": "10.1177/00220345261493895",
+    "title": "Osteoinductive Microgrooved Membranes for Alveolar Ridge Preservation",
+    "abstract": "Tooth extraction is commonly followed by alveolar ridge resorption, and conventional barrier membranes act largely as passive barriers that do not actively promote early bony sealing of the socket crest. This study asked whether a barrier membrane redesigned to spatially organize early reparative cells at the socket crest preserves alveolar ridge dimensions. Gelatin methacryloyl (GelMA) membranes bearing V-shaped microgrooves were reinforced with electrospun polycaprolactone (PCL) fibers, and recombinant human bone morphogenetic protein 2 (rhBMP-2) was immobilized by stepwise photocrosslinking. Using primary macrophages and bone marrow–derived mesenchymal stem cells, as well as mouse, rat, and beagle models, we assessed macrophage localization and polarization, hypoxia signaling, lactate metabolism, histone lactylation, bone regeneration, and ridge preservation by micro–computed tomography, histology, immunofluorescence, Western blotting, and quantitative reverse transcription polymerase chain reaction. Early bone regeneration in rat calvarial defects was the primary efficacy outcome, and ridge preservation in beagles was a translational outcome. In exploratory analysis, microgrooves guided early myeloid cell enrichment across the defect and were associated with a localized hypoxic microenvironment, lactate dehydrogenase A–dependent lactate production, histone H3K18 lactylation, and a reparative macrophage phenotype that was reversed by lactate dehydrogenase A inhibition in vitro. At 7 and 14 d, microgrooved membranes showed earlier progression of defect healing and extended new bone toward the defect center. Immobilized rhBMP-2 enhanced regeneration to achieve near-complete calvarial closure within 2 wk. In beagles, central socket healing was more advanced at 2 wk in the sites treated with rhBMP-2 microgrooved membranes . At 3 mo, treated sites retained alveolar ridge width, height, and the buccal bone plate relative to natural healing. Microgrooved barrier membranes combined with localized osteoinduction increased early bone regeneration in a controlled rodent comparison and provide proof of concept for alveolar ridge preservation in a canine extraction model.",
+    "journal": "Journal of Dental Research",
+    "journalId": "jdr",
+    "date": "2026-10-24",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1177/00220345261493895",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1177/00220345261493895"
+    },
+    "onlineDate": "2026-10-24",
+    "onlineDatePrecision": "day",
+    "authors": [
+      {
+        "name": "J. Wang",
+        "affiliations": [
+          "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Y. Yang",
+        "affiliations": [
+          "Department of Preventive Dentistry, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology, Research Unit of Oral and Maxillofacial Regenerative Medicine, Chinese Academy of Medical Sciences, Shanghai, China"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "L. Meng",
+        "affiliations": [
+          "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "L. Gao",
+        "affiliations": [
+          "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "J. Wang",
+        "affiliations": [
+          "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "H. Ma",
+        "affiliations": [
+          "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "R. Liu",
+        "affiliations": [
+          "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "S. Duan",
+        "affiliations": [
+          "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "W. Jiang",
+        "affiliations": [
+          "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Q. Gu",
+        "affiliations": [
+          "Department of Preventive Dentistry, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology, Shanghai, China"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "H. Lu",
+        "affiliations": [
+          "Department of Preventive Dentistry, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology, Shanghai, China"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "W. Zhang",
+        "affiliations": [
+          "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+        ],
+        "source": "Crossref"
+      }
+    ],
+    "publicationTypes": [
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "J. Wang",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Y. Yang",
+            "affiliations": [
+              "Department of Preventive Dentistry, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology, Research Unit of Oral and Maxillofacial Regenerative Medicine, Chinese Academy of Medical Sciences, Shanghai, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "L. Meng",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "L. Gao",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "J. Wang",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "H. Ma",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "R. Liu",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "S. Duan",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "W. Jiang",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Q. Gu",
+            "affiliations": [
+              "Department of Preventive Dentistry, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology, Shanghai, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "H. Lu",
+            "affiliations": [
+              "Department of Preventive Dentistry, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology, Shanghai, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "W. Zhang",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "grade": "A",
+    "score": 12,
+    "topics": [
+      "C 骨与牙周组织再生",
+      "E 可迁移基础发现与技术",
+      "D 骨免疫与炎症微环境"
+    ],
+    "pending": false,
+    "evidence": {
+      "C 骨与牙周组织再生": [
+        "bone regeneration",
+        "mesenchymal stem"
+      ],
+      "E 可迁移基础发现与技术": [
+        "stem cell"
+      ],
+      "D 骨免疫与炎症微环境": [
+        "macrophage"
+      ]
+    },
+    "reason": "规则命中：bone regeneration, mesenchymal stem；stem cell；macrophage；分级仅表示关键词证据，未经语义或人工验证。",
+    "rulesVersion": "2.0",
+    "inspirationScore": 0,
+    "transferMechanisms": [],
+    "evidenceScope": "直接领域词汇证据",
+    "firstSeenAt": "2026-10-25T00:21:06.188226+00:00",
+    "lastSeenAt": "2026-10-25T00:21:06.188226+00:00",
+    "discoveryKind": "new"
+  },
+  {
+    "id": "10.1111/jcpe.70216",
+    "doi": "10.1111/jcpe.70216",
+    "title": "An Exploratory Longitudinal Analysis of Salivary Host, Bacterial and Fungal Extracellular Vesicles Following 6‐Month Non‐Surgical Periodontal Therapy in Periodontitis",
+    "abstract": "ABSTRACT Aim To evaluate the longitudinal changes in salivary host and non‐host extracellular vesicles (EVs) following non‐surgical periodontal therapy (NSPT). Materials and Methods Unstimulated saliva and plaque (from a deep pocket) were collected from 25 Stage III/IV periodontitis patients at baseline and at 3 and 6 months post NSPT. Host salivary EVs and non‐host EVs were isolated using immunoaffinity, and size‐exclusion chromatography, respectively. Host EV cytokines were assessed by multiplex flow cytometry, and non‐host EVs, saliva and plaque were profiled by 16S rRNA and fungal internal transcribed spacer (ITS) sequencing. Results Periodontal parameters significantly decreased at 3 and 6 months post NSPT (vs. baseline), accompanied by increased host‐EVs associated cytokines interleukin‐4 (IL‐4), IL‐12 and IL‐9 (not whole saliva). At both timepoints, bacterial EVs also declined, including the genera Filifactor , Parvimonas and Lentimicrobium and the species Fusobacterium nucleatum , Filifactor alocis , Tannerella forsythia , Treponema denticola , Porphyromonas gingivalis , P. endodontalis , P. micra and Lachnospiraceae bacterium; similar reductions were observed in plaque and saliva taxa, including Treponema , Tannerella , Parvimonas , T. forsythia , T. socranskii and P. micra . At 6 months, fungal EVs from Malassezia arunalokei were decreased and the fungal Candida parapsilosis EVs were increased. Conclusions NSPT led to changes in salivary host and non‐host EV cargoes, suggesting that they may serve as a non‐invasive tool for disease treatment monitoring in periodontitis.",
+    "journal": "Journal of Clinical Periodontology",
+    "journalId": "jcp",
+    "date": "2026-10-23",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1111/jcpe.70216",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1111/jcpe.70216"
+    },
+    "onlineDate": "2026-10-23",
+    "onlineDatePrecision": "day",
+    "authors": [
+      {
+        "name": "Chun Liu",
+        "affiliations": [
+          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Jenny Wang",
+        "affiliations": [
+          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Andrew Lai",
+        "affiliations": [
+          "Translational Extracellular Vesicles in Obstetrics and Gynae‐Oncology Group, The University of Queensland Frazer Institute, Royal Brisbane and Women's Hospital, Faculty of Medicine The University of Queensland Brisbane Queensland Australia"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Carlos Salomon",
+        "affiliations": [
+          "Translational Extracellular Vesicles in Obstetrics and Gynae‐Oncology Group, The University of Queensland Frazer Institute, Royal Brisbane and Women's Hospital, Faculty of Medicine The University of Queensland Brisbane Queensland Australia"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Chaminda Jayampath Seneviratne",
+        "affiliations": [
+          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Sašo Ivanovski",
+        "affiliations": [
+          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Pingping Han",
+        "affiliations": [
+          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
+        ],
+        "source": "Crossref"
+      }
+    ],
+    "publicationTypes": [
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Chun Liu",
+            "affiliations": [
+              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jenny Wang",
+            "affiliations": [
+              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Andrew Lai",
+            "affiliations": [
+              "Translational Extracellular Vesicles in Obstetrics and Gynae‐Oncology Group, The University of Queensland Frazer Institute, Royal Brisbane and Women's Hospital, Faculty of Medicine The University of Queensland Brisbane Queensland Australia"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Carlos Salomon",
+            "affiliations": [
+              "Translational Extracellular Vesicles in Obstetrics and Gynae‐Oncology Group, The University of Queensland Frazer Institute, Royal Brisbane and Women's Hospital, Faculty of Medicine The University of Queensland Brisbane Queensland Australia"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Chaminda Jayampath Seneviratne",
+            "affiliations": [
+              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Sašo Ivanovski",
+            "affiliations": [
+              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Pingping Han",
+            "affiliations": [
+              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "grade": "B",
+    "score": 6,
+    "topics": [
+      "A 牙周炎与牙槽骨吸收",
+      "D 骨免疫与炎症微环境"
+    ],
+    "pending": false,
+    "evidence": {
+      "A 牙周炎与牙槽骨吸收": [
+        "periodontitis"
+      ],
+      "D 骨免疫与炎症微环境": [
+        "cytokine"
+      ]
+    },
+    "reason": "规则命中：periodontitis；cytokine；分级仅表示关键词证据，未经语义或人工验证。",
+    "rulesVersion": "2.0",
+    "inspirationScore": 0,
+    "transferMechanisms": [],
+    "evidenceScope": "直接领域词汇证据",
+    "firstSeenAt": "2026-10-25T00:21:06.188226+00:00",
+    "lastSeenAt": "2026-10-25T00:21:06.188226+00:00",
+    "discoveryKind": "new"
+  },
+  {
     "id": "10.1038/s41551-026-01817-1",
     "doi": "10.1038/s41551-026-01817-1",
     "title": "Hydrogel for sustained and localized delivery of a regulatory T cell-inducing agent promotes bone regeneration",
@@ -164,7 +547,7 @@
   {
     "id": "10.1093/jbmr/zjag149",
     "doi": "10.1093/jbmr/zjag149",
-    "title": "Isoform Runx2-II is sufficient for the development of calvaria, clavicles, and limb bones in the absence of Runx2-I",
+    "title": "Isoform Runx2-II is sufficient for the development of calvaria, clavicles, and limb bones in the absence of Runx2-I.",
     "abstract": "Abstract Runx2 is an essential transcription factor for osteoblast differentiation and chondrocyte maturation. Heterozygous mutations in RUNX2 cause cleidocranial dysplasia, characterized by an open fontanel, hypoplastic clavicles, and short stature. Runx2 is transcribed from two promoters, P1 and P2, generating Runx2-II and Runx2-I, respectively. However, the function of Runx2-I remains unclear. To clarify its function, we generated Runx2-I-specific knockout mice by systematically deleting the P2 region while retaining the downstream sequence from the branch site for intron 1 splicing. As the 2.5-kb and 24-kb deletions did not disrupt P2, the deletion was extended to 76 kb (Int1del/+ mice). Because this intron contains Supt3, whose homozygous deletion was lethal on embryonic day 9.5-10.5, we crossed Int1del/+ mice with Runx2+/– mice. Cap analysis of gene expression showed that Runx2-I mRNA was absent in Int1del/+Runx2+/– mice. In newborn calvaria and 6-week-old femurs, real-time reverse transcription-polymerase chain reaction analysis showed that Runx2-II mRNA in Int1del/+Runx2+/– mice was upregulated to wild-type levels, whereas the total Runx2 mRNA was comparable to Runx2+/– mice. At E16.5 and the newborn stage, skeletal preparation and histological and micro-CT analyses showed that the impaired development of cranial bones, clavicles, and limb bones in Runx2+/– mice was rescued in Int1del/+Runx2+/– mice, whereas that of the ribs, sternum, and vertebrae was not. In 6-week-old females, reduced femoral cortical thickness in Runx2+/– mice was restored in Int1del/+Runx2+/– mice. Neither Runx2-I nor Runx2-II overexpression exhibited negative autoregulation of endogenous expression. Depending on the cell type examined, their overexpression or Runx2 knockdown differentially affected P1 and P2 reporter activities, which were also influenced by an osteoblast-specific enhancer. These findings indicate that wild-type levels of Runx2-II can substitute for Runx2-I in calvaria, clavicle, and limb bone development. Upregulation of Runx2-II in Int1del/+Runx2+/– mice cannot be explained by negative autoregulation, offering a hypothetical model of reciprocal P1/P2 regulation.",
     "journal": "Journal of Bone and Mineral Research",
     "journalId": "jbmr",
@@ -172,62 +555,117 @@
     "datePrecision": "day",
     "url": "https://doi.org/10.1093/jbmr/zjag149",
     "sources": [
-      "Crossref"
+      "Crossref",
+      "Europe PMC"
     ],
     "sourceIds": {
+      "Europe PMC": "42911225",
       "Crossref": "10.1093/jbmr/zjag149"
     },
     "onlineDate": "2026-10-22",
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "Yuki Matsuo",
+        "name": "Matsuo Y",
         "affiliations": [
-          "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,",
-          "Department of Skeletal Development and Regenerative Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,"
+          "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences, Nagasaki 852-8588, Japan.",
+          "Department of Skeletal Development and Regenerative Biology, Nagasaki University Graduate School of Biomedical Sciences, Nagasaki 852-8588, Japan."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Suemi Yabuta",
+        "name": "Yabuta S",
         "affiliations": [
-          "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,"
+          "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences, Nagasaki 852-8588, Japan."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Takeshi Moriishi",
+        "name": "Moriishi T",
         "affiliations": [
-          "Department of Skeletal Development and Regenerative Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,"
+          "Department of Skeletal Development and Regenerative Biology, Nagasaki University Graduate School of Biomedical Sciences, Nagasaki 852-8588, Japan."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Chiharu Sakane",
+        "name": "Sakane C",
         "affiliations": [
-          "Research Center for Biomedical Models and Animal Welfare, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki, 852–8588 ,"
+          "Research Center for Biomedical Models and Animal Welfare, Nagasaki University Graduate School of Biomedical Sciences, Nagasaki, 852-8588, Japan."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Hisato Komori",
+        "name": "Komori H",
         "affiliations": [
-          "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,"
+          "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences, Nagasaki 852-8588, Japan."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Toshihisa Komori",
+        "name": "Komori T",
         "affiliations": [
-          "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,"
+          "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences, Nagasaki 852-8588, Japan."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
+      "IM",
+      "Journal Article",
       "journal-article"
     ],
     "metadataBySource": {
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Matsuo Y",
+            "affiliations": [
+              "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences, Nagasaki 852-8588, Japan.",
+              "Department of Skeletal Development and Regenerative Biology, Nagasaki University Graduate School of Biomedical Sciences, Nagasaki 852-8588, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Yabuta S",
+            "affiliations": [
+              "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences, Nagasaki 852-8588, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Moriishi T",
+            "affiliations": [
+              "Department of Skeletal Development and Regenerative Biology, Nagasaki University Graduate School of Biomedical Sciences, Nagasaki 852-8588, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Sakane C",
+            "affiliations": [
+              "Research Center for Biomedical Models and Animal Welfare, Nagasaki University Graduate School of Biomedical Sciences, Nagasaki, 852-8588, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Komori H",
+            "affiliations": [
+              "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences, Nagasaki 852-8588, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Komori T",
+            "affiliations": [
+              "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences, Nagasaki 852-8588, Japan."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "IM",
+          "Journal Article"
+        ]
+      },
       "Crossref": {
         "authors": [
           {

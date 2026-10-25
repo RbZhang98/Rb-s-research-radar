@@ -172,8 +172,8 @@
     ],
     "evidenceScope": "可能迁移的科学原理，未验证骨/牙周适用性",
     "firstSeenAt": "2026-10-24T00:29:34.080435+00:00",
-    "lastSeenAt": "2026-10-24T00:29:34.080435+00:00",
-    "discoveryKind": "new",
+    "lastSeenAt": "2026-10-25T00:21:06.188226+00:00",
+    "discoveryKind": "historical-rediscovery",
     "temporary": true,
     "expiresAt": "2026-11-07T00:29:34.080435+00:00"
   },
@@ -288,7 +288,7 @@
     ],
     "evidenceScope": "可能迁移的科学原理，未验证骨/牙周适用性",
     "firstSeenAt": "2026-10-22T00:26:16.630084+00:00",
-    "lastSeenAt": "2026-10-24T00:29:34.080435+00:00",
+    "lastSeenAt": "2026-10-25T00:21:06.188226+00:00",
     "discoveryKind": "historical-rediscovery",
     "temporary": true,
     "expiresAt": "2026-11-05T00:26:16.630084+00:00"
@@ -564,7 +564,7 @@
     ],
     "evidenceScope": "可能迁移的科学原理，未验证骨/牙周适用性",
     "firstSeenAt": "2026-10-20T00:27:42.210895+00:00",
-    "lastSeenAt": "2026-10-24T00:29:34.080435+00:00",
+    "lastSeenAt": "2026-10-25T00:21:06.188226+00:00",
     "discoveryKind": "historical-rediscovery",
     "temporary": true,
     "expiresAt": "2026-11-03T00:27:42.210895+00:00"
