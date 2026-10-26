@@ -2,7 +2,7 @@
   {
     "id": "10.1177/00220345261489583",
     "doi": "10.1177/00220345261489583",
-    "title": "Multi-Omics Reveals Nonlinear Trajectories and Subtypes in TMJ Disease",
+    "title": "Multi-Omics Reveals Nonlinear Trajectories and Subtypes in TMJ Disease.",
     "abstract": "Temporomandibular joint (TMJ) disease encompasses a disease continuum from disc displacement to osteoarthritis and perforation, yet patients with similar imaging often follow divergent clinical trajectories. Here, we performed integrated proteomic and metabolomic profiling of synovial fluid from patients across 5 imaging-defined stages (normal disc to advanced degeneration with perforation), quantifying 860 proteins ( n = 91) and 1,027 metabolites ( n = 62). Clinical symptoms did not differ significantly across stages, and unsupervised principal component analysis revealed substantial molecular overlap with no stage separation. Integrated multi-omics analysis revealed that complement activation, cholesterol metabolism, and glutathione-mediated oxidative stress were dynamically associated with disease progression. The imaging severity score (ISS) increased from stage 1 to stage 4 and declined at stage 5, revealing a nonlinear disease pattern. Proteomic and metabolomic modules correlated strongly with ISS ( r = 0.60 and r = −0.49), identifying phospholipid transfer protein (PLTP) and follistatin-like protein 1 (FSTL1) as exploratory candidate markers associated with disease severity. Given that anatomical staging failed to capture molecular heterogeneity, exploratory consensus clustering identified 3 molecular phenotypes complementary to anatomical staging: subtype 1 (extracellular matrix remodeling/mechanotransduction), subtype 2 (inflammatory-lipid metabolic), and subtype 3 (immune activated), each with distinct clinical profiles. Together, this study provides the first integrated multi-omics characterization of the TMJ disease continuum, revealing nonlinear progression with disc perforation as a potential transition point and supporting a complementary biology-informed framework for molecular stratification and future mechanism-based therapeutic research.",
     "journal": "Journal of Dental Research",
     "journalId": "jdr",
@@ -10,78 +10,147 @@
     "datePrecision": "day",
     "url": "https://doi.org/10.1177/00220345261489583",
     "sources": [
-      "Crossref"
+      "Crossref",
+      "Europe PMC"
     ],
     "sourceIds": {
+      "Europe PMC": "42925003",
       "Crossref": "10.1177/00220345261489583"
     },
-    "onlineDate": "2026-10-23",
-    "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "L. Wang",
+        "name": "Wang L",
         "affiliations": [
-          "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China"
+          "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Z. Chen",
+        "name": "Chen Z",
         "affiliations": [
-          "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China"
+          "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Y. Zhang",
+        "name": "Zhang Y",
         "affiliations": [
-          "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China"
+          "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "J. Wang",
+        "name": "Wang J",
         "affiliations": [
-          "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China"
+          "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "W. Li",
+        "name": "Li W",
         "affiliations": [
-          "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China",
-          "Department of Oral Radiology, School & Hospital of Stomatology, Wuhan University, Wuhan, China"
+          "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China.",
+          "Department of Oral Radiology, School & Hospital of Stomatology, Wuhan University, Wuhan, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "B. Li",
+        "name": "Li B",
         "affiliations": [
-          "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China",
-          "Department of Oral Radiology, School & Hospital of Stomatology, Wuhan University, Wuhan, China"
+          "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China.",
+          "Department of Oral Radiology, School & Hospital of Stomatology, Wuhan University, Wuhan, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Y. Cheng",
+        "name": "Cheng Y",
         "affiliations": [
-          "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China",
-          "Department of Oral Radiology, School & Hospital of Stomatology, Wuhan University, Wuhan, China"
+          "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China.",
+          "Department of Oral Radiology, School & Hospital of Stomatology, Wuhan University, Wuhan, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Y. Ji",
+        "name": "Ji Y",
         "affiliations": [
-          "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China"
+          "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
+      "IM",
+      "Journal Article",
       "journal-article"
     ],
     "metadataBySource": {
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Wang L",
+            "affiliations": [
+              "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Chen Z",
+            "affiliations": [
+              "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Zhang Y",
+            "affiliations": [
+              "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Wang J",
+            "affiliations": [
+              "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Li W",
+            "affiliations": [
+              "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China.",
+              "Department of Oral Radiology, School & Hospital of Stomatology, Wuhan University, Wuhan, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Li B",
+            "affiliations": [
+              "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China.",
+              "Department of Oral Radiology, School & Hospital of Stomatology, Wuhan University, Wuhan, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Cheng Y",
+            "affiliations": [
+              "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China.",
+              "Department of Oral Radiology, School & Hospital of Stomatology, Wuhan University, Wuhan, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Ji Y",
+            "affiliations": [
+              "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "IM",
+          "Journal Article"
+        ]
+      },
       "Crossref": {
         "authors": [
           {
@@ -149,6 +218,8 @@
         ]
       }
     },
+    "onlineDate": "2026-10-23",
+    "onlineDatePrecision": "day",
     "grade": "C",
     "score": 1,
     "topics": [
@@ -172,7 +243,7 @@
     ],
     "evidenceScope": "可能迁移的科学原理，未验证骨/牙周适用性",
     "firstSeenAt": "2026-10-24T00:29:34.080435+00:00",
-    "lastSeenAt": "2026-10-25T00:21:06.188226+00:00",
+    "lastSeenAt": "2026-10-26T00:30:06.698396+00:00",
     "discoveryKind": "historical-rediscovery",
     "temporary": true,
     "expiresAt": "2026-11-07T00:29:34.080435+00:00"
@@ -288,7 +359,7 @@
     ],
     "evidenceScope": "可能迁移的科学原理，未验证骨/牙周适用性",
     "firstSeenAt": "2026-10-22T00:26:16.630084+00:00",
-    "lastSeenAt": "2026-10-25T00:21:06.188226+00:00",
+    "lastSeenAt": "2026-10-26T00:30:06.698396+00:00",
     "discoveryKind": "historical-rediscovery",
     "temporary": true,
     "expiresAt": "2026-11-05T00:26:16.630084+00:00"
@@ -296,7 +367,7 @@
   {
     "id": "10.1038/s41467-026-78462-4",
     "doi": "10.1038/s41467-026-78462-4",
-    "title": "Nano-kinetic implant surface mediates osteo-antibacterial synergy through electromagnetic-mechanical coupling",
+    "title": "Nano-kinetic implant surface mediates osteo-antibacterial synergy through electromagnetic-mechanical coupling.",
     "abstract": "Periprosthetic joint infection (PJI) is a devastating complication of total joint arthroplasty, mainly caused by bacterial biofilm formation and antibiotic resistance. Traditional static surfaces rely on contact killing-based bactericidal properties and cannot reliably clear mature biofilms. In this study, we fabricate a remote-activated dynamic biomimetic system, namely a movable magnetic topographic surface (MMTS). Here we show that under the exposure of external electromagnetic field (EMF), the anchored Janus nano-heterodimers oscillate periodically to mechanically disrupt bacterial membranes and eradicates biofilms of Staphylococcus aureus and Escherichia coli. This mechanical force can also activates Piezo1 mechanosensitive ion channel in bone marrow mesenchymal stem cells (BMSCs), inducing calcium oscillations, upregulating gene expression of Runx2 and BMP2, and enhancing extracellular matrix mineralization. In vivo, MMTS combined with EMF exposure eliminates local infection and promoted osseointegration. This remote-activated dynamic biomimetic strategy offers a promising multifunctional platform for PJI treatment, and improved implant osteointegration in clinical orthopedics.",
     "journal": "Nature Communications",
     "journalId": "nature-communications",
@@ -308,11 +379,9 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1038/s41467-026-78462-4",
-      "Europe PMC": "42897207"
+      "Europe PMC": "42897207",
+      "Crossref": "10.1038/s41467-026-78462-4"
     },
-    "onlineDate": "2026-10-19",
-    "onlineDatePrecision": "day",
     "authors": [
       {
         "name": "Chen Y",
@@ -396,63 +465,6 @@
       "research-article"
     ],
     "metadataBySource": {
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Yangmengfan Chen",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Hao Du",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Heng Sun",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Xingcan Huang",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Duan Wang",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Xuming Chen",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Jiehao Chen",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Xuanjun Zhang",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Liqiang Zhou",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Zongke Zhou",
-            "affiliations": [],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
-        ]
-      },
       "Europe PMC": {
         "authors": [
           {
@@ -535,8 +547,67 @@
           "research-article",
           "Journal Article"
         ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Yangmengfan Chen",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Hao Du",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Heng Sun",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Xingcan Huang",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Duan Wang",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Xuming Chen",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jiehao Chen",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Xuanjun Zhang",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Liqiang Zhou",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Zongke Zhou",
+            "affiliations": [],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
       }
     },
+    "onlineDate": "2026-10-19",
+    "onlineDatePrecision": "day",
     "grade": "C",
     "score": 4,
     "topics": [
@@ -564,7 +635,7 @@
     ],
     "evidenceScope": "可能迁移的科学原理，未验证骨/牙周适用性",
     "firstSeenAt": "2026-10-20T00:27:42.210895+00:00",
-    "lastSeenAt": "2026-10-25T00:21:06.188226+00:00",
+    "lastSeenAt": "2026-10-26T00:30:06.698396+00:00",
     "discoveryKind": "historical-rediscovery",
     "temporary": true,
     "expiresAt": "2026-11-03T00:27:42.210895+00:00"

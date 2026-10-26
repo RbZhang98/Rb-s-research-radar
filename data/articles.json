@@ -2,111 +2,207 @@
   {
     "id": "10.1177/00220345261493895",
     "doi": "10.1177/00220345261493895",
-    "title": "Osteoinductive Microgrooved Membranes for Alveolar Ridge Preservation",
-    "abstract": "Tooth extraction is commonly followed by alveolar ridge resorption, and conventional barrier membranes act largely as passive barriers that do not actively promote early bony sealing of the socket crest. This study asked whether a barrier membrane redesigned to spatially organize early reparative cells at the socket crest preserves alveolar ridge dimensions. Gelatin methacryloyl (GelMA) membranes bearing V-shaped microgrooves were reinforced with electrospun polycaprolactone (PCL) fibers, and recombinant human bone morphogenetic protein 2 (rhBMP-2) was immobilized by stepwise photocrosslinking. Using primary macrophages and bone marrow–derived mesenchymal stem cells, as well as mouse, rat, and beagle models, we assessed macrophage localization and polarization, hypoxia signaling, lactate metabolism, histone lactylation, bone regeneration, and ridge preservation by micro–computed tomography, histology, immunofluorescence, Western blotting, and quantitative reverse transcription polymerase chain reaction. Early bone regeneration in rat calvarial defects was the primary efficacy outcome, and ridge preservation in beagles was a translational outcome. In exploratory analysis, microgrooves guided early myeloid cell enrichment across the defect and were associated with a localized hypoxic microenvironment, lactate dehydrogenase A–dependent lactate production, histone H3K18 lactylation, and a reparative macrophage phenotype that was reversed by lactate dehydrogenase A inhibition in vitro. At 7 and 14 d, microgrooved membranes showed earlier progression of defect healing and extended new bone toward the defect center. Immobilized rhBMP-2 enhanced regeneration to achieve near-complete calvarial closure within 2 wk. In beagles, central socket healing was more advanced at 2 wk in the sites treated with rhBMP-2 microgrooved membranes . At 3 mo, treated sites retained alveolar ridge width, height, and the buccal bone plate relative to natural healing. Microgrooved barrier membranes combined with localized osteoinduction increased early bone regeneration in a controlled rodent comparison and provide proof of concept for alveolar ridge preservation in a canine extraction model.",
+    "title": "Osteoinductive Microgrooved Membranes for Alveolar Ridge Preservation.",
+    "abstract": "Tooth extraction is commonly followed by alveolar ridge resorption, and conventional barrier membranes act largely as passive barriers that do not actively promote early bony sealing of the socket crest. This study asked whether a barrier membrane redesigned to spatially organize early reparative cells at the socket crest preserves alveolar ridge dimensions. Gelatin methacryloyl (GelMA) membranes bearing V-shaped microgrooves were reinforced with electrospun polycaprolactone (PCL) fibers, and recombinant human bone morphogenetic protein 2 (rhBMP-2) was immobilized by stepwise photocrosslinking. Using primary macrophages and bone marrow-derived mesenchymal stem cells, as well as mouse, rat, and beagle models, we assessed macrophage localization and polarization, hypoxia signaling, lactate metabolism, histone lactylation, bone regeneration, and ridge preservation by micro-computed tomography, histology, immunofluorescence, Western blotting, and quantitative reverse transcription polymerase chain reaction. Early bone regeneration in rat calvarial defects was the primary efficacy outcome, and ridge preservation in beagles was a translational outcome. In exploratory analysis, microgrooves guided early myeloid cell enrichment across the defect and were associated with a localized hypoxic microenvironment, lactate dehydrogenase A-dependent lactate production, histone H3K18 lactylation, and a reparative macrophage phenotype that was reversed by lactate dehydrogenase A inhibition in vitro. At 7 and 14 d, microgrooved membranes showed earlier progression of defect healing and extended new bone toward the defect center. Immobilized rhBMP-2 enhanced regeneration to achieve near-complete calvarial closure within 2 wk. In beagles, central socket healing was more advanced at 2 wk in the sites treated with rhBMP-2 microgrooved membranes . At 3 mo, treated sites retained alveolar ridge width, height, and the buccal bone plate relative to natural healing. Microgrooved barrier membranes combined with localized osteoinduction increased early bone regeneration in a controlled rodent comparison and provide proof of concept for alveolar ridge preservation in a canine extraction model.",
     "journal": "Journal of Dental Research",
     "journalId": "jdr",
     "date": "2026-10-24",
     "datePrecision": "day",
     "url": "https://doi.org/10.1177/00220345261493895",
     "sources": [
-      "Crossref"
+      "Crossref",
+      "Europe PMC"
     ],
     "sourceIds": {
+      "Europe PMC": "42921737",
       "Crossref": "10.1177/00220345261493895"
     },
     "onlineDate": "2026-10-24",
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "J. Wang",
+        "name": "Wang J",
         "affiliations": [
-          "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+          "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Y. Yang",
+        "name": "Yang Y",
         "affiliations": [
-          "Department of Preventive Dentistry, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology, Research Unit of Oral and Maxillofacial Regenerative Medicine, Chinese Academy of Medical Sciences, Shanghai, China"
+          "Department of Preventive Dentistry, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology, Research Unit of Oral and Maxillofacial Regenerative Medicine, Chinese Academy of Medical Sciences, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "L. Meng",
+        "name": "Meng L",
         "affiliations": [
-          "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+          "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "L. Gao",
+        "name": "Gao L",
         "affiliations": [
-          "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+          "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "J. Wang",
+        "name": "Wang J",
         "affiliations": [
-          "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+          "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "H. Ma",
+        "name": "Ma H",
         "affiliations": [
-          "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+          "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "R. Liu",
+        "name": "Liu R",
         "affiliations": [
-          "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+          "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "S. Duan",
+        "name": "Duan S",
         "affiliations": [
-          "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+          "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "W. Jiang",
+        "name": "Jiang W",
         "affiliations": [
-          "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+          "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Q. Gu",
+        "name": "Gu Q",
         "affiliations": [
-          "Department of Preventive Dentistry, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology, Shanghai, China"
+          "Department of Preventive Dentistry, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "H. Lu",
+        "name": "Lu H",
         "affiliations": [
-          "Department of Preventive Dentistry, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology, Shanghai, China"
+          "Department of Preventive Dentistry, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "W. Zhang",
+        "name": "Zhang W",
         "affiliations": [
-          "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+          "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
+      "IM",
+      "Journal Article",
       "journal-article"
     ],
     "metadataBySource": {
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Wang J",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Yang Y",
+            "affiliations": [
+              "Department of Preventive Dentistry, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology, Research Unit of Oral and Maxillofacial Regenerative Medicine, Chinese Academy of Medical Sciences, Shanghai, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Meng L",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Gao L",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Wang J",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Ma H",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Liu R",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Duan S",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Jiang W",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Gu Q",
+            "affiliations": [
+              "Department of Preventive Dentistry, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology, Shanghai, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Lu H",
+            "affiliations": [
+              "Department of Preventive Dentistry, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology, Shanghai, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Zhang W",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "IM",
+          "Journal Article"
+        ]
+      },
       "Crossref": {
         "authors": [
           {
@@ -231,7 +327,7 @@
   {
     "id": "10.1111/jcpe.70216",
     "doi": "10.1111/jcpe.70216",
-    "title": "An Exploratory Longitudinal Analysis of Salivary Host, Bacterial and Fungal Extracellular Vesicles Following 6‐Month Non‐Surgical Periodontal Therapy in Periodontitis",
+    "title": "An Exploratory Longitudinal Analysis of Salivary Host, Bacterial and Fungal Extracellular Vesicles Following 6-Month Non-Surgical Periodontal Therapy in Periodontitis.",
     "abstract": "ABSTRACT Aim To evaluate the longitudinal changes in salivary host and non‐host extracellular vesicles (EVs) following non‐surgical periodontal therapy (NSPT). Materials and Methods Unstimulated saliva and plaque (from a deep pocket) were collected from 25 Stage III/IV periodontitis patients at baseline and at 3 and 6 months post NSPT. Host salivary EVs and non‐host EVs were isolated using immunoaffinity, and size‐exclusion chromatography, respectively. Host EV cytokines were assessed by multiplex flow cytometry, and non‐host EVs, saliva and plaque were profiled by 16S rRNA and fungal internal transcribed spacer (ITS) sequencing. Results Periodontal parameters significantly decreased at 3 and 6 months post NSPT (vs. baseline), accompanied by increased host‐EVs associated cytokines interleukin‐4 (IL‐4), IL‐12 and IL‐9 (not whole saliva). At both timepoints, bacterial EVs also declined, including the genera Filifactor , Parvimonas and Lentimicrobium and the species Fusobacterium nucleatum , Filifactor alocis , Tannerella forsythia , Treponema denticola , Porphyromonas gingivalis , P. endodontalis , P. micra and Lachnospiraceae bacterium; similar reductions were observed in plaque and saliva taxa, including Treponema , Tannerella , Parvimonas , T. forsythia , T. socranskii and P. micra . At 6 months, fungal EVs from Malassezia arunalokei were decreased and the fungal Candida parapsilosis EVs were increased. Conclusions NSPT led to changes in salivary host and non‐host EV cargoes, suggesting that they may serve as a non‐invasive tool for disease treatment monitoring in periodontitis.",
     "journal": "Journal of Clinical Periodontology",
     "journalId": "jcp",
@@ -239,68 +335,127 @@
     "datePrecision": "day",
     "url": "https://doi.org/10.1111/jcpe.70216",
     "sources": [
-      "Crossref"
+      "Crossref",
+      "Europe PMC"
     ],
     "sourceIds": {
+      "Europe PMC": "42919615",
       "Crossref": "10.1111/jcpe.70216"
     },
     "onlineDate": "2026-10-23",
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "Chun Liu",
+        "name": "Liu C",
         "affiliations": [
-          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
+          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Jenny Wang",
+        "name": "Wang J",
         "affiliations": [
-          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
+          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Andrew Lai",
+        "name": "Lai A",
         "affiliations": [
-          "Translational Extracellular Vesicles in Obstetrics and Gynae‐Oncology Group, The University of Queensland Frazer Institute, Royal Brisbane and Women's Hospital, Faculty of Medicine The University of Queensland Brisbane Queensland Australia"
+          "Translational Extracellular Vesicles in Obstetrics and Gynae-Oncology Group, The University of Queensland Frazer Institute, Royal Brisbane and Women's Hospital, Faculty of Medicine, The University of Queensland, Brisbane, Queensland, Australia."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Carlos Salomon",
+        "name": "Salomon C",
         "affiliations": [
-          "Translational Extracellular Vesicles in Obstetrics and Gynae‐Oncology Group, The University of Queensland Frazer Institute, Royal Brisbane and Women's Hospital, Faculty of Medicine The University of Queensland Brisbane Queensland Australia"
+          "Translational Extracellular Vesicles in Obstetrics and Gynae-Oncology Group, The University of Queensland Frazer Institute, Royal Brisbane and Women's Hospital, Faculty of Medicine, The University of Queensland, Brisbane, Queensland, Australia."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Chaminda Jayampath Seneviratne",
+        "name": "Seneviratne CJ",
         "affiliations": [
-          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
+          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Sašo Ivanovski",
+        "name": "Ivanovski S",
         "affiliations": [
-          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
+          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Pingping Han",
+        "name": "Han P",
         "affiliations": [
-          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
+          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
+      "Journal Article",
       "journal-article"
     ],
     "metadataBySource": {
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Liu C",
+            "affiliations": [
+              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Wang J",
+            "affiliations": [
+              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Lai A",
+            "affiliations": [
+              "Translational Extracellular Vesicles in Obstetrics and Gynae-Oncology Group, The University of Queensland Frazer Institute, Royal Brisbane and Women's Hospital, Faculty of Medicine, The University of Queensland, Brisbane, Queensland, Australia."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Salomon C",
+            "affiliations": [
+              "Translational Extracellular Vesicles in Obstetrics and Gynae-Oncology Group, The University of Queensland Frazer Institute, Royal Brisbane and Women's Hospital, Faculty of Medicine, The University of Queensland, Brisbane, Queensland, Australia."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Seneviratne CJ",
+            "affiliations": [
+              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Ivanovski S",
+            "affiliations": [
+              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Han P",
+            "affiliations": [
+              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ]
+      },
       "Crossref": {
         "authors": [
           {
@@ -385,82 +540,225 @@
   {
     "id": "10.1038/s41551-026-01817-1",
     "doi": "10.1038/s41551-026-01817-1",
-    "title": "Hydrogel for sustained and localized delivery of a regulatory T cell-inducing agent promotes bone regeneration",
-    "abstract": "",
+    "title": "Hydrogel for sustained and localized delivery of a regulatory T cell-inducing agent promotes bone regeneration.",
+    "abstract": "Local activation of regulatory T (T reg ) cells represents a promising strategy for wound repair and tissue regeneration. However, current T reg -based therapies rely on adoptive cell transfer, which requires ex vivo expansion and reinfusion, posing challenges to donor variability and tissue specificity. Here we engineer a hydrogel-based system for in situ T reg activation at injury sites through the controlled release of AS2863619 (AS), a cyclin-dependent kinase inhibitor. AS is incorporated into collagen hydrogels at concentrations exceeding its solubility limit, reducing burst release and extending the release half-life. This continuous exposure to T reg -inducing agents stabilizes Foxp3 expression in CD4 + T cells, thereby enabling T reg induction and stabilization. The incorporation of laponite nanoparticles further slows AS release and prolongs drug retention. In a calvarial bone-defect model, AS-loaded hydrogels induce dose-dependent T reg cell activation, reduce pro-inflammatory macrophage responses and enhance bone regeneration. Notably, AS-laponite hydrogels achieve complete defect bridging in some cases. By providing spatiotemporal control over T reg populations without the need for cell isolation and expansion, this approach offers a scalable alternative for immunomodulation and tissue repair.",
     "journal": "Nature Biomedical Engineering",
     "journalId": "nature-biomedical-engineering",
     "date": "2026-10-23",
     "datePrecision": "day",
     "url": "https://doi.org/10.1038/s41551-026-01817-1",
     "sources": [
-      "Crossref"
+      "Crossref",
+      "Europe PMC"
     ],
     "sourceIds": {
+      "Europe PMC": "42919907",
       "Crossref": "10.1038/s41551-026-01817-1"
     },
     "onlineDate": "2026-10-23",
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "Gabriele Nasello",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Nasello G",
+        "affiliations": [
+          "John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, USA.",
+          "Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA, USA.",
+          "Skeletal Biology and Engineering Research Center, KU Leuven, Leuven, Belgium.",
+          "Prometheus, Division of Skeletal Tissue Engineering, KU Leuven, Leuven, Belgium."
+        ],
+        "source": "Europe PMC"
       },
       {
-        "name": "Nuria Lafuente-Gómez",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Lafuente-Gómez N",
+        "affiliations": [
+          "John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, USA.",
+          "Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA, USA."
+        ],
+        "source": "Europe PMC"
       },
       {
-        "name": "Leila Krajnovic",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Krajnovic L",
+        "affiliations": [
+          "John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, USA."
+        ],
+        "source": "Europe PMC"
       },
       {
-        "name": "David T. Wu",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Wu DT",
+        "affiliations": [
+          "John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, USA.",
+          "Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA, USA.",
+          "Division of Periodontology, Department of Oral Medicine, Infection, and Immunity, Harvard School of Dental Medicine, Boston, MA, USA.",
+          "Division of Periodontology, Faculty of Dental Medicine and Oral Health Sciences, McGill University, Montreal, Quebec, Canada."
+        ],
+        "source": "Europe PMC"
       },
       {
-        "name": "Mason T. Dacus",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Dacus MT",
+        "affiliations": [
+          "John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, USA.",
+          "Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA, USA."
+        ],
+        "source": "Europe PMC"
       },
       {
-        "name": "Einat B. Vitner",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Vitner EB",
+        "affiliations": [
+          "John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, USA.",
+          "Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA, USA.",
+          "Department of Biochemistry and Molecular Genetics, Israel Institute for Biological Research, Ness-Ziona, Israel."
+        ],
+        "source": "Europe PMC"
       },
       {
-        "name": "Shawn Kang",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Kang S",
+        "affiliations": [
+          "John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, USA.",
+          "Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA, USA."
+        ],
+        "source": "Europe PMC"
       },
       {
-        "name": "Emily Roloson",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Roloson E",
+        "affiliations": [
+          "John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, USA.",
+          "Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA, USA."
+        ],
+        "source": "Europe PMC"
       },
       {
-        "name": "Giovanni Bovone",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Bovone G",
+        "affiliations": [
+          "John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, USA.",
+          "Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA, USA."
+        ],
+        "source": "Europe PMC"
       },
       {
-        "name": "Liesbet Geris",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Geris L",
+        "affiliations": [
+          "Skeletal Biology and Engineering Research Center, KU Leuven, Leuven, Belgium.",
+          "Prometheus, Division of Skeletal Tissue Engineering, KU Leuven, Leuven, Belgium.",
+          "Biomechanics Research Unit, GIGA, University of Liège, Liège, Belgium.",
+          "Biomechanics Section, Department of Mechanical Engineering, KU Leuven, Leuven, Belgium."
+        ],
+        "source": "Europe PMC"
       },
       {
-        "name": "David J. Mooney",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Mooney DJ",
+        "affiliations": [
+          "John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, USA. mooneyd@seas.harvard.edu.",
+          "Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA, USA. mooneyd@seas.harvard.edu."
+        ],
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
+      "Journal Article",
       "journal-article"
     ],
     "metadataBySource": {
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Nasello G",
+            "affiliations": [
+              "John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, USA.",
+              "Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA, USA.",
+              "Skeletal Biology and Engineering Research Center, KU Leuven, Leuven, Belgium.",
+              "Prometheus, Division of Skeletal Tissue Engineering, KU Leuven, Leuven, Belgium."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Lafuente-Gómez N",
+            "affiliations": [
+              "John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, USA.",
+              "Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Krajnovic L",
+            "affiliations": [
+              "John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Wu DT",
+            "affiliations": [
+              "John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, USA.",
+              "Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA, USA.",
+              "Division of Periodontology, Department of Oral Medicine, Infection, and Immunity, Harvard School of Dental Medicine, Boston, MA, USA.",
+              "Division of Periodontology, Faculty of Dental Medicine and Oral Health Sciences, McGill University, Montreal, Quebec, Canada."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Dacus MT",
+            "affiliations": [
+              "John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, USA.",
+              "Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Vitner EB",
+            "affiliations": [
+              "John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, USA.",
+              "Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA, USA.",
+              "Department of Biochemistry and Molecular Genetics, Israel Institute for Biological Research, Ness-Ziona, Israel."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Kang S",
+            "affiliations": [
+              "John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, USA.",
+              "Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Roloson E",
+            "affiliations": [
+              "John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, USA.",
+              "Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Bovone G",
+            "affiliations": [
+              "John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, USA.",
+              "Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Geris L",
+            "affiliations": [
+              "Skeletal Biology and Engineering Research Center, KU Leuven, Leuven, Belgium.",
+              "Prometheus, Division of Skeletal Tissue Engineering, KU Leuven, Leuven, Belgium.",
+              "Biomechanics Research Unit, GIGA, University of Liège, Liège, Belgium.",
+              "Biomechanics Section, Department of Mechanical Engineering, KU Leuven, Leuven, Belgium."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Mooney DJ",
+            "affiliations": [
+              "John A. Paulson School of Engineering and Applied Sciences, Harvard University, Cambridge, MA, USA. mooneyd@seas.harvard.edu.",
+              "Wyss Institute for Biologically Inspired Engineering, Harvard University, Boston, MA, USA. mooneyd@seas.harvard.edu."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ]
+      },
       "Crossref": {
         "authors": [
           {
@@ -524,18 +822,28 @@
         ]
       }
     },
-    "grade": "B",
-    "score": 5,
+    "grade": "A",
+    "score": 10,
     "topics": [
-      "C 骨与牙周组织再生"
+      "C 骨与牙周组织再生",
+      "E 可迁移基础发现与技术",
+      "D 骨免疫与炎症微环境"
     ],
-    "pending": true,
+    "pending": false,
     "evidence": {
       "C 骨与牙周组织再生": [
         "bone regeneration"
+      ],
+      "E 可迁移基础发现与技术": [
+        "tissue regeneration",
+        "tissue repair"
+      ],
+      "D 骨免疫与炎症微环境": [
+        "macrophage",
+        "inflamm"
       ]
     },
-    "reason": "规则命中：bone regeneration；摘要缺失或仅有可迁移线索，待人工确认。",
+    "reason": "规则命中：bone regeneration；tissue regeneration, tissue repair；macrophage, inflamm；分级仅表示关键词证据，未经语义或人工验证。",
     "rulesVersion": "2.0",
     "inspirationScore": 0,
     "transferMechanisms": [],
@@ -610,7 +918,6 @@
       }
     ],
     "publicationTypes": [
-      "IM",
       "Journal Article",
       "journal-article"
     ],
@@ -662,7 +969,6 @@
           }
         ],
         "publicationTypes": [
-          "IM",
           "Journal Article"
         ]
       },
@@ -1492,8 +1798,8 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1038/s41413-026-00589-3",
-      "Europe PMC": "42881169"
+      "Europe PMC": "42881169",
+      "Crossref": "10.1038/s41413-026-00589-3"
     },
     "grade": "A",
     "score": 8,
@@ -1567,33 +1873,6 @@
       "journal-article"
     ],
     "metadataBySource": {
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Qiaojie Chen",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Haijun Zhang",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Yang Chen",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Bo Zhang",
-            "affiliations": [],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
-        ]
-      },
       "Europe PMC": {
         "authors": [
           {
@@ -1628,6 +1907,33 @@
         "publicationTypes": [
           "Review",
           "Journal Article"
+        ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Qiaojie Chen",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Haijun Zhang",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Yang Chen",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Bo Zhang",
+            "affiliations": [],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
         ]
       }
     },
@@ -2099,8 +2405,8 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1038/s41413-026-00565-x",
-      "Europe PMC": "42864320"
+      "Europe PMC": "42864320",
+      "Crossref": "10.1038/s41413-026-00565-x"
     },
     "grade": "A",
     "score": 15,
@@ -2261,83 +2567,6 @@
       "journal-article"
     ],
     "metadataBySource": {
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Xi Chen",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Xin Li",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Zenghui Gu",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Qi Lu",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Xinyu Qian",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Yier Fan",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Ke Deng",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Shanshan Li",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Zhe Wei",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Yang Xu",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Wenzhen Fu",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Hou-Feng Zheng",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Weiwei Hu",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Zhenlin Zhang",
-            "affiliations": [],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
-        ]
-      },
       "Europe PMC": {
         "authors": [
           {
@@ -2446,6 +2675,83 @@
         ],
         "publicationTypes": [
           "Journal Article"
+        ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Xi Chen",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Xin Li",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Zenghui Gu",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Qi Lu",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Xinyu Qian",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Yier Fan",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Ke Deng",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Shanshan Li",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Zhe Wei",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Yang Xu",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Wenzhen Fu",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Hou-Feng Zheng",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Weiwei Hu",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Zhenlin Zhang",
+            "affiliations": [],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
         ]
       }
     },
