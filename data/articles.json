@@ -1,5 +1,184 @@
 [
   {
+    "id": "10.1111/jcpe.70219",
+    "doi": "10.1111/jcpe.70219",
+    "title": "Diagnosed Dental Diseases, Tooth Loss and the Risk of Primary Liver Cancer in a Nationwide Swedish Cohort.",
+    "abstract": "ABSTRACT Background and Aim Poor dental health has been shown to increase the risk of several types of cancer, but its association with primary liver cancer (PLC) remains unclear. We aimed to evaluate the association between dental diseases, tooth loss and the risk of PLC. Patients and Methods We conducted a large population‐based retrospective cohort study including 5,893,325 adults registered in the Swedish Dental Health Register between 2009 and 2016. Participants were linked to multiple Swedish national registers to ascertain incident PLC cases. Cox regression analyses were performed to evaluate the association between dental diseases, tooth loss and the risk of PLC, using attained age as the timescale and adjusting for potential confounders. Additionally, in a sibling comparison analysis we controlled for shared genetic and early‐life environmental factors. Results During a mean follow‐up of 6.36 years, 2374 PLC cases were identified through linkage with the Cancer Register: 1856 hepatocellular carcinoma (HCC) and 518 non‐HCC PLC cases. Both caries (hazard ratio [HR] = 1.15, 95% CI: 1.02–1.30) and periodontitis (HR = 1.25, 95% CI: 1.12–1.39) were associated with an increased risk of PLC. Further, a clear dose–response relationship was observed between fewer remaining teeth and PLC risk, with HRs ranging from 1.15 to 1.84 ( p 27 remaining teeth. Subtype‐specific analyses showed that caries was associated with non‐HCC PLC, whereas periodontitis was associated with HCC. Tooth loss was more strongly associated with HCC than with non‐HCC PLC. The overall findings were generally consistent across sibling‐controlled, subgroup, and sensitivity analyses. Conclusions Our large population‐based cohort study suggests that caries, periodontitis and tooth loss are associated with an elevated risk of PLC, with distinct patterns of association observed for HCC and non‐HCC PLC.",
+    "journal": "Journal of Clinical Periodontology",
+    "journalId": "jcp",
+    "date": "2026-10-25",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1111/jcpe.70219",
+    "sources": [
+      "Crossref",
+      "Europe PMC"
+    ],
+    "sourceIds": {
+      "Europe PMC": "42927980",
+      "Crossref": "10.1111/jcpe.70219"
+    },
+    "authors": [
+      {
+        "name": "Zhong Q",
+        "affiliations": [
+          "Department of Medical Oncology, Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fuzhou, China.",
+          "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Ruan Z",
+        "affiliations": [
+          "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
+          "Key Laboratory of Environmental Medicine and Engineering of Ministry of Education, and Department of Epidemiology & Biostatistics, School of Public Health, Southeast University, Nanjing, China."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Yin L",
+        "affiliations": [
+          "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Adami HO",
+        "affiliations": [
+          "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
+          "Clinical Effectiveness Research Group, Institute of Health and Society, University of Oslo, Oslo, Norway."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Ye W",
+        "affiliations": [
+          "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
+          "Department of Epidemiology and Health Statistics, School of Public Health, Fujian Medical University, Fuzhou, China."
+        ],
+        "source": "Europe PMC"
+      }
+    ],
+    "publicationTypes": [
+      "Journal Article",
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Zhong Q",
+            "affiliations": [
+              "Department of Medical Oncology, Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fuzhou, China.",
+              "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Ruan Z",
+            "affiliations": [
+              "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
+              "Key Laboratory of Environmental Medicine and Engineering of Ministry of Education, and Department of Epidemiology & Biostatistics, School of Public Health, Southeast University, Nanjing, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Yin L",
+            "affiliations": [
+              "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Adami HO",
+            "affiliations": [
+              "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
+              "Clinical Effectiveness Research Group, Institute of Health and Society, University of Oslo, Oslo, Norway."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Ye W",
+            "affiliations": [
+              "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
+              "Department of Epidemiology and Health Statistics, School of Public Health, Fujian Medical University, Fuzhou, China."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Qiaofeng Zhong",
+            "affiliations": [
+              "Department of Medical Oncology Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital Fuzhou China",
+              "Department of Medical Epidemiology and Biostatistics Karolinska Institutet Stockholm Sweden"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Zengliang Ruan",
+            "affiliations": [
+              "Department of Medical Epidemiology and Biostatistics Karolinska Institutet Stockholm Sweden",
+              "Key Laboratory of Environmental Medicine and Engineering of Ministry of Education, and Department of Epidemiology & Biostatistics, School of Public Health Southeast University Nanjing China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Li Yin",
+            "affiliations": [
+              "Department of Medical Epidemiology and Biostatistics Karolinska Institutet Stockholm Sweden"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Hans‐Olov Adami",
+            "affiliations": [
+              "Department of Medical Epidemiology and Biostatistics Karolinska Institutet Stockholm Sweden",
+              "Clinical Effectiveness Research Group, Institute of Health and Society University of Oslo Oslo Norway"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Weimin Ye",
+            "affiliations": [
+              "Department of Medical Epidemiology and Biostatistics Karolinska Institutet Stockholm Sweden",
+              "Department of Epidemiology and Health Statistics, School of Public Health Fujian Medical University Fuzhou China"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "onlineDate": "2026-10-25",
+    "onlineDatePrecision": "day",
+    "grade": "B",
+    "score": 3,
+    "topics": [
+      "A 牙周炎与牙槽骨吸收"
+    ],
+    "pending": false,
+    "evidence": {
+      "A 牙周炎与牙槽骨吸收": [
+        "periodontitis"
+      ]
+    },
+    "reason": "规则命中：periodontitis；分级仅表示关键词证据，未经语义或人工验证。",
+    "rulesVersion": "2.0",
+    "inspirationScore": 0,
+    "transferMechanisms": [],
+    "evidenceScope": "直接领域词汇证据",
+    "firstSeenAt": "2026-10-27T00:27:15.680664+00:00",
+    "lastSeenAt": "2026-10-27T00:27:15.680664+00:00",
+    "discoveryKind": "new"
+  },
+  {
     "id": "10.1177/00220345261493895",
     "doi": "10.1177/00220345261493895",
     "title": "Osteoinductive Microgrooved Membranes for Alveolar Ridge Preservation.",
@@ -106,7 +285,6 @@
       }
     ],
     "publicationTypes": [
-      "IM",
       "Journal Article",
       "journal-article"
     ],
@@ -199,7 +377,6 @@
           }
         ],
         "publicationTypes": [
-          "IM",
           "Journal Article"
         ]
       },

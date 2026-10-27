@@ -1,5 +1,831 @@
 [
   {
+    "id": "10.1111/clr.70189",
+    "doi": "10.1111/clr.70189",
+    "title": "One-Year Outcomes of Chairside Fully Guided Versus Conventional Partially Guided Implant Placement With Transcrestal Sinus Augmentation: A Randomized Controlled Trial.",
+    "abstract": "ABSTRACT Objectives This study represents the 1‐year follow‐up of a previously reported randomized controlled trial comparing chairside fully guided (FG) flapless implant placement with conventional partially guided (PG) open‐flap implant placement. We evaluated marginal bone level (MBL) change, peri‐implant clinical outcomes, and associations between placement accuracy and MBL change. Materials and Methods This study was a 1‐year follow‐up analysis of a previously reported randomized controlled trial. Fifty‐six patients were randomized into the FG ( n = 28) and PG ( n = 28) groups. Radiographic MBL changes and peri‐implant clinical indices were evaluated at baseline and 1‐year post‐loading. Deviations between the virtually planned and placed implants were quantified in three dimensions. Stepwise multiple linear regression analyses were performed to identify accuracy parameters associated with MBL changes. Results Twenty‐one FG and 22 PG patients completed follow‐up. Peri‐implant clinical parameters were comparable between groups. In unadjusted analyses, the FG group showed more positive mesial and mean ΔMBL values than the PG group. However, the treatment group was not significantly associated with mesial, distal, or mean ΔMBL in the adjusted models. Implant accuracy was higher in the FG group, with lower horizontal, three‐dimensional, and angular deviations. Adjusted regression analyses retained TPD and distal EA in the mesial ΔMBL model and VAD in the mean ΔMBL model. Conclusions Chairside, FG flapless implant placement improved positional accuracy and was associated with modest unadjusted differences in short‐term marginal bone level changes after crestal sinus augmentation. However, the between‐group differences in ΔMBL were not statistically significant after adjustment for multiple comparisons. Trial Registration Clinical Research Information Service of the National Research Institute of Health, South Korea (KCT0005465), Registered October 12, 2020. https://cris.nih.go.kr/cris/search/detailSearch.do?seq=26961&search_page=L",
+    "journal": "Clinical Oral Implants Research",
+    "journalId": "coir",
+    "date": "2026-10-26",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1111/clr.70189",
+    "sources": [
+      "Crossref",
+      "Europe PMC"
+    ],
+    "sourceIds": {
+      "Europe PMC": "42929132",
+      "Crossref": "10.1111/clr.70189"
+    },
+    "authors": [
+      {
+        "name": "Lee J",
+        "affiliations": [
+          "Department of Periodontology and Dental Research Institute, School of Dentistry, Seoul National University, Seoul, South Korea."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Baek YW",
+        "affiliations": [
+          "Department of Prosthodontics, Seoul National University Gwanak Dental Hospital, Seoul, South Korea.",
+          "Department of Prosthodontics and Dental Research Institute, School of Dentistry, Seoul National University, Seoul, South Korea."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Kim J",
+        "affiliations": [
+          "Department of Periodontology, Research Institute for Periodontal Regeneration, Yonsei University College of Dentistry, Seoul, South Korea."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Park JY",
+        "affiliations": [
+          "Department of Periodontology, Research Institute for Periodontal Regeneration, Yonsei University College of Dentistry, Seoul, South Korea."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Lee JY",
+        "affiliations": [
+          "Department of Dental Hygiene, Kyungbok University, Namyangju, South Korea."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Kim DM",
+        "affiliations": [
+          "Department of Periodontology, Research Institute for Periodontal Regeneration, Yonsei University College of Dentistry, Seoul, South Korea."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Jung UW",
+        "affiliations": [
+          "Department of Periodontology, Research Institute for Periodontal Regeneration, Yonsei University College of Dentistry, Seoul, South Korea."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Cha JK",
+        "affiliations": [
+          "Department of Periodontology, Research Institute for Periodontal Regeneration, Yonsei University College of Dentistry, Seoul, South Korea."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Lim YJ",
+        "affiliations": [
+          "Department of Prosthodontics and Dental Research Institute, School of Dentistry, Seoul National University, Seoul, South Korea."
+        ],
+        "source": "Europe PMC"
+      }
+    ],
+    "publicationTypes": [
+      "Journal Article",
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Lee J",
+            "affiliations": [
+              "Department of Periodontology and Dental Research Institute, School of Dentistry, Seoul National University, Seoul, South Korea."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Baek YW",
+            "affiliations": [
+              "Department of Prosthodontics, Seoul National University Gwanak Dental Hospital, Seoul, South Korea.",
+              "Department of Prosthodontics and Dental Research Institute, School of Dentistry, Seoul National University, Seoul, South Korea."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Kim J",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration, Yonsei University College of Dentistry, Seoul, South Korea."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Park JY",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration, Yonsei University College of Dentistry, Seoul, South Korea."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Lee JY",
+            "affiliations": [
+              "Department of Dental Hygiene, Kyungbok University, Namyangju, South Korea."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Kim DM",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration, Yonsei University College of Dentistry, Seoul, South Korea."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Jung UW",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration, Yonsei University College of Dentistry, Seoul, South Korea."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Cha JK",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration, Yonsei University College of Dentistry, Seoul, South Korea."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Lim YJ",
+            "affiliations": [
+              "Department of Prosthodontics and Dental Research Institute, School of Dentistry, Seoul National University, Seoul, South Korea."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Jungwon Lee",
+            "affiliations": [
+              "Department of Periodontology and Dental Research Institute, School of Dentistry Seoul National University Seoul South Korea"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Yeon‐Wha Baek",
+            "affiliations": [
+              "Department of Prosthodontics Seoul National University Gwanak Dental Hospital Seoul South Korea",
+              "Department of Prosthodontics and Dental Research Institute, School of Dentistry Seoul National University Seoul South Korea"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jongseung Kim",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul South Korea"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jin‐Young Park",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul South Korea"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Joo‐Yeon Lee",
+            "affiliations": [
+              "Department of Dental Hygiene Kyungbok University Namyangju South Korea"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Da‐mi Kim",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul South Korea"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Ui‐Won Jung",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul South Korea"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jae‐Kook Cha",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul South Korea"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Young‐Jun Lim",
+            "affiliations": [
+              "Department of Prosthodontics and Dental Research Institute, School of Dentistry Seoul National University Seoul South Korea"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "onlineDate": "2026-10-26",
+    "onlineDatePrecision": "day",
+    "grade": "A",
+    "score": 10,
+    "topics": [
+      "种植修复",
+      "临床方法与结局"
+    ],
+    "pending": true,
+    "studyType": "随机对照试验",
+    "studyTypeEvidence": {
+      "terms": [
+        "randomized controlled trial"
+      ],
+      "source": "标题/摘要规则，未经人工确认"
+    },
+    "evidence": {
+      "随机对照试验": {
+        "terms": [
+          "randomized controlled trial"
+        ],
+        "source": "标题/摘要规则，未经人工确认"
+      }
+    },
+    "reason": "临床独立规则：随机对照试验。类型由词组初筛或信息不足，待确认；优先级不等同于研究质量评价。",
+    "rulesVersion": "2.0",
+    "firstSeenAt": "2026-10-27T00:27:20.734485+00:00",
+    "lastSeenAt": "2026-10-27T00:27:20.734485+00:00",
+    "discoveryKind": "new"
+  },
+  {
+    "id": "10.1111/clr.70187",
+    "doi": "10.1111/clr.70187",
+    "title": "Teriparatide Topical Delivery Supports Osseointegration in Ovariectomized Rats Receiving Cafeteria Diet and Bisphosphonate: An In Vivo Experimental Study",
+    "abstract": "ABSTRACT Background Postmenopausal osteoporosis associated with cafeteria diet and bisphosphonate therapy may impair peri‐implant bone repair. Therefore, strategies to enhance osseointegration are needed. Aim This study investigated whether teriparatide‐coated implant surfaces enhance osseointegration in a rodent model of estrogen deficiency (OVX) and cafeteria diet (CD) treated with risedronate (RIS). Material and Methods In the in vitro phase, titanium discs coated with 10 or 40 ng of teriparatide were evaluated by in vitro bioassays, and drug adsorption was confirmed by UV–Vis spectroscopy. As both loading amounts produced similar biological responses, 10 ng was selected for the in vivo phase. In the in vivo phase, 48 rats were randomly assigned to SHAM (sham‐operated control), OVX/CD (ovariectomized with cafeteria diet), or OVX/CD/RIS (ovariectomized with cafeteria diet and risedronate) groups. Titanium implants either coated with teriparatide using a layer‐by‐layer topical drug delivery system or left non‐coated were placed bilaterally in the maxilla. Rats were euthanized after 28 days. Osseointegration was evaluated by removal torque testing, micro computed tomography, fluorescence microscopy, and RT‐qPCR analysis. Results In the cell culture experiment, both teriparatide amounts successfully promoted mineralized nodule formation in vitro and UV–Vis spectroscopy confirmed drug adsorption. In vivo, teriparatide significantly increased removal torque across all groups, with the greatest increase in OVX/CD/RIS. Teriparatide also increased peri‐implant bone volume in OVX/CD and OVX/CD/RIS, confirmed by micro computed tomography and fluorescence microscopy. RT‐qPCR also confirmed upregulation of osteogenic and angiogenic markers. Conclusion Topical teriparatide delivery improves peri‐implant bone repair under estrogen deficiency, cafeteria diet, and bisphosphonate therapy.",
+    "journal": "Clinical Oral Implants Research",
+    "journalId": "coir",
+    "date": "2026-10-26",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1111/clr.70187",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1111/clr.70187"
+    },
+    "onlineDate": "2026-10-26",
+    "onlineDatePrecision": "day",
+    "authors": [
+      {
+        "name": "Ana Cláudia Ervolino da Silva",
+        "affiliations": [
+          "Department of Diagnosis and Surgery São Paulo State University (UNESP), School of Dentistry Araçatuba SP Brazil"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Fábio Roberto de Souza Batista",
+        "affiliations": [
+          "Department of Diagnosis and Surgery São Paulo State University (UNESP), School of Dentistry Araçatuba SP Brazil"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Jaqueline Suemi Hassumi",
+        "affiliations": [
+          "Department of Diagnosis and Surgery São Paulo State University (UNESP), School of Dentistry Araçatuba SP Brazil"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Naara Gabriela Monteiro",
+        "affiliations": [
+          "Department of Diagnosis and Surgery São Paulo State University (UNESP), School of Dentistry Araçatuba SP Brazil"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Marina Santos Fernandes",
+        "affiliations": [
+          "Department of Biosciences and Oral Diagnosis São Paulo State University (UNESP), Institute of Science and Technology São José dos Campos SP Brazil"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Luana Marotta Reis Vasconcellos",
+        "affiliations": [
+          "Department of Biosciences and Oral Diagnosis São Paulo State University (UNESP), Institute of Science and Technology São José dos Campos SP Brazil"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Gabriel Mulinari‐Santos",
+        "affiliations": [
+          "Department of Basic Sciences São Paulo State University (UNESP), School of Dentistry Araçatuba SP Brazil"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Reinhard Gruber",
+        "affiliations": [
+          "Department of Oral Biology University Clinic of Dentistry, Medical University of Vienna Vienna Austria"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Paulo Noronha Lisboa‐Filho",
+        "affiliations": [
+          "Department of Physics and Meteorology São Paulo State University (UNESP), School of Science Bauru SP Brazil"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Roberta Okamoto",
+        "affiliations": [
+          "Department of Basic Sciences São Paulo State University (UNESP), School of Dentistry Araçatuba SP Brazil"
+        ],
+        "source": "Crossref"
+      }
+    ],
+    "publicationTypes": [
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Ana Cláudia Ervolino da Silva",
+            "affiliations": [
+              "Department of Diagnosis and Surgery São Paulo State University (UNESP), School of Dentistry Araçatuba SP Brazil"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Fábio Roberto de Souza Batista",
+            "affiliations": [
+              "Department of Diagnosis and Surgery São Paulo State University (UNESP), School of Dentistry Araçatuba SP Brazil"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jaqueline Suemi Hassumi",
+            "affiliations": [
+              "Department of Diagnosis and Surgery São Paulo State University (UNESP), School of Dentistry Araçatuba SP Brazil"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Naara Gabriela Monteiro",
+            "affiliations": [
+              "Department of Diagnosis and Surgery São Paulo State University (UNESP), School of Dentistry Araçatuba SP Brazil"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Marina Santos Fernandes",
+            "affiliations": [
+              "Department of Biosciences and Oral Diagnosis São Paulo State University (UNESP), Institute of Science and Technology São José dos Campos SP Brazil"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Luana Marotta Reis Vasconcellos",
+            "affiliations": [
+              "Department of Biosciences and Oral Diagnosis São Paulo State University (UNESP), Institute of Science and Technology São José dos Campos SP Brazil"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Gabriel Mulinari‐Santos",
+            "affiliations": [
+              "Department of Basic Sciences São Paulo State University (UNESP), School of Dentistry Araçatuba SP Brazil"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Reinhard Gruber",
+            "affiliations": [
+              "Department of Oral Biology University Clinic of Dentistry, Medical University of Vienna Vienna Austria"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Paulo Noronha Lisboa‐Filho",
+            "affiliations": [
+              "Department of Physics and Meteorology São Paulo State University (UNESP), School of Science Bauru SP Brazil"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Roberta Okamoto",
+            "affiliations": [
+              "Department of Basic Sciences São Paulo State University (UNESP), School of Dentistry Araçatuba SP Brazil"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "grade": "C",
+    "score": 0,
+    "topics": [
+      "种植修复"
+    ],
+    "pending": true,
+    "studyType": "临床前研究",
+    "studyTypeEvidence": {
+      "terms": [
+        "in vitro"
+      ],
+      "source": "标题/摘要规则，未经人工确认"
+    },
+    "evidence": {
+      "临床前研究": {
+        "terms": [
+          "in vitro"
+        ],
+        "source": "标题/摘要规则，未经人工确认"
+      }
+    },
+    "reason": "临床独立规则：临床前研究。类型由词组初筛或信息不足，待确认；优先级不等同于研究质量评价。",
+    "rulesVersion": "2.0",
+    "firstSeenAt": "2026-10-27T00:27:20.734485+00:00",
+    "lastSeenAt": "2026-10-27T00:27:20.734485+00:00",
+    "discoveryKind": "new"
+  },
+  {
+    "id": "10.1111/jcpe.70219",
+    "doi": "10.1111/jcpe.70219",
+    "title": "Diagnosed Dental Diseases, Tooth Loss and the Risk of Primary Liver Cancer in a Nationwide Swedish Cohort.",
+    "abstract": "ABSTRACT Background and Aim Poor dental health has been shown to increase the risk of several types of cancer, but its association with primary liver cancer (PLC) remains unclear. We aimed to evaluate the association between dental diseases, tooth loss and the risk of PLC. Patients and Methods We conducted a large population‐based retrospective cohort study including 5,893,325 adults registered in the Swedish Dental Health Register between 2009 and 2016. Participants were linked to multiple Swedish national registers to ascertain incident PLC cases. Cox regression analyses were performed to evaluate the association between dental diseases, tooth loss and the risk of PLC, using attained age as the timescale and adjusting for potential confounders. Additionally, in a sibling comparison analysis we controlled for shared genetic and early‐life environmental factors. Results During a mean follow‐up of 6.36 years, 2374 PLC cases were identified through linkage with the Cancer Register: 1856 hepatocellular carcinoma (HCC) and 518 non‐HCC PLC cases. Both caries (hazard ratio [HR] = 1.15, 95% CI: 1.02–1.30) and periodontitis (HR = 1.25, 95% CI: 1.12–1.39) were associated with an increased risk of PLC. Further, a clear dose–response relationship was observed between fewer remaining teeth and PLC risk, with HRs ranging from 1.15 to 1.84 ( p 27 remaining teeth. Subtype‐specific analyses showed that caries was associated with non‐HCC PLC, whereas periodontitis was associated with HCC. Tooth loss was more strongly associated with HCC than with non‐HCC PLC. The overall findings were generally consistent across sibling‐controlled, subgroup, and sensitivity analyses. Conclusions Our large population‐based cohort study suggests that caries, periodontitis and tooth loss are associated with an elevated risk of PLC, with distinct patterns of association observed for HCC and non‐HCC PLC.",
+    "journal": "Journal of Clinical Periodontology",
+    "journalId": "jcp",
+    "date": "2026-10-25",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1111/jcpe.70219",
+    "sources": [
+      "Crossref",
+      "Europe PMC"
+    ],
+    "sourceIds": {
+      "Europe PMC": "42927980",
+      "Crossref": "10.1111/jcpe.70219"
+    },
+    "authors": [
+      {
+        "name": "Zhong Q",
+        "affiliations": [
+          "Department of Medical Oncology, Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fuzhou, China.",
+          "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Ruan Z",
+        "affiliations": [
+          "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
+          "Key Laboratory of Environmental Medicine and Engineering of Ministry of Education, and Department of Epidemiology & Biostatistics, School of Public Health, Southeast University, Nanjing, China."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Yin L",
+        "affiliations": [
+          "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Adami HO",
+        "affiliations": [
+          "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
+          "Clinical Effectiveness Research Group, Institute of Health and Society, University of Oslo, Oslo, Norway."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Ye W",
+        "affiliations": [
+          "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
+          "Department of Epidemiology and Health Statistics, School of Public Health, Fujian Medical University, Fuzhou, China."
+        ],
+        "source": "Europe PMC"
+      }
+    ],
+    "publicationTypes": [
+      "Journal Article",
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Zhong Q",
+            "affiliations": [
+              "Department of Medical Oncology, Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fuzhou, China.",
+              "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Ruan Z",
+            "affiliations": [
+              "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
+              "Key Laboratory of Environmental Medicine and Engineering of Ministry of Education, and Department of Epidemiology & Biostatistics, School of Public Health, Southeast University, Nanjing, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Yin L",
+            "affiliations": [
+              "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Adami HO",
+            "affiliations": [
+              "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
+              "Clinical Effectiveness Research Group, Institute of Health and Society, University of Oslo, Oslo, Norway."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Ye W",
+            "affiliations": [
+              "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
+              "Department of Epidemiology and Health Statistics, School of Public Health, Fujian Medical University, Fuzhou, China."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Qiaofeng Zhong",
+            "affiliations": [
+              "Department of Medical Oncology Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital Fuzhou China",
+              "Department of Medical Epidemiology and Biostatistics Karolinska Institutet Stockholm Sweden"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Zengliang Ruan",
+            "affiliations": [
+              "Department of Medical Epidemiology and Biostatistics Karolinska Institutet Stockholm Sweden",
+              "Key Laboratory of Environmental Medicine and Engineering of Ministry of Education, and Department of Epidemiology & Biostatistics, School of Public Health Southeast University Nanjing China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Li Yin",
+            "affiliations": [
+              "Department of Medical Epidemiology and Biostatistics Karolinska Institutet Stockholm Sweden"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Hans‐Olov Adami",
+            "affiliations": [
+              "Department of Medical Epidemiology and Biostatistics Karolinska Institutet Stockholm Sweden",
+              "Clinical Effectiveness Research Group, Institute of Health and Society University of Oslo Oslo Norway"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Weimin Ye",
+            "affiliations": [
+              "Department of Medical Epidemiology and Biostatistics Karolinska Institutet Stockholm Sweden",
+              "Department of Epidemiology and Health Statistics, School of Public Health Fujian Medical University Fuzhou China"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "onlineDate": "2026-10-25",
+    "onlineDatePrecision": "day",
+    "grade": "B",
+    "score": 5,
+    "topics": [
+      "牙周治疗"
+    ],
+    "pending": true,
+    "studyType": "回顾性队列",
+    "studyTypeEvidence": {
+      "terms": [
+        "retrospective cohort"
+      ],
+      "source": "标题/摘要规则，未经人工确认"
+    },
+    "evidence": {
+      "队列研究": {
+        "terms": [
+          "cohort study",
+          "retrospective cohort"
+        ],
+        "source": "标题/摘要规则，未经人工确认"
+      },
+      "回顾性队列": {
+        "terms": [
+          "retrospective cohort"
+        ],
+        "source": "标题/摘要规则，未经人工确认"
+      }
+    },
+    "reason": "临床独立规则：回顾性队列。类型由词组初筛或信息不足，待确认；优先级不等同于研究质量评价。",
+    "rulesVersion": "2.0",
+    "firstSeenAt": "2026-10-27T00:27:20.734485+00:00",
+    "lastSeenAt": "2026-10-27T00:27:20.734485+00:00",
+    "discoveryKind": "new"
+  },
+  {
+    "id": "10.1111/clr.70196",
+    "doi": "10.1111/clr.70196",
+    "title": "Factors Associated With Patient-Reported Outcomes More Than 5 Years After Dental Implant Therapy: A Cross-Sectional Study.",
+    "abstract": "ABSTRACT Objectives To evaluate patient‐reported outcome (PROs) and their associated factors in patients treated with dental implants more than 5 years earlier. Materials and Methods In this cross‐sectional study, patients with implants (> 5 years) completed a self‐administered questionnaire assessing functional, aesthetic, psychosocial and economic satisfaction. The 17 satisfaction items were condensed by exploratory factor analysis, and a Global Satisfaction Score was derived. Univariable and multivariable linear regression with robust standard errors identified factors associated with satisfaction, complemented by sensitivity and subgroup analyses. Results A total of 260 patients were included (61.2% female; 91.5% aged > 50 years). Overall satisfaction was high, with 93.1% of patients satisfied or very satisfied. Factor analysis yielded four dimensions (overall satisfaction, psychosocial function, aesthetics, information). In the multivariable model, higher pre‐treatment information ( β = +6.4, p β = −8.2, p p = 0.030). Conclusions Patient satisfaction more than 5 years after implant therapy was high and most strongly associated with patient‐reported pre‐treatment information and the absence of reported complications than with demographic factors. These findings should be interpreted cautiously as the cross‐sectional design and retrospective self‐reporting preclude causal inference.",
+    "journal": "Clinical Oral Implants Research",
+    "journalId": "coir",
+    "date": "2026-10-25",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1111/clr.70196",
+    "sources": [
+      "Crossref",
+      "Europe PMC"
+    ],
+    "sourceIds": {
+      "Europe PMC": "42928635",
+      "Crossref": "10.1111/clr.70196"
+    },
+    "authors": [
+      {
+        "name": "Sbalchiero S",
+        "affiliations": [
+          "University of Strasbourg, Dental Faculty, Strasbourg, France.",
+          "University Hospital of Strasbourg, Strasbourg, France."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Habay G",
+        "affiliations": [
+          "University of Strasbourg, Dental Faculty, Strasbourg, France.",
+          "University Hospital of Strasbourg, Strasbourg, France."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Gegout PY",
+        "affiliations": [
+          "University of Strasbourg, Dental Faculty, Strasbourg, France.",
+          "University Hospital of Strasbourg, Strasbourg, France.",
+          "INSERM (French National Institute of Health and Medical Research), UMR 1260, Regenerative Nanomedicine, CRBS, Strasbourg, France."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Huck O",
+        "affiliations": [
+          "University of Strasbourg, Dental Faculty, Strasbourg, France.",
+          "University Hospital of Strasbourg, Strasbourg, France.",
+          "INSERM (French National Institute of Health and Medical Research), UMR 1260, Regenerative Nanomedicine, CRBS, Strasbourg, France."
+        ],
+        "source": "Europe PMC"
+      }
+    ],
+    "publicationTypes": [
+      "Journal Article",
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Sbalchiero S",
+            "affiliations": [
+              "University of Strasbourg, Dental Faculty, Strasbourg, France.",
+              "University Hospital of Strasbourg, Strasbourg, France."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Habay G",
+            "affiliations": [
+              "University of Strasbourg, Dental Faculty, Strasbourg, France.",
+              "University Hospital of Strasbourg, Strasbourg, France."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Gegout PY",
+            "affiliations": [
+              "University of Strasbourg, Dental Faculty, Strasbourg, France.",
+              "University Hospital of Strasbourg, Strasbourg, France.",
+              "INSERM (French National Institute of Health and Medical Research), UMR 1260, Regenerative Nanomedicine, CRBS, Strasbourg, France."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Huck O",
+            "affiliations": [
+              "University of Strasbourg, Dental Faculty, Strasbourg, France.",
+              "University Hospital of Strasbourg, Strasbourg, France.",
+              "INSERM (French National Institute of Health and Medical Research), UMR 1260, Regenerative Nanomedicine, CRBS, Strasbourg, France."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Simone Sbalchiero",
+            "affiliations": [
+              "University of Strasbourg Dental Faculty Strasbourg France",
+              "University Hospital of Strasbourg Strasbourg France"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Grégoire Habay",
+            "affiliations": [
+              "University of Strasbourg Dental Faculty Strasbourg France",
+              "University Hospital of Strasbourg Strasbourg France"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Pierre‐Yves Gegout",
+            "affiliations": [
+              "University of Strasbourg Dental Faculty Strasbourg France",
+              "University Hospital of Strasbourg Strasbourg France",
+              "INSERM (French National Institute of Health and Medical Research), UMR 1260, Regenerative Nanomedicine, CRBS Strasbourg France"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Olivier Huck",
+            "affiliations": [
+              "University of Strasbourg Dental Faculty Strasbourg France",
+              "University Hospital of Strasbourg Strasbourg France",
+              "INSERM (French National Institute of Health and Medical Research), UMR 1260, Regenerative Nanomedicine, CRBS Strasbourg France"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "onlineDate": "2026-10-25",
+    "onlineDatePrecision": "day",
+    "grade": "B",
+    "score": 5,
+    "topics": [
+      "种植修复",
+      "临床方法与结局"
+    ],
+    "pending": true,
+    "studyType": "横断面研究",
+    "studyTypeEvidence": {
+      "terms": [
+        "cross-sectional"
+      ],
+      "source": "标题/摘要规则，未经人工确认"
+    },
+    "evidence": {
+      "横断面研究": {
+        "terms": [
+          "cross-sectional"
+        ],
+        "source": "标题/摘要规则，未经人工确认"
+      }
+    },
+    "reason": "临床独立规则：横断面研究。类型由词组初筛或信息不足，待确认；优先级不等同于研究质量评价。",
+    "rulesVersion": "2.0",
+    "firstSeenAt": "2026-10-27T00:27:20.734485+00:00",
+    "lastSeenAt": "2026-10-27T00:27:20.734485+00:00",
+    "discoveryKind": "new"
+  },
+  {
     "id": "10.1111/jcpe.70216",
     "doi": "10.1111/jcpe.70216",
     "title": "An Exploratory Longitudinal Analysis of Salivary Host, Bacterial and Fungal Extracellular Vesicles Following 6-Month Non-Surgical Periodontal Therapy in Periodontitis.",
@@ -206,7 +1032,7 @@
   {
     "id": "10.1111/prd.70100",
     "doi": "10.1111/prd.70100",
-    "title": "Contemporary zygomatic implant rehabilitation: A critical review of the evidence and clinical recommendations",
+    "title": "Contemporary zygomatic implant rehabilitation: A critical review of the evidence and clinical recommendations.",
     "abstract": "Abstract Background Zygomatic implant (ZI) therapy has evolved over the past two decades into an established modality for the rehabilitation of the severely atrophic maxilla, avoiding extensive bone augmentation procedures. Aim While the efficacy of ZI therapy is well established, variability in its clinical implementation and remaining knowledge gaps continue to influence its application in clinical practice. Methods This critical review, based on a focused PubMed/MEDLINE search, synthesized higher‐level and long‐term evidence on surgical approaches, loading protocols, indications and outcomes, complications, prosthetic considerations, digital workflows, and current consensus recommendations. Results Current evidence demonstrates favorable long‐term survival across a broad range of ZI indications. The Quad Zygoma Protocol has further expanded graftless rehabilitation for the severely atrophic edentulous maxilla. Surgical approach selection should be guided by maxillozygomatic anatomy and prosthetically driven planning, while digital technologies have progressively shifted ZI surgery toward precision‐oriented workflows. Nevertheless, heterogeneous complication profiles, inconsistent definitions of treatment success, and limited reporting of patient‐reported and long‐term biological and prosthetic outcomes remain important limitations. Conclusions Contemporary ZI rehabilitation represents an established treatment modality for complex maxillary rehabilitation, with the current focus shifting from demonstrating efficacy toward improving treatment predictability and long‐term outcomes. Clinical Recommendations Appropriate case selection is fundamental to successful ZI rehabilitation. Surgical planning should integrate anatomical feasibility, implant emergence, and restorative design, while structured maintenance and patient compliance support long‐term success. Digital workflows can enhance surgical accuracy and reproducibility but require surgical experience and clinical judgment.",
     "journal": "Periodontology 2000",
     "journalId": "p2000",
@@ -218,42 +1044,71 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1111/prd.70100",
-      "Europe PMC": "42921991"
+      "Europe PMC": "42921991",
+      "Crossref": "10.1111/prd.70100"
     },
     "onlineDate": "2026-10-22",
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "Shengchi Fan",
+        "name": "Fan S",
         "affiliations": [
-          "Oral Surgery and Implantology, Faculty of Medicine and Health Sciences University of Barcelona Barcelona Spain",
-          "Implants and Esthetic Restorative Dentistry, Faculty of Dentistry Chulalongkorn University Bangkok Thailand"
+          "Oral Surgery and Implantology, Faculty of Medicine and Health Sciences, University of Barcelona, Barcelona, Spain.",
+          "Implants and Esthetic Restorative Dentistry, Faculty of Dentistry, Chulalongkorn University, Bangkok, Thailand."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Tomas Albrektsson",
+        "name": "Albrektsson T",
         "affiliations": [
-          "Department of Biomaterials University of Gothenburg Gothenburg Sweden"
+          "Department of Biomaterials, University of Gothenburg, Gothenburg, Sweden."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Rubén Davó",
+        "name": "Davó R",
         "affiliations": [
-          "Department of Implantology and Maxillofacial Surgery Vithas Davo Instituto Dental, Hospital Medimar Internacional Alicante Spain"
+          "Department of Implantology and Maxillofacial Surgery, Vithas Davo Instituto Dental, Hospital Medimar Internacional, Alicante, Spain."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
-      "IM",
       "Journal Article",
       "Review",
       "journal-article"
     ],
     "metadataBySource": {
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Fan S",
+            "affiliations": [
+              "Oral Surgery and Implantology, Faculty of Medicine and Health Sciences, University of Barcelona, Barcelona, Spain.",
+              "Implants and Esthetic Restorative Dentistry, Faculty of Dentistry, Chulalongkorn University, Bangkok, Thailand."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Albrektsson T",
+            "affiliations": [
+              "Department of Biomaterials, University of Gothenburg, Gothenburg, Sweden."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Davó R",
+            "affiliations": [
+              "Department of Implantology and Maxillofacial Surgery, Vithas Davo Instituto Dental, Hospital Medimar Internacional, Alicante, Spain."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "Review",
+          "Journal Article"
+        ]
+      },
       "Crossref": {
         "authors": [
           {
@@ -281,37 +1136,6 @@
         ],
         "publicationTypes": [
           "journal-article"
-        ]
-      },
-      "Europe PMC": {
-        "authors": [
-          {
-            "name": "Fan S",
-            "affiliations": [
-              "Oral Surgery and Implantology, Faculty of Medicine and Health Sciences, University of Barcelona, Barcelona, Spain.",
-              "Implants and Esthetic Restorative Dentistry, Faculty of Dentistry, Chulalongkorn University, Bangkok, Thailand."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Albrektsson T",
-            "affiliations": [
-              "Department of Biomaterials, University of Gothenburg, Gothenburg, Sweden."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Davó R",
-            "affiliations": [
-              "Department of Implantology and Maxillofacial Surgery, Vithas Davo Instituto Dental, Hospital Medimar Internacional, Alicante, Spain."
-            ],
-            "source": "Europe PMC"
-          }
-        ],
-        "publicationTypes": [
-          "IM",
-          "Review",
-          "Journal Article"
         ]
       }
     },
@@ -347,7 +1171,7 @@
   {
     "id": "10.1111/clr.70193",
     "doi": "10.1111/clr.70193",
-    "title": "Combined Host‐Derived and Microbiological Biomarkers for the Detection of Peri‐Implant Bone Loss: A Diagnostic Accuracy Study",
+    "title": "Combined Host-Derived and Microbiological Biomarkers for the Detection of Peri-Implant Bone Loss: A Diagnostic Accuracy Study.",
     "abstract": "ABSTRACT Aim To evaluate the diagnostic accuracy of host‐derived and microbiological biomarkers, alone and in combination with clinical parameters, for the detection of peri‐implant bone loss (BL). Methods A university‐based cohort of subjects with dental implants was examined at baseline and after a mean follow‐up of 3.9 years. Peri‐implant BL served as the reference standard, defined as > 1 mm between baseline and follow‐up radiographs; implants with Results Seventy‐one subjects with 273 implants were included. Twenty‐eight exhibited peri‐implant‐BL > 1.0 mm over the follow‐up period. Increased levels of IL‐1β, T. denticola, Fusobacterium spp., and T. forsythia were associated with BL in unadjusted analyses. However, these associations were no longer statistically significant after adjustment for clinical parameters. Individual biomarkers demonstrated limited diagnostic accuracy (maximum AUC = 0.68). In contrast, biomarker combinations with clinical parameters exhibited excellent discriminative performance (AUC > 0.95). The combination of IL‐1β and BoP‐or‐PPD achieved the highest accuracy (AUC = 0.97). Conclusions While individual biomarkers showed limited diagnostic utility, combining multiple predictors significantly improved the ability to detect peri‐implant BL. Combining IL‐1β with either BoP or PPD significantly outperformed individual clinical measures but did not outperform the combination of clinical parameters, highlighting the potential of integrated biomarker and clinical parameter approaches as screening tools for detecting BL.",
     "journal": "Clinical Oral Implants Research",
     "journalId": "coir",
@@ -359,61 +1183,61 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1111/clr.70193",
-      "Europe PMC": "42902506"
+      "Europe PMC": "42902506",
+      "Crossref": "10.1111/clr.70193"
     },
     "onlineDate": "2026-10-20",
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "Marion Arce",
+        "name": "Arce M",
         "affiliations": [
-          "Department of Conservative Dentistry, School of Dentistry University of Chile Santiago Chile",
-          "ETEP Research Group, School of Dentistry Complutense University of Madrid Madrid Spain"
+          "Department of Conservative Dentistry, School of Dentistry, University of Chile, Santiago, Chile.",
+          "ETEP Research Group, School of Dentistry, Complutense University of Madrid, Madrid, Spain."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Cristina Lima",
+        "name": "Lima C",
         "affiliations": [
-          "ETEP Research Group, School of Dentistry Complutense University of Madrid Madrid Spain"
+          "ETEP Research Group, School of Dentistry, Complutense University of Madrid, Madrid, Spain."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Leire Virto",
+        "name": "Virto L",
         "affiliations": [
-          "ETEP Research Group, School of Dentistry Complutense University of Madrid Madrid Spain"
+          "ETEP Research Group, School of Dentistry, Complutense University of Madrid, Madrid, Spain."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Juan Daniel Gamonal",
+        "name": "Gamonal JD",
         "affiliations": [
-          "ETEP Research Group, School of Dentistry Complutense University of Madrid Madrid Spain"
+          "ETEP Research Group, School of Dentistry, Complutense University of Madrid, Madrid, Spain."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Diogo Banaco",
+        "name": "Banaco D",
         "affiliations": [
-          "ETEP Research Group, School of Dentistry Complutense University of Madrid Madrid Spain"
+          "ETEP Research Group, School of Dentistry, Complutense University of Madrid, Madrid, Spain."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Mario Romandini",
+        "name": "Romandini M",
         "affiliations": [
-          "Department of Implant Dentistry, Shanghai Ninth People's Hospital Shanghai Jiao Tong University School of Medicine Shanghai China"
+          "Department of Implant Dentistry, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Mariano Sanz",
+        "name": "Sanz M",
         "affiliations": [
-          "ETEP Research Group, School of Dentistry Complutense University of Madrid Madrid Spain"
+          "ETEP Research Group, School of Dentistry, Complutense University of Madrid, Madrid, Spain."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
@@ -421,63 +1245,6 @@
       "journal-article"
     ],
     "metadataBySource": {
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Marion Arce",
-            "affiliations": [
-              "Department of Conservative Dentistry, School of Dentistry University of Chile Santiago Chile",
-              "ETEP Research Group, School of Dentistry Complutense University of Madrid Madrid Spain"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Cristina Lima",
-            "affiliations": [
-              "ETEP Research Group, School of Dentistry Complutense University of Madrid Madrid Spain"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Leire Virto",
-            "affiliations": [
-              "ETEP Research Group, School of Dentistry Complutense University of Madrid Madrid Spain"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Juan Daniel Gamonal",
-            "affiliations": [
-              "ETEP Research Group, School of Dentistry Complutense University of Madrid Madrid Spain"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Diogo Banaco",
-            "affiliations": [
-              "ETEP Research Group, School of Dentistry Complutense University of Madrid Madrid Spain"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Mario Romandini",
-            "affiliations": [
-              "Department of Implant Dentistry, Shanghai Ninth People's Hospital Shanghai Jiao Tong University School of Medicine Shanghai China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Mariano Sanz",
-            "affiliations": [
-              "ETEP Research Group, School of Dentistry Complutense University of Madrid Madrid Spain"
-            ],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
-        ]
-      },
       "Europe PMC": {
         "authors": [
           {
@@ -534,12 +1301,70 @@
         "publicationTypes": [
           "Journal Article"
         ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Marion Arce",
+            "affiliations": [
+              "Department of Conservative Dentistry, School of Dentistry University of Chile Santiago Chile",
+              "ETEP Research Group, School of Dentistry Complutense University of Madrid Madrid Spain"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Cristina Lima",
+            "affiliations": [
+              "ETEP Research Group, School of Dentistry Complutense University of Madrid Madrid Spain"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Leire Virto",
+            "affiliations": [
+              "ETEP Research Group, School of Dentistry Complutense University of Madrid Madrid Spain"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Juan Daniel Gamonal",
+            "affiliations": [
+              "ETEP Research Group, School of Dentistry Complutense University of Madrid Madrid Spain"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Diogo Banaco",
+            "affiliations": [
+              "ETEP Research Group, School of Dentistry Complutense University of Madrid Madrid Spain"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Mario Romandini",
+            "affiliations": [
+              "Department of Implant Dentistry, Shanghai Ninth People's Hospital Shanghai Jiao Tong University School of Medicine Shanghai China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Mariano Sanz",
+            "affiliations": [
+              "ETEP Research Group, School of Dentistry Complutense University of Madrid Madrid Spain"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
       }
     },
     "grade": "B",
     "score": 5,
     "topics": [
-      "种植修复"
+      "种植修复",
+      "围种植体疾病"
     ],
     "pending": true,
     "studyType": "研究类型待确认",
@@ -554,7 +1379,7 @@
   {
     "id": "10.1111/clr.70191",
     "doi": "10.1111/clr.70191",
-    "title": "Premature Occlusal Contacts Induce MRONJ in Osseointegrated Dental Implants: An Experimental In Vivo Study",
+    "title": "Premature Occlusal Contacts Induce MRONJ in Osseointegrated Dental Implants: An Experimental In Vivo Study.",
     "abstract": "ABSTRACT Objectives Medication‐related osteonecrosis of the jaw (MRONJ) is a debilitating condition associated with antiresorptive agents (ARAs) and can occur around well‐osseointegrated dental implants. Although implant presence–triggered osteonecrosis (IPTO) has been primarily linked to bacteria‐related peri‐implantitis, whether occlusal trauma contributes to IPTO remains unclear. Therefore, this study developed a novel premature occlusal contact (POC) mouse implant model to evaluate the effect of occlusal trauma on MRONJ development around osseointegrated implants. Material and Methods Eighteen mice underwent bilateral maxillary first molar extraction followed by immediate implant placement. After a 3‐week healing period to allow osseointegration, mice were randomized to receive intravenous zoledronic acid (ZOL, 125 μg/kg) or saline vehicle (Veh) twice weekly ( n = 9 per group). One week later, POC was induced in a split‐mouth design by applying composite resin to one implant, whereas the contralateral implant served as a control. After 5 weeks of occlusal loading, mice were euthanized for μCT and histological analyses. Results μCT analysis revealed that POC reduced radiographic bone‐to‐implant contact (rBIC) in both Veh‐ and ZOL‐treated mice. POC significantly increased empty lacunae around the implant neck in Veh‐treated mice, whereas in ZOL‐treated mice, POC induced extensive circumferential bone necrosis around the implant, accompanied by increased macrophage infiltration. No significant differences in peptidoglycan (PGN)‐positive signals were observed among the experimental groups. Conclusion These findings suggest that POC contributes to peri‐implant osteonecrosis under ZOL treatment, supporting occlusal trauma as an important local factor in MRONJ development around osseointegrated dental implants.",
     "journal": "Clinical Oral Implants Research",
     "journalId": "coir",
@@ -566,101 +1391,101 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1111/clr.70191",
-      "Europe PMC": "42902500"
+      "Europe PMC": "42902500",
+      "Crossref": "10.1111/clr.70191"
     },
     "onlineDate": "2026-10-20",
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "Eun‐Bin Bae",
+        "name": "Bae EB",
         "affiliations": [
-          "The Shapiro Family Laboratory of Viral Oncology and Aging Research UCLA School of Dentistry Los Angeles California USA",
-          "Section of Restorative Dentistry UCLA School of Dentistry Los Angeles California USA"
+          "The Shapiro Family Laboratory of Viral Oncology and Aging Research, UCLA School of Dentistry, Los Angeles, California, USA.",
+          "Section of Restorative Dentistry, UCLA School of Dentistry, Los Angeles, California, USA."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Ahana Goswami",
+        "name": "Goswami A",
         "affiliations": [
-          "The Shapiro Family Laboratory of Viral Oncology and Aging Research UCLA School of Dentistry Los Angeles California USA"
+          "The Shapiro Family Laboratory of Viral Oncology and Aging Research, UCLA School of Dentistry, Los Angeles, California, USA."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Jun Yaung",
+        "name": "Yaung J",
         "affiliations": [
-          "The Shapiro Family Laboratory of Viral Oncology and Aging Research UCLA School of Dentistry Los Angeles California USA"
+          "The Shapiro Family Laboratory of Viral Oncology and Aging Research, UCLA School of Dentistry, Los Angeles, California, USA."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Soo Yeon Kim",
+        "name": "Kim SY",
         "affiliations": [
-          "The Shapiro Family Laboratory of Viral Oncology and Aging Research UCLA School of Dentistry Los Angeles California USA"
+          "The Shapiro Family Laboratory of Viral Oncology and Aging Research, UCLA School of Dentistry, Los Angeles, California, USA."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Sherry S. Baik",
+        "name": "Baik SS",
         "affiliations": [
-          "The Shapiro Family Laboratory of Viral Oncology and Aging Research UCLA School of Dentistry Los Angeles California USA"
+          "The Shapiro Family Laboratory of Viral Oncology and Aging Research, UCLA School of Dentistry, Los Angeles, California, USA."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Kaylyn A. Yu",
+        "name": "Yu KA",
         "affiliations": [
-          "The Shapiro Family Laboratory of Viral Oncology and Aging Research UCLA School of Dentistry Los Angeles California USA"
+          "The Shapiro Family Laboratory of Viral Oncology and Aging Research, UCLA School of Dentistry, Los Angeles, California, USA."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Chan Park",
+        "name": "Park C",
         "affiliations": [
-          "The Shapiro Family Laboratory of Viral Oncology and Aging Research UCLA School of Dentistry Los Angeles California USA",
-          "Department of Prosthodontics, School of Dentistry Chonnam National University Gwangju Republic of Korea"
+          "The Shapiro Family Laboratory of Viral Oncology and Aging Research, UCLA School of Dentistry, Los Angeles, California, USA.",
+          "Department of Prosthodontics, School of Dentistry, Chonnam National University, Gwangju, Republic of Korea."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Jung‐Bo Huh",
+        "name": "Huh JB",
         "affiliations": [
-          "Department of Prosthodontics, Dental Research Institute, Dental and Life Sciences Institute, Education and Research Team for Life Science on Dentistry, School of Dentistry Pusan National University Yangsan Republic of Korea"
+          "Department of Prosthodontics, Dental Research Institute, Dental and Life Sciences Institute, Education and Research Team for Life Science on Dentistry, School of Dentistry, Pusan National University, Yangsan, Republic of Korea."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Jae‐Young Kim",
+        "name": "Kim JY",
         "affiliations": [
-          "The Shapiro Family Laboratory of Viral Oncology and Aging Research UCLA School of Dentistry Los Angeles California USA",
-          "Department of Oral and Maxillofacial Surgery Yonsei University Gangnam Severance Hospital Seoul Republic of Korea"
+          "The Shapiro Family Laboratory of Viral Oncology and Aging Research, UCLA School of Dentistry, Los Angeles, California, USA.",
+          "Department of Oral and Maxillofacial Surgery, Yonsei University Gangnam Severance Hospital, Seoul, Republic of Korea."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Christine Y. Hong",
+        "name": "Hong CY",
         "affiliations": [
-          "Department of Orthodontics, School of Dentistry University of Washington Seattle Washington USA"
+          "Department of Orthodontics, School of Dentistry, University of Washington, Seattle, Washington, USA."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Sol Kim",
+        "name": "Kim S",
         "affiliations": [
-          "The Shapiro Family Laboratory of Viral Oncology and Aging Research UCLA School of Dentistry Los Angeles California USA",
-          "Section of Restorative Dentistry UCLA School of Dentistry Los Angeles California USA"
+          "The Shapiro Family Laboratory of Viral Oncology and Aging Research, UCLA School of Dentistry, Los Angeles, California, USA.",
+          "Section of Restorative Dentistry, UCLA School of Dentistry, Los Angeles, California, USA."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Reuben H. Kim",
+        "name": "Kim RH",
         "affiliations": [
-          "The Shapiro Family Laboratory of Viral Oncology and Aging Research UCLA School of Dentistry Los Angeles California USA",
-          "Section of Restorative Dentistry UCLA School of Dentistry Los Angeles California USA",
-          "UCLA Jonsson Comprehensive Cancer Center Los Angeles California USA"
+          "The Shapiro Family Laboratory of Viral Oncology and Aging Research, UCLA School of Dentistry, Los Angeles, California, USA.",
+          "Section of Restorative Dentistry, UCLA School of Dentistry, Los Angeles, California, USA.",
+          "UCLA Jonsson Comprehensive Cancer Center, Los Angeles, California, USA."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
@@ -668,103 +1493,6 @@
       "journal-article"
     ],
     "metadataBySource": {
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Eun‐Bin Bae",
-            "affiliations": [
-              "The Shapiro Family Laboratory of Viral Oncology and Aging Research UCLA School of Dentistry Los Angeles California USA",
-              "Section of Restorative Dentistry UCLA School of Dentistry Los Angeles California USA"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Ahana Goswami",
-            "affiliations": [
-              "The Shapiro Family Laboratory of Viral Oncology and Aging Research UCLA School of Dentistry Los Angeles California USA"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Jun Yaung",
-            "affiliations": [
-              "The Shapiro Family Laboratory of Viral Oncology and Aging Research UCLA School of Dentistry Los Angeles California USA"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Soo Yeon Kim",
-            "affiliations": [
-              "The Shapiro Family Laboratory of Viral Oncology and Aging Research UCLA School of Dentistry Los Angeles California USA"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Sherry S. Baik",
-            "affiliations": [
-              "The Shapiro Family Laboratory of Viral Oncology and Aging Research UCLA School of Dentistry Los Angeles California USA"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Kaylyn A. Yu",
-            "affiliations": [
-              "The Shapiro Family Laboratory of Viral Oncology and Aging Research UCLA School of Dentistry Los Angeles California USA"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Chan Park",
-            "affiliations": [
-              "The Shapiro Family Laboratory of Viral Oncology and Aging Research UCLA School of Dentistry Los Angeles California USA",
-              "Department of Prosthodontics, School of Dentistry Chonnam National University Gwangju Republic of Korea"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Jung‐Bo Huh",
-            "affiliations": [
-              "Department of Prosthodontics, Dental Research Institute, Dental and Life Sciences Institute, Education and Research Team for Life Science on Dentistry, School of Dentistry Pusan National University Yangsan Republic of Korea"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Jae‐Young Kim",
-            "affiliations": [
-              "The Shapiro Family Laboratory of Viral Oncology and Aging Research UCLA School of Dentistry Los Angeles California USA",
-              "Department of Oral and Maxillofacial Surgery Yonsei University Gangnam Severance Hospital Seoul Republic of Korea"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Christine Y. Hong",
-            "affiliations": [
-              "Department of Orthodontics, School of Dentistry University of Washington Seattle Washington USA"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Sol Kim",
-            "affiliations": [
-              "The Shapiro Family Laboratory of Viral Oncology and Aging Research UCLA School of Dentistry Los Angeles California USA",
-              "Section of Restorative Dentistry UCLA School of Dentistry Los Angeles California USA"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Reuben H. Kim",
-            "affiliations": [
-              "The Shapiro Family Laboratory of Viral Oncology and Aging Research UCLA School of Dentistry Los Angeles California USA",
-              "Section of Restorative Dentistry UCLA School of Dentistry Los Angeles California USA",
-              "UCLA Jonsson Comprehensive Cancer Center Los Angeles California USA"
-            ],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
-        ]
-      },
       "Europe PMC": {
         "authors": [
           {
@@ -861,6 +1589,103 @@
         "publicationTypes": [
           "Journal Article"
         ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Eun‐Bin Bae",
+            "affiliations": [
+              "The Shapiro Family Laboratory of Viral Oncology and Aging Research UCLA School of Dentistry Los Angeles California USA",
+              "Section of Restorative Dentistry UCLA School of Dentistry Los Angeles California USA"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Ahana Goswami",
+            "affiliations": [
+              "The Shapiro Family Laboratory of Viral Oncology and Aging Research UCLA School of Dentistry Los Angeles California USA"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jun Yaung",
+            "affiliations": [
+              "The Shapiro Family Laboratory of Viral Oncology and Aging Research UCLA School of Dentistry Los Angeles California USA"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Soo Yeon Kim",
+            "affiliations": [
+              "The Shapiro Family Laboratory of Viral Oncology and Aging Research UCLA School of Dentistry Los Angeles California USA"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Sherry S. Baik",
+            "affiliations": [
+              "The Shapiro Family Laboratory of Viral Oncology and Aging Research UCLA School of Dentistry Los Angeles California USA"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Kaylyn A. Yu",
+            "affiliations": [
+              "The Shapiro Family Laboratory of Viral Oncology and Aging Research UCLA School of Dentistry Los Angeles California USA"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Chan Park",
+            "affiliations": [
+              "The Shapiro Family Laboratory of Viral Oncology and Aging Research UCLA School of Dentistry Los Angeles California USA",
+              "Department of Prosthodontics, School of Dentistry Chonnam National University Gwangju Republic of Korea"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jung‐Bo Huh",
+            "affiliations": [
+              "Department of Prosthodontics, Dental Research Institute, Dental and Life Sciences Institute, Education and Research Team for Life Science on Dentistry, School of Dentistry Pusan National University Yangsan Republic of Korea"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jae‐Young Kim",
+            "affiliations": [
+              "The Shapiro Family Laboratory of Viral Oncology and Aging Research UCLA School of Dentistry Los Angeles California USA",
+              "Department of Oral and Maxillofacial Surgery Yonsei University Gangnam Severance Hospital Seoul Republic of Korea"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Christine Y. Hong",
+            "affiliations": [
+              "Department of Orthodontics, School of Dentistry University of Washington Seattle Washington USA"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Sol Kim",
+            "affiliations": [
+              "The Shapiro Family Laboratory of Viral Oncology and Aging Research UCLA School of Dentistry Los Angeles California USA",
+              "Section of Restorative Dentistry UCLA School of Dentistry Los Angeles California USA"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Reuben H. Kim",
+            "affiliations": [
+              "The Shapiro Family Laboratory of Viral Oncology and Aging Research UCLA School of Dentistry Los Angeles California USA",
+              "Section of Restorative Dentistry UCLA School of Dentistry Los Angeles California USA",
+              "UCLA Jonsson Comprehensive Cancer Center Los Angeles California USA"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
       }
     },
     "grade": "B",
@@ -882,7 +1707,7 @@
   {
     "id": "10.1111/clr.70188",
     "doi": "10.1111/clr.70188",
-    "title": "Masseter Muscle Volume and Cross‐Sectional Area as Risk Factors for Late Mechanical Dental Implant Failure: A Matched Case–Control Study",
+    "title": "Masseter Muscle Volume and Cross-Sectional Area as Risk Factors for Late Mechanical Dental Implant Failure: A Matched Case-Control Study.",
     "abstract": "ABSTRACT Objectives This study aimed to investigate whether three‐dimensional (3D) masseter muscle morphology—volume and cross‐sectional area (CSA)—is associated with the risk of late mechanical dental implant failure and to derive preliminary cut‐off values for risk stratification. Material and Methods This 1:4 matched case–control study investigated 23 cases of late mechanical failure (fixture fracture, screw fracture, or abutment fracture) and 92 successful controls. Participants were matched by gender, age (±10 years), anatomical location, and maintenance period (±2 years). Masseter morphology was quantified using the 3D reconstruction of the cone‐beam computed tomography (CBCT) data. Independent risk factors were determined using a multivariable generalized estimating equation model adjusting for potential confounders. Results Increased masseter muscle bulk was significantly associated with mechanical failure ( p 3 increase in masseter volume and by 1.11‐fold per 10 mm 2 increase in CSA. ROC analysis demonstrated AUCs of 0.846 for masseter volume and 0.871 for CSA. The maximum‐Youden thresholds were 31,272.56 mm 3 for volume and 691.30 mm 2 for CSA, with sensitivities of 86.96% and 82.61% and specificities of 77.17% and 79.35%, respectively. Internal bootstrap validation yielded AUC 95% confidence intervals of 0.751–0.931 and 0.767–0.951, respectively. Conclusions Greater masseter muscle volume and CSA were significantly associated with late mechanical implant failure in this matched case–control study. The proposed cut‐off values may provide preliminary reference values for risk stratification. However, these findings should be regarded as exploratory and require prospective validation in independent cohorts before routine clinical implementation.",
     "journal": "Clinical Oral Implants Research",
     "journalId": "coir",
@@ -894,33 +1719,33 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1111/clr.70188",
-      "Europe PMC": "42897882"
+      "Europe PMC": "42897882",
+      "Crossref": "10.1111/clr.70188"
     },
     "onlineDate": "2026-10-19",
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "Hee‐Sun Choi",
+        "name": "Choi HS",
         "affiliations": [
-          "Department of Periodontology Ewha Womans University Mokdong Hospital Seoul Republic of Korea"
+          "Department of Periodontology, Ewha Womans University Mokdong Hospital, Seoul, Republic of Korea."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Eun‐Chong Lee",
+        "name": "Lee EC",
         "affiliations": [
-          "Department of Periodontology Ewha Womans University Mokdong Hospital Seoul Republic of Korea"
+          "Department of Periodontology, Ewha Womans University Mokdong Hospital, Seoul, Republic of Korea."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Eun‐Kyoung Pang",
+        "name": "Pang EK",
         "affiliations": [
-          "Department of Periodontology Ewha Womans University Mokdong Hospital Seoul Republic of Korea",
-          "Department of Dentistry, College of Medicine Ewha Womans University Seoul Republic of Korea"
+          "Department of Periodontology, Ewha Womans University Mokdong Hospital, Seoul, Republic of Korea.",
+          "Department of Dentistry, College of Medicine, Ewha Womans University, Seoul, Republic of Korea."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
@@ -928,35 +1753,6 @@
       "journal-article"
     ],
     "metadataBySource": {
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Hee‐Sun Choi",
-            "affiliations": [
-              "Department of Periodontology Ewha Womans University Mokdong Hospital Seoul Republic of Korea"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Eun‐Chong Lee",
-            "affiliations": [
-              "Department of Periodontology Ewha Womans University Mokdong Hospital Seoul Republic of Korea"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Eun‐Kyoung Pang",
-            "affiliations": [
-              "Department of Periodontology Ewha Womans University Mokdong Hospital Seoul Republic of Korea",
-              "Department of Dentistry, College of Medicine Ewha Womans University Seoul Republic of Korea"
-            ],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
-        ]
-      },
       "Europe PMC": {
         "authors": [
           {
@@ -985,6 +1781,35 @@
         "publicationTypes": [
           "Journal Article"
         ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Hee‐Sun Choi",
+            "affiliations": [
+              "Department of Periodontology Ewha Womans University Mokdong Hospital Seoul Republic of Korea"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Eun‐Chong Lee",
+            "affiliations": [
+              "Department of Periodontology Ewha Womans University Mokdong Hospital Seoul Republic of Korea"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Eun‐Kyoung Pang",
+            "affiliations": [
+              "Department of Periodontology Ewha Womans University Mokdong Hospital Seoul Republic of Korea",
+              "Department of Dentistry, College of Medicine Ewha Womans University Seoul Republic of Korea"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
       }
     },
     "grade": "B",
@@ -993,10 +1818,28 @@
       "种植修复"
     ],
     "pending": true,
-    "studyType": "研究类型待确认",
-    "studyTypeEvidence": {},
-    "evidence": {},
-    "reason": "临床独立规则：研究类型待确认。类型由词组初筛或信息不足，待确认；优先级不等同于研究质量评价。",
+    "studyType": "病例对照研究",
+    "studyTypeEvidence": {
+      "terms": [
+        "case-control"
+      ],
+      "source": "标题/摘要规则，未经人工确认"
+    },
+    "evidence": {
+      "病例对照研究": {
+        "terms": [
+          "case-control"
+        ],
+        "source": "标题/摘要规则，未经人工确认"
+      },
+      "横断面研究": {
+        "terms": [
+          "cross-sectional"
+        ],
+        "source": "标题/摘要规则，未经人工确认"
+      }
+    },
+    "reason": "临床独立规则：病例对照研究。类型由词组初筛或信息不足，待确认；优先级不等同于研究质量评价。",
     "rulesVersion": "2.0",
     "firstSeenAt": "2026-10-21T00:25:04.127196+00:00",
     "lastSeenAt": "2026-10-21T00:25:04.127196+00:00",
