@@ -1,5 +1,239 @@
 [
   {
+    "id": "10.1111/jcpe.70213",
+    "doi": "10.1111/jcpe.70213",
+    "title": "Influence of the Occupying Proportion of Mineralised Particles Within the Grafted Volume on Subsequent Volume Shrinkage: A Preclinical Study on Rabbit Calvaria.",
+    "abstract": "To evaluate whether mineral particle occupancy within the grafted volume influences volumetric stability and bone regeneration, and to compare particulate grafts, collagenated grafts, hyaluronic acid-conjugated particulates and mechanical manipulation in a vertical augmentation model. Ten New Zealand white rabbits received four standardised vertical calvarial defects and filled with saline-hydrated particulate deproteinised porcine bone mineral (Control), intact collagenated bone blocks (CBM), hydrated and mechanically crushed collagenated blocks (cCBM) or particulate grafts mixed with hyaluronic acid (HA). Grafts were placed in sealed plastic cylinders. Animals were sacrificed at 2 and 8 weeks. Volumetric stability and mineralised tissue volume were assessed by micro-computed tomography, and the total augmented area, new bone formation, residual material and particle length were evaluated by histological and histomorphometric analyses. Data were analysed using linear mixed-effects models. Mineralised tissue volume increased over time in Control, CBM and HA groups but decreased in cCBM (time × material interaction, p = 0.020). At 8 weeks, total augmented area was preserved in Control and CBM, whereas significant volumetric shrinkage occurred in cCBM and HA (p < 0.01). New bone formation increased in all groups but was highest in the Control group. Residual material area remained stable but was higher in Control and CBM than in cCBM and HA, and particle length was reduced in mechanically manipulated groups. Given the limitations of this model, binder incorporation and mechanical manipulation may affect particle occupancy and volumetric stability. Reducing graft manipulation may enhance space maintenance and facilitate bone regeneration.",
+    "journal": "Journal of Clinical Periodontology",
+    "journalId": "jcp",
+    "date": "2026-10-26",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1111/jcpe.70213",
+    "sources": [
+      "Crossref",
+      "Europe PMC"
+    ],
+    "sourceIds": {
+      "Europe PMC": "42935113",
+      "Crossref": "10.1111/jcpe.70213"
+    },
+    "authors": [
+      {
+        "name": "Choi JS",
+        "affiliations": [
+          "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry, Yonsei University, Seoul, South Korea."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Hwang B",
+        "affiliations": [
+          "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry, Yonsei University, Seoul, South Korea."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Lee MY",
+        "affiliations": [
+          "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry, Yonsei University, Seoul, South Korea."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Cho SH",
+        "affiliations": [
+          "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry, Yonsei University, Seoul, South Korea.",
+          "BK21 FOUR Project, Yonsei University College of Dentistry, Seoul, South Korea."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Müller N",
+        "affiliations": [
+          "Clinic of Reconstructive Dentistry, Center of Dental Medicine, University of Zurich, Zurich, Switzerland."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Strauss FJ",
+        "affiliations": [
+          "Discipline of Periodontics, School of Dentistry, Faculty of Medicine and Health, The University of Sydney, Sydney, New South Wales, Australia.",
+          "Faculty of Health Sciences, Universidad Autonoma de Chile, Santiago, Chile."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Kwon JS",
+        "affiliations": [
+          "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry, Yonsei University, Seoul, South Korea.",
+          "BK21 FOUR Project, Yonsei University College of Dentistry, Seoul, South Korea."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Lee JS",
+        "affiliations": [
+          "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry, Yonsei University, Seoul, South Korea."
+        ],
+        "source": "Europe PMC"
+      }
+    ],
+    "publicationTypes": [
+      "IM",
+      "Journal Article",
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Choi JS",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry, Yonsei University, Seoul, South Korea."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Hwang B",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry, Yonsei University, Seoul, South Korea."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Lee MY",
+            "affiliations": [
+              "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry, Yonsei University, Seoul, South Korea."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Cho SH",
+            "affiliations": [
+              "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry, Yonsei University, Seoul, South Korea.",
+              "BK21 FOUR Project, Yonsei University College of Dentistry, Seoul, South Korea."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Müller N",
+            "affiliations": [
+              "Clinic of Reconstructive Dentistry, Center of Dental Medicine, University of Zurich, Zurich, Switzerland."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Strauss FJ",
+            "affiliations": [
+              "Discipline of Periodontics, School of Dentistry, Faculty of Medicine and Health, The University of Sydney, Sydney, New South Wales, Australia.",
+              "Faculty of Health Sciences, Universidad Autonoma de Chile, Santiago, Chile."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Kwon JS",
+            "affiliations": [
+              "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry, Yonsei University, Seoul, South Korea.",
+              "BK21 FOUR Project, Yonsei University College of Dentistry, Seoul, South Korea."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Lee JS",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry, Yonsei University, Seoul, South Korea."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "IM",
+          "Journal Article"
+        ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Ji‐Su Choi",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry Yonsei University Seoul South Korea"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Betül Hwang",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry Yonsei University Seoul South Korea"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Min‐Yong Lee",
+            "affiliations": [
+              "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry Yonsei University Seoul South Korea"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Sang‐Hyun Cho",
+            "affiliations": [
+              "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry Yonsei University Seoul South Korea",
+              "BK21 FOUR Project Yonsei University College of Dentistry Seoul South Korea"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Nicolas Müller",
+            "affiliations": [
+              "Clinic of Reconstructive Dentistry, Center of Dental Medicine University of Zurich Zurich Switzerland"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Franz J. Strauss",
+            "affiliations": [
+              "Discipline of Periodontics, School of Dentistry, Faculty of Medicine and Health The University of Sydney Sydney New South Wales Australia",
+              "Faculty of Health Sciences Universidad Autonoma de Chile Santiago Chile"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jae‐Sung Kwon",
+            "affiliations": [
+              "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry Yonsei University Seoul South Korea",
+              "BK21 FOUR Project Yonsei University College of Dentistry Seoul South Korea"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jung‐Seok Lee",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry Yonsei University Seoul South Korea"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "onlineDate": "2026-10-26",
+    "onlineDatePrecision": "day",
+    "grade": "B",
+    "score": 5,
+    "topics": [],
+    "pending": true,
+    "studyType": "研究类型待确认",
+    "studyTypeEvidence": {},
+    "evidence": {},
+    "reason": "临床独立规则：研究类型待确认。类型由词组初筛或信息不足，待确认；优先级不等同于研究质量评价。",
+    "rulesVersion": "2.0",
+    "firstSeenAt": "2026-10-28T00:35:43.865200+00:00",
+    "lastSeenAt": "2026-10-28T00:35:43.865200+00:00",
+    "discoveryKind": "new"
+  },
+  {
     "id": "10.1111/clr.70189",
     "doi": "10.1111/clr.70189",
     "title": "One-Year Outcomes of Chairside Fully Guided Versus Conventional Partially Guided Implant Placement With Transcrestal Sinus Augmentation: A Randomized Controlled Trial.",
@@ -264,7 +498,7 @@
   {
     "id": "10.1111/clr.70187",
     "doi": "10.1111/clr.70187",
-    "title": "Teriparatide Topical Delivery Supports Osseointegration in Ovariectomized Rats Receiving Cafeteria Diet and Bisphosphonate: An In Vivo Experimental Study",
+    "title": "Teriparatide Topical Delivery Supports Osseointegration in Ovariectomized Rats Receiving Cafeteria Diet and Bisphosphonate: An In Vivo Experimental Study.",
     "abstract": "ABSTRACT Background Postmenopausal osteoporosis associated with cafeteria diet and bisphosphonate therapy may impair peri‐implant bone repair. Therefore, strategies to enhance osseointegration are needed. Aim This study investigated whether teriparatide‐coated implant surfaces enhance osseointegration in a rodent model of estrogen deficiency (OVX) and cafeteria diet (CD) treated with risedronate (RIS). Material and Methods In the in vitro phase, titanium discs coated with 10 or 40 ng of teriparatide were evaluated by in vitro bioassays, and drug adsorption was confirmed by UV–Vis spectroscopy. As both loading amounts produced similar biological responses, 10 ng was selected for the in vivo phase. In the in vivo phase, 48 rats were randomly assigned to SHAM (sham‐operated control), OVX/CD (ovariectomized with cafeteria diet), or OVX/CD/RIS (ovariectomized with cafeteria diet and risedronate) groups. Titanium implants either coated with teriparatide using a layer‐by‐layer topical drug delivery system or left non‐coated were placed bilaterally in the maxilla. Rats were euthanized after 28 days. Osseointegration was evaluated by removal torque testing, micro computed tomography, fluorescence microscopy, and RT‐qPCR analysis. Results In the cell culture experiment, both teriparatide amounts successfully promoted mineralized nodule formation in vitro and UV–Vis spectroscopy confirmed drug adsorption. In vivo, teriparatide significantly increased removal torque across all groups, with the greatest increase in OVX/CD/RIS. Teriparatide also increased peri‐implant bone volume in OVX/CD and OVX/CD/RIS, confirmed by micro computed tomography and fluorescence microscopy. RT‐qPCR also confirmed upregulation of osteogenic and angiogenic markers. Conclusion Topical teriparatide delivery improves peri‐implant bone repair under estrogen deficiency, cafeteria diet, and bisphosphonate therapy.",
     "journal": "Clinical Oral Implants Research",
     "journalId": "coir",
@@ -272,89 +506,169 @@
     "datePrecision": "day",
     "url": "https://doi.org/10.1111/clr.70187",
     "sources": [
-      "Crossref"
+      "Crossref",
+      "Europe PMC"
     ],
     "sourceIds": {
+      "Europe PMC": "42931806",
       "Crossref": "10.1111/clr.70187"
     },
     "onlineDate": "2026-10-26",
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "Ana Cláudia Ervolino da Silva",
+        "name": "da Silva ACE",
         "affiliations": [
-          "Department of Diagnosis and Surgery São Paulo State University (UNESP), School of Dentistry Araçatuba SP Brazil"
+          "Department of Diagnosis and Surgery, São Paulo State University (UNESP), School of Dentistry, Araçatuba, SP, Brazil."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Fábio Roberto de Souza Batista",
+        "name": "Batista FRS",
         "affiliations": [
-          "Department of Diagnosis and Surgery São Paulo State University (UNESP), School of Dentistry Araçatuba SP Brazil"
+          "Department of Diagnosis and Surgery, São Paulo State University (UNESP), School of Dentistry, Araçatuba, SP, Brazil."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Jaqueline Suemi Hassumi",
+        "name": "Hassumi JS",
         "affiliations": [
-          "Department of Diagnosis and Surgery São Paulo State University (UNESP), School of Dentistry Araçatuba SP Brazil"
+          "Department of Diagnosis and Surgery, São Paulo State University (UNESP), School of Dentistry, Araçatuba, SP, Brazil."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Naara Gabriela Monteiro",
+        "name": "Monteiro NG",
         "affiliations": [
-          "Department of Diagnosis and Surgery São Paulo State University (UNESP), School of Dentistry Araçatuba SP Brazil"
+          "Department of Diagnosis and Surgery, São Paulo State University (UNESP), School of Dentistry, Araçatuba, SP, Brazil."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Marina Santos Fernandes",
+        "name": "Fernandes MS",
         "affiliations": [
-          "Department of Biosciences and Oral Diagnosis São Paulo State University (UNESP), Institute of Science and Technology São José dos Campos SP Brazil"
+          "Department of Biosciences and Oral Diagnosis, São Paulo State University (UNESP), Institute of Science and Technology, São José dos Campos, SP, Brazil."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Luana Marotta Reis Vasconcellos",
+        "name": "Vasconcellos LMR",
         "affiliations": [
-          "Department of Biosciences and Oral Diagnosis São Paulo State University (UNESP), Institute of Science and Technology São José dos Campos SP Brazil"
+          "Department of Biosciences and Oral Diagnosis, São Paulo State University (UNESP), Institute of Science and Technology, São José dos Campos, SP, Brazil."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Gabriel Mulinari‐Santos",
+        "name": "Mulinari-Santos G",
         "affiliations": [
-          "Department of Basic Sciences São Paulo State University (UNESP), School of Dentistry Araçatuba SP Brazil"
+          "Department of Basic Sciences, São Paulo State University (UNESP), School of Dentistry, Araçatuba, SP, Brazil."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Reinhard Gruber",
+        "name": "Gruber R",
         "affiliations": [
-          "Department of Oral Biology University Clinic of Dentistry, Medical University of Vienna Vienna Austria"
+          "Department of Oral Biology, University Clinic of Dentistry, Medical University of Vienna, Vienna, Austria."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Paulo Noronha Lisboa‐Filho",
+        "name": "Lisboa-Filho PN",
         "affiliations": [
-          "Department of Physics and Meteorology São Paulo State University (UNESP), School of Science Bauru SP Brazil"
+          "Department of Physics and Meteorology, São Paulo State University (UNESP), School of Science, Bauru, SP, Brazil."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Roberta Okamoto",
+        "name": "Okamoto R",
         "affiliations": [
-          "Department of Basic Sciences São Paulo State University (UNESP), School of Dentistry Araçatuba SP Brazil"
+          "Department of Basic Sciences, São Paulo State University (UNESP), School of Dentistry, Araçatuba, SP, Brazil."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
+      "Journal Article",
       "journal-article"
     ],
     "metadataBySource": {
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "da Silva ACE",
+            "affiliations": [
+              "Department of Diagnosis and Surgery, São Paulo State University (UNESP), School of Dentistry, Araçatuba, SP, Brazil."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Batista FRS",
+            "affiliations": [
+              "Department of Diagnosis and Surgery, São Paulo State University (UNESP), School of Dentistry, Araçatuba, SP, Brazil."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Hassumi JS",
+            "affiliations": [
+              "Department of Diagnosis and Surgery, São Paulo State University (UNESP), School of Dentistry, Araçatuba, SP, Brazil."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Monteiro NG",
+            "affiliations": [
+              "Department of Diagnosis and Surgery, São Paulo State University (UNESP), School of Dentistry, Araçatuba, SP, Brazil."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Fernandes MS",
+            "affiliations": [
+              "Department of Biosciences and Oral Diagnosis, São Paulo State University (UNESP), Institute of Science and Technology, São José dos Campos, SP, Brazil."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Vasconcellos LMR",
+            "affiliations": [
+              "Department of Biosciences and Oral Diagnosis, São Paulo State University (UNESP), Institute of Science and Technology, São José dos Campos, SP, Brazil."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Mulinari-Santos G",
+            "affiliations": [
+              "Department of Basic Sciences, São Paulo State University (UNESP), School of Dentistry, Araçatuba, SP, Brazil."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Gruber R",
+            "affiliations": [
+              "Department of Oral Biology, University Clinic of Dentistry, Medical University of Vienna, Vienna, Austria."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Lisboa-Filho PN",
+            "affiliations": [
+              "Department of Physics and Meteorology, São Paulo State University (UNESP), School of Science, Bauru, SP, Brazil."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Okamoto R",
+            "affiliations": [
+              "Department of Basic Sciences, São Paulo State University (UNESP), School of Dentistry, Araçatuba, SP, Brazil."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ]
+      },
       "Crossref": {
         "authors": [
           {
