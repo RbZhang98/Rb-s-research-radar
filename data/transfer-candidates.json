@@ -241,7 +241,7 @@
     ],
     "evidenceScope": "可能迁移的科学原理，未验证骨/牙周适用性",
     "firstSeenAt": "2026-10-24T00:29:34.080435+00:00",
-    "lastSeenAt": "2026-10-28T00:35:40.646137+00:00",
+    "lastSeenAt": "2026-10-29T00:35:22.081816+00:00",
     "discoveryKind": "historical-rediscovery",
     "temporary": true,
     "expiresAt": "2026-11-07T00:29:34.080435+00:00"
@@ -357,7 +357,7 @@
     ],
     "evidenceScope": "可能迁移的科学原理，未验证骨/牙周适用性",
     "firstSeenAt": "2026-10-22T00:26:16.630084+00:00",
-    "lastSeenAt": "2026-10-28T00:35:40.646137+00:00",
+    "lastSeenAt": "2026-10-29T00:35:22.081816+00:00",
     "discoveryKind": "historical-rediscovery",
     "temporary": true,
     "expiresAt": "2026-11-05T00:26:16.630084+00:00"
@@ -365,7 +365,7 @@
   {
     "id": "10.1038/s41467-026-78462-4",
     "doi": "10.1038/s41467-026-78462-4",
-    "title": "Nano-kinetic implant surface mediates osteo-antibacterial synergy through electromagnetic-mechanical coupling",
+    "title": "Nano-kinetic implant surface mediates osteo-antibacterial synergy through electromagnetic-mechanical coupling.",
     "abstract": "Periprosthetic joint infection (PJI) is a devastating complication of total joint arthroplasty, mainly caused by bacterial biofilm formation and antibiotic resistance. Traditional static surfaces rely on contact killing-based bactericidal properties and cannot reliably clear mature biofilms. In this study, we fabricate a remote-activated dynamic biomimetic system, namely a movable magnetic topographic surface (MMTS). Here we show that under the exposure of external electromagnetic field (EMF), the anchored Janus nano-heterodimers oscillate periodically to mechanically disrupt bacterial membranes and eradicates biofilms of Staphylococcus aureus and Escherichia coli. This mechanical force can also activates Piezo1 mechanosensitive ion channel in bone marrow mesenchymal stem cells (BMSCs), inducing calcium oscillations, upregulating gene expression of Runx2 and BMP2, and enhancing extracellular matrix mineralization. In vivo, MMTS combined with EMF exposure eliminates local infection and promoted osseointegration. This remote-activated dynamic biomimetic strategy offers a promising multifunctional platform for PJI treatment, and improved implant osteointegration in clinical orthopedics.",
     "journal": "Nature Communications",
     "journalId": "nature-communications",
@@ -377,11 +377,9 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1038/s41467-026-78462-4",
-      "Europe PMC": "42897207"
+      "Europe PMC": "42897207",
+      "Crossref": "10.1038/s41467-026-78462-4"
     },
-    "onlineDate": "2026-10-19",
-    "onlineDatePrecision": "day",
     "authors": [
       {
         "name": "Chen Y",
@@ -465,63 +463,6 @@
       "research-article"
     ],
     "metadataBySource": {
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Yangmengfan Chen",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Hao Du",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Heng Sun",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Xingcan Huang",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Duan Wang",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Xuming Chen",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Jiehao Chen",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Xuanjun Zhang",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Liqiang Zhou",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Zongke Zhou",
-            "affiliations": [],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
-        ]
-      },
       "Europe PMC": {
         "authors": [
           {
@@ -604,8 +545,67 @@
           "research-article",
           "Journal Article"
         ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Yangmengfan Chen",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Hao Du",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Heng Sun",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Xingcan Huang",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Duan Wang",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Xuming Chen",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jiehao Chen",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Xuanjun Zhang",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Liqiang Zhou",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Zongke Zhou",
+            "affiliations": [],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
       }
     },
+    "onlineDate": "2026-10-19",
+    "onlineDatePrecision": "day",
     "grade": "C",
     "score": 4,
     "topics": [
@@ -633,7 +633,7 @@
     ],
     "evidenceScope": "可能迁移的科学原理，未验证骨/牙周适用性",
     "firstSeenAt": "2026-10-20T00:27:42.210895+00:00",
-    "lastSeenAt": "2026-10-28T00:35:40.646137+00:00",
+    "lastSeenAt": "2026-10-29T00:35:22.081816+00:00",
     "discoveryKind": "historical-rediscovery",
     "temporary": true,
     "expiresAt": "2026-11-03T00:27:42.210895+00:00"

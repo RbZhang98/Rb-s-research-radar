@@ -1,5 +1,256 @@
 [
   {
+    "id": "10.1093/jbmr/zjag148",
+    "doi": "10.1093/jbmr/zjag148",
+    "title": "Clonal Hematopoiesis of Indeterminate Potential and Bone Mineral Density in Cohorts from Trans-Omics for Precision Medicine",
+    "abstract": "Abstract A somatic mutation causing clonal expansion in hematopoietic stem cells (HSC), but not resulting in hematologic malignancy, is termed clonal hematopoiesis of indeterminate potential (CHIP). CHIP is associated with non-hematologic disorders, including accelerated atherosclerosis, heart failure, ischemic stroke, gout, liver disease, and kidney disease. Because osteoclasts are derived from the macrophage-monocyte lineage of HSCs, changes in the bone marrow niche due to CHIP may drive changes in BMD. To investigate whether CHIP may be related to BMD, we used CHIP mutation calls from the Trans-omics for Precision Medicine (TOPMed) whole genome sequencing data and DXA derived BMD from multiple cohorts. Data from the the Amish cohort, Cardiovascular Health Study, the Framingham Heart Study, San Antonio Family Study, and the Women’s Health Initiative were combined for analysis. Multiple linear regression was used to determine the association between CHIP mutation status and BMD, adjusting for cohort, age, age,2 sex, and, for family-based cohorts, empiric kinship estimated from genotype data. CHIP mutation status was analyzed both as a binary variable (any CHIP mutation) and as an ordinal variable (no CHIP mutation, 1 CHIP mutation in any gene, two or more CHIP mutations in a single gene, two or more CHIP mutations in different genes). A total of 3368 samples had both CHIP and BMD data, and 10.9% of samples contained any CHIP mutation. The presence of any CHIP mutations was not associated with either femoral neck or lumbar spine BMD; however, the presence of two or more CHIP mutations in different genes was positively associated with LSBMD (beta = 0.36, p = .015). We found no overall association between the presence of CHIP mutations and BMD in a large, diverse sample of genomes. Our findings of greater BMD in persons harboring multiple CHIP mutations confirm mouse models demonstrating that Dnmt3a and Tet2 mutations independently cause increased BMD.",
+    "journal": "Journal of Bone and Mineral Research",
+    "journalId": "jbmr",
+    "date": "2026-10-28",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1093/jbmr/zjag148",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1093/jbmr/zjag148"
+    },
+    "onlineDate": "2026-10-28",
+    "onlineDatePrecision": "day",
+    "authors": [
+      {
+        "name": "Douglas P Kiel",
+        "affiliations": [
+          "Hinda and Arthur Marcus Institute for Aging Research and Department of Medicine, Hebrew SeniorLife , Boston, Massachusetts ,",
+          "Department of Medicine, Beth Israel Deaconess Medical Center , Boston, MA ,",
+          "Department of Medicine, Harvard Medical School , Boston, MA ,"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Wingel Xue",
+        "affiliations": [
+          "Department of Medicine, Harvard Medical School , Boston, MA ,"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Hanfei Xu",
+        "affiliations": [
+          "Department of Biostatistics, Boston University School of Public Health , Boston, MA ,"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Alexander Bick",
+        "affiliations": [
+          "Vanderbilt University Medical Center , Nashville, TN ,"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Carolyn J Crandall",
+        "affiliations": [
+          "David Geffen School of Medicine at University of California , Los Angeles, CA ,"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Yi-Hsiang Hsu",
+        "affiliations": [
+          "Hinda and Arthur Marcus Institute for Aging Research and Department of Medicine, Hebrew SeniorLife , Boston, Massachusetts ,",
+          "Department of Medicine, Beth Israel Deaconess Medical Center , Boston, MA ,",
+          "Department of Medicine, Harvard Medical School , Boston, MA ,"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "David Karasik",
+        "affiliations": [
+          "Hinda and Arthur Marcus Institute for Aging Research and Department of Medicine, Hebrew SeniorLife , Boston, Massachusetts ,"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Braxton D Mitchell",
+        "affiliations": [
+          "Department of Medicine, University of Maryland School of Medicine , Baltimore, MD ,"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "May E Montasser",
+        "affiliations": [
+          "Department of Medicine, University of Maryland School of Medicine , Baltimore, MD ,"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Joshua S Weinstock",
+        "affiliations": [
+          "Department of Human Genetics, Emory University School of Medicine , Atlanta, GA ,"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Kerri L Wiggins",
+        "affiliations": [
+          "Cardiovascular Health Research Unit, Department of Medicine, University of Washington , Seattle, WA ,"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Ching- Ti Liu",
+        "affiliations": [
+          "Department of Biostatistics, Boston University School of Public Health , Boston, MA ,"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Rebecca D Jackson",
+        "affiliations": [
+          "Medicine, Ohio State University Health System"
+        ],
+        "source": "Crossref"
+      }
+    ],
+    "publicationTypes": [
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Douglas P Kiel",
+            "affiliations": [
+              "Hinda and Arthur Marcus Institute for Aging Research and Department of Medicine, Hebrew SeniorLife , Boston, Massachusetts ,",
+              "Department of Medicine, Beth Israel Deaconess Medical Center , Boston, MA ,",
+              "Department of Medicine, Harvard Medical School , Boston, MA ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Wingel Xue",
+            "affiliations": [
+              "Department of Medicine, Harvard Medical School , Boston, MA ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Hanfei Xu",
+            "affiliations": [
+              "Department of Biostatistics, Boston University School of Public Health , Boston, MA ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Alexander Bick",
+            "affiliations": [
+              "Vanderbilt University Medical Center , Nashville, TN ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Carolyn J Crandall",
+            "affiliations": [
+              "David Geffen School of Medicine at University of California , Los Angeles, CA ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Yi-Hsiang Hsu",
+            "affiliations": [
+              "Hinda and Arthur Marcus Institute for Aging Research and Department of Medicine, Hebrew SeniorLife , Boston, Massachusetts ,",
+              "Department of Medicine, Beth Israel Deaconess Medical Center , Boston, MA ,",
+              "Department of Medicine, Harvard Medical School , Boston, MA ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "David Karasik",
+            "affiliations": [
+              "Hinda and Arthur Marcus Institute for Aging Research and Department of Medicine, Hebrew SeniorLife , Boston, Massachusetts ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Braxton D Mitchell",
+            "affiliations": [
+              "Department of Medicine, University of Maryland School of Medicine , Baltimore, MD ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "May E Montasser",
+            "affiliations": [
+              "Department of Medicine, University of Maryland School of Medicine , Baltimore, MD ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Joshua S Weinstock",
+            "affiliations": [
+              "Department of Human Genetics, Emory University School of Medicine , Atlanta, GA ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Kerri L Wiggins",
+            "affiliations": [
+              "Cardiovascular Health Research Unit, Department of Medicine, University of Washington , Seattle, WA ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Ching- Ti Liu",
+            "affiliations": [
+              "Department of Biostatistics, Boston University School of Public Health , Boston, MA ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Rebecca D Jackson",
+            "affiliations": [
+              "Medicine, Ohio State University Health System"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "grade": "A",
+    "score": 10,
+    "topics": [
+      "B 骨代谢与骨重塑",
+      "D 骨免疫与炎症微环境",
+      "E 可迁移基础发现与技术"
+    ],
+    "pending": false,
+    "evidence": {
+      "B 骨代谢与骨重塑": [
+        "osteoclast"
+      ],
+      "D 骨免疫与炎症微环境": [
+        "bone marrow niche",
+        "macrophage"
+      ],
+      "E 可迁移基础发现与技术": [
+        "stem cell"
+      ]
+    },
+    "reason": "规则命中：osteoclast；bone marrow niche, macrophage；stem cell；分级仅表示关键词证据，未经语义或人工验证。",
+    "rulesVersion": "2.0",
+    "inspirationScore": 0,
+    "transferMechanisms": [],
+    "evidenceScope": "直接领域词汇证据",
+    "firstSeenAt": "2026-10-29T00:35:22.081816+00:00",
+    "lastSeenAt": "2026-10-29T00:35:22.081816+00:00",
+    "discoveryKind": "new"
+  },
+  {
     "id": "10.1038/s41413-026-00584-8",
     "doi": "10.1038/s41413-026-00584-8",
     "title": "KMT2C and KMT2D regulate skeletal development through stage-specific epigenetic control of chondrogenesis",
@@ -159,7 +410,7 @@
     "id": "10.1177/00220345261491310",
     "doi": "10.1177/00220345261491310",
     "title": "Single-Cell Atlas of Human Orthodontic Tooth Movement.",
-    "abstract": "Orthodontic tooth movement (OTM) requires coordinated remodeling of the periodontal ligament and alveolar bone, but the cellular architecture underlying this process in human tissues remains incompletely understood. We generated the first single-cell transcriptomic atlas of the human periodontal ligament during OTM by profiling control tissues and pressure- and tension-side tissues collected at days 3 and 7 following force application. Analysis of 65,032 cells identified 15 cell populations and revealed pronounced remodeling of stromal, immune, vascular, and neural compartments that varied by force direction and stage. Within the fibroblast compartment, we identified a CTHRC1 + fibroblast subset that was enriched on the pressure side at day 3 and exhibited heightened mechanotransduction, inflammatory signaling, and chemokine programs. TRPA1 was preferentially expressed in this subset, and computational perturbation, tissue validation, and pharmacologic inhibition supported its involvement in early remodeling on the pressure side. Ligand–receptor and functional analyses further implicated C3 as a downstream remodeling mediator linking regions rich in CTHRC1 + fibroblasts to monocyte recruitment and osteoclastogenic activity. In a mouse OTM model, systemic treatment with HC-030031 and local Trpa1 knockdown mediated by AAV9 under the Postn promoter reduced tooth movement, while HC-030031 also decreased osteoclast surface. Local C3a supplementation partially restored tooth movement during TRPA1 inhibition. These intervention data, with in vitro assays and tissue validation, support the involvement of TRPA1-associated signaling in a pressure-responsive stromal remodeling program and C3 as a potential downstream mediator of osteoclastogenic remodeling. These findings provide a human single-cell framework for periodontal remodeling during OTM and identify a pressure-responsive CTHRC1 + fibroblast population in which mechanosensitive TRPA1 contributes to osteoclastogenic remodeling on the pressure side.",
+    "abstract": "Orthodontic tooth movement (OTM) requires coordinated remodeling of the periodontal ligament and alveolar bone, but the cellular architecture underlying this process in human tissues remains incompletely understood. We generated the first single-cell transcriptomic atlas of the human periodontal ligament during OTM by profiling control tissues and pressure- and tension-side tissues collected at days 3 and 7 following force application. Analysis of 65,032 cells identified 15 cell populations and revealed pronounced remodeling of stromal, immune, vascular, and neural compartments that varied by force direction and stage. Within the fibroblast compartment, we identified a CTHRC1 + fibroblast subset that was enriched on the pressure side at day 3 and exhibited heightened mechanotransduction, inflammatory signaling, and chemokine programs. TRPA1 was preferentially expressed in this subset, and computational perturbation, tissue validation, and pharmacologic inhibition supported its involvement in early remodeling on the pressure side. Ligand-receptor and functional analyses further implicated C3 as a downstream remodeling mediator linking regions rich in CTHRC1 + fibroblasts to monocyte recruitment and osteoclastogenic activity. In a mouse OTM model, systemic treatment with HC-030031 and local Trpa1 knockdown mediated by AAV9 under the Postn promoter reduced tooth movement, while HC-030031 also decreased osteoclast surface. Local C3a supplementation partially restored tooth movement during TRPA1 inhibition. These intervention data, with in vitro assays and tissue validation, support the involvement of TRPA1-associated signaling in a pressure-responsive stromal remodeling program and C3 as a potential downstream mediator of osteoclastogenic remodeling. These findings provide a human single-cell framework for periodontal remodeling during OTM and identify a pressure-responsive CTHRC1 + fibroblast population in which mechanosensitive TRPA1 contributes to osteoclastogenic remodeling on the pressure side.",
     "journal": "Journal of Dental Research",
     "journalId": "jdr",
     "date": "2026-10-26",
@@ -292,7 +543,6 @@
       }
     ],
     "publicationTypes": [
-      "IM",
       "Journal Article",
       "journal-article"
     ],
@@ -417,7 +667,6 @@
           }
         ],
         "publicationTypes": [
-          "IM",
           "Journal Article"
         ]
       },
@@ -590,8 +839,8 @@
   {
     "id": "10.1111/jcpe.70213",
     "doi": "10.1111/jcpe.70213",
-    "title": "Influence of the Occupying Proportion of Mineralised Particles Within the Grafted Volume on Subsequent Volume Shrinkage: A Preclinical Study on Rabbit Calvaria.",
-    "abstract": "To evaluate whether mineral particle occupancy within the grafted volume influences volumetric stability and bone regeneration, and to compare particulate grafts, collagenated grafts, hyaluronic acid-conjugated particulates and mechanical manipulation in a vertical augmentation model. Ten New Zealand white rabbits received four standardised vertical calvarial defects and filled with saline-hydrated particulate deproteinised porcine bone mineral (Control), intact collagenated bone blocks (CBM), hydrated and mechanically crushed collagenated blocks (cCBM) or particulate grafts mixed with hyaluronic acid (HA). Grafts were placed in sealed plastic cylinders. Animals were sacrificed at 2 and 8 weeks. Volumetric stability and mineralised tissue volume were assessed by micro-computed tomography, and the total augmented area, new bone formation, residual material and particle length were evaluated by histological and histomorphometric analyses. Data were analysed using linear mixed-effects models. Mineralised tissue volume increased over time in Control, CBM and HA groups but decreased in cCBM (time × material interaction, p = 0.020). At 8 weeks, total augmented area was preserved in Control and CBM, whereas significant volumetric shrinkage occurred in cCBM and HA (p < 0.01). New bone formation increased in all groups but was highest in the Control group. Residual material area remained stable but was higher in Control and CBM than in cCBM and HA, and particle length was reduced in mechanically manipulated groups. Given the limitations of this model, binder incorporation and mechanical manipulation may affect particle occupancy and volumetric stability. Reducing graft manipulation may enhance space maintenance and facilitate bone regeneration.",
+    "title": "Influence of the Occupying Proportion of Mineralised Particles Within the Grafted Volume on Subsequent Volume Shrinkage: A Preclinical Study on Rabbit Calvaria",
+    "abstract": "ABSTRACT Aim To evaluate whether mineral particle occupancy within the grafted volume influences volumetric stability and bone regeneration, and to compare particulate grafts, collagenated grafts, hyaluronic acid–conjugated particulates and mechanical manipulation in a vertical augmentation model. Materials and Methods Ten New Zealand white rabbits received four standardised vertical calvarial defects and filled with saline‐hydrated particulate deproteinised porcine bone mineral (Control), intact collagenated bone blocks (CBM), hydrated and mechanically crushed collagenated blocks (cCBM) or particulate grafts mixed with hyaluronic acid (HA). Grafts were placed in sealed plastic cylinders. Animals were sacrificed at 2 and 8 weeks. Volumetric stability and mineralised tissue volume were assessed by micro‐computed tomography, and the total augmented area, new bone formation, residual material and particle length were evaluated by histological and histomorphometric analyses. Data were analysed using linear mixed‐effects models. Results Mineralised tissue volume increased over time in Control, CBM and HA groups but decreased in cCBM (time × material interaction, p = 0.020). At 8 weeks, total augmented area was preserved in Control and CBM, whereas significant volumetric shrinkage occurred in cCBM and HA ( p Conclusions Given the limitations of this model, binder incorporation and mechanical manipulation may affect particle occupancy and volumetric stability. Reducing graft manipulation may enhance space maintenance and facilitate bone regeneration.",
     "journal": "Journal of Clinical Periodontology",
     "journalId": "jcp",
     "date": "2026-10-26",
@@ -602,143 +851,75 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Europe PMC": "42935113",
-      "Crossref": "10.1111/jcpe.70213"
+      "Crossref": "10.1111/jcpe.70213",
+      "Europe PMC": "42935113"
     },
     "authors": [
       {
-        "name": "Choi JS",
+        "name": "Ji‐Su Choi",
         "affiliations": [
-          "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry, Yonsei University, Seoul, South Korea."
+          "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry Yonsei University Seoul South Korea"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Hwang B",
+        "name": "Betül Hwang",
         "affiliations": [
-          "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry, Yonsei University, Seoul, South Korea."
+          "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry Yonsei University Seoul South Korea"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Lee MY",
+        "name": "Min‐Yong Lee",
         "affiliations": [
-          "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry, Yonsei University, Seoul, South Korea."
+          "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry Yonsei University Seoul South Korea"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Cho SH",
+        "name": "Sang‐Hyun Cho",
         "affiliations": [
-          "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry, Yonsei University, Seoul, South Korea.",
-          "BK21 FOUR Project, Yonsei University College of Dentistry, Seoul, South Korea."
+          "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry Yonsei University Seoul South Korea",
+          "BK21 FOUR Project Yonsei University College of Dentistry Seoul South Korea"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Müller N",
+        "name": "Nicolas Müller",
         "affiliations": [
-          "Clinic of Reconstructive Dentistry, Center of Dental Medicine, University of Zurich, Zurich, Switzerland."
+          "Clinic of Reconstructive Dentistry, Center of Dental Medicine University of Zurich Zurich Switzerland"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Strauss FJ",
+        "name": "Franz J. Strauss",
         "affiliations": [
-          "Discipline of Periodontics, School of Dentistry, Faculty of Medicine and Health, The University of Sydney, Sydney, New South Wales, Australia.",
-          "Faculty of Health Sciences, Universidad Autonoma de Chile, Santiago, Chile."
+          "Discipline of Periodontics, School of Dentistry, Faculty of Medicine and Health The University of Sydney Sydney New South Wales Australia",
+          "Faculty of Health Sciences Universidad Autonoma de Chile Santiago Chile"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Kwon JS",
+        "name": "Jae‐Sung Kwon",
         "affiliations": [
-          "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry, Yonsei University, Seoul, South Korea.",
-          "BK21 FOUR Project, Yonsei University College of Dentistry, Seoul, South Korea."
+          "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry Yonsei University Seoul South Korea",
+          "BK21 FOUR Project Yonsei University College of Dentistry Seoul South Korea"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Lee JS",
+        "name": "Jung‐Seok Lee",
         "affiliations": [
-          "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry, Yonsei University, Seoul, South Korea."
+          "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry Yonsei University Seoul South Korea"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       }
     ],
     "publicationTypes": [
-      "IM",
       "Journal Article",
       "journal-article"
     ],
     "metadataBySource": {
-      "Europe PMC": {
-        "authors": [
-          {
-            "name": "Choi JS",
-            "affiliations": [
-              "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry, Yonsei University, Seoul, South Korea."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Hwang B",
-            "affiliations": [
-              "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry, Yonsei University, Seoul, South Korea."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Lee MY",
-            "affiliations": [
-              "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry, Yonsei University, Seoul, South Korea."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Cho SH",
-            "affiliations": [
-              "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry, Yonsei University, Seoul, South Korea.",
-              "BK21 FOUR Project, Yonsei University College of Dentistry, Seoul, South Korea."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Müller N",
-            "affiliations": [
-              "Clinic of Reconstructive Dentistry, Center of Dental Medicine, University of Zurich, Zurich, Switzerland."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Strauss FJ",
-            "affiliations": [
-              "Discipline of Periodontics, School of Dentistry, Faculty of Medicine and Health, The University of Sydney, Sydney, New South Wales, Australia.",
-              "Faculty of Health Sciences, Universidad Autonoma de Chile, Santiago, Chile."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Kwon JS",
-            "affiliations": [
-              "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry, Yonsei University, Seoul, South Korea.",
-              "BK21 FOUR Project, Yonsei University College of Dentistry, Seoul, South Korea."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Lee JS",
-            "affiliations": [
-              "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry, Yonsei University, Seoul, South Korea."
-            ],
-            "source": "Europe PMC"
-          }
-        ],
-        "publicationTypes": [
-          "IM",
-          "Journal Article"
-        ]
-      },
       "Crossref": {
         "authors": [
           {
@@ -804,6 +985,72 @@
         "publicationTypes": [
           "journal-article"
         ]
+      },
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Choi JS",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry, Yonsei University, Seoul, South Korea."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Hwang B",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry, Yonsei University, Seoul, South Korea."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Lee MY",
+            "affiliations": [
+              "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry, Yonsei University, Seoul, South Korea."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Cho SH",
+            "affiliations": [
+              "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry, Yonsei University, Seoul, South Korea.",
+              "BK21 FOUR Project, Yonsei University College of Dentistry, Seoul, South Korea."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Müller N",
+            "affiliations": [
+              "Clinic of Reconstructive Dentistry, Center of Dental Medicine, University of Zurich, Zurich, Switzerland."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Strauss FJ",
+            "affiliations": [
+              "Discipline of Periodontics, School of Dentistry, Faculty of Medicine and Health, The University of Sydney, Sydney, New South Wales, Australia.",
+              "Faculty of Health Sciences, Universidad Autonoma de Chile, Santiago, Chile."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Kwon JS",
+            "affiliations": [
+              "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry, Yonsei University, Seoul, South Korea.",
+              "BK21 FOUR Project, Yonsei University College of Dentistry, Seoul, South Korea."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Lee JS",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry, Yonsei University, Seoul, South Korea."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ]
       }
     },
     "onlineDate": "2026-10-26",
@@ -835,7 +1082,7 @@
   {
     "id": "10.1111/jcpe.70219",
     "doi": "10.1111/jcpe.70219",
-    "title": "Diagnosed Dental Diseases, Tooth Loss and the Risk of Primary Liver Cancer in a Nationwide Swedish Cohort.",
+    "title": "Diagnosed Dental Diseases, Tooth Loss and the Risk of Primary Liver Cancer in a Nationwide Swedish Cohort",
     "abstract": "ABSTRACT Background and Aim Poor dental health has been shown to increase the risk of several types of cancer, but its association with primary liver cancer (PLC) remains unclear. We aimed to evaluate the association between dental diseases, tooth loss and the risk of PLC. Patients and Methods We conducted a large population‐based retrospective cohort study including 5,893,325 adults registered in the Swedish Dental Health Register between 2009 and 2016. Participants were linked to multiple Swedish national registers to ascertain incident PLC cases. Cox regression analyses were performed to evaluate the association between dental diseases, tooth loss and the risk of PLC, using attained age as the timescale and adjusting for potential confounders. Additionally, in a sibling comparison analysis we controlled for shared genetic and early‐life environmental factors. Results During a mean follow‐up of 6.36 years, 2374 PLC cases were identified through linkage with the Cancer Register: 1856 hepatocellular carcinoma (HCC) and 518 non‐HCC PLC cases. Both caries (hazard ratio [HR] = 1.15, 95% CI: 1.02–1.30) and periodontitis (HR = 1.25, 95% CI: 1.12–1.39) were associated with an increased risk of PLC. Further, a clear dose–response relationship was observed between fewer remaining teeth and PLC risk, with HRs ranging from 1.15 to 1.84 ( p 27 remaining teeth. Subtype‐specific analyses showed that caries was associated with non‐HCC PLC, whereas periodontitis was associated with HCC. Tooth loss was more strongly associated with HCC than with non‐HCC PLC. The overall findings were generally consistent across sibling‐controlled, subgroup, and sensitivity analyses. Conclusions Our large population‐based cohort study suggests that caries, periodontitis and tooth loss are associated with an elevated risk of PLC, with distinct patterns of association observed for HCC and non‐HCC PLC.",
     "journal": "Journal of Clinical Periodontology",
     "journalId": "jcp",
@@ -847,48 +1094,48 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Europe PMC": "42927980",
-      "Crossref": "10.1111/jcpe.70219"
+      "Crossref": "10.1111/jcpe.70219",
+      "Europe PMC": "42927980"
     },
     "authors": [
       {
-        "name": "Zhong Q",
+        "name": "Qiaofeng Zhong",
         "affiliations": [
-          "Department of Medical Oncology, Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fuzhou, China.",
-          "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden."
+          "Department of Medical Oncology Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital Fuzhou China",
+          "Department of Medical Epidemiology and Biostatistics Karolinska Institutet Stockholm Sweden"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Ruan Z",
+        "name": "Zengliang Ruan",
         "affiliations": [
-          "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
-          "Key Laboratory of Environmental Medicine and Engineering of Ministry of Education, and Department of Epidemiology & Biostatistics, School of Public Health, Southeast University, Nanjing, China."
+          "Department of Medical Epidemiology and Biostatistics Karolinska Institutet Stockholm Sweden",
+          "Key Laboratory of Environmental Medicine and Engineering of Ministry of Education, and Department of Epidemiology & Biostatistics, School of Public Health Southeast University Nanjing China"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Yin L",
+        "name": "Li Yin",
         "affiliations": [
-          "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden."
+          "Department of Medical Epidemiology and Biostatistics Karolinska Institutet Stockholm Sweden"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Adami HO",
+        "name": "Hans‐Olov Adami",
         "affiliations": [
-          "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
-          "Clinical Effectiveness Research Group, Institute of Health and Society, University of Oslo, Oslo, Norway."
+          "Department of Medical Epidemiology and Biostatistics Karolinska Institutet Stockholm Sweden",
+          "Clinical Effectiveness Research Group, Institute of Health and Society University of Oslo Oslo Norway"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Ye W",
+        "name": "Weimin Ye",
         "affiliations": [
-          "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
-          "Department of Epidemiology and Health Statistics, School of Public Health, Fujian Medical University, Fuzhou, China."
+          "Department of Medical Epidemiology and Biostatistics Karolinska Institutet Stockholm Sweden",
+          "Department of Epidemiology and Health Statistics, School of Public Health Fujian Medical University Fuzhou China"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       }
     ],
     "publicationTypes": [
@@ -896,52 +1143,6 @@
       "journal-article"
     ],
     "metadataBySource": {
-      "Europe PMC": {
-        "authors": [
-          {
-            "name": "Zhong Q",
-            "affiliations": [
-              "Department of Medical Oncology, Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fuzhou, China.",
-              "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Ruan Z",
-            "affiliations": [
-              "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
-              "Key Laboratory of Environmental Medicine and Engineering of Ministry of Education, and Department of Epidemiology & Biostatistics, School of Public Health, Southeast University, Nanjing, China."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Yin L",
-            "affiliations": [
-              "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Adami HO",
-            "affiliations": [
-              "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
-              "Clinical Effectiveness Research Group, Institute of Health and Society, University of Oslo, Oslo, Norway."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Ye W",
-            "affiliations": [
-              "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
-              "Department of Epidemiology and Health Statistics, School of Public Health, Fujian Medical University, Fuzhou, China."
-            ],
-            "source": "Europe PMC"
-          }
-        ],
-        "publicationTypes": [
-          "Journal Article"
-        ]
-      },
       "Crossref": {
         "authors": [
           {
@@ -986,6 +1187,52 @@
         ],
         "publicationTypes": [
           "journal-article"
+        ]
+      },
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Zhong Q",
+            "affiliations": [
+              "Department of Medical Oncology, Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fuzhou, China.",
+              "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Ruan Z",
+            "affiliations": [
+              "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
+              "Key Laboratory of Environmental Medicine and Engineering of Ministry of Education, and Department of Epidemiology & Biostatistics, School of Public Health, Southeast University, Nanjing, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Yin L",
+            "affiliations": [
+              "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Adami HO",
+            "affiliations": [
+              "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
+              "Clinical Effectiveness Research Group, Institute of Health and Society, University of Oslo, Oslo, Norway."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Ye W",
+            "affiliations": [
+              "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
+              "Department of Epidemiology and Health Statistics, School of Public Health, Fujian Medical University, Fuzhou, China."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "Journal Article"
         ]
       }
     },
@@ -1337,7 +1584,7 @@
   {
     "id": "10.1111/jcpe.70216",
     "doi": "10.1111/jcpe.70216",
-    "title": "An Exploratory Longitudinal Analysis of Salivary Host, Bacterial and Fungal Extracellular Vesicles Following 6-Month Non-Surgical Periodontal Therapy in Periodontitis.",
+    "title": "An Exploratory Longitudinal Analysis of Salivary Host, Bacterial and Fungal Extracellular Vesicles Following 6‐Month Non‐Surgical Periodontal Therapy in Periodontitis",
     "abstract": "ABSTRACT Aim To evaluate the longitudinal changes in salivary host and non‐host extracellular vesicles (EVs) following non‐surgical periodontal therapy (NSPT). Materials and Methods Unstimulated saliva and plaque (from a deep pocket) were collected from 25 Stage III/IV periodontitis patients at baseline and at 3 and 6 months post NSPT. Host salivary EVs and non‐host EVs were isolated using immunoaffinity, and size‐exclusion chromatography, respectively. Host EV cytokines were assessed by multiplex flow cytometry, and non‐host EVs, saliva and plaque were profiled by 16S rRNA and fungal internal transcribed spacer (ITS) sequencing. Results Periodontal parameters significantly decreased at 3 and 6 months post NSPT (vs. baseline), accompanied by increased host‐EVs associated cytokines interleukin‐4 (IL‐4), IL‐12 and IL‐9 (not whole saliva). At both timepoints, bacterial EVs also declined, including the genera Filifactor , Parvimonas and Lentimicrobium and the species Fusobacterium nucleatum , Filifactor alocis , Tannerella forsythia , Treponema denticola , Porphyromonas gingivalis , P. endodontalis , P. micra and Lachnospiraceae bacterium; similar reductions were observed in plaque and saliva taxa, including Treponema , Tannerella , Parvimonas , T. forsythia , T. socranskii and P. micra . At 6 months, fungal EVs from Malassezia arunalokei were decreased and the fungal Candida parapsilosis EVs were increased. Conclusions NSPT led to changes in salivary host and non‐host EV cargoes, suggesting that they may serve as a non‐invasive tool for disease treatment monitoring in periodontitis.",
     "journal": "Journal of Clinical Periodontology",
     "journalId": "jcp",
@@ -1349,60 +1596,60 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Europe PMC": "42919615",
-      "Crossref": "10.1111/jcpe.70216"
+      "Crossref": "10.1111/jcpe.70216",
+      "Europe PMC": "42919615"
     },
     "onlineDate": "2026-10-23",
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "Liu C",
+        "name": "Chun Liu",
         "affiliations": [
-          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
+          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Wang J",
+        "name": "Jenny Wang",
         "affiliations": [
-          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
+          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Lai A",
+        "name": "Andrew Lai",
         "affiliations": [
-          "Translational Extracellular Vesicles in Obstetrics and Gynae-Oncology Group, The University of Queensland Frazer Institute, Royal Brisbane and Women's Hospital, Faculty of Medicine, The University of Queensland, Brisbane, Queensland, Australia."
+          "Translational Extracellular Vesicles in Obstetrics and Gynae‐Oncology Group, The University of Queensland Frazer Institute, Royal Brisbane and Women's Hospital, Faculty of Medicine The University of Queensland Brisbane Queensland Australia"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Salomon C",
+        "name": "Carlos Salomon",
         "affiliations": [
-          "Translational Extracellular Vesicles in Obstetrics and Gynae-Oncology Group, The University of Queensland Frazer Institute, Royal Brisbane and Women's Hospital, Faculty of Medicine, The University of Queensland, Brisbane, Queensland, Australia."
+          "Translational Extracellular Vesicles in Obstetrics and Gynae‐Oncology Group, The University of Queensland Frazer Institute, Royal Brisbane and Women's Hospital, Faculty of Medicine The University of Queensland Brisbane Queensland Australia"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Seneviratne CJ",
+        "name": "Chaminda Jayampath Seneviratne",
         "affiliations": [
-          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
+          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Ivanovski S",
+        "name": "Sašo Ivanovski",
         "affiliations": [
-          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
+          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Han P",
+        "name": "Pingping Han",
         "affiliations": [
-          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
+          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       }
     ],
     "publicationTypes": [
@@ -1410,62 +1657,6 @@
       "journal-article"
     ],
     "metadataBySource": {
-      "Europe PMC": {
-        "authors": [
-          {
-            "name": "Liu C",
-            "affiliations": [
-              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Wang J",
-            "affiliations": [
-              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Lai A",
-            "affiliations": [
-              "Translational Extracellular Vesicles in Obstetrics and Gynae-Oncology Group, The University of Queensland Frazer Institute, Royal Brisbane and Women's Hospital, Faculty of Medicine, The University of Queensland, Brisbane, Queensland, Australia."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Salomon C",
-            "affiliations": [
-              "Translational Extracellular Vesicles in Obstetrics and Gynae-Oncology Group, The University of Queensland Frazer Institute, Royal Brisbane and Women's Hospital, Faculty of Medicine, The University of Queensland, Brisbane, Queensland, Australia."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Seneviratne CJ",
-            "affiliations": [
-              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Ivanovski S",
-            "affiliations": [
-              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Han P",
-            "affiliations": [
-              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
-            ],
-            "source": "Europe PMC"
-          }
-        ],
-        "publicationTypes": [
-          "Journal Article"
-        ]
-      },
       "Crossref": {
         "authors": [
           {
@@ -1520,6 +1711,62 @@
         ],
         "publicationTypes": [
           "journal-article"
+        ]
+      },
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Liu C",
+            "affiliations": [
+              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Wang J",
+            "affiliations": [
+              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Lai A",
+            "affiliations": [
+              "Translational Extracellular Vesicles in Obstetrics and Gynae-Oncology Group, The University of Queensland Frazer Institute, Royal Brisbane and Women's Hospital, Faculty of Medicine, The University of Queensland, Brisbane, Queensland, Australia."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Salomon C",
+            "affiliations": [
+              "Translational Extracellular Vesicles in Obstetrics and Gynae-Oncology Group, The University of Queensland Frazer Institute, Royal Brisbane and Women's Hospital, Faculty of Medicine, The University of Queensland, Brisbane, Queensland, Australia."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Seneviratne CJ",
+            "affiliations": [
+              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Ivanovski S",
+            "affiliations": [
+              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Han P",
+            "affiliations": [
+              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "Journal Article"
         ]
       }
     },

@@ -1,9 +1,383 @@
 [
   {
+    "id": "10.1111/jcpe.70218",
+    "doi": "10.1111/jcpe.70218",
+    "title": "Response to: ‘Confounded Prosthetic Interfaces and Statistical Inconsistency in Zirconia vs. PFM Peri‐Implant Soft Tissue Outcomes’",
+    "abstract": "",
+    "journal": "Journal of Clinical Periodontology",
+    "journalId": "jcp",
+    "date": "2026-10-27",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1111/jcpe.70218",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1111/jcpe.70218"
+    },
+    "onlineDate": "2026-10-27",
+    "onlineDatePrecision": "day",
+    "authors": [
+      {
+        "name": "Yifan Zhang",
+        "affiliations": [
+          "Department of Implantology Peking University School and Hospital of Stomatology & National Center of Stomatology & National Clinical Research Center for Oral Diseases & National Engineering Research Center of Oral Biomaterials and Digital Medical Devices Beijing China",
+          "Clinic of Reconstructive Dentistry, Center of Dental Medicine University of Zurich Zurich Switzerland"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Sven Mühlemann",
+        "affiliations": [
+          "Clinic of Reconstructive Dentistry, Center of Dental Medicine University of Zurich Zurich Switzerland",
+          "Private Practice Zurich Switzerland"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Aspasia Pachiou",
+        "affiliations": [
+          "Clinic of Reconstructive Dentistry, Center of Dental Medicine University of Zurich Zurich Switzerland"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Stephanie Astrid Stalder",
+        "affiliations": [
+          "Clinic of Reconstructive Dentistry, Center of Dental Medicine University of Zurich Zurich Switzerland"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Ronald E. Jung",
+        "affiliations": [
+          "Clinic of Reconstructive Dentistry, Center of Dental Medicine University of Zurich Zurich Switzerland"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Ye Lin",
+        "affiliations": [
+          "Department of Implantology Peking University School and Hospital of Stomatology & National Center of Stomatology & National Clinical Research Center for Oral Diseases & National Engineering Research Center of Oral Biomaterials and Digital Medical Devices Beijing China"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Daniel S. Thoma",
+        "affiliations": [
+          "Clinic of Reconstructive Dentistry, Center of Dental Medicine University of Zurich Zurich Switzerland",
+          "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul Republic of Korea"
+        ],
+        "source": "Crossref"
+      }
+    ],
+    "publicationTypes": [
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Yifan Zhang",
+            "affiliations": [
+              "Department of Implantology Peking University School and Hospital of Stomatology & National Center of Stomatology & National Clinical Research Center for Oral Diseases & National Engineering Research Center of Oral Biomaterials and Digital Medical Devices Beijing China",
+              "Clinic of Reconstructive Dentistry, Center of Dental Medicine University of Zurich Zurich Switzerland"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Sven Mühlemann",
+            "affiliations": [
+              "Clinic of Reconstructive Dentistry, Center of Dental Medicine University of Zurich Zurich Switzerland",
+              "Private Practice Zurich Switzerland"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Aspasia Pachiou",
+            "affiliations": [
+              "Clinic of Reconstructive Dentistry, Center of Dental Medicine University of Zurich Zurich Switzerland"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Stephanie Astrid Stalder",
+            "affiliations": [
+              "Clinic of Reconstructive Dentistry, Center of Dental Medicine University of Zurich Zurich Switzerland"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Ronald E. Jung",
+            "affiliations": [
+              "Clinic of Reconstructive Dentistry, Center of Dental Medicine University of Zurich Zurich Switzerland"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Ye Lin",
+            "affiliations": [
+              "Department of Implantology Peking University School and Hospital of Stomatology & National Center of Stomatology & National Clinical Research Center for Oral Diseases & National Engineering Research Center of Oral Biomaterials and Digital Medical Devices Beijing China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Daniel S. Thoma",
+            "affiliations": [
+              "Clinic of Reconstructive Dentistry, Center of Dental Medicine University of Zurich Zurich Switzerland",
+              "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul Republic of Korea"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "grade": "B",
+    "score": 5,
+    "topics": [
+      "种植修复",
+      "骨增量与软组织"
+    ],
+    "pending": true,
+    "studyType": "研究类型待确认",
+    "studyTypeEvidence": {},
+    "evidence": {},
+    "reason": "临床独立规则：研究类型待确认。类型由词组初筛或信息不足，待确认；优先级不等同于研究质量评价。",
+    "rulesVersion": "2.0",
+    "firstSeenAt": "2026-10-29T00:35:28.718262+00:00",
+    "lastSeenAt": "2026-10-29T00:35:28.718262+00:00",
+    "discoveryKind": "new"
+  },
+  {
+    "id": "10.1111/jcpe.70217",
+    "doi": "10.1111/jcpe.70217",
+    "title": "Confounded Prosthetic Interfaces and Statistical Inconsistency in Zirconia versus PFM Peri‐Implant Soft‐Tissue Outcomes",
+    "abstract": "",
+    "journal": "Journal of Clinical Periodontology",
+    "journalId": "jcp",
+    "date": "2026-10-27",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1111/jcpe.70217",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1111/jcpe.70217"
+    },
+    "onlineDate": "2026-10-27",
+    "onlineDatePrecision": "day",
+    "authors": [
+      {
+        "name": "Aishwarya Pandey",
+        "affiliations": [
+          "Department of Periodontics and Implantology, Faculty of Dental Sciences Banaras Hindu University Varanasi India"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Farhan Durrani",
+        "affiliations": [
+          "Department of Periodontics and Implantology, Faculty of Dental Sciences Banaras Hindu University Varanasi India"
+        ],
+        "source": "Crossref"
+      }
+    ],
+    "publicationTypes": [
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Aishwarya Pandey",
+            "affiliations": [
+              "Department of Periodontics and Implantology, Faculty of Dental Sciences Banaras Hindu University Varanasi India"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Farhan Durrani",
+            "affiliations": [
+              "Department of Periodontics and Implantology, Faculty of Dental Sciences Banaras Hindu University Varanasi India"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "grade": "B",
+    "score": 5,
+    "topics": [
+      "种植修复"
+    ],
+    "pending": true,
+    "studyType": "研究类型待确认",
+    "studyTypeEvidence": {},
+    "evidence": {},
+    "reason": "临床独立规则：研究类型待确认。类型由词组初筛或信息不足，待确认；优先级不等同于研究质量评价。",
+    "rulesVersion": "2.0",
+    "firstSeenAt": "2026-10-29T00:35:28.718262+00:00",
+    "lastSeenAt": "2026-10-29T00:35:28.718262+00:00",
+    "discoveryKind": "new"
+  },
+  {
+    "id": "10.1111/clr.70198",
+    "doi": "10.1111/clr.70198",
+    "title": "Comparative Evaluation of Synthetic and Xenogeneic Self‐Retaining Bone Grafting Systems Under Standardized Block Geometry: An Experimental In Vivo Study",
+    "abstract": "ABSTRACT Objectives This study aimed to compare new bone formation and dimensional outcomes between synthetic and xenogeneic self‐retaining bone grafting systems in staged alveolar ridge augmentation (ARA) for severe bone defects. Methods Eight beagle dogs underwent bilateral extraction of the maxillary premolars, followed by an 8‐week healing period allowing natural alveolar ridge defects. In a split‐mouth design, each animal received both treatments on contralateral sides, with side allocation determined by a computer‐generated randomization sequence: a self‐retaining synthetic bone block (srSB) with particulate synthetic bone (SP), or a self‐retaining xenogeneic block (srXB) with particulate xenogeneic bone (XP), each covered with a collagen membrane. After an additional 8‐week healing period, radiographic and histomorphometric analyses were performed. Results The total augmented area did not differ significantly between groups. However, the amount of newly formed bone was greater in the srSB group than in the srXB group (7.86 ± 1.05 and 4.44 ± 2.33 mm 2 , respectively; mean within‐animal difference 3.38 mm 2 , 95% CI 0.54–6.21, p = 0.028). Linear measurements showed no significant difference in the total augmented buccopalatal width. The horizontal distance to the most buccally located newly formed bone was greater in the srSB group in the mid‐portion of the augmented compartment, reaching significance at 3 mm apical to the alveolar crest after Holm–Bonferroni correction (mean difference 3.57 mm, 95% CI 1.84–5.30, adjusted p = 0.025). Conclusion The synthetic self‐retaining grafting system showed greater new bone formation than the xenogeneic system after 8 weeks of healing in this canine model.",
+    "journal": "Clinical Oral Implants Research",
+    "journalId": "coir",
+    "date": "2026-10-27",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1111/clr.70198",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1111/clr.70198"
+    },
+    "onlineDate": "2026-10-27",
+    "onlineDatePrecision": "day",
+    "authors": [
+      {
+        "name": "Jeong‐Won Paik",
+        "affiliations": [
+          "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul Korea"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Young Woo Song",
+        "affiliations": [
+          "Department of Periodontology, Dental Hospital Veterans Health Service Medical Center Seoul South Korea"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Seo Young Park",
+        "affiliations": [
+          "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul Korea"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Daniel S. Thoma",
+        "affiliations": [
+          "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul Korea",
+          "Clinic of Reconstructive Dentistry, Center of Dental Medicine University of Zurich Zurich Switzerland"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Ronald E. Jung",
+        "affiliations": [
+          "Clinic of Reconstructive Dentistry, Center of Dental Medicine University of Zurich Zurich Switzerland"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Jae‐Kook Cha",
+        "affiliations": [
+          "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul Korea"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Ui‐Won Jung",
+        "affiliations": [
+          "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul Korea"
+        ],
+        "source": "Crossref"
+      }
+    ],
+    "publicationTypes": [
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Jeong‐Won Paik",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul Korea"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Young Woo Song",
+            "affiliations": [
+              "Department of Periodontology, Dental Hospital Veterans Health Service Medical Center Seoul South Korea"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Seo Young Park",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul Korea"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Daniel S. Thoma",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul Korea",
+              "Clinic of Reconstructive Dentistry, Center of Dental Medicine University of Zurich Zurich Switzerland"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Ronald E. Jung",
+            "affiliations": [
+              "Clinic of Reconstructive Dentistry, Center of Dental Medicine University of Zurich Zurich Switzerland"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jae‐Kook Cha",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul Korea"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Ui‐Won Jung",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul Korea"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "grade": "B",
+    "score": 5,
+    "topics": [
+      "骨增量与软组织"
+    ],
+    "pending": true,
+    "studyType": "研究类型待确认",
+    "studyTypeEvidence": {},
+    "evidence": {},
+    "reason": "临床独立规则：研究类型待确认。类型由词组初筛或信息不足，待确认；优先级不等同于研究质量评价。",
+    "rulesVersion": "2.0",
+    "firstSeenAt": "2026-10-29T00:35:28.718262+00:00",
+    "lastSeenAt": "2026-10-29T00:35:28.718262+00:00",
+    "discoveryKind": "new"
+  },
+  {
     "id": "10.1111/jcpe.70213",
     "doi": "10.1111/jcpe.70213",
     "title": "Influence of the Occupying Proportion of Mineralised Particles Within the Grafted Volume on Subsequent Volume Shrinkage: A Preclinical Study on Rabbit Calvaria.",
-    "abstract": "To evaluate whether mineral particle occupancy within the grafted volume influences volumetric stability and bone regeneration, and to compare particulate grafts, collagenated grafts, hyaluronic acid-conjugated particulates and mechanical manipulation in a vertical augmentation model. Ten New Zealand white rabbits received four standardised vertical calvarial defects and filled with saline-hydrated particulate deproteinised porcine bone mineral (Control), intact collagenated bone blocks (CBM), hydrated and mechanically crushed collagenated blocks (cCBM) or particulate grafts mixed with hyaluronic acid (HA). Grafts were placed in sealed plastic cylinders. Animals were sacrificed at 2 and 8 weeks. Volumetric stability and mineralised tissue volume were assessed by micro-computed tomography, and the total augmented area, new bone formation, residual material and particle length were evaluated by histological and histomorphometric analyses. Data were analysed using linear mixed-effects models. Mineralised tissue volume increased over time in Control, CBM and HA groups but decreased in cCBM (time × material interaction, p = 0.020). At 8 weeks, total augmented area was preserved in Control and CBM, whereas significant volumetric shrinkage occurred in cCBM and HA (p < 0.01). New bone formation increased in all groups but was highest in the Control group. Residual material area remained stable but was higher in Control and CBM than in cCBM and HA, and particle length was reduced in mechanically manipulated groups. Given the limitations of this model, binder incorporation and mechanical manipulation may affect particle occupancy and volumetric stability. Reducing graft manipulation may enhance space maintenance and facilitate bone regeneration.",
+    "abstract": "ABSTRACT Aim To evaluate whether mineral particle occupancy within the grafted volume influences volumetric stability and bone regeneration, and to compare particulate grafts, collagenated grafts, hyaluronic acid–conjugated particulates and mechanical manipulation in a vertical augmentation model. Materials and Methods Ten New Zealand white rabbits received four standardised vertical calvarial defects and filled with saline‐hydrated particulate deproteinised porcine bone mineral (Control), intact collagenated bone blocks (CBM), hydrated and mechanically crushed collagenated blocks (cCBM) or particulate grafts mixed with hyaluronic acid (HA). Grafts were placed in sealed plastic cylinders. Animals were sacrificed at 2 and 8 weeks. Volumetric stability and mineralised tissue volume were assessed by micro‐computed tomography, and the total augmented area, new bone formation, residual material and particle length were evaluated by histological and histomorphometric analyses. Data were analysed using linear mixed‐effects models. Results Mineralised tissue volume increased over time in Control, CBM and HA groups but decreased in cCBM (time × material interaction, p = 0.020). At 8 weeks, total augmented area was preserved in Control and CBM, whereas significant volumetric shrinkage occurred in cCBM and HA ( p Conclusions Given the limitations of this model, binder incorporation and mechanical manipulation may affect particle occupancy and volumetric stability. Reducing graft manipulation may enhance space maintenance and facilitate bone regeneration.",
     "journal": "Journal of Clinical Periodontology",
     "journalId": "jcp",
     "date": "2026-10-26",
@@ -79,7 +453,6 @@
       }
     ],
     "publicationTypes": [
-      "IM",
       "Journal Article",
       "journal-article"
     ],
@@ -147,7 +520,6 @@
           }
         ],
         "publicationTypes": [
-          "IM",
           "Journal Article"
         ]
       },
