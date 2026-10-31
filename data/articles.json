@@ -1,5 +1,449 @@
 [
   {
+    "id": "10.1038/s41413-026-00590-w",
+    "doi": "10.1038/s41413-026-00590-w",
+    "title": "Metabolic reprogramming in macrophages: the central role of lipid metabolism in bone homeostasis",
+    "abstract": "Abstract Macrophage lipid metabolism is a pivotal regulator of bone homeostasis. Macrophages orchestrate the balance between bone resorption and formation primarily through their M1/M2 polarization states, with M1 macrophages promoting resorption and M2 macrophages supporting formation. This review comprehensively describes how key lipid metabolic pathways, such as fatty acid oxidation (FAO) and cholesterol metabolism, govern this polarization and subsequent bone remodeling. It integrates the core mechanisms by which lipid metabolism drives M1 and M2 polarization, and highlights that targeting macrophage lipid metabolism represents a promising therapeutic strategy for bone diseases. Finally, we identify emerging frontiers, including the “gut-bone axis” and epigenetic regulation, as critical directions for future research.",
+    "journal": "Bone Research",
+    "journalId": "bone-research",
+    "date": "2026-10-30",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1038/s41413-026-00590-w",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1038/s41413-026-00590-w"
+    },
+    "onlineDate": "2026-10-30",
+    "onlineDatePrecision": "day",
+    "authors": [
+      {
+        "name": "Longping Li",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Yuxiao Zhang",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Shuo Huang",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Yang Xiao",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Genyu Liu",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Zhengjie Wu",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Yiqian Hu",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Shiqiang Gong",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Jing Mao",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Ke Song",
+        "affiliations": [],
+        "source": "Crossref"
+      },
+      {
+        "name": "Qilin Li",
+        "affiliations": [],
+        "source": "Crossref"
+      }
+    ],
+    "publicationTypes": [
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Longping Li",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Yuxiao Zhang",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Shuo Huang",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Yang Xiao",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Genyu Liu",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Zhengjie Wu",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Yiqian Hu",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Shiqiang Gong",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jing Mao",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Ke Song",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Qilin Li",
+            "affiliations": [],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "grade": "A",
+    "score": 11,
+    "topics": [
+      "B 骨代谢与骨重塑",
+      "D 骨免疫与炎症微环境"
+    ],
+    "pending": false,
+    "evidence": {
+      "B 骨代谢与骨重塑": [
+        "bone remodeling",
+        "bone resorption"
+      ],
+      "D 骨免疫与炎症微环境": [
+        "macrophage"
+      ]
+    },
+    "reason": "规则命中：bone remodeling, bone resorption；macrophage；分级仅表示关键词证据，未经语义或人工验证。",
+    "rulesVersion": "2.0",
+    "inspirationScore": 0,
+    "transferMechanisms": [],
+    "evidenceScope": "直接领域词汇证据",
+    "firstSeenAt": "2026-10-31T00:41:43.707378+00:00",
+    "lastSeenAt": "2026-10-31T00:41:43.707378+00:00",
+    "discoveryKind": "new"
+  },
+  {
+    "id": "10.1016/j.stem.2026.10.004",
+    "doi": "10.1016/j.stem.2026.10.004",
+    "title": "Niche-reprogramming CAR T therapy improves skeletal muscle regeneration and function in preclinical murine models of Duchenne muscular dystrophy.",
+    "abstract": "Duchenne muscular dystrophy (DMD) is a fatal neuromuscular disorder with no cure. Emerging dystrophin-restoring gene therapies target mutant myofibers but face challenges in efficacy and toxicities, underscoring the need for new treatments. Current therapies do not address chronic inflammation and muscle fibrosis, key pathologies creating a pathological muscle microenvironment that impairs dystrophic muscle function and regeneration. Here, we identify urokinase plasminogen activator receptor (uPAR) as a shared surface marker on subsets of macrophages and fibro-adipogenic progenitors exhibiting strong pro-inflammatory and fibrogenic signatures in DMD. Notably, uPAR-directed chimeric antigen receptor (CAR) T cells selectively eliminate these pathogenic subpopulations, remodel the muscle microenvironment, and enhance dystrophic muscle regeneration and force production; they also improve diaphragm and respiratory function, addressing an unmet clinical need and a major cause of DMD mortality. These findings establish uPAR CAR T cells as a niche-remodeling regenerative immunotherapy that simultaneously addresses multiple DMD pathologies and improves dystrophic muscle regeneration and function.",
+    "journal": "Cell Stem Cell",
+    "journalId": "cell-stem-cell",
+    "date": "2026-10-29",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1016/j.stem.2026.10.004",
+    "sources": [
+      "Europe PMC"
+    ],
+    "sourceIds": {
+      "Europe PMC": "42956744"
+    },
+    "authors": [
+      {
+        "name": "Afzal H",
+        "affiliations": [
+          "Department of Cell Biology, Duke University Medical Center, Durham, NC 27710, USA; Cell and Molecular Biology Program, Duke University, Durham, NC 27708, USA; Duke Regeneration Center, Duke University Medical Center, Durham, NC 27710, USA."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Rotstein T",
+        "affiliations": [
+          "Department of Biomedical Engineering, Duke University, Durham, NC 27708, USA; Center for Advanced Genomic Technologies, Duke University, Durham, NC 27708, USA."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Biswas DD",
+        "affiliations": [
+          "Division of Pulmonary and Sleep Medicine, Department of Pediatrics, Duke University Medical Center, Durham, NC 27710, USA."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Lin X",
+        "affiliations": [
+          "Department of Cell Biology, Duke University Medical Center, Durham, NC 27710, USA."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Khodabukus A",
+        "affiliations": [
+          "Department of Biomedical Engineering, Duke University, Durham, NC 27708, USA."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Luo W",
+        "affiliations": [
+          "Department of Cell Biology, Duke University Medical Center, Durham, NC 27710, USA."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Xu Y",
+        "affiliations": [
+          "Department of Cell Biology, Duke University Medical Center, Durham, NC 27710, USA; Duke Regeneration Center, Duke University Medical Center, Durham, NC 27710, USA; Center for Advanced Genomic Technologies, Duke University, Durham, NC 27708, USA."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Frair EC",
+        "affiliations": [
+          "Center for Gene Therapy, Nationwide Children's Hospital, Columbus, OH 43205, USA."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Li Y",
+        "affiliations": [
+          "Department of Biomedical Engineering, Duke University, Durham, NC 27708, USA."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Chen J",
+        "affiliations": [
+          "Department of Orthopaedic Surgery, Duke University Medical Center, Durham, NC 27710, USA."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Kuang S",
+        "affiliations": [
+          "Department of Orthopaedic Surgery, Duke University Medical Center, Durham, NC 27710, USA."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Flanigan KM",
+        "affiliations": [
+          "Center for Gene Therapy, Nationwide Children's Hospital, Columbus, OH 43205, USA; Department of Pediatrics, The Ohio State University, Columbus, OH 43210, USA; Department of Neurology, The Ohio State University, Columbus, OH 43210, USA."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Bursac N",
+        "affiliations": [
+          "Department of Biomedical Engineering, Duke University, Durham, NC 27708, USA."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "ElMallah MK",
+        "affiliations": [
+          "Division of Pulmonary and Sleep Medicine, Department of Pediatrics, Duke University Medical Center, Durham, NC 27710, USA."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Gersbach CA",
+        "affiliations": [
+          "Department of Biomedical Engineering, Duke University, Durham, NC 27708, USA; Center for Advanced Genomic Technologies, Duke University, Durham, NC 27708, USA."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Diao Y",
+        "affiliations": [
+          "Department of Cell Biology, Duke University Medical Center, Durham, NC 27710, USA; Duke Regeneration Center, Duke University Medical Center, Durham, NC 27710, USA; Center for Advanced Genomic Technologies, Duke University, Durham, NC 27708, USA; Department of Orthopaedic Surgery, Duke University Medical Center, Durham, NC 27710, USA; Department of Pathology, Duke University Medical Center, Durham, NC 27710, USA. Electronic address: yarui.diao@duke.edu."
+        ],
+        "source": "Europe PMC"
+      }
+    ],
+    "publicationTypes": [
+      "IM",
+      "Journal Article"
+    ],
+    "metadataBySource": {
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Afzal H",
+            "affiliations": [
+              "Department of Cell Biology, Duke University Medical Center, Durham, NC 27710, USA; Cell and Molecular Biology Program, Duke University, Durham, NC 27708, USA; Duke Regeneration Center, Duke University Medical Center, Durham, NC 27710, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Rotstein T",
+            "affiliations": [
+              "Department of Biomedical Engineering, Duke University, Durham, NC 27708, USA; Center for Advanced Genomic Technologies, Duke University, Durham, NC 27708, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Biswas DD",
+            "affiliations": [
+              "Division of Pulmonary and Sleep Medicine, Department of Pediatrics, Duke University Medical Center, Durham, NC 27710, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Lin X",
+            "affiliations": [
+              "Department of Cell Biology, Duke University Medical Center, Durham, NC 27710, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Khodabukus A",
+            "affiliations": [
+              "Department of Biomedical Engineering, Duke University, Durham, NC 27708, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Luo W",
+            "affiliations": [
+              "Department of Cell Biology, Duke University Medical Center, Durham, NC 27710, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Xu Y",
+            "affiliations": [
+              "Department of Cell Biology, Duke University Medical Center, Durham, NC 27710, USA; Duke Regeneration Center, Duke University Medical Center, Durham, NC 27710, USA; Center for Advanced Genomic Technologies, Duke University, Durham, NC 27708, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Frair EC",
+            "affiliations": [
+              "Center for Gene Therapy, Nationwide Children's Hospital, Columbus, OH 43205, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Li Y",
+            "affiliations": [
+              "Department of Biomedical Engineering, Duke University, Durham, NC 27708, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Chen J",
+            "affiliations": [
+              "Department of Orthopaedic Surgery, Duke University Medical Center, Durham, NC 27710, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Kuang S",
+            "affiliations": [
+              "Department of Orthopaedic Surgery, Duke University Medical Center, Durham, NC 27710, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Flanigan KM",
+            "affiliations": [
+              "Center for Gene Therapy, Nationwide Children's Hospital, Columbus, OH 43205, USA; Department of Pediatrics, The Ohio State University, Columbus, OH 43210, USA; Department of Neurology, The Ohio State University, Columbus, OH 43210, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Bursac N",
+            "affiliations": [
+              "Department of Biomedical Engineering, Duke University, Durham, NC 27708, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "ElMallah MK",
+            "affiliations": [
+              "Division of Pulmonary and Sleep Medicine, Department of Pediatrics, Duke University Medical Center, Durham, NC 27710, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Gersbach CA",
+            "affiliations": [
+              "Department of Biomedical Engineering, Duke University, Durham, NC 27708, USA; Center for Advanced Genomic Technologies, Duke University, Durham, NC 27708, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Diao Y",
+            "affiliations": [
+              "Department of Cell Biology, Duke University Medical Center, Durham, NC 27710, USA; Duke Regeneration Center, Duke University Medical Center, Durham, NC 27710, USA; Center for Advanced Genomic Technologies, Duke University, Durham, NC 27708, USA; Department of Orthopaedic Surgery, Duke University Medical Center, Durham, NC 27710, USA; Department of Pathology, Duke University Medical Center, Durham, NC 27710, USA. Electronic address: yarui.diao@duke.edu."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "IM",
+          "Journal Article"
+        ]
+      }
+    },
+    "grade": "B",
+    "score": 5,
+    "topics": [
+      "D 骨免疫与炎症微环境"
+    ],
+    "pending": false,
+    "evidence": {
+      "D 骨免疫与炎症微环境": [
+        "macrophage",
+        "inflamm"
+      ]
+    },
+    "reason": "规则命中：macrophage, inflamm；分级仅表示关键词证据，未经语义或人工验证。",
+    "rulesVersion": "2.0",
+    "inspirationScore": 0,
+    "transferMechanisms": [],
+    "evidenceScope": "直接领域词汇证据",
+    "firstSeenAt": "2026-10-31T00:41:43.707378+00:00",
+    "lastSeenAt": "2026-10-31T00:41:43.707378+00:00",
+    "discoveryKind": "new"
+  },
+  {
     "id": "10.1111/jcpe.70220",
     "doi": "10.1111/jcpe.70220",
     "title": "Development and External Validation of An Interpretable Machine Learning Model for Severity Stratification of Current Periodontitis Using Routine Blood Biomarkers, With Exploratory Analyses of Age- and Sex-Specific Model Behaviour.",
@@ -76,7 +520,6 @@
       }
     ],
     "publicationTypes": [
-      "IM",
       "Journal Article",
       "journal-article"
     ],
@@ -141,7 +584,6 @@
           }
         ],
         "publicationTypes": [
-          "IM",
           "Journal Article"
         ]
       },
@@ -234,7 +676,7 @@
   {
     "id": "10.1093/jbmr/zjag148",
     "doi": "10.1093/jbmr/zjag148",
-    "title": "Clonal Hematopoiesis of Indeterminate Potential and Bone Mineral Density in Cohorts from Trans-Omics for Precision Medicine",
+    "title": "Clonal Hematopoiesis of Indeterminate Potential and Bone Mineral Density in Cohorts from Trans-Omics for Precision Medicine.",
     "abstract": "Abstract A somatic mutation causing clonal expansion in hematopoietic stem cells (HSC), but not resulting in hematologic malignancy, is termed clonal hematopoiesis of indeterminate potential (CHIP). CHIP is associated with non-hematologic disorders, including accelerated atherosclerosis, heart failure, ischemic stroke, gout, liver disease, and kidney disease. Because osteoclasts are derived from the macrophage-monocyte lineage of HSCs, changes in the bone marrow niche due to CHIP may drive changes in BMD. To investigate whether CHIP may be related to BMD, we used CHIP mutation calls from the Trans-omics for Precision Medicine (TOPMed) whole genome sequencing data and DXA derived BMD from multiple cohorts. Data from the the Amish cohort, Cardiovascular Health Study, the Framingham Heart Study, San Antonio Family Study, and the Women’s Health Initiative were combined for analysis. Multiple linear regression was used to determine the association between CHIP mutation status and BMD, adjusting for cohort, age, age,2 sex, and, for family-based cohorts, empiric kinship estimated from genotype data. CHIP mutation status was analyzed both as a binary variable (any CHIP mutation) and as an ordinal variable (no CHIP mutation, 1 CHIP mutation in any gene, two or more CHIP mutations in a single gene, two or more CHIP mutations in different genes). A total of 3368 samples had both CHIP and BMD data, and 10.9% of samples contained any CHIP mutation. The presence of any CHIP mutations was not associated with either femoral neck or lumbar spine BMD; however, the presence of two or more CHIP mutations in different genes was positively associated with LSBMD (beta = 0.36, p = .015). We found no overall association between the presence of CHIP mutations and BMD in a large, diverse sample of genomes. Our findings of greater BMD in persons harboring multiple CHIP mutations confirm mouse models demonstrating that Dnmt3a and Tet2 mutations independently cause increased BMD.",
     "journal": "Journal of Bone and Mineral Research",
     "journalId": "jbmr",
@@ -246,106 +688,106 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1093/jbmr/zjag148",
-      "Europe PMC": "42949023"
+      "Europe PMC": "42949023",
+      "Crossref": "10.1093/jbmr/zjag148"
     },
     "onlineDate": "2026-10-28",
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "Douglas P Kiel",
+        "name": "Kiel DP",
         "affiliations": [
-          "Hinda and Arthur Marcus Institute for Aging Research and Department of Medicine, Hebrew SeniorLife , Boston, Massachusetts ,",
-          "Department of Medicine, Beth Israel Deaconess Medical Center , Boston, MA ,",
-          "Department of Medicine, Harvard Medical School , Boston, MA ,"
+          "Hinda and Arthur Marcus Institute for Aging Research and Department of Medicine, Hebrew SeniorLife, Boston, Massachusetts, United States.",
+          "Department of Medicine, Beth Israel Deaconess Medical Center, Boston, MA, United States.",
+          "Department of Medicine, Harvard Medical School, Boston, MA, United States."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Wingel Xue",
+        "name": "Xue W",
         "affiliations": [
-          "Department of Medicine, Harvard Medical School , Boston, MA ,"
+          "Department of Medicine, Harvard Medical School, Boston, MA, United States."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Hanfei Xu",
+        "name": "Xu H",
         "affiliations": [
-          "Department of Biostatistics, Boston University School of Public Health , Boston, MA ,"
+          "Department of Biostatistics, Boston University School of Public Health, Boston, MA, United States."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Alexander Bick",
+        "name": "Bick A",
         "affiliations": [
-          "Vanderbilt University Medical Center , Nashville, TN ,"
+          "Vanderbilt University Medical Center, Nashville, TN, United States."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Carolyn J Crandall",
+        "name": "Crandall CJ",
         "affiliations": [
-          "David Geffen School of Medicine at University of California , Los Angeles, CA ,"
+          "David Geffen School of Medicine at University of California, Los Angeles, CA, United States."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Yi-Hsiang Hsu",
+        "name": "Hsu YH",
         "affiliations": [
-          "Hinda and Arthur Marcus Institute for Aging Research and Department of Medicine, Hebrew SeniorLife , Boston, Massachusetts ,",
-          "Department of Medicine, Beth Israel Deaconess Medical Center , Boston, MA ,",
-          "Department of Medicine, Harvard Medical School , Boston, MA ,"
+          "Hinda and Arthur Marcus Institute for Aging Research and Department of Medicine, Hebrew SeniorLife, Boston, Massachusetts, United States.",
+          "Department of Medicine, Beth Israel Deaconess Medical Center, Boston, MA, United States.",
+          "Department of Medicine, Harvard Medical School, Boston, MA, United States."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "David Karasik",
+        "name": "Karasik D",
         "affiliations": [
-          "Hinda and Arthur Marcus Institute for Aging Research and Department of Medicine, Hebrew SeniorLife , Boston, Massachusetts ,"
+          "Hinda and Arthur Marcus Institute for Aging Research and Department of Medicine, Hebrew SeniorLife, Boston, Massachusetts, United States."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Braxton D Mitchell",
+        "name": "Mitchell BD",
         "affiliations": [
-          "Department of Medicine, University of Maryland School of Medicine , Baltimore, MD ,"
+          "Department of Medicine, University of Maryland School of Medicine, Baltimore, MD, United States."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "May E Montasser",
+        "name": "Montasser ME",
         "affiliations": [
-          "Department of Medicine, University of Maryland School of Medicine , Baltimore, MD ,"
+          "Department of Medicine, University of Maryland School of Medicine, Baltimore, MD, United States."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Joshua S Weinstock",
+        "name": "Weinstock JS",
         "affiliations": [
-          "Department of Human Genetics, Emory University School of Medicine , Atlanta, GA ,"
+          "Department of Human Genetics, Emory University School of Medicine, Atlanta, GA, United States."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Kerri L Wiggins",
+        "name": "Wiggins KL",
         "affiliations": [
-          "Cardiovascular Health Research Unit, Department of Medicine, University of Washington , Seattle, WA ,"
+          "Cardiovascular Health Research Unit, Department of Medicine, University of Washington, Seattle, WA, United States."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Ching- Ti Liu",
+        "name": "Liu CT",
         "affiliations": [
-          "Department of Biostatistics, Boston University School of Public Health , Boston, MA ,"
+          "Department of Biostatistics, Boston University School of Public Health, Boston, MA, United States."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Rebecca D Jackson",
+        "name": "Jackson RD",
         "affiliations": [
-          "Medicine, Ohio State University Health System"
+          "Medicine, Ohio State University Health System."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
@@ -353,108 +795,6 @@
       "journal-article"
     ],
     "metadataBySource": {
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Douglas P Kiel",
-            "affiliations": [
-              "Hinda and Arthur Marcus Institute for Aging Research and Department of Medicine, Hebrew SeniorLife , Boston, Massachusetts ,",
-              "Department of Medicine, Beth Israel Deaconess Medical Center , Boston, MA ,",
-              "Department of Medicine, Harvard Medical School , Boston, MA ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Wingel Xue",
-            "affiliations": [
-              "Department of Medicine, Harvard Medical School , Boston, MA ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Hanfei Xu",
-            "affiliations": [
-              "Department of Biostatistics, Boston University School of Public Health , Boston, MA ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Alexander Bick",
-            "affiliations": [
-              "Vanderbilt University Medical Center , Nashville, TN ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Carolyn J Crandall",
-            "affiliations": [
-              "David Geffen School of Medicine at University of California , Los Angeles, CA ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Yi-Hsiang Hsu",
-            "affiliations": [
-              "Hinda and Arthur Marcus Institute for Aging Research and Department of Medicine, Hebrew SeniorLife , Boston, Massachusetts ,",
-              "Department of Medicine, Beth Israel Deaconess Medical Center , Boston, MA ,",
-              "Department of Medicine, Harvard Medical School , Boston, MA ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "David Karasik",
-            "affiliations": [
-              "Hinda and Arthur Marcus Institute for Aging Research and Department of Medicine, Hebrew SeniorLife , Boston, Massachusetts ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Braxton D Mitchell",
-            "affiliations": [
-              "Department of Medicine, University of Maryland School of Medicine , Baltimore, MD ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "May E Montasser",
-            "affiliations": [
-              "Department of Medicine, University of Maryland School of Medicine , Baltimore, MD ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Joshua S Weinstock",
-            "affiliations": [
-              "Department of Human Genetics, Emory University School of Medicine , Atlanta, GA ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Kerri L Wiggins",
-            "affiliations": [
-              "Cardiovascular Health Research Unit, Department of Medicine, University of Washington , Seattle, WA ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Ching- Ti Liu",
-            "affiliations": [
-              "Department of Biostatistics, Boston University School of Public Health , Boston, MA ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Rebecca D Jackson",
-            "affiliations": [
-              "Medicine, Ohio State University Health System"
-            ],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
-        ]
-      },
       "Europe PMC": {
         "authors": [
           {
@@ -556,6 +896,108 @@
         "publicationTypes": [
           "Journal Article"
         ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Douglas P Kiel",
+            "affiliations": [
+              "Hinda and Arthur Marcus Institute for Aging Research and Department of Medicine, Hebrew SeniorLife , Boston, Massachusetts ,",
+              "Department of Medicine, Beth Israel Deaconess Medical Center , Boston, MA ,",
+              "Department of Medicine, Harvard Medical School , Boston, MA ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Wingel Xue",
+            "affiliations": [
+              "Department of Medicine, Harvard Medical School , Boston, MA ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Hanfei Xu",
+            "affiliations": [
+              "Department of Biostatistics, Boston University School of Public Health , Boston, MA ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Alexander Bick",
+            "affiliations": [
+              "Vanderbilt University Medical Center , Nashville, TN ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Carolyn J Crandall",
+            "affiliations": [
+              "David Geffen School of Medicine at University of California , Los Angeles, CA ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Yi-Hsiang Hsu",
+            "affiliations": [
+              "Hinda and Arthur Marcus Institute for Aging Research and Department of Medicine, Hebrew SeniorLife , Boston, Massachusetts ,",
+              "Department of Medicine, Beth Israel Deaconess Medical Center , Boston, MA ,",
+              "Department of Medicine, Harvard Medical School , Boston, MA ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "David Karasik",
+            "affiliations": [
+              "Hinda and Arthur Marcus Institute for Aging Research and Department of Medicine, Hebrew SeniorLife , Boston, Massachusetts ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Braxton D Mitchell",
+            "affiliations": [
+              "Department of Medicine, University of Maryland School of Medicine , Baltimore, MD ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "May E Montasser",
+            "affiliations": [
+              "Department of Medicine, University of Maryland School of Medicine , Baltimore, MD ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Joshua S Weinstock",
+            "affiliations": [
+              "Department of Human Genetics, Emory University School of Medicine , Atlanta, GA ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Kerri L Wiggins",
+            "affiliations": [
+              "Cardiovascular Health Research Unit, Department of Medicine, University of Washington , Seattle, WA ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Ching- Ti Liu",
+            "affiliations": [
+              "Department of Biostatistics, Boston University School of Public Health , Boston, MA ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Rebecca D Jackson",
+            "affiliations": [
+              "Medicine, Ohio State University Health System"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
       }
     },
     "grade": "A",
@@ -590,7 +1032,7 @@
   {
     "id": "10.1038/s41551-026-01819-z",
     "doi": "10.1038/s41551-026-01819-z",
-    "title": "Cartilage-binding coacervate with therapeutic payload delivery and biomimetic lubrication alleviates osteoarthritis by reducing joint friction and inflammation.",
+    "title": "Cartilage-binding coacervate with therapeutic payload delivery and biomimetic lubrication alleviates osteoarthritis by reducing joint friction and inflammation",
     "abstract": "Healthy articular cartilage maintains ultralow friction through the lipid/hyaluronic acid/lubricin complex lubrication layer, in which the zwitterionic lipids mediate lubrication and the hyaluronic acid and lubricin anchor to cartilage matrix. However, in osteoarthritis this lubrication system is progressively degraded, leading to increased cartilage wear and joint dysfunction. Therefore, early and lubrication-based intervention is urgently needed. Here we present biomimetic polyzwitterionic coacervates (pZCOs) that recapitulate both the lubrication and cartilage-binding functionalities of the natural boundary lubrication layer. pZCOs exhibit strong binding affinity to fibronectin, establish a stable and ultralow-friction lubrication layer on the cartilage surface, facilitate the sustained release of anti-inflammatory drugs, and preserve the viability and anti-inflammatory paracrine secretion of encapsulated mesenchymal stem cells. In both rat and mini-pig models of osteoarthritis, intra-articular administration of drug/MSC-laden pZCOs effectively reduces cartilage degradation, suppresses inflammation and promotes cartilage integrity, outperforming clinical hyaluronic acid lubricants in lubrication performance, in vivo retention and therapeutic efficacy. These findings highlight the translational potential of engineered biomimetic coacervates as next-generation joint lubricants for integrated management of osteoarthritis.",
     "journal": "Nature Biomedical Engineering",
     "journalId": "nature-biomedical-engineering",
@@ -602,8 +1044,8 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Europe PMC": "42946753",
-      "Crossref": "10.1038/s41551-026-01819-z"
+      "Crossref": "10.1038/s41551-026-01819-z",
+      "Europe PMC": "42946753"
     },
     "authors": [
       {
@@ -688,6 +1130,58 @@
       "journal-article"
     ],
     "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Sirong Chen",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Tianshen Jiang",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Xiaorou Qiu",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Ruitong Luo",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Haiyang Yao",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Ruinan Wang",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Zhuo Li",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Pengchao Zhao",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Liming Bian",
+            "affiliations": [],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      },
       "Europe PMC": {
         "authors": [
           {
@@ -769,58 +1263,6 @@
         ],
         "publicationTypes": [
           "Journal Article"
-        ]
-      },
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Sirong Chen",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Tianshen Jiang",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Xiaorou Qiu",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Ruitong Luo",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Haiyang Yao",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Ruinan Wang",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Zhuo Li",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Pengchao Zhao",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Liming Bian",
-            "affiliations": [],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
         ]
       }
     },
@@ -946,7 +1388,8 @@
     ],
     "publicationTypes": [
       "Journal Article",
-      "journal-article"
+      "journal-article",
+      "research-article"
     ],
     "metadataBySource": {
       "Europe PMC": {
@@ -1025,6 +1468,7 @@
           }
         ],
         "publicationTypes": [
+          "research-article",
           "Journal Article"
         ]
       },
@@ -1113,8 +1557,8 @@
   {
     "id": "10.1177/00220345261491310",
     "doi": "10.1177/00220345261491310",
-    "title": "Single-Cell Atlas of Human Orthodontic Tooth Movement",
-    "abstract": "Orthodontic tooth movement (OTM) requires coordinated remodeling of the periodontal ligament and alveolar bone, but the cellular architecture underlying this process in human tissues remains incompletely understood. We generated the first single-cell transcriptomic atlas of the human periodontal ligament during OTM by profiling control tissues and pressure- and tension-side tissues collected at days 3 and 7 following force application. Analysis of 65,032 cells identified 15 cell populations and revealed pronounced remodeling of stromal, immune, vascular, and neural compartments that varied by force direction and stage. Within the fibroblast compartment, we identified a CTHRC1 + fibroblast subset that was enriched on the pressure side at day 3 and exhibited heightened mechanotransduction, inflammatory signaling, and chemokine programs. TRPA1 was preferentially expressed in this subset, and computational perturbation, tissue validation, and pharmacologic inhibition supported its involvement in early remodeling on the pressure side. Ligand–receptor and functional analyses further implicated C3 as a downstream remodeling mediator linking regions rich in CTHRC1 + fibroblasts to monocyte recruitment and osteoclastogenic activity. In a mouse OTM model, systemic treatment with HC-030031 and local Trpa1 knockdown mediated by AAV9 under the Postn promoter reduced tooth movement, while HC-030031 also decreased osteoclast surface. Local C3a supplementation partially restored tooth movement during TRPA1 inhibition. These intervention data, with in vitro assays and tissue validation, support the involvement of TRPA1-associated signaling in a pressure-responsive stromal remodeling program and C3 as a potential downstream mediator of osteoclastogenic remodeling. These findings provide a human single-cell framework for periodontal remodeling during OTM and identify a pressure-responsive CTHRC1 + fibroblast population in which mechanosensitive TRPA1 contributes to osteoclastogenic remodeling on the pressure side.",
+    "title": "Single-Cell Atlas of Human Orthodontic Tooth Movement.",
+    "abstract": "Orthodontic tooth movement (OTM) requires coordinated remodeling of the periodontal ligament and alveolar bone, but the cellular architecture underlying this process in human tissues remains incompletely understood. We generated the first single-cell transcriptomic atlas of the human periodontal ligament during OTM by profiling control tissues and pressure- and tension-side tissues collected at days 3 and 7 following force application. Analysis of 65,032 cells identified 15 cell populations and revealed pronounced remodeling of stromal, immune, vascular, and neural compartments that varied by force direction and stage. Within the fibroblast compartment, we identified a CTHRC1 + fibroblast subset that was enriched on the pressure side at day 3 and exhibited heightened mechanotransduction, inflammatory signaling, and chemokine programs. TRPA1 was preferentially expressed in this subset, and computational perturbation, tissue validation, and pharmacologic inhibition supported its involvement in early remodeling on the pressure side. Ligand-receptor and functional analyses further implicated C3 as a downstream remodeling mediator linking regions rich in CTHRC1 + fibroblasts to monocyte recruitment and osteoclastogenic activity. In a mouse OTM model, systemic treatment with HC-030031 and local Trpa1 knockdown mediated by AAV9 under the Postn promoter reduced tooth movement, while HC-030031 also decreased osteoclast surface. Local C3a supplementation partially restored tooth movement during TRPA1 inhibition. These intervention data, with in vitro assays and tissue validation, support the involvement of TRPA1-associated signaling in a pressure-responsive stromal remodeling program and C3 as a potential downstream mediator of osteoclastogenic remodeling. These findings provide a human single-cell framework for periodontal remodeling during OTM and identify a pressure-responsive CTHRC1 + fibroblast population in which mechanosensitive TRPA1 contributes to osteoclastogenic remodeling on the pressure side.",
     "journal": "Journal of Dental Research",
     "journalId": "jdr",
     "date": "2026-10-26",
@@ -1125,125 +1569,125 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1177/00220345261491310",
-      "Europe PMC": "42934893"
+      "Europe PMC": "42934893",
+      "Crossref": "10.1177/00220345261491310"
     },
     "authors": [
       {
-        "name": "W. Zhao",
+        "name": "Zhao W",
         "affiliations": [
-          "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China",
-          "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
-          "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China"
+          "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China.",
+          "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China.",
+          "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "S. Wu",
+        "name": "Wu S",
         "affiliations": [
-          "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China",
-          "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
-          "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China"
+          "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China.",
+          "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China.",
+          "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Y. Lin",
+        "name": "Lin Y",
         "affiliations": [
-          "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China",
-          "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
-          "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China"
+          "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China.",
+          "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China.",
+          "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "K. Zhang",
+        "name": "Zhang K",
         "affiliations": [
-          "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China",
-          "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
-          "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China"
+          "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China.",
+          "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China.",
+          "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "H. Xu",
+        "name": "Xu H",
         "affiliations": [
-          "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China",
-          "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
-          "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China"
+          "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China.",
+          "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China.",
+          "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Z. Jin",
+        "name": "Jin Z",
         "affiliations": [
-          "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China",
-          "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
-          "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China"
+          "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China.",
+          "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China.",
+          "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "X. Sun",
+        "name": "Sun X",
         "affiliations": [
-          "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China",
-          "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
-          "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China"
+          "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China.",
+          "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China.",
+          "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "H. Gu",
+        "name": "Gu H",
         "affiliations": [
-          "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China",
-          "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
-          "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China"
+          "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China.",
+          "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China.",
+          "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "P. Yang",
+        "name": "Yang P",
         "affiliations": [
-          "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China",
-          "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
-          "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China"
+          "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China.",
+          "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China.",
+          "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "A. Song",
+        "name": "Song A",
         "affiliations": [
-          "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
-          "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China",
-          "Department of Oral and Maxillofacial Surgery, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China"
+          "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China.",
+          "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China.",
+          "Department of Oral and Maxillofacial Surgery, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "W. Sun",
+        "name": "Sun W",
         "affiliations": [
-          "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
-          "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China",
-          "Department of Basic Science of Stomatology, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China"
+          "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China.",
+          "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China.",
+          "Department of Basic Science of Stomatology, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "H. Zhang",
+        "name": "Zhang H",
         "affiliations": [
-          "School of Basic Medical Sciences, Nanjing Medical University, Nanjing, China",
-          "Key Laboratory of Targeted Intervention of Cardiovascular Disease, Collaborative Innovation Center for Cardiovascular Disease Translational Medicine, Nanjing Medical University, Nanjing, China"
+          "School of Basic Medical Sciences, Nanjing Medical University, Nanjing, China.",
+          "Key Laboratory of Targeted Intervention of Cardiovascular Disease, Collaborative Innovation Center for Cardiovascular Disease Translational Medicine, Nanjing Medical University, Nanjing, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "B. Yan",
+        "name": "Yan B",
         "affiliations": [
-          "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China",
-          "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
-          "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China"
+          "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China.",
+          "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China.",
+          "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
@@ -1251,129 +1695,6 @@
       "journal-article"
     ],
     "metadataBySource": {
-      "Crossref": {
-        "authors": [
-          {
-            "name": "W. Zhao",
-            "affiliations": [
-              "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China",
-              "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
-              "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "S. Wu",
-            "affiliations": [
-              "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China",
-              "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
-              "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Y. Lin",
-            "affiliations": [
-              "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China",
-              "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
-              "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "K. Zhang",
-            "affiliations": [
-              "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China",
-              "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
-              "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "H. Xu",
-            "affiliations": [
-              "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China",
-              "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
-              "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Z. Jin",
-            "affiliations": [
-              "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China",
-              "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
-              "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "X. Sun",
-            "affiliations": [
-              "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China",
-              "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
-              "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "H. Gu",
-            "affiliations": [
-              "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China",
-              "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
-              "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "P. Yang",
-            "affiliations": [
-              "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China",
-              "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
-              "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "A. Song",
-            "affiliations": [
-              "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
-              "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China",
-              "Department of Oral and Maxillofacial Surgery, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "W. Sun",
-            "affiliations": [
-              "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
-              "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China",
-              "Department of Basic Science of Stomatology, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "H. Zhang",
-            "affiliations": [
-              "School of Basic Medical Sciences, Nanjing Medical University, Nanjing, China",
-              "Key Laboratory of Targeted Intervention of Cardiovascular Disease, Collaborative Innovation Center for Cardiovascular Disease Translational Medicine, Nanjing Medical University, Nanjing, China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "B. Yan",
-            "affiliations": [
-              "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China",
-              "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
-              "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China"
-            ],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
-        ]
-      },
       "Europe PMC": {
         "authors": [
           {
@@ -1495,6 +1816,129 @@
         ],
         "publicationTypes": [
           "Journal Article"
+        ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "W. Zhao",
+            "affiliations": [
+              "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China",
+              "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
+              "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "S. Wu",
+            "affiliations": [
+              "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China",
+              "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
+              "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Y. Lin",
+            "affiliations": [
+              "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China",
+              "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
+              "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "K. Zhang",
+            "affiliations": [
+              "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China",
+              "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
+              "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "H. Xu",
+            "affiliations": [
+              "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China",
+              "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
+              "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Z. Jin",
+            "affiliations": [
+              "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China",
+              "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
+              "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "X. Sun",
+            "affiliations": [
+              "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China",
+              "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
+              "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "H. Gu",
+            "affiliations": [
+              "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China",
+              "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
+              "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "P. Yang",
+            "affiliations": [
+              "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China",
+              "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
+              "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "A. Song",
+            "affiliations": [
+              "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
+              "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China",
+              "Department of Oral and Maxillofacial Surgery, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "W. Sun",
+            "affiliations": [
+              "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
+              "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China",
+              "Department of Basic Science of Stomatology, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "H. Zhang",
+            "affiliations": [
+              "School of Basic Medical Sciences, Nanjing Medical University, Nanjing, China",
+              "Key Laboratory of Targeted Intervention of Cardiovascular Disease, Collaborative Innovation Center for Cardiovascular Disease Translational Medicine, Nanjing Medical University, Nanjing, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "B. Yan",
+            "affiliations": [
+              "Department of Orthodontics, The Affiliated Stomatological Hospital of Nanjing Medical University, Nanjing, China",
+              "State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing, China",
+              "Jiangsu Province Engineering Research Center of Stomatological Translational Medicine, Nanjing Medical University, Nanjing, China"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
         ]
       }
     },
@@ -1965,8 +2409,8 @@
   {
     "id": "10.1177/00220345261493895",
     "doi": "10.1177/00220345261493895",
-    "title": "Osteoinductive Microgrooved Membranes for Alveolar Ridge Preservation",
-    "abstract": "Tooth extraction is commonly followed by alveolar ridge resorption, and conventional barrier membranes act largely as passive barriers that do not actively promote early bony sealing of the socket crest. This study asked whether a barrier membrane redesigned to spatially organize early reparative cells at the socket crest preserves alveolar ridge dimensions. Gelatin methacryloyl (GelMA) membranes bearing V-shaped microgrooves were reinforced with electrospun polycaprolactone (PCL) fibers, and recombinant human bone morphogenetic protein 2 (rhBMP-2) was immobilized by stepwise photocrosslinking. Using primary macrophages and bone marrow–derived mesenchymal stem cells, as well as mouse, rat, and beagle models, we assessed macrophage localization and polarization, hypoxia signaling, lactate metabolism, histone lactylation, bone regeneration, and ridge preservation by micro–computed tomography, histology, immunofluorescence, Western blotting, and quantitative reverse transcription polymerase chain reaction. Early bone regeneration in rat calvarial defects was the primary efficacy outcome, and ridge preservation in beagles was a translational outcome. In exploratory analysis, microgrooves guided early myeloid cell enrichment across the defect and were associated with a localized hypoxic microenvironment, lactate dehydrogenase A–dependent lactate production, histone H3K18 lactylation, and a reparative macrophage phenotype that was reversed by lactate dehydrogenase A inhibition in vitro. At 7 and 14 d, microgrooved membranes showed earlier progression of defect healing and extended new bone toward the defect center. Immobilized rhBMP-2 enhanced regeneration to achieve near-complete calvarial closure within 2 wk. In beagles, central socket healing was more advanced at 2 wk in the sites treated with rhBMP-2 microgrooved membranes . At 3 mo, treated sites retained alveolar ridge width, height, and the buccal bone plate relative to natural healing. Microgrooved barrier membranes combined with localized osteoinduction increased early bone regeneration in a controlled rodent comparison and provide proof of concept for alveolar ridge preservation in a canine extraction model.",
+    "title": "Osteoinductive Microgrooved Membranes for Alveolar Ridge Preservation.",
+    "abstract": "Tooth extraction is commonly followed by alveolar ridge resorption, and conventional barrier membranes act largely as passive barriers that do not actively promote early bony sealing of the socket crest. This study asked whether a barrier membrane redesigned to spatially organize early reparative cells at the socket crest preserves alveolar ridge dimensions. Gelatin methacryloyl (GelMA) membranes bearing V-shaped microgrooves were reinforced with electrospun polycaprolactone (PCL) fibers, and recombinant human bone morphogenetic protein 2 (rhBMP-2) was immobilized by stepwise photocrosslinking. Using primary macrophages and bone marrow-derived mesenchymal stem cells, as well as mouse, rat, and beagle models, we assessed macrophage localization and polarization, hypoxia signaling, lactate metabolism, histone lactylation, bone regeneration, and ridge preservation by micro-computed tomography, histology, immunofluorescence, Western blotting, and quantitative reverse transcription polymerase chain reaction. Early bone regeneration in rat calvarial defects was the primary efficacy outcome, and ridge preservation in beagles was a translational outcome. In exploratory analysis, microgrooves guided early myeloid cell enrichment across the defect and were associated with a localized hypoxic microenvironment, lactate dehydrogenase A-dependent lactate production, histone H3K18 lactylation, and a reparative macrophage phenotype that was reversed by lactate dehydrogenase A inhibition in vitro. At 7 and 14 d, microgrooved membranes showed earlier progression of defect healing and extended new bone toward the defect center. Immobilized rhBMP-2 enhanced regeneration to achieve near-complete calvarial closure within 2 wk. In beagles, central socket healing was more advanced at 2 wk in the sites treated with rhBMP-2 microgrooved membranes . At 3 mo, treated sites retained alveolar ridge width, height, and the buccal bone plate relative to natural healing. Microgrooved barrier membranes combined with localized osteoinduction increased early bone regeneration in a controlled rodent comparison and provide proof of concept for alveolar ridge preservation in a canine extraction model.",
     "journal": "Journal of Dental Research",
     "journalId": "jdr",
     "date": "2026-10-24",
@@ -1977,95 +2421,95 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1177/00220345261493895",
-      "Europe PMC": "42921737"
+      "Europe PMC": "42921737",
+      "Crossref": "10.1177/00220345261493895"
     },
     "onlineDate": "2026-10-24",
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "J. Wang",
+        "name": "Wang J",
         "affiliations": [
-          "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+          "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Y. Yang",
+        "name": "Yang Y",
         "affiliations": [
-          "Department of Preventive Dentistry, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology, Research Unit of Oral and Maxillofacial Regenerative Medicine, Chinese Academy of Medical Sciences, Shanghai, China"
+          "Department of Preventive Dentistry, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology, Research Unit of Oral and Maxillofacial Regenerative Medicine, Chinese Academy of Medical Sciences, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "L. Meng",
+        "name": "Meng L",
         "affiliations": [
-          "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+          "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "L. Gao",
+        "name": "Gao L",
         "affiliations": [
-          "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+          "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "J. Wang",
+        "name": "Wang J",
         "affiliations": [
-          "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+          "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "H. Ma",
+        "name": "Ma H",
         "affiliations": [
-          "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+          "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "R. Liu",
+        "name": "Liu R",
         "affiliations": [
-          "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+          "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "S. Duan",
+        "name": "Duan S",
         "affiliations": [
-          "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+          "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "W. Jiang",
+        "name": "Jiang W",
         "affiliations": [
-          "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+          "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Q. Gu",
+        "name": "Gu Q",
         "affiliations": [
-          "Department of Preventive Dentistry, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology, Shanghai, China"
+          "Department of Preventive Dentistry, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "H. Lu",
+        "name": "Lu H",
         "affiliations": [
-          "Department of Preventive Dentistry, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology, Shanghai, China"
+          "Department of Preventive Dentistry, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "W. Zhang",
+        "name": "Zhang W",
         "affiliations": [
-          "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+          "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
@@ -2073,97 +2517,6 @@
       "journal-article"
     ],
     "metadataBySource": {
-      "Crossref": {
-        "authors": [
-          {
-            "name": "J. Wang",
-            "affiliations": [
-              "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Y. Yang",
-            "affiliations": [
-              "Department of Preventive Dentistry, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology, Research Unit of Oral and Maxillofacial Regenerative Medicine, Chinese Academy of Medical Sciences, Shanghai, China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "L. Meng",
-            "affiliations": [
-              "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "L. Gao",
-            "affiliations": [
-              "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "J. Wang",
-            "affiliations": [
-              "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "H. Ma",
-            "affiliations": [
-              "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "R. Liu",
-            "affiliations": [
-              "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "S. Duan",
-            "affiliations": [
-              "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "W. Jiang",
-            "affiliations": [
-              "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Q. Gu",
-            "affiliations": [
-              "Department of Preventive Dentistry, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology, Shanghai, China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "H. Lu",
-            "affiliations": [
-              "Department of Preventive Dentistry, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology, Shanghai, China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "W. Zhang",
-            "affiliations": [
-              "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
-            ],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
-        ]
-      },
       "Europe PMC": {
         "authors": [
           {
@@ -2253,6 +2606,97 @@
         ],
         "publicationTypes": [
           "Journal Article"
+        ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "J. Wang",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Y. Yang",
+            "affiliations": [
+              "Department of Preventive Dentistry, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology, Research Unit of Oral and Maxillofacial Regenerative Medicine, Chinese Academy of Medical Sciences, Shanghai, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "L. Meng",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "L. Gao",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "J. Wang",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "H. Ma",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "R. Liu",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "S. Duan",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "W. Jiang",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Q. Gu",
+            "affiliations": [
+              "Department of Preventive Dentistry, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology, Shanghai, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "H. Lu",
+            "affiliations": [
+              "Department of Preventive Dentistry, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology, Shanghai, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "W. Zhang",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Ninth People’s Hospital, Shanghai Jiao Tong University School of Medicine; College of Stomatology, Shanghai Jiao Tong University; National Center for Stomatology; National Clinical Research Center for Oral Diseases; Shanghai Key Laboratory of Stomatology; Shanghai Research Institute of Stomatology, Shanghai, China"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
         ]
       }
     },
@@ -2501,7 +2945,7 @@
   {
     "id": "10.1038/s41551-026-01817-1",
     "doi": "10.1038/s41551-026-01817-1",
-    "title": "Hydrogel for sustained and localized delivery of a regulatory T cell-inducing agent promotes bone regeneration.",
+    "title": "Hydrogel for sustained and localized delivery of a regulatory T cell-inducing agent promotes bone regeneration",
     "abstract": "Local activation of regulatory T (T reg ) cells represents a promising strategy for wound repair and tissue regeneration. However, current T reg -based therapies rely on adoptive cell transfer, which requires ex vivo expansion and reinfusion, posing challenges to donor variability and tissue specificity. Here we engineer a hydrogel-based system for in situ T reg activation at injury sites through the controlled release of AS2863619 (AS), a cyclin-dependent kinase inhibitor. AS is incorporated into collagen hydrogels at concentrations exceeding its solubility limit, reducing burst release and extending the release half-life. This continuous exposure to T reg -inducing agents stabilizes Foxp3 expression in CD4 + T cells, thereby enabling T reg induction and stabilization. The incorporation of laponite nanoparticles further slows AS release and prolongs drug retention. In a calvarial bone-defect model, AS-loaded hydrogels induce dose-dependent T reg cell activation, reduce pro-inflammatory macrophage responses and enhance bone regeneration. Notably, AS-laponite hydrogels achieve complete defect bridging in some cases. By providing spatiotemporal control over T reg populations without the need for cell isolation and expansion, this approach offers a scalable alternative for immunomodulation and tissue repair.",
     "journal": "Nature Biomedical Engineering",
     "journalId": "nature-biomedical-engineering",
@@ -2513,8 +2957,8 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Europe PMC": "42919907",
-      "Crossref": "10.1038/s41551-026-01817-1"
+      "Crossref": "10.1038/s41551-026-01817-1",
+      "Europe PMC": "42919907"
     },
     "onlineDate": "2026-10-23",
     "onlineDatePrecision": "day",
@@ -2619,6 +3063,68 @@
       "journal-article"
     ],
     "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Gabriele Nasello",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Nuria Lafuente-Gómez",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Leila Krajnovic",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "David T. Wu",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Mason T. Dacus",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Einat B. Vitner",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Shawn Kang",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Emily Roloson",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Giovanni Bovone",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Liesbet Geris",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "David J. Mooney",
+            "affiliations": [],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      },
       "Europe PMC": {
         "authors": [
           {
@@ -2719,68 +3225,6 @@
         "publicationTypes": [
           "Journal Article"
         ]
-      },
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Gabriele Nasello",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Nuria Lafuente-Gómez",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Leila Krajnovic",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "David T. Wu",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Mason T. Dacus",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Einat B. Vitner",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Shawn Kang",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Emily Roloson",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Giovanni Bovone",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Liesbet Geris",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "David J. Mooney",
-            "affiliations": [],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
-        ]
       }
     },
     "grade": "A",
@@ -2816,7 +3260,7 @@
   {
     "id": "10.1093/jbmr/zjag149",
     "doi": "10.1093/jbmr/zjag149",
-    "title": "Isoform Runx2-II is sufficient for the development of calvaria, clavicles, and limb bones in the absence of Runx2-I",
+    "title": "Isoform Runx2-II is sufficient for the development of calvaria, clavicles, and limb bones in the absence of Runx2-I.",
     "abstract": "Abstract Runx2 is an essential transcription factor for osteoblast differentiation and chondrocyte maturation. Heterozygous mutations in RUNX2 cause cleidocranial dysplasia, characterized by an open fontanel, hypoplastic clavicles, and short stature. Runx2 is transcribed from two promoters, P1 and P2, generating Runx2-II and Runx2-I, respectively. However, the function of Runx2-I remains unclear. To clarify its function, we generated Runx2-I-specific knockout mice by systematically deleting the P2 region while retaining the downstream sequence from the branch site for intron 1 splicing. As the 2.5-kb and 24-kb deletions did not disrupt P2, the deletion was extended to 76 kb (Int1del/+ mice). Because this intron contains Supt3, whose homozygous deletion was lethal on embryonic day 9.5-10.5, we crossed Int1del/+ mice with Runx2+/– mice. Cap analysis of gene expression showed that Runx2-I mRNA was absent in Int1del/+Runx2+/– mice. In newborn calvaria and 6-week-old femurs, real-time reverse transcription-polymerase chain reaction analysis showed that Runx2-II mRNA in Int1del/+Runx2+/– mice was upregulated to wild-type levels, whereas the total Runx2 mRNA was comparable to Runx2+/– mice. At E16.5 and the newborn stage, skeletal preparation and histological and micro-CT analyses showed that the impaired development of cranial bones, clavicles, and limb bones in Runx2+/– mice was rescued in Int1del/+Runx2+/– mice, whereas that of the ribs, sternum, and vertebrae was not. In 6-week-old females, reduced femoral cortical thickness in Runx2+/– mice was restored in Int1del/+Runx2+/– mice. Neither Runx2-I nor Runx2-II overexpression exhibited negative autoregulation of endogenous expression. Depending on the cell type examined, their overexpression or Runx2 knockdown differentially affected P1 and P2 reporter activities, which were also influenced by an osteoblast-specific enhancer. These findings indicate that wild-type levels of Runx2-II can substitute for Runx2-I in calvaria, clavicle, and limb bone development. Upregulation of Runx2-II in Int1del/+Runx2+/– mice cannot be explained by negative autoregulation, offering a hypothetical model of reciprocal P1/P2 regulation.",
     "journal": "Journal of Bone and Mineral Research",
     "journalId": "jbmr",
@@ -2828,54 +3272,54 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1093/jbmr/zjag149",
-      "Europe PMC": "42911225"
+      "Europe PMC": "42911225",
+      "Crossref": "10.1093/jbmr/zjag149"
     },
     "onlineDate": "2026-10-22",
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "Yuki Matsuo",
+        "name": "Matsuo Y",
         "affiliations": [
-          "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,",
-          "Department of Skeletal Development and Regenerative Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,"
+          "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences, Nagasaki 852-8588, Japan.",
+          "Department of Skeletal Development and Regenerative Biology, Nagasaki University Graduate School of Biomedical Sciences, Nagasaki 852-8588, Japan."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Suemi Yabuta",
+        "name": "Yabuta S",
         "affiliations": [
-          "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,"
+          "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences, Nagasaki 852-8588, Japan."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Takeshi Moriishi",
+        "name": "Moriishi T",
         "affiliations": [
-          "Department of Skeletal Development and Regenerative Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,"
+          "Department of Skeletal Development and Regenerative Biology, Nagasaki University Graduate School of Biomedical Sciences, Nagasaki 852-8588, Japan."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Chiharu Sakane",
+        "name": "Sakane C",
         "affiliations": [
-          "Research Center for Biomedical Models and Animal Welfare, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki, 852–8588 ,"
+          "Research Center for Biomedical Models and Animal Welfare, Nagasaki University Graduate School of Biomedical Sciences, Nagasaki, 852-8588, Japan."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Hisato Komori",
+        "name": "Komori H",
         "affiliations": [
-          "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,"
+          "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences, Nagasaki 852-8588, Japan."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Toshihisa Komori",
+        "name": "Komori T",
         "affiliations": [
-          "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,"
+          "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences, Nagasaki 852-8588, Japan."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
@@ -2883,56 +3327,6 @@
       "journal-article"
     ],
     "metadataBySource": {
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Yuki Matsuo",
-            "affiliations": [
-              "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,",
-              "Department of Skeletal Development and Regenerative Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Suemi Yabuta",
-            "affiliations": [
-              "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Takeshi Moriishi",
-            "affiliations": [
-              "Department of Skeletal Development and Regenerative Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Chiharu Sakane",
-            "affiliations": [
-              "Research Center for Biomedical Models and Animal Welfare, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki, 852–8588 ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Hisato Komori",
-            "affiliations": [
-              "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Toshihisa Komori",
-            "affiliations": [
-              "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,"
-            ],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
-        ]
-      },
       "Europe PMC": {
         "authors": [
           {
@@ -2981,6 +3375,56 @@
         ],
         "publicationTypes": [
           "Journal Article"
+        ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Yuki Matsuo",
+            "affiliations": [
+              "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,",
+              "Department of Skeletal Development and Regenerative Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Suemi Yabuta",
+            "affiliations": [
+              "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Takeshi Moriishi",
+            "affiliations": [
+              "Department of Skeletal Development and Regenerative Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Chiharu Sakane",
+            "affiliations": [
+              "Research Center for Biomedical Models and Animal Welfare, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki, 852–8588 ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Hisato Komori",
+            "affiliations": [
+              "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Toshihisa Komori",
+            "affiliations": [
+              "Department of Molecular Bone Biology, Nagasaki University Graduate School of Biomedical Sciences , Nagasaki 852–8588 ,"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
         ]
       }
     },

@@ -2,74 +2,133 @@
   {
     "id": "10.1111/jcpe.70221",
     "doi": "10.1111/jcpe.70221",
-    "title": "Association Between Suspected Cemental Tears and Periodontal Breakdown: A Large Retrospective Study on Periapical Radiographs",
-    "abstract": "ABSTRACT Aim To determine the radiographic detection rate of suspected cemental tear on periapical radiographs and to evaluate its association with localised radiographic periodontal breakdown and initial diagnostic pathways. Materials and Methods We retrospectively screened 370,061 periapical radiographs from 203,286 patients (2022–2024) for features suggestive of cemental tear. Three calibrated examiners independently assessed the radiographs and linked their findings to clinical records. Relative radiographic bone loss (rRBL%) was measured at suspected sites and compared with within‐patient reference sites. Results Cemental tear was radiographically suspected in 1573 teeth (tooth‐level detection rate, 0.43%) from 1509 patients (patient‐level detection rate, 0.74%). The detection rate increased with age (OR 1.46 per decade; p p Conclusions Radiographically suspected cemental tear is associated with greater localised radiographic periodontal breakdown, whereas an initial diagnosis of cemental tear was infrequently documented. Combined clinical‐radiographic evaluation and prospective validation are warranted.",
+    "title": "Association Between Suspected Cemental Tears and Periodontal Breakdown: A Large Retrospective Study on Periapical Radiographs.",
+    "abstract": "To determine the radiographic detection rate of suspected cemental tear on periapical radiographs and to evaluate its association with localised radiographic periodontal breakdown and initial diagnostic pathways. We retrospectively screened 370,061 periapical radiographs from 203,286 patients (2022-2024) for features suggestive of cemental tear. Three calibrated examiners independently assessed the radiographs and linked their findings to clinical records. Relative radiographic bone loss (rRBL%) was measured at suspected sites and compared with within-patient reference sites. Cemental tear was radiographically suspected in 1573 teeth (tooth-level detection rate, 0.43%) from 1509 patients (patient-level detection rate, 0.74%). The detection rate increased with age (OR 1.46 per decade; p < 0.001). The suspected sites showed greater localised radiographic periodontal breakdown than the reference sites (p < 0.001), and age and sex remained associated with ΔrRBL% after adjustment. Cemental tear was documented as the initial diagnosis in 17 of 1466 tooth-level records (1.16%). Most of the reviewed records initially documented periodontal or endodontic diagnoses. Radiographically suspected cemental tear is associated with greater localised radiographic periodontal breakdown, whereas an initial diagnosis of cemental tear was infrequently documented. Combined clinical-radiographic evaluation and prospective validation are warranted.",
     "journal": "Journal of Clinical Periodontology",
     "journalId": "jcp",
     "date": "2026-10-29",
     "datePrecision": "day",
     "url": "https://doi.org/10.1111/jcpe.70221",
     "sources": [
-      "Crossref"
+      "Crossref",
+      "Europe PMC"
     ],
     "sourceIds": {
+      "Europe PMC": "42954078",
       "Crossref": "10.1111/jcpe.70221"
     },
     "onlineDate": "2026-10-29",
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "Leyuan Shen",
+        "name": "Shen L",
         "affiliations": [
-          "Department of Conservative Dentistry and Endodontics Shanghai Stomatological Hospital & School of Stomatology, Fudan University Shanghai China",
-          "Shanghai Key Laboratory of Craniomaxillofacial Development and Diseases Fudan University Shanghai China"
+          "Department of Conservative Dentistry and Endodontics, Shanghai Stomatological Hospital & School of Stomatology, Fudan University, Shanghai, China.",
+          "Shanghai Key Laboratory of Craniomaxillofacial Development and Diseases, Fudan University, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Xinyi Zhang",
+        "name": "Zhang X",
         "affiliations": [
-          "Stomatological Hospital of Chongqing Medical University Chongqing China"
+          "Stomatological Hospital of Chongqing Medical University, Chongqing, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Xiaoqing Liu",
+        "name": "Liu X",
         "affiliations": [
-          "Stomatological Hospital of Chongqing Medical University Chongqing China"
+          "Stomatological Hospital of Chongqing Medical University, Chongqing, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Hanbo Li",
+        "name": "Li H",
         "affiliations": [
-          "Department of Conservative Dentistry and Endodontics Shanghai Stomatological Hospital & School of Stomatology, Fudan University Shanghai China",
-          "Shanghai Key Laboratory of Craniomaxillofacial Development and Diseases Fudan University Shanghai China"
+          "Department of Conservative Dentistry and Endodontics, Shanghai Stomatological Hospital & School of Stomatology, Fudan University, Shanghai, China.",
+          "Shanghai Key Laboratory of Craniomaxillofacial Development and Diseases, Fudan University, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Li Guo",
+        "name": "Guo L",
         "affiliations": [
-          "Department of Conservative Dentistry and Endodontics Shanghai Stomatological Hospital & School of Stomatology, Fudan University Shanghai China",
-          "Shanghai Key Laboratory of Craniomaxillofacial Development and Diseases Fudan University Shanghai China"
+          "Department of Conservative Dentistry and Endodontics, Shanghai Stomatological Hospital & School of Stomatology, Fudan University, Shanghai, China.",
+          "Shanghai Key Laboratory of Craniomaxillofacial Development and Diseases, Fudan University, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Deqin Yang",
+        "name": "Yang D",
         "affiliations": [
-          "Department of Conservative Dentistry and Endodontics Shanghai Stomatological Hospital & School of Stomatology, Fudan University Shanghai China",
-          "Shanghai Key Laboratory of Craniomaxillofacial Development and Diseases Fudan University Shanghai China",
-          "Stomatological Hospital of Chongqing Medical University Chongqing China"
+          "Department of Conservative Dentistry and Endodontics, Shanghai Stomatological Hospital & School of Stomatology, Fudan University, Shanghai, China.",
+          "Shanghai Key Laboratory of Craniomaxillofacial Development and Diseases, Fudan University, Shanghai, China.",
+          "Stomatological Hospital of Chongqing Medical University, Chongqing, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
+      "IM",
+      "Journal Article",
       "journal-article"
     ],
     "metadataBySource": {
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Shen L",
+            "affiliations": [
+              "Department of Conservative Dentistry and Endodontics, Shanghai Stomatological Hospital & School of Stomatology, Fudan University, Shanghai, China.",
+              "Shanghai Key Laboratory of Craniomaxillofacial Development and Diseases, Fudan University, Shanghai, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Zhang X",
+            "affiliations": [
+              "Stomatological Hospital of Chongqing Medical University, Chongqing, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Liu X",
+            "affiliations": [
+              "Stomatological Hospital of Chongqing Medical University, Chongqing, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Li H",
+            "affiliations": [
+              "Department of Conservative Dentistry and Endodontics, Shanghai Stomatological Hospital & School of Stomatology, Fudan University, Shanghai, China.",
+              "Shanghai Key Laboratory of Craniomaxillofacial Development and Diseases, Fudan University, Shanghai, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Guo L",
+            "affiliations": [
+              "Department of Conservative Dentistry and Endodontics, Shanghai Stomatological Hospital & School of Stomatology, Fudan University, Shanghai, China.",
+              "Shanghai Key Laboratory of Craniomaxillofacial Development and Diseases, Fudan University, Shanghai, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Yang D",
+            "affiliations": [
+              "Department of Conservative Dentistry and Endodontics, Shanghai Stomatological Hospital & School of Stomatology, Fudan University, Shanghai, China.",
+              "Shanghai Key Laboratory of Craniomaxillofacial Development and Diseases, Fudan University, Shanghai, China.",
+              "Stomatological Hospital of Chongqing Medical University, Chongqing, China."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "IM",
+          "Journal Article"
+        ]
+      },
       "Crossref": {
         "authors": [
           {
@@ -138,6 +197,144 @@
     "rulesVersion": "2.0",
     "firstSeenAt": "2026-10-30T00:37:05.599178+00:00",
     "lastSeenAt": "2026-10-30T00:37:05.599178+00:00",
+    "discoveryKind": "new"
+  },
+  {
+    "id": "10.1111/cid.70192",
+    "doi": "10.1111/cid.70192",
+    "title": "Treatment of Small Peri‐Implant Buccal Dehiscence Defects With SCTG or GBR : 3‐Year Results of a Pilot Study",
+    "abstract": "ABSTRACT Objective To evaluate and compare subepithelial connective tissue grafts (SCTG) and guided bone regeneration (GBR) for the treatment of small peri‐implant buccal bone dehiscences over a 3‐year follow‐up, in terms of profilometric contour change, peri‐implant parameters and patient‐reported outcome measures (PROMs). Material and Methods Patients presenting with small buccal bone dehiscences (≤ 3 mm) after single implant placement were included. Defect sites were randomly treated with either SCTG or GBR, while five patients without dehiscences served as a negative control group. All patients received an implant crown and were followed for 3 years. Profilometric measurements, marginal bone levels, peri‐implant parameters, and PROMs were recorded at baseline, 1, and 3 years. Data were analyzed descriptively. Results A total of 16 patients were available for the 3‐year follow‐up (SCTG, n = 5; GBR, n = 6; negative control, n = 5). Both augmentation approaches maintained stable buccal soft‐tissue contours. At 1 mm below the mucosal margin, the median buccal contour change was 0.19 mm (Q1: −0.28; Q3: 0.29) in the SCTG group and 0.11 mm (Q1: −0.20; Q3: 0.30) in the GBR group. At 3 mm below the mucosal margin, the corresponding median contour changes were 0.05 mm (Q1: −0.36; Q3: 0.31) for SCTG and −0.05 mm (Q1: −0.22; Q3: 0.07) for GBR. Peri‐implant clinical parameters (probing depth, bleeding on probing, and plaque) remained stable, indicating maintained peri‐implant health in both groups. Marginal bone levels were preserved throughout the observation period and oral health‐related quality of life remained high and comparable between the SCTG and GBR groups. Conclusion Within the limitations of this pilot study, both SCTG and GBR were associated with stable buccal contour conditions and favorable peri‐implant health over a 3‐year follow‐up period. These findings were observed under adequate self‐performed plaque control and adherence to supportive care. Adequately powered RCTs are needed to confirm these findings.",
+    "journal": "Clinical Implant Dentistry and Related Research",
+    "journalId": "cidrr",
+    "date": "2026-10-29",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1111/cid.70192",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1111/cid.70192"
+    },
+    "onlineDate": "2026-10-29",
+    "onlineDatePrecision": "day",
+    "authors": [
+      {
+        "name": "Anina N. Zuercher",
+        "affiliations": [
+          "Clinic of Reconstructive Dentistry, Center of Dental Medicine University of Zurich Zurich Switzerland"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Fabienne Rusch",
+        "affiliations": [
+          "Clinic of Reconstructive Dentistry, Center of Dental Medicine University of Zurich Zurich Switzerland"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Franz J. Strauss",
+        "affiliations": [
+          "Discipline of Periodontics, The University of Sydney, School of Dentistry Sydney New South Wales Australia",
+          "Universidad Autonoma de Chile Santiago Chile"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Ronald E. Jung",
+        "affiliations": [
+          "Clinic of Reconstructive Dentistry, Center of Dental Medicine University of Zurich Zurich Switzerland"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Hyun‐Chang Lim",
+        "affiliations": [
+          "Clinic of Reconstructive Dentistry, Center of Dental Medicine University of Zurich Zurich Switzerland",
+          "Department of Periodontology, Periodontal‐Implant Clinical Research Institute Kyung Hee University College of Dentistry, Kyung Hee University Medical Center Seoul Korea"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Daniel Thoma",
+        "affiliations": [
+          "Clinic of Reconstructive Dentistry, Center of Dental Medicine University of Zurich Zurich Switzerland",
+          "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul South Korea"
+        ],
+        "source": "Crossref"
+      }
+    ],
+    "publicationTypes": [
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Anina N. Zuercher",
+            "affiliations": [
+              "Clinic of Reconstructive Dentistry, Center of Dental Medicine University of Zurich Zurich Switzerland"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Fabienne Rusch",
+            "affiliations": [
+              "Clinic of Reconstructive Dentistry, Center of Dental Medicine University of Zurich Zurich Switzerland"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Franz J. Strauss",
+            "affiliations": [
+              "Discipline of Periodontics, The University of Sydney, School of Dentistry Sydney New South Wales Australia",
+              "Universidad Autonoma de Chile Santiago Chile"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Ronald E. Jung",
+            "affiliations": [
+              "Clinic of Reconstructive Dentistry, Center of Dental Medicine University of Zurich Zurich Switzerland"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Hyun‐Chang Lim",
+            "affiliations": [
+              "Clinic of Reconstructive Dentistry, Center of Dental Medicine University of Zurich Zurich Switzerland",
+              "Department of Periodontology, Periodontal‐Implant Clinical Research Institute Kyung Hee University College of Dentistry, Kyung Hee University Medical Center Seoul Korea"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Daniel Thoma",
+            "affiliations": [
+              "Clinic of Reconstructive Dentistry, Center of Dental Medicine University of Zurich Zurich Switzerland",
+              "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul South Korea"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "grade": "B",
+    "score": 5,
+    "topics": [
+      "种植修复",
+      "骨增量与软组织"
+    ],
+    "pending": true,
+    "studyType": "研究类型待确认",
+    "studyTypeEvidence": {},
+    "evidence": {},
+    "reason": "临床独立规则：研究类型待确认。类型由词组初筛或信息不足，待确认；优先级不等同于研究质量评价。",
+    "rulesVersion": "2.0",
+    "firstSeenAt": "2026-10-31T00:41:48.096572+00:00",
+    "lastSeenAt": "2026-10-31T00:41:48.096572+00:00",
     "discoveryKind": "new"
   },
   {
@@ -305,7 +502,6 @@
       }
     ],
     "publicationTypes": [
-      "IM",
       "Journal Article",
       "journal-article"
     ],
@@ -370,7 +566,6 @@
           }
         ],
         "publicationTypes": [
-          "IM",
           "Journal Article"
         ]
       },
@@ -2322,7 +2517,7 @@
   {
     "id": "10.1111/prd.70100",
     "doi": "10.1111/prd.70100",
-    "title": "Contemporary zygomatic implant rehabilitation: A critical review of the evidence and clinical recommendations.",
+    "title": "Contemporary zygomatic implant rehabilitation: A critical review of the evidence and clinical recommendations",
     "abstract": "Abstract Background Zygomatic implant (ZI) therapy has evolved over the past two decades into an established modality for the rehabilitation of the severely atrophic maxilla, avoiding extensive bone augmentation procedures. Aim While the efficacy of ZI therapy is well established, variability in its clinical implementation and remaining knowledge gaps continue to influence its application in clinical practice. Methods This critical review, based on a focused PubMed/MEDLINE search, synthesized higher‐level and long‐term evidence on surgical approaches, loading protocols, indications and outcomes, complications, prosthetic considerations, digital workflows, and current consensus recommendations. Results Current evidence demonstrates favorable long‐term survival across a broad range of ZI indications. The Quad Zygoma Protocol has further expanded graftless rehabilitation for the severely atrophic edentulous maxilla. Surgical approach selection should be guided by maxillozygomatic anatomy and prosthetically driven planning, while digital technologies have progressively shifted ZI surgery toward precision‐oriented workflows. Nevertheless, heterogeneous complication profiles, inconsistent definitions of treatment success, and limited reporting of patient‐reported and long‐term biological and prosthetic outcomes remain important limitations. Conclusions Contemporary ZI rehabilitation represents an established treatment modality for complex maxillary rehabilitation, with the current focus shifting from demonstrating efficacy toward improving treatment predictability and long‐term outcomes. Clinical Recommendations Appropriate case selection is fundamental to successful ZI rehabilitation. Surgical planning should integrate anatomical feasibility, implant emergence, and restorative design, while structured maintenance and patient compliance support long‐term success. Digital workflows can enhance surgical accuracy and reproducibility but require surgical experience and clinical judgment.",
     "journal": "Periodontology 2000",
     "journalId": "p2000",
@@ -2334,33 +2529,33 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Europe PMC": "42921991",
-      "Crossref": "10.1111/prd.70100"
+      "Crossref": "10.1111/prd.70100",
+      "Europe PMC": "42921991"
     },
     "onlineDate": "2026-10-22",
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "Fan S",
+        "name": "Shengchi Fan",
         "affiliations": [
-          "Oral Surgery and Implantology, Faculty of Medicine and Health Sciences, University of Barcelona, Barcelona, Spain.",
-          "Implants and Esthetic Restorative Dentistry, Faculty of Dentistry, Chulalongkorn University, Bangkok, Thailand."
+          "Oral Surgery and Implantology, Faculty of Medicine and Health Sciences University of Barcelona Barcelona Spain",
+          "Implants and Esthetic Restorative Dentistry, Faculty of Dentistry Chulalongkorn University Bangkok Thailand"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Albrektsson T",
+        "name": "Tomas Albrektsson",
         "affiliations": [
-          "Department of Biomaterials, University of Gothenburg, Gothenburg, Sweden."
+          "Department of Biomaterials University of Gothenburg Gothenburg Sweden"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Davó R",
+        "name": "Rubén Davó",
         "affiliations": [
-          "Department of Implantology and Maxillofacial Surgery, Vithas Davo Instituto Dental, Hospital Medimar Internacional, Alicante, Spain."
+          "Department of Implantology and Maxillofacial Surgery Vithas Davo Instituto Dental, Hospital Medimar Internacional Alicante Spain"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       }
     ],
     "publicationTypes": [
@@ -2369,6 +2564,35 @@
       "journal-article"
     ],
     "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Shengchi Fan",
+            "affiliations": [
+              "Oral Surgery and Implantology, Faculty of Medicine and Health Sciences University of Barcelona Barcelona Spain",
+              "Implants and Esthetic Restorative Dentistry, Faculty of Dentistry Chulalongkorn University Bangkok Thailand"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Tomas Albrektsson",
+            "affiliations": [
+              "Department of Biomaterials University of Gothenburg Gothenburg Sweden"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Rubén Davó",
+            "affiliations": [
+              "Department of Implantology and Maxillofacial Surgery Vithas Davo Instituto Dental, Hospital Medimar Internacional Alicante Spain"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      },
       "Europe PMC": {
         "authors": [
           {
@@ -2397,35 +2621,6 @@
         "publicationTypes": [
           "Review",
           "Journal Article"
-        ]
-      },
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Shengchi Fan",
-            "affiliations": [
-              "Oral Surgery and Implantology, Faculty of Medicine and Health Sciences University of Barcelona Barcelona Spain",
-              "Implants and Esthetic Restorative Dentistry, Faculty of Dentistry Chulalongkorn University Bangkok Thailand"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Tomas Albrektsson",
-            "affiliations": [
-              "Department of Biomaterials University of Gothenburg Gothenburg Sweden"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Rubén Davó",
-            "affiliations": [
-              "Department of Implantology and Maxillofacial Surgery Vithas Davo Instituto Dental, Hospital Medimar Internacional Alicante Spain"
-            ],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
         ]
       }
     },
