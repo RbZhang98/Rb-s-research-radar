@@ -1,75 +1,50 @@
 [
   {
-    "id": "10.1038/s41413-026-00590-w",
-    "doi": "10.1038/s41413-026-00590-w",
-    "title": "Metabolic reprogramming in macrophages: the central role of lipid metabolism in bone homeostasis",
-    "abstract": "Abstract Macrophage lipid metabolism is a pivotal regulator of bone homeostasis. Macrophages orchestrate the balance between bone resorption and formation primarily through their M1/M2 polarization states, with M1 macrophages promoting resorption and M2 macrophages supporting formation. This review comprehensively describes how key lipid metabolic pathways, such as fatty acid oxidation (FAO) and cholesterol metabolism, govern this polarization and subsequent bone remodeling. It integrates the core mechanisms by which lipid metabolism drives M1 and M2 polarization, and highlights that targeting macrophage lipid metabolism represents a promising therapeutic strategy for bone diseases. Finally, we identify emerging frontiers, including the “gut-bone axis” and epigenetic regulation, as critical directions for future research.",
-    "journal": "Bone Research",
-    "journalId": "bone-research",
-    "date": "2026-10-30",
-    "datePrecision": "day",
-    "url": "https://doi.org/10.1038/s41413-026-00590-w",
+    "id": "10.1016/j.celrep.2026.118240",
+    "doi": "10.1016/j.celrep.2026.118240",
+    "title": "Pot1a maintains mesenchymal stem cell niche function to support hematopoietic stem cells",
+    "abstract": "",
+    "journal": "Cell Reports",
+    "journalId": "cell-reports",
+    "date": "2026-11-01",
+    "datePrecision": "month",
+    "url": "https://doi.org/10.1016/j.celrep.2026.118240",
     "sources": [
       "Crossref"
     ],
     "sourceIds": {
-      "Crossref": "10.1038/s41413-026-00590-w"
+      "Crossref": "10.1016/j.celrep.2026.118240"
     },
-    "onlineDate": "2026-10-30",
-    "onlineDatePrecision": "day",
+    "onlineDate": null,
+    "onlineDatePrecision": "partial",
     "authors": [
       {
-        "name": "Longping Li",
+        "name": "Yuki Esaki",
         "affiliations": [],
         "source": "Crossref"
       },
       {
-        "name": "Yuxiao Zhang",
+        "name": "Kentaro Hosokawa",
         "affiliations": [],
         "source": "Crossref"
       },
       {
-        "name": "Shuo Huang",
+        "name": "Hisayuki Yao",
         "affiliations": [],
         "source": "Crossref"
       },
       {
-        "name": "Yang Xiao",
+        "name": "Shunichi Adachi",
         "affiliations": [],
         "source": "Crossref"
       },
       {
-        "name": "Genyu Liu",
+        "name": "Yoshihiro Baba",
         "affiliations": [],
         "source": "Crossref"
       },
       {
-        "name": "Zhengjie Wu",
-        "affiliations": [],
-        "source": "Crossref"
-      },
-      {
-        "name": "Yiqian Hu",
-        "affiliations": [],
-        "source": "Crossref"
-      },
-      {
-        "name": "Shiqiang Gong",
-        "affiliations": [],
-        "source": "Crossref"
-      },
-      {
-        "name": "Jing Mao",
-        "affiliations": [],
-        "source": "Crossref"
-      },
-      {
-        "name": "Ke Song",
-        "affiliations": [],
-        "source": "Crossref"
-      },
-      {
-        "name": "Qilin Li",
+        "name": "Fumio Arai",
         "affiliations": [],
         "source": "Crossref"
       }
@@ -78,6 +53,304 @@
       "journal-article"
     ],
     "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Yuki Esaki",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Kentaro Hosokawa",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Hisayuki Yao",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Shunichi Adachi",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Yoshihiro Baba",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Fumio Arai",
+            "affiliations": [],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "grade": "B",
+    "score": 4,
+    "topics": [
+      "C 骨与牙周组织再生",
+      "E 可迁移基础发现与技术"
+    ],
+    "pending": true,
+    "evidence": {
+      "C 骨与牙周组织再生": [
+        "mesenchymal stem"
+      ],
+      "E 可迁移基础发现与技术": [
+        "stem cell"
+      ]
+    },
+    "reason": "规则命中：mesenchymal stem；stem cell；摘要缺失或仅有可迁移线索，待人工确认。",
+    "rulesVersion": "2.0",
+    "inspirationScore": 0,
+    "transferMechanisms": [],
+    "evidenceScope": "领域证据不足",
+    "firstSeenAt": "2026-11-01T00:41:18.943337+00:00",
+    "lastSeenAt": "2026-11-01T00:41:18.943337+00:00",
+    "discoveryKind": "new"
+  },
+  {
+    "id": "10.1038/s41413-026-00590-w",
+    "doi": "10.1038/s41413-026-00590-w",
+    "title": "Metabolic reprogramming in macrophages: the central role of lipid metabolism in bone homeostasis.",
+    "abstract": "Abstract Macrophage lipid metabolism is a pivotal regulator of bone homeostasis. Macrophages orchestrate the balance between bone resorption and formation primarily through their M1/M2 polarization states, with M1 macrophages promoting resorption and M2 macrophages supporting formation. This review comprehensively describes how key lipid metabolic pathways, such as fatty acid oxidation (FAO) and cholesterol metabolism, govern this polarization and subsequent bone remodeling. It integrates the core mechanisms by which lipid metabolism drives M1 and M2 polarization, and highlights that targeting macrophage lipid metabolism represents a promising therapeutic strategy for bone diseases. Finally, we identify emerging frontiers, including the “gut-bone axis” and epigenetic regulation, as critical directions for future research.",
+    "journal": "Bone Research",
+    "journalId": "bone-research",
+    "date": "2026-10-30",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1038/s41413-026-00590-w",
+    "sources": [
+      "Crossref",
+      "Europe PMC"
+    ],
+    "sourceIds": {
+      "Europe PMC": "42963349",
+      "Crossref": "10.1038/s41413-026-00590-w"
+    },
+    "onlineDate": "2026-10-30",
+    "onlineDatePrecision": "day",
+    "authors": [
+      {
+        "name": "Li L",
+        "affiliations": [
+          "Department of Stomatology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+          "School of Stomatology, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+          "Hubei Province Key Laboratory of Oral and Maxillofacial Development and Regeneration, Wuhan, PR China."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Zhang Y",
+        "affiliations": [
+          "Department of Stomatology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+          "School of Stomatology, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+          "Hubei Province Key Laboratory of Oral and Maxillofacial Development and Regeneration, Wuhan, PR China."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Huang S",
+        "affiliations": [
+          "Department of Stomatology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+          "School of Stomatology, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+          "Hubei Province Key Laboratory of Oral and Maxillofacial Development and Regeneration, Wuhan, PR China."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Xiao Y",
+        "affiliations": [
+          "Department of Stomatology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+          "School of Stomatology, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+          "Hubei Province Key Laboratory of Oral and Maxillofacial Development and Regeneration, Wuhan, PR China."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Liu G",
+        "affiliations": [
+          "Department of Stomatology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+          "School of Stomatology, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+          "Hubei Province Key Laboratory of Oral and Maxillofacial Development and Regeneration, Wuhan, PR China."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Wu Z",
+        "affiliations": [
+          "Department of Stomatology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+          "School of Stomatology, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+          "Hubei Province Key Laboratory of Oral and Maxillofacial Development and Regeneration, Wuhan, PR China."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Hu Y",
+        "affiliations": [
+          "Department of Stomatology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+          "School of Stomatology, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+          "Hubei Province Key Laboratory of Oral and Maxillofacial Development and Regeneration, Wuhan, PR China."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Gong S",
+        "affiliations": [
+          "Department of Stomatology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+          "School of Stomatology, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+          "Hubei Province Key Laboratory of Oral and Maxillofacial Development and Regeneration, Wuhan, PR China."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Mao J",
+        "affiliations": [
+          "Department of Stomatology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China. maojing@hust.edu.cn.",
+          "School of Stomatology, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China. maojing@hust.edu.cn.",
+          "Hubei Province Key Laboratory of Oral and Maxillofacial Development and Regeneration, Wuhan, PR China. maojing@hust.edu.cn."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Song K",
+        "affiliations": [
+          "Department of Stomatology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China. songke_coco@163.com.",
+          "School of Stomatology, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China. songke_coco@163.com.",
+          "Hubei Province Key Laboratory of Oral and Maxillofacial Development and Regeneration, Wuhan, PR China. songke_coco@163.com."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Li Q",
+        "affiliations": [
+          "Department of Stomatology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China. qilinli@tjh.tjmu.edu.cn.",
+          "School of Stomatology, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China. qilinli@tjh.tjmu.edu.cn.",
+          "Hubei Province Key Laboratory of Oral and Maxillofacial Development and Regeneration, Wuhan, PR China. qilinli@tjh.tjmu.edu.cn."
+        ],
+        "source": "Europe PMC"
+      }
+    ],
+    "publicationTypes": [
+      "IM",
+      "Journal Article",
+      "Review",
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Li L",
+            "affiliations": [
+              "Department of Stomatology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+              "School of Stomatology, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+              "Hubei Province Key Laboratory of Oral and Maxillofacial Development and Regeneration, Wuhan, PR China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Zhang Y",
+            "affiliations": [
+              "Department of Stomatology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+              "School of Stomatology, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+              "Hubei Province Key Laboratory of Oral and Maxillofacial Development and Regeneration, Wuhan, PR China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Huang S",
+            "affiliations": [
+              "Department of Stomatology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+              "School of Stomatology, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+              "Hubei Province Key Laboratory of Oral and Maxillofacial Development and Regeneration, Wuhan, PR China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Xiao Y",
+            "affiliations": [
+              "Department of Stomatology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+              "School of Stomatology, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+              "Hubei Province Key Laboratory of Oral and Maxillofacial Development and Regeneration, Wuhan, PR China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Liu G",
+            "affiliations": [
+              "Department of Stomatology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+              "School of Stomatology, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+              "Hubei Province Key Laboratory of Oral and Maxillofacial Development and Regeneration, Wuhan, PR China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Wu Z",
+            "affiliations": [
+              "Department of Stomatology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+              "School of Stomatology, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+              "Hubei Province Key Laboratory of Oral and Maxillofacial Development and Regeneration, Wuhan, PR China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Hu Y",
+            "affiliations": [
+              "Department of Stomatology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+              "School of Stomatology, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+              "Hubei Province Key Laboratory of Oral and Maxillofacial Development and Regeneration, Wuhan, PR China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Gong S",
+            "affiliations": [
+              "Department of Stomatology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+              "School of Stomatology, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China.",
+              "Hubei Province Key Laboratory of Oral and Maxillofacial Development and Regeneration, Wuhan, PR China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Mao J",
+            "affiliations": [
+              "Department of Stomatology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China. maojing@hust.edu.cn.",
+              "School of Stomatology, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China. maojing@hust.edu.cn.",
+              "Hubei Province Key Laboratory of Oral and Maxillofacial Development and Regeneration, Wuhan, PR China. maojing@hust.edu.cn."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Song K",
+            "affiliations": [
+              "Department of Stomatology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China. songke_coco@163.com.",
+              "School of Stomatology, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China. songke_coco@163.com.",
+              "Hubei Province Key Laboratory of Oral and Maxillofacial Development and Regeneration, Wuhan, PR China. songke_coco@163.com."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Li Q",
+            "affiliations": [
+              "Department of Stomatology, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China. qilinli@tjh.tjmu.edu.cn.",
+              "School of Stomatology, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, PR China. qilinli@tjh.tjmu.edu.cn.",
+              "Hubei Province Key Laboratory of Oral and Maxillofacial Development and Regeneration, Wuhan, PR China. qilinli@tjh.tjmu.edu.cn."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "IM",
+          "Review",
+          "Journal Article"
+        ]
+      },
       "Crossref": {
         "authors": [
           {
@@ -297,7 +570,6 @@
       }
     ],
     "publicationTypes": [
-      "IM",
       "Journal Article"
     ],
     "metadataBySource": {
@@ -417,7 +689,6 @@
           }
         ],
         "publicationTypes": [
-          "IM",
           "Journal Article"
         ]
       }
@@ -446,7 +717,7 @@
   {
     "id": "10.1111/jcpe.70220",
     "doi": "10.1111/jcpe.70220",
-    "title": "Development and External Validation of An Interpretable Machine Learning Model for Severity Stratification of Current Periodontitis Using Routine Blood Biomarkers, With Exploratory Analyses of Age- and Sex-Specific Model Behaviour.",
+    "title": "Development and External Validation of An Interpretable Machine Learning Model for Severity Stratification of Current Periodontitis Using Routine Blood Biomarkers, With Exploratory Analyses of Age‐ and Sex‐Specific Model Behaviour",
     "abstract": "ABSTRACT Aim To develop and externally validate an interpretable machine learning model using routine laboratory data to distinguish current Stage III–IV from Stage I–II periodontitis among adults with established periodontitis. Materials and Methods This two‐centre retrospective study included 1321 patients for development and 584 for external validation at two hospitals of the Zhejiang University School of Medicine. The stacking model used age, sex, smoking status and 13 blood‐derived predictors and was frozen before external validation. Performance was assessed by discrimination, calibration, classification measures, decision‐curve analysis and comparison with simpler models. SHAP and restricted cubic spline analyses were exploratory. Results The stacking model had an out‐of‐fold AUC of 0.827 (95% CI: 0.802–0.851) in development and an external AUC of 0.774 (95% CI: 0.730–0.818). External calibration was less favourable (intercept 0.785, slope 0.822). External AUC was 0.745 for age, sex and smoking status and 0.763 after adding the 13 blood‐derived predictors. Conclusions Among adults with established periodontitis and sufficiently complete predictor data, the model showed moderate external discrimination but less favourable calibration. Blood‐derived predictors added modest discrimination beyond age, sex and smoking status. The model does not replace periodontal examination. Further multi‐centre validation and calibration are needed before clinical use.",
     "journal": "Journal of Clinical Periodontology",
     "journalId": "jcp",
@@ -458,65 +729,65 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Europe PMC": "42952114",
-      "Crossref": "10.1111/jcpe.70220"
+      "Crossref": "10.1111/jcpe.70220",
+      "Europe PMC": "42952114"
     },
     "authors": [
       {
-        "name": "Shi H",
+        "name": "Hanbo Shi",
         "affiliations": [
-          "Department of Clinical Laboratory, Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Cancer Center of Zhejiang University, Hangzhou, China."
+          "Department of Clinical Laboratory Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Cancer Center of Zhejiang University Hangzhou China"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Yao J",
+        "name": "Jingjing Yao",
         "affiliations": [
-          "Department of Clinical Laboratory, Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Cancer Center of Zhejiang University, Hangzhou, China."
+          "Department of Clinical Laboratory Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Cancer Center of Zhejiang University Hangzhou China"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Jiang Z",
+        "name": "Zhongliang Jiang",
         "affiliations": [
-          "Department of Clinical Laboratory, Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Cancer Center of Zhejiang University, Hangzhou, China."
+          "Department of Clinical Laboratory Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Cancer Center of Zhejiang University Hangzhou China"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Chen M",
+        "name": "Mengting Chen",
         "affiliations": [
-          "Department of Clinical Laboratory, Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Cancer Center of Zhejiang University, Hangzhou, China."
+          "Department of Clinical Laboratory Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Cancer Center of Zhejiang University Hangzhou China"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Zhuge Q",
+        "name": "Qian Zhuge",
         "affiliations": [
-          "Department of Clinical Laboratory, Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Cancer Center of Zhejiang University, Hangzhou, China."
+          "Department of Clinical Laboratory Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Cancer Center of Zhejiang University Hangzhou China"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Jiang C",
+        "name": "Chenchen Jiang",
         "affiliations": [
-          "Department of Clinical Laboratory, Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Cancer Center of Zhejiang University, Hangzhou, China."
+          "Department of Clinical Laboratory Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Cancer Center of Zhejiang University Hangzhou China"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Chen Y",
+        "name": "Yan Chen",
         "affiliations": [
-          "Department of Pathology, The First Affiliated Hospital of Zhejiang University School of Medicine, Hangzhou, China."
+          "Department of Pathology The First Affiliated Hospital of Zhejiang University School of Medicine Hangzhou China"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Qian Y",
+        "name": "Yun Qian",
         "affiliations": [
-          "Department of Clinical Laboratory, Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Cancer Center of Zhejiang University, Hangzhou, China."
+          "Department of Clinical Laboratory Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Cancer Center of Zhejiang University Hangzhou China"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       }
     ],
     "publicationTypes": [
@@ -524,69 +795,6 @@
       "journal-article"
     ],
     "metadataBySource": {
-      "Europe PMC": {
-        "authors": [
-          {
-            "name": "Shi H",
-            "affiliations": [
-              "Department of Clinical Laboratory, Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Cancer Center of Zhejiang University, Hangzhou, China."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Yao J",
-            "affiliations": [
-              "Department of Clinical Laboratory, Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Cancer Center of Zhejiang University, Hangzhou, China."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Jiang Z",
-            "affiliations": [
-              "Department of Clinical Laboratory, Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Cancer Center of Zhejiang University, Hangzhou, China."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Chen M",
-            "affiliations": [
-              "Department of Clinical Laboratory, Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Cancer Center of Zhejiang University, Hangzhou, China."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Zhuge Q",
-            "affiliations": [
-              "Department of Clinical Laboratory, Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Cancer Center of Zhejiang University, Hangzhou, China."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Jiang C",
-            "affiliations": [
-              "Department of Clinical Laboratory, Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Cancer Center of Zhejiang University, Hangzhou, China."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Chen Y",
-            "affiliations": [
-              "Department of Pathology, The First Affiliated Hospital of Zhejiang University School of Medicine, Hangzhou, China."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Qian Y",
-            "affiliations": [
-              "Department of Clinical Laboratory, Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Cancer Center of Zhejiang University, Hangzhou, China."
-            ],
-            "source": "Europe PMC"
-          }
-        ],
-        "publicationTypes": [
-          "Journal Article"
-        ]
-      },
       "Crossref": {
         "authors": [
           {
@@ -648,6 +856,69 @@
         ],
         "publicationTypes": [
           "journal-article"
+        ]
+      },
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Shi H",
+            "affiliations": [
+              "Department of Clinical Laboratory, Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Cancer Center of Zhejiang University, Hangzhou, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Yao J",
+            "affiliations": [
+              "Department of Clinical Laboratory, Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Cancer Center of Zhejiang University, Hangzhou, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Jiang Z",
+            "affiliations": [
+              "Department of Clinical Laboratory, Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Cancer Center of Zhejiang University, Hangzhou, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Chen M",
+            "affiliations": [
+              "Department of Clinical Laboratory, Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Cancer Center of Zhejiang University, Hangzhou, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Zhuge Q",
+            "affiliations": [
+              "Department of Clinical Laboratory, Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Cancer Center of Zhejiang University, Hangzhou, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Jiang C",
+            "affiliations": [
+              "Department of Clinical Laboratory, Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Cancer Center of Zhejiang University, Hangzhou, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Chen Y",
+            "affiliations": [
+              "Department of Pathology, The First Affiliated Hospital of Zhejiang University School of Medicine, Hangzhou, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Qian Y",
+            "affiliations": [
+              "Department of Clinical Laboratory, Stomatology Hospital, School of Stomatology, Zhejiang University School of Medicine, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Cancer Center of Zhejiang University, Hangzhou, China."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "Journal Article"
         ]
       }
     },
@@ -792,7 +1063,8 @@
     ],
     "publicationTypes": [
       "Journal Article",
-      "journal-article"
+      "journal-article",
+      "research-article"
     ],
     "metadataBySource": {
       "Europe PMC": {
@@ -894,6 +1166,7 @@
           }
         ],
         "publicationTypes": [
+          "research-article",
           "Journal Article"
         ]
       },
@@ -1032,7 +1305,7 @@
   {
     "id": "10.1038/s41551-026-01819-z",
     "doi": "10.1038/s41551-026-01819-z",
-    "title": "Cartilage-binding coacervate with therapeutic payload delivery and biomimetic lubrication alleviates osteoarthritis by reducing joint friction and inflammation",
+    "title": "Cartilage-binding coacervate with therapeutic payload delivery and biomimetic lubrication alleviates osteoarthritis by reducing joint friction and inflammation.",
     "abstract": "Healthy articular cartilage maintains ultralow friction through the lipid/hyaluronic acid/lubricin complex lubrication layer, in which the zwitterionic lipids mediate lubrication and the hyaluronic acid and lubricin anchor to cartilage matrix. However, in osteoarthritis this lubrication system is progressively degraded, leading to increased cartilage wear and joint dysfunction. Therefore, early and lubrication-based intervention is urgently needed. Here we present biomimetic polyzwitterionic coacervates (pZCOs) that recapitulate both the lubrication and cartilage-binding functionalities of the natural boundary lubrication layer. pZCOs exhibit strong binding affinity to fibronectin, establish a stable and ultralow-friction lubrication layer on the cartilage surface, facilitate the sustained release of anti-inflammatory drugs, and preserve the viability and anti-inflammatory paracrine secretion of encapsulated mesenchymal stem cells. In both rat and mini-pig models of osteoarthritis, intra-articular administration of drug/MSC-laden pZCOs effectively reduces cartilage degradation, suppresses inflammation and promotes cartilage integrity, outperforming clinical hyaluronic acid lubricants in lubrication performance, in vivo retention and therapeutic efficacy. These findings highlight the translational potential of engineered biomimetic coacervates as next-generation joint lubricants for integrated management of osteoarthritis.",
     "journal": "Nature Biomedical Engineering",
     "journalId": "nature-biomedical-engineering",
@@ -1044,8 +1317,8 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1038/s41551-026-01819-z",
-      "Europe PMC": "42946753"
+      "Europe PMC": "42946753",
+      "Crossref": "10.1038/s41551-026-01819-z"
     },
     "authors": [
       {
@@ -1130,58 +1403,6 @@
       "journal-article"
     ],
     "metadataBySource": {
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Sirong Chen",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Tianshen Jiang",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Xiaorou Qiu",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Ruitong Luo",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Haiyang Yao",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Ruinan Wang",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Zhuo Li",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Pengchao Zhao",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Liming Bian",
-            "affiliations": [],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
-        ]
-      },
       "Europe PMC": {
         "authors": [
           {
@@ -1263,6 +1484,58 @@
         ],
         "publicationTypes": [
           "Journal Article"
+        ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Sirong Chen",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Tianshen Jiang",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Xiaorou Qiu",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Ruitong Luo",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Haiyang Yao",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Ruinan Wang",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Zhuo Li",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Pengchao Zhao",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Liming Bian",
+            "affiliations": [],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
         ]
       }
     },
@@ -1987,7 +2260,7 @@
   {
     "id": "10.1111/jcpe.70213",
     "doi": "10.1111/jcpe.70213",
-    "title": "Influence of the Occupying Proportion of Mineralised Particles Within the Grafted Volume on Subsequent Volume Shrinkage: A Preclinical Study on Rabbit Calvaria.",
+    "title": "Influence of the Occupying Proportion of Mineralised Particles Within the Grafted Volume on Subsequent Volume Shrinkage: A Preclinical Study on Rabbit Calvaria",
     "abstract": "ABSTRACT Aim To evaluate whether mineral particle occupancy within the grafted volume influences volumetric stability and bone regeneration, and to compare particulate grafts, collagenated grafts, hyaluronic acid–conjugated particulates and mechanical manipulation in a vertical augmentation model. Materials and Methods Ten New Zealand white rabbits received four standardised vertical calvarial defects and filled with saline‐hydrated particulate deproteinised porcine bone mineral (Control), intact collagenated bone blocks (CBM), hydrated and mechanically crushed collagenated blocks (cCBM) or particulate grafts mixed with hyaluronic acid (HA). Grafts were placed in sealed plastic cylinders. Animals were sacrificed at 2 and 8 weeks. Volumetric stability and mineralised tissue volume were assessed by micro‐computed tomography, and the total augmented area, new bone formation, residual material and particle length were evaluated by histological and histomorphometric analyses. Data were analysed using linear mixed‐effects models. Results Mineralised tissue volume increased over time in Control, CBM and HA groups but decreased in cCBM (time × material interaction, p = 0.020). At 8 weeks, total augmented area was preserved in Control and CBM, whereas significant volumetric shrinkage occurred in cCBM and HA ( p Conclusions Given the limitations of this model, binder incorporation and mechanical manipulation may affect particle occupancy and volumetric stability. Reducing graft manipulation may enhance space maintenance and facilitate bone regeneration.",
     "journal": "Journal of Clinical Periodontology",
     "journalId": "jcp",
@@ -1999,68 +2272,68 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Europe PMC": "42935113",
-      "Crossref": "10.1111/jcpe.70213"
+      "Crossref": "10.1111/jcpe.70213",
+      "Europe PMC": "42935113"
     },
     "authors": [
       {
-        "name": "Choi JS",
+        "name": "Ji‐Su Choi",
         "affiliations": [
-          "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry, Yonsei University, Seoul, South Korea."
+          "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry Yonsei University Seoul South Korea"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Hwang B",
+        "name": "Betül Hwang",
         "affiliations": [
-          "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry, Yonsei University, Seoul, South Korea."
+          "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry Yonsei University Seoul South Korea"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Lee MY",
+        "name": "Min‐Yong Lee",
         "affiliations": [
-          "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry, Yonsei University, Seoul, South Korea."
+          "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry Yonsei University Seoul South Korea"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Cho SH",
+        "name": "Sang‐Hyun Cho",
         "affiliations": [
-          "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry, Yonsei University, Seoul, South Korea.",
-          "BK21 FOUR Project, Yonsei University College of Dentistry, Seoul, South Korea."
+          "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry Yonsei University Seoul South Korea",
+          "BK21 FOUR Project Yonsei University College of Dentistry Seoul South Korea"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Müller N",
+        "name": "Nicolas Müller",
         "affiliations": [
-          "Clinic of Reconstructive Dentistry, Center of Dental Medicine, University of Zurich, Zurich, Switzerland."
+          "Clinic of Reconstructive Dentistry, Center of Dental Medicine University of Zurich Zurich Switzerland"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Strauss FJ",
+        "name": "Franz J. Strauss",
         "affiliations": [
-          "Discipline of Periodontics, School of Dentistry, Faculty of Medicine and Health, The University of Sydney, Sydney, New South Wales, Australia.",
-          "Faculty of Health Sciences, Universidad Autonoma de Chile, Santiago, Chile."
+          "Discipline of Periodontics, School of Dentistry, Faculty of Medicine and Health The University of Sydney Sydney New South Wales Australia",
+          "Faculty of Health Sciences Universidad Autonoma de Chile Santiago Chile"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Kwon JS",
+        "name": "Jae‐Sung Kwon",
         "affiliations": [
-          "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry, Yonsei University, Seoul, South Korea.",
-          "BK21 FOUR Project, Yonsei University College of Dentistry, Seoul, South Korea."
+          "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry Yonsei University Seoul South Korea",
+          "BK21 FOUR Project Yonsei University College of Dentistry Seoul South Korea"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Lee JS",
+        "name": "Jung‐Seok Lee",
         "affiliations": [
-          "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry, Yonsei University, Seoul, South Korea."
+          "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry Yonsei University Seoul South Korea"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       }
     ],
     "publicationTypes": [
@@ -2068,72 +2341,6 @@
       "journal-article"
     ],
     "metadataBySource": {
-      "Europe PMC": {
-        "authors": [
-          {
-            "name": "Choi JS",
-            "affiliations": [
-              "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry, Yonsei University, Seoul, South Korea."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Hwang B",
-            "affiliations": [
-              "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry, Yonsei University, Seoul, South Korea."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Lee MY",
-            "affiliations": [
-              "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry, Yonsei University, Seoul, South Korea."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Cho SH",
-            "affiliations": [
-              "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry, Yonsei University, Seoul, South Korea.",
-              "BK21 FOUR Project, Yonsei University College of Dentistry, Seoul, South Korea."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Müller N",
-            "affiliations": [
-              "Clinic of Reconstructive Dentistry, Center of Dental Medicine, University of Zurich, Zurich, Switzerland."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Strauss FJ",
-            "affiliations": [
-              "Discipline of Periodontics, School of Dentistry, Faculty of Medicine and Health, The University of Sydney, Sydney, New South Wales, Australia.",
-              "Faculty of Health Sciences, Universidad Autonoma de Chile, Santiago, Chile."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Kwon JS",
-            "affiliations": [
-              "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry, Yonsei University, Seoul, South Korea.",
-              "BK21 FOUR Project, Yonsei University College of Dentistry, Seoul, South Korea."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Lee JS",
-            "affiliations": [
-              "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry, Yonsei University, Seoul, South Korea."
-            ],
-            "source": "Europe PMC"
-          }
-        ],
-        "publicationTypes": [
-          "Journal Article"
-        ]
-      },
       "Crossref": {
         "authors": [
           {
@@ -2199,6 +2406,72 @@
         "publicationTypes": [
           "journal-article"
         ]
+      },
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Choi JS",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry, Yonsei University, Seoul, South Korea."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Hwang B",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry, Yonsei University, Seoul, South Korea."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Lee MY",
+            "affiliations": [
+              "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry, Yonsei University, Seoul, South Korea."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Cho SH",
+            "affiliations": [
+              "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry, Yonsei University, Seoul, South Korea.",
+              "BK21 FOUR Project, Yonsei University College of Dentistry, Seoul, South Korea."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Müller N",
+            "affiliations": [
+              "Clinic of Reconstructive Dentistry, Center of Dental Medicine, University of Zurich, Zurich, Switzerland."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Strauss FJ",
+            "affiliations": [
+              "Discipline of Periodontics, School of Dentistry, Faculty of Medicine and Health, The University of Sydney, Sydney, New South Wales, Australia.",
+              "Faculty of Health Sciences, Universidad Autonoma de Chile, Santiago, Chile."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Kwon JS",
+            "affiliations": [
+              "Department and Research Institute of Dental Biomaterials and Bioengineering, College of Dentistry, Yonsei University, Seoul, South Korea.",
+              "BK21 FOUR Project, Yonsei University College of Dentistry, Seoul, South Korea."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Lee JS",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration, College of Dentistry, Yonsei University, Seoul, South Korea."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ]
       }
     },
     "onlineDate": "2026-10-26",
@@ -2230,7 +2503,7 @@
   {
     "id": "10.1111/jcpe.70219",
     "doi": "10.1111/jcpe.70219",
-    "title": "Diagnosed Dental Diseases, Tooth Loss and the Risk of Primary Liver Cancer in a Nationwide Swedish Cohort.",
+    "title": "Diagnosed Dental Diseases, Tooth Loss and the Risk of Primary Liver Cancer in a Nationwide Swedish Cohort",
     "abstract": "ABSTRACT Background and Aim Poor dental health has been shown to increase the risk of several types of cancer, but its association with primary liver cancer (PLC) remains unclear. We aimed to evaluate the association between dental diseases, tooth loss and the risk of PLC. Patients and Methods We conducted a large population‐based retrospective cohort study including 5,893,325 adults registered in the Swedish Dental Health Register between 2009 and 2016. Participants were linked to multiple Swedish national registers to ascertain incident PLC cases. Cox regression analyses were performed to evaluate the association between dental diseases, tooth loss and the risk of PLC, using attained age as the timescale and adjusting for potential confounders. Additionally, in a sibling comparison analysis we controlled for shared genetic and early‐life environmental factors. Results During a mean follow‐up of 6.36 years, 2374 PLC cases were identified through linkage with the Cancer Register: 1856 hepatocellular carcinoma (HCC) and 518 non‐HCC PLC cases. Both caries (hazard ratio [HR] = 1.15, 95% CI: 1.02–1.30) and periodontitis (HR = 1.25, 95% CI: 1.12–1.39) were associated with an increased risk of PLC. Further, a clear dose–response relationship was observed between fewer remaining teeth and PLC risk, with HRs ranging from 1.15 to 1.84 ( p 27 remaining teeth. Subtype‐specific analyses showed that caries was associated with non‐HCC PLC, whereas periodontitis was associated with HCC. Tooth loss was more strongly associated with HCC than with non‐HCC PLC. The overall findings were generally consistent across sibling‐controlled, subgroup, and sensitivity analyses. Conclusions Our large population‐based cohort study suggests that caries, periodontitis and tooth loss are associated with an elevated risk of PLC, with distinct patterns of association observed for HCC and non‐HCC PLC.",
     "journal": "Journal of Clinical Periodontology",
     "journalId": "jcp",
@@ -2242,48 +2515,48 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Europe PMC": "42927980",
-      "Crossref": "10.1111/jcpe.70219"
+      "Crossref": "10.1111/jcpe.70219",
+      "Europe PMC": "42927980"
     },
     "authors": [
       {
-        "name": "Zhong Q",
+        "name": "Qiaofeng Zhong",
         "affiliations": [
-          "Department of Medical Oncology, Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fuzhou, China.",
-          "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden."
+          "Department of Medical Oncology Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital Fuzhou China",
+          "Department of Medical Epidemiology and Biostatistics Karolinska Institutet Stockholm Sweden"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Ruan Z",
+        "name": "Zengliang Ruan",
         "affiliations": [
-          "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
-          "Key Laboratory of Environmental Medicine and Engineering of Ministry of Education, and Department of Epidemiology & Biostatistics, School of Public Health, Southeast University, Nanjing, China."
+          "Department of Medical Epidemiology and Biostatistics Karolinska Institutet Stockholm Sweden",
+          "Key Laboratory of Environmental Medicine and Engineering of Ministry of Education, and Department of Epidemiology & Biostatistics, School of Public Health Southeast University Nanjing China"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Yin L",
+        "name": "Li Yin",
         "affiliations": [
-          "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden."
+          "Department of Medical Epidemiology and Biostatistics Karolinska Institutet Stockholm Sweden"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Adami HO",
+        "name": "Hans‐Olov Adami",
         "affiliations": [
-          "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
-          "Clinical Effectiveness Research Group, Institute of Health and Society, University of Oslo, Oslo, Norway."
+          "Department of Medical Epidemiology and Biostatistics Karolinska Institutet Stockholm Sweden",
+          "Clinical Effectiveness Research Group, Institute of Health and Society University of Oslo Oslo Norway"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Ye W",
+        "name": "Weimin Ye",
         "affiliations": [
-          "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
-          "Department of Epidemiology and Health Statistics, School of Public Health, Fujian Medical University, Fuzhou, China."
+          "Department of Medical Epidemiology and Biostatistics Karolinska Institutet Stockholm Sweden",
+          "Department of Epidemiology and Health Statistics, School of Public Health Fujian Medical University Fuzhou China"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       }
     ],
     "publicationTypes": [
@@ -2291,52 +2564,6 @@
       "journal-article"
     ],
     "metadataBySource": {
-      "Europe PMC": {
-        "authors": [
-          {
-            "name": "Zhong Q",
-            "affiliations": [
-              "Department of Medical Oncology, Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fuzhou, China.",
-              "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Ruan Z",
-            "affiliations": [
-              "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
-              "Key Laboratory of Environmental Medicine and Engineering of Ministry of Education, and Department of Epidemiology & Biostatistics, School of Public Health, Southeast University, Nanjing, China."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Yin L",
-            "affiliations": [
-              "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Adami HO",
-            "affiliations": [
-              "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
-              "Clinical Effectiveness Research Group, Institute of Health and Society, University of Oslo, Oslo, Norway."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Ye W",
-            "affiliations": [
-              "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
-              "Department of Epidemiology and Health Statistics, School of Public Health, Fujian Medical University, Fuzhou, China."
-            ],
-            "source": "Europe PMC"
-          }
-        ],
-        "publicationTypes": [
-          "Journal Article"
-        ]
-      },
       "Crossref": {
         "authors": [
           {
@@ -2381,6 +2608,52 @@
         ],
         "publicationTypes": [
           "journal-article"
+        ]
+      },
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Zhong Q",
+            "affiliations": [
+              "Department of Medical Oncology, Clinical Oncology School of Fujian Medical University, Fujian Cancer Hospital, Fuzhou, China.",
+              "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Ruan Z",
+            "affiliations": [
+              "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
+              "Key Laboratory of Environmental Medicine and Engineering of Ministry of Education, and Department of Epidemiology & Biostatistics, School of Public Health, Southeast University, Nanjing, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Yin L",
+            "affiliations": [
+              "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Adami HO",
+            "affiliations": [
+              "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
+              "Clinical Effectiveness Research Group, Institute of Health and Society, University of Oslo, Oslo, Norway."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Ye W",
+            "affiliations": [
+              "Department of Medical Epidemiology and Biostatistics, Karolinska Institutet, Stockholm, Sweden.",
+              "Department of Epidemiology and Health Statistics, School of Public Health, Fujian Medical University, Fuzhou, China."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "Journal Article"
         ]
       }
     },
@@ -2732,7 +3005,7 @@
   {
     "id": "10.1111/jcpe.70216",
     "doi": "10.1111/jcpe.70216",
-    "title": "An Exploratory Longitudinal Analysis of Salivary Host, Bacterial and Fungal Extracellular Vesicles Following 6-Month Non-Surgical Periodontal Therapy in Periodontitis.",
+    "title": "An Exploratory Longitudinal Analysis of Salivary Host, Bacterial and Fungal Extracellular Vesicles Following 6‐Month Non‐Surgical Periodontal Therapy in Periodontitis",
     "abstract": "ABSTRACT Aim To evaluate the longitudinal changes in salivary host and non‐host extracellular vesicles (EVs) following non‐surgical periodontal therapy (NSPT). Materials and Methods Unstimulated saliva and plaque (from a deep pocket) were collected from 25 Stage III/IV periodontitis patients at baseline and at 3 and 6 months post NSPT. Host salivary EVs and non‐host EVs were isolated using immunoaffinity, and size‐exclusion chromatography, respectively. Host EV cytokines were assessed by multiplex flow cytometry, and non‐host EVs, saliva and plaque were profiled by 16S rRNA and fungal internal transcribed spacer (ITS) sequencing. Results Periodontal parameters significantly decreased at 3 and 6 months post NSPT (vs. baseline), accompanied by increased host‐EVs associated cytokines interleukin‐4 (IL‐4), IL‐12 and IL‐9 (not whole saliva). At both timepoints, bacterial EVs also declined, including the genera Filifactor , Parvimonas and Lentimicrobium and the species Fusobacterium nucleatum , Filifactor alocis , Tannerella forsythia , Treponema denticola , Porphyromonas gingivalis , P. endodontalis , P. micra and Lachnospiraceae bacterium; similar reductions were observed in plaque and saliva taxa, including Treponema , Tannerella , Parvimonas , T. forsythia , T. socranskii and P. micra . At 6 months, fungal EVs from Malassezia arunalokei were decreased and the fungal Candida parapsilosis EVs were increased. Conclusions NSPT led to changes in salivary host and non‐host EV cargoes, suggesting that they may serve as a non‐invasive tool for disease treatment monitoring in periodontitis.",
     "journal": "Journal of Clinical Periodontology",
     "journalId": "jcp",
@@ -2744,60 +3017,60 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Europe PMC": "42919615",
-      "Crossref": "10.1111/jcpe.70216"
+      "Crossref": "10.1111/jcpe.70216",
+      "Europe PMC": "42919615"
     },
     "onlineDate": "2026-10-23",
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "Liu C",
+        "name": "Chun Liu",
         "affiliations": [
-          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
+          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Wang J",
+        "name": "Jenny Wang",
         "affiliations": [
-          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
+          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Lai A",
+        "name": "Andrew Lai",
         "affiliations": [
-          "Translational Extracellular Vesicles in Obstetrics and Gynae-Oncology Group, The University of Queensland Frazer Institute, Royal Brisbane and Women's Hospital, Faculty of Medicine, The University of Queensland, Brisbane, Queensland, Australia."
+          "Translational Extracellular Vesicles in Obstetrics and Gynae‐Oncology Group, The University of Queensland Frazer Institute, Royal Brisbane and Women's Hospital, Faculty of Medicine The University of Queensland Brisbane Queensland Australia"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Salomon C",
+        "name": "Carlos Salomon",
         "affiliations": [
-          "Translational Extracellular Vesicles in Obstetrics and Gynae-Oncology Group, The University of Queensland Frazer Institute, Royal Brisbane and Women's Hospital, Faculty of Medicine, The University of Queensland, Brisbane, Queensland, Australia."
+          "Translational Extracellular Vesicles in Obstetrics and Gynae‐Oncology Group, The University of Queensland Frazer Institute, Royal Brisbane and Women's Hospital, Faculty of Medicine The University of Queensland Brisbane Queensland Australia"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Seneviratne CJ",
+        "name": "Chaminda Jayampath Seneviratne",
         "affiliations": [
-          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
+          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Ivanovski S",
+        "name": "Sašo Ivanovski",
         "affiliations": [
-          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
+          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Han P",
+        "name": "Pingping Han",
         "affiliations": [
-          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
+          "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry The University of Queensland Brisbane Queensland Australia"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       }
     ],
     "publicationTypes": [
@@ -2805,62 +3078,6 @@
       "journal-article"
     ],
     "metadataBySource": {
-      "Europe PMC": {
-        "authors": [
-          {
-            "name": "Liu C",
-            "affiliations": [
-              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Wang J",
-            "affiliations": [
-              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Lai A",
-            "affiliations": [
-              "Translational Extracellular Vesicles in Obstetrics and Gynae-Oncology Group, The University of Queensland Frazer Institute, Royal Brisbane and Women's Hospital, Faculty of Medicine, The University of Queensland, Brisbane, Queensland, Australia."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Salomon C",
-            "affiliations": [
-              "Translational Extracellular Vesicles in Obstetrics and Gynae-Oncology Group, The University of Queensland Frazer Institute, Royal Brisbane and Women's Hospital, Faculty of Medicine, The University of Queensland, Brisbane, Queensland, Australia."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Seneviratne CJ",
-            "affiliations": [
-              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Ivanovski S",
-            "affiliations": [
-              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Han P",
-            "affiliations": [
-              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
-            ],
-            "source": "Europe PMC"
-          }
-        ],
-        "publicationTypes": [
-          "Journal Article"
-        ]
-      },
       "Crossref": {
         "authors": [
           {
@@ -2916,6 +3133,62 @@
         "publicationTypes": [
           "journal-article"
         ]
+      },
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Liu C",
+            "affiliations": [
+              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Wang J",
+            "affiliations": [
+              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Lai A",
+            "affiliations": [
+              "Translational Extracellular Vesicles in Obstetrics and Gynae-Oncology Group, The University of Queensland Frazer Institute, Royal Brisbane and Women's Hospital, Faculty of Medicine, The University of Queensland, Brisbane, Queensland, Australia."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Salomon C",
+            "affiliations": [
+              "Translational Extracellular Vesicles in Obstetrics and Gynae-Oncology Group, The University of Queensland Frazer Institute, Royal Brisbane and Women's Hospital, Faculty of Medicine, The University of Queensland, Brisbane, Queensland, Australia."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Seneviratne CJ",
+            "affiliations": [
+              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Ivanovski S",
+            "affiliations": [
+              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Han P",
+            "affiliations": [
+              "Centre for Orofacial Regeneration, Rehabilitation and Reconstruction (COR3), Epigenetics Nanodiagnostic and Therapeutic Group, School of Dentistry, The University of Queensland, Brisbane, Queensland, Australia."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ]
       }
     },
     "grade": "B",
@@ -2945,7 +3218,7 @@
   {
     "id": "10.1038/s41551-026-01817-1",
     "doi": "10.1038/s41551-026-01817-1",
-    "title": "Hydrogel for sustained and localized delivery of a regulatory T cell-inducing agent promotes bone regeneration",
+    "title": "Hydrogel for sustained and localized delivery of a regulatory T cell-inducing agent promotes bone regeneration.",
     "abstract": "Local activation of regulatory T (T reg ) cells represents a promising strategy for wound repair and tissue regeneration. However, current T reg -based therapies rely on adoptive cell transfer, which requires ex vivo expansion and reinfusion, posing challenges to donor variability and tissue specificity. Here we engineer a hydrogel-based system for in situ T reg activation at injury sites through the controlled release of AS2863619 (AS), a cyclin-dependent kinase inhibitor. AS is incorporated into collagen hydrogels at concentrations exceeding its solubility limit, reducing burst release and extending the release half-life. This continuous exposure to T reg -inducing agents stabilizes Foxp3 expression in CD4 + T cells, thereby enabling T reg induction and stabilization. The incorporation of laponite nanoparticles further slows AS release and prolongs drug retention. In a calvarial bone-defect model, AS-loaded hydrogels induce dose-dependent T reg cell activation, reduce pro-inflammatory macrophage responses and enhance bone regeneration. Notably, AS-laponite hydrogels achieve complete defect bridging in some cases. By providing spatiotemporal control over T reg populations without the need for cell isolation and expansion, this approach offers a scalable alternative for immunomodulation and tissue repair.",
     "journal": "Nature Biomedical Engineering",
     "journalId": "nature-biomedical-engineering",
@@ -2957,8 +3230,8 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1038/s41551-026-01817-1",
-      "Europe PMC": "42919907"
+      "Europe PMC": "42919907",
+      "Crossref": "10.1038/s41551-026-01817-1"
     },
     "onlineDate": "2026-10-23",
     "onlineDatePrecision": "day",
@@ -3063,68 +3336,6 @@
       "journal-article"
     ],
     "metadataBySource": {
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Gabriele Nasello",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Nuria Lafuente-Gómez",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Leila Krajnovic",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "David T. Wu",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Mason T. Dacus",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Einat B. Vitner",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Shawn Kang",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Emily Roloson",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Giovanni Bovone",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Liesbet Geris",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "David J. Mooney",
-            "affiliations": [],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
-        ]
-      },
       "Europe PMC": {
         "authors": [
           {
@@ -3224,6 +3435,68 @@
         ],
         "publicationTypes": [
           "Journal Article"
+        ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Gabriele Nasello",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Nuria Lafuente-Gómez",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Leila Krajnovic",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "David T. Wu",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Mason T. Dacus",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Einat B. Vitner",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Shawn Kang",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Emily Roloson",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Giovanni Bovone",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Liesbet Geris",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "David J. Mooney",
+            "affiliations": [],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
         ]
       }
     },
