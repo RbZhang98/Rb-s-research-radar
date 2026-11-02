@@ -10,10 +10,12 @@
     "datePrecision": "day",
     "url": "https://doi.org/10.1111/clr.70197",
     "sources": [
-      "Crossref"
+      "Crossref",
+      "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1111/clr.70197"
+      "Crossref": "10.1111/clr.70197",
+      "Europe PMC": "42965484"
     },
     "onlineDate": "2026-10-31",
     "onlineDatePrecision": "day",
@@ -83,6 +85,8 @@
       }
     ],
     "publicationTypes": [
+      "IM",
+      "Journal Article",
       "journal-article"
     ],
     "metadataBySource": {
@@ -154,6 +158,77 @@
         ],
         "publicationTypes": [
           "journal-article"
+        ]
+      },
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Xi Y",
+            "affiliations": [
+              "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital, Zhejiang University School of Medicine, Hangzhou, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Qin X",
+            "affiliations": [
+              "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital, Zhejiang University School of Medicine, Hangzhou, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Wang Z",
+            "affiliations": [
+              "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital, Zhejiang University School of Medicine, Hangzhou, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Qu X",
+            "affiliations": [
+              "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital, Zhejiang University School of Medicine, Hangzhou, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Jiang Q",
+            "affiliations": [
+              "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital, Zhejiang University School of Medicine, Hangzhou, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Jin X",
+            "affiliations": [
+              "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital, Zhejiang University School of Medicine, Hangzhou, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Wang Y",
+            "affiliations": [
+              "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital, Zhejiang University School of Medicine, Hangzhou, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Lai K",
+            "affiliations": [
+              "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital, Zhejiang University School of Medicine, Hangzhou, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Yang G",
+            "affiliations": [
+              "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital, Zhejiang University School of Medicine, Hangzhou, China."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "IM",
+          "Journal Article"
         ]
       }
     },
