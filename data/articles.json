@@ -1,5 +1,161 @@
 [
   {
+    "id": "10.1093/jbmr/zjag153",
+    "doi": "10.1093/jbmr/zjag153",
+    "title": "Unraveling the Pathogenesis of Medication-Related Osteonecrosis of the Jaw",
+    "abstract": "Abstract Medication-related osteonecrosis of the jaw (MRONJ) is a serious complication associated with bone-modifying and antiangiogenic therapies. As the use of these agents expands in osteoporosis management and cancer care, the population at risk of MRONJ is increasing. Despite its substantial clinical burden, effective prevention and treatment remain limited by an incomplete understanding of its pathogenesis and of the biological features that may confer susceptibility to the jaws. This review critically synthesizes current evidence across five potentially interacting pathogenic domains: impaired bone remodeling, compromised vascular and lymphatic support, impaired oral soft-tissue healing, microbial dysbiosis and biofilm formation, and immune dysregulation. Systemic comorbidities and concomitant therapies are also considered as potential modifiers of disease susceptibility and clinical course. In addition, we examine jaw-specific susceptibility by integrating evidence from developmental biology, comparative anatomy, cellular pharmacology, and local osteoimmune biology. Together, these observations support a multifactorial model of MRONJ in which drug-specific effects interact with local tissue characteristics and host factors, while the temporal sequence and relative contribution of individual mechanisms remain incompletely defined. A more precise understanding of these interactions may improve risk stratification and inform future preventive and therapeutic strategies.",
+    "journal": "Journal of Bone and Mineral Research",
+    "journalId": "jbmr",
+    "date": "2026-11-02",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1093/jbmr/zjag153",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1093/jbmr/zjag153"
+    },
+    "onlineDate": "2026-11-02",
+    "onlineDatePrecision": "day",
+    "authors": [
+      {
+        "name": "Weidong Liu",
+        "affiliations": [
+          "Department of Prosthodontics, Shanghai Stomatological Hospital & School of Stomatology, Fudan University , Shanghai 201102 ,"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Chenghao Jiang",
+        "affiliations": [
+          "Department of Oral Implantology, the Affiliated Stomatological Hospital, State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University , Nanjing 210029 ,"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Yili Liu",
+        "affiliations": [
+          "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine , Shanghai 200011 ,"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Fei Jiang",
+        "affiliations": [
+          "Department of Oral Implantology, the Affiliated Stomatological Hospital, State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University , Nanjing 210029 ,"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Junjun Jing",
+        "affiliations": [
+          "State Key Laboratory of Oral Diseases, National Center for Stomatology, National Clinical Research Center for Oral Diseases, West China Hospital of Stomatology, Sichuan University , Chengdu 610041 ,"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Jiahui Du",
+        "affiliations": [
+          "Department of Prosthodontics, Shanghai Stomatological Hospital & School of Stomatology, Fudan University , Shanghai 201102 ,"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Xinquan Jiang",
+        "affiliations": [
+          "Department of Prosthodontics, Shanghai Stomatological Hospital & School of Stomatology, Fudan University , Shanghai 201102 ,"
+        ],
+        "source": "Crossref"
+      }
+    ],
+    "publicationTypes": [
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Weidong Liu",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Stomatological Hospital & School of Stomatology, Fudan University , Shanghai 201102 ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Chenghao Jiang",
+            "affiliations": [
+              "Department of Oral Implantology, the Affiliated Stomatological Hospital, State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University , Nanjing 210029 ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Yili Liu",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine , Shanghai 200011 ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Fei Jiang",
+            "affiliations": [
+              "Department of Oral Implantology, the Affiliated Stomatological Hospital, State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University , Nanjing 210029 ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Junjun Jing",
+            "affiliations": [
+              "State Key Laboratory of Oral Diseases, National Center for Stomatology, National Clinical Research Center for Oral Diseases, West China Hospital of Stomatology, Sichuan University , Chengdu 610041 ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jiahui Du",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Stomatological Hospital & School of Stomatology, Fudan University , Shanghai 201102 ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Xinquan Jiang",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Stomatological Hospital & School of Stomatology, Fudan University , Shanghai 201102 ,"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "grade": "A",
+    "score": 12,
+    "topics": [
+      "B 骨代谢与骨重塑",
+      "D 骨免疫与炎症微环境"
+    ],
+    "pending": false,
+    "evidence": {
+      "B 骨代谢与骨重塑": [
+        "bone remodeling",
+        "osteoporosis"
+      ],
+      "D 骨免疫与炎症微环境": [
+        "osteoimmun",
+        "immune"
+      ]
+    },
+    "reason": "规则命中：bone remodeling, osteoporosis；osteoimmun, immune；分级仅表示关键词证据，未经语义或人工验证。",
+    "rulesVersion": "2.0",
+    "inspirationScore": 0,
+    "transferMechanisms": [],
+    "evidenceScope": "直接领域词汇证据",
+    "firstSeenAt": "2026-11-03T00:44:08.731621+00:00",
+    "lastSeenAt": "2026-11-03T00:44:08.731621+00:00",
+    "discoveryKind": "new"
+  },
+  {
     "id": "10.1038/s41413-026-00590-w",
     "doi": "10.1038/s41413-026-00590-w",
     "title": "Metabolic reprogramming in macrophages: the central role of lipid metabolism in bone homeostasis.",
@@ -326,7 +482,7 @@
   {
     "id": "10.1016/j.celrep.2026.118240",
     "doi": "10.1016/j.celrep.2026.118240",
-    "title": "Pot1a maintains mesenchymal stem cell niche function to support hematopoietic stem cells",
+    "title": "Pot1a maintains mesenchymal stem cell niche function to support hematopoietic stem cells.",
     "abstract": "Hematopoietic stem cells (HSCs) maintain their function through interactions with niche cells in the bone marrow. We previously demonstrated that protection of telomeres 1a (Pot1a), a shelterin component, maintains HSCs and neuron-glial antigen 2-expressing (NG2+) mesenchymal stem cells (MSCs) by suppressing DNA damage response (DDR) and reactive oxygen species (ROS) production. However, the role of Pot1a in leptin receptor-expressing (LepR+) MSCs, a primary HSC niche component, remains unclear. LepR-specific Pot1a knockout mice showed decreased LepR+ MSC numbers, increased DDR and ROS production, reduced HSC quiescence, and impaired long-term hematopoietic reconstitution. In contrast, cell-permeable Pot1a enhanced the hematopoietic-supporting function of LepR+ MSCs. Pot1a deficiency reduced pleiotrophin (Ptn) expression, whereas Pot1a overexpression increased its expression. These findings suggest that Pot1a preserves LepR+ MSC function by limiting stress-associated changes, maintaining MSC numbers, and regulating hematopoietic-supportive factor expression, including PTN.",
     "journal": "Cell Reports",
     "journalId": "cell-reports",
@@ -338,8 +494,8 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1016/j.celrep.2026.118240",
-      "Europe PMC": "42965868"
+      "Europe PMC": "42965868",
+      "Crossref": "10.1016/j.celrep.2026.118240"
     },
     "onlineDate": null,
     "onlineDatePrecision": "partial",
@@ -393,43 +549,6 @@
       "journal-article"
     ],
     "metadataBySource": {
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Yuki Esaki",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Kentaro Hosokawa",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Hisayuki Yao",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Shunichi Adachi",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Yoshihiro Baba",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Fumio Arai",
-            "affiliations": [],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
-        ]
-      },
       "Europe PMC": {
         "authors": [
           {
@@ -478,6 +597,43 @@
         "publicationTypes": [
           "IM",
           "Journal Article"
+        ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Yuki Esaki",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Kentaro Hosokawa",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Hisayuki Yao",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Shunichi Adachi",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Yoshihiro Baba",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Fumio Arai",
+            "affiliations": [],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
         ]
       }
     },
