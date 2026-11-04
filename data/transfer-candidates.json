@@ -10,12 +10,10 @@
     "datePrecision": "day",
     "url": "https://doi.org/10.1177/00220345261489583",
     "sources": [
-      "Crossref",
       "Europe PMC"
     ],
     "sourceIds": {
-      "Europe PMC": "42925003",
-      "Crossref": "10.1177/00220345261489583"
+      "Europe PMC": "42925003"
     },
     "authors": [
       {
@@ -79,8 +77,7 @@
       }
     ],
     "publicationTypes": [
-      "Journal Article",
-      "journal-article"
+      "Journal Article"
     ],
     "metadataBySource": {
       "Europe PMC": {
@@ -148,76 +145,8 @@
         "publicationTypes": [
           "Journal Article"
         ]
-      },
-      "Crossref": {
-        "authors": [
-          {
-            "name": "L. Wang",
-            "affiliations": [
-              "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Z. Chen",
-            "affiliations": [
-              "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Y. Zhang",
-            "affiliations": [
-              "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "J. Wang",
-            "affiliations": [
-              "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "W. Li",
-            "affiliations": [
-              "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China",
-              "Department of Oral Radiology, School & Hospital of Stomatology, Wuhan University, Wuhan, China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "B. Li",
-            "affiliations": [
-              "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China",
-              "Department of Oral Radiology, School & Hospital of Stomatology, Wuhan University, Wuhan, China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Y. Cheng",
-            "affiliations": [
-              "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China",
-              "Department of Oral Radiology, School & Hospital of Stomatology, Wuhan University, Wuhan, China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Y. Ji",
-            "affiliations": [
-              "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China"
-            ],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
-        ]
       }
     },
-    "onlineDate": "2026-10-23",
-    "onlineDatePrecision": "day",
     "grade": "C",
     "score": 1,
     "topics": [
@@ -241,7 +170,7 @@
     ],
     "evidenceScope": "可能迁移的科学原理，未验证骨/牙周适用性",
     "firstSeenAt": "2026-10-24T00:29:34.080435+00:00",
-    "lastSeenAt": "2026-11-03T00:44:08.731621+00:00",
+    "lastSeenAt": "2026-11-04T00:42:20.726737+00:00",
     "discoveryKind": "historical-rediscovery",
     "temporary": true,
     "expiresAt": "2026-11-07T00:29:34.080435+00:00"
@@ -357,7 +286,7 @@
     ],
     "evidenceScope": "可能迁移的科学原理，未验证骨/牙周适用性",
     "firstSeenAt": "2026-10-22T00:26:16.630084+00:00",
-    "lastSeenAt": "2026-11-03T00:44:08.731621+00:00",
+    "lastSeenAt": "2026-11-04T00:42:20.726737+00:00",
     "discoveryKind": "historical-rediscovery",
     "temporary": true,
     "expiresAt": "2026-11-05T00:26:16.630084+00:00"
