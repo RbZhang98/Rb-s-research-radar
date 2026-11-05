@@ -1,5 +1,434 @@
 [
   {
+    "id": "10.1016/j.celrep.2026.118246",
+    "doi": "10.1016/j.celrep.2026.118246",
+    "title": "The YAP/TAZ-Tgfbr2-stiffness feedback loop governs divergent cell fates of muscle-resident mesenchymal progenitors",
+    "abstract": "Mesenchymal progenitors are essential for muscle regeneration, but also contribute to fat accumulation and fibrosis. Several extrinsic and intrinsic factors regulating adipogenic or fibrogenic differentiation of mesenchymal progenitors have been identified. However, it remains unclear how different cues are integrated to determine cell fate. Here, we demonstrate that interstitial stiffness and the mechanosensitive hippo pathway regulate mesenchymal progenitor cell fate. Fat accumulation model reduced interstitial stiffness and nuclear YAP/TAZ-positive mesenchymal progenitors compared with a regeneration model, whereas YAP/TAZ deficiency in mesenchymal progenitors enhanced fat deposition. Mechanistically, YAP/TAZ induced expression of the anti-adipogenic genes Aldh1a2 and Wnt5a, and the pro-fibrogenic gene Tgfbr2, which mediates TGF-β binding. Loss of Tgfbr2 in mesenchymal progenitors reduced transient collagen deposition, decreased stiffness, and increased fat accumulation during regeneration. We propose a stiffness-YAP/TAZ-Tgfbr2-collagen regulatory loop governing mesenchymal progenitor cell fate and highlight its importance for optimal muscle regeneration.",
+    "journal": "Cell Reports",
+    "journalId": "cell-reports",
+    "date": "2026-11-01",
+    "datePrecision": "month",
+    "url": "https://doi.org/10.1016/j.celrep.2026.118246",
+    "sources": [
+      "Crossref",
+      "Europe PMC"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1016/j.celrep.2026.118246",
+      "Europe PMC": "42981197"
+    },
+    "onlineDate": null,
+    "onlineDatePrecision": "partial",
+    "authors": [
+      {
+        "name": "Iwamori K",
+        "affiliations": [
+          "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Horikiri M",
+        "affiliations": [
+          "Department of Applied Physics, Graduate School of Engineering, The University of Osaka, Suita, Osaka, Japan."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Kubo A",
+        "affiliations": [
+          "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Tokiwa K",
+        "affiliations": [
+          "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Fukushima T",
+        "affiliations": [
+          "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Sakurai N",
+        "affiliations": [
+          "Department of Applied Physics, Graduate School of Engineering, The University of Osaka, Suita, Osaka, Japan."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Mori D",
+        "affiliations": [
+          "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Nakamura A",
+        "affiliations": [
+          "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Kimura M",
+        "affiliations": [
+          "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Taniguchi N",
+        "affiliations": [
+          "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Kurosawa T",
+        "affiliations": [
+          "Laboratory of Veterinary Pharmacology, Department of Veterinary Medical Sciences, Graduate School of Agriculture and Life Sciences, The University of Tokyo, Bunkyo-ku, Tokyo, Japan; Development Adaptation Ageing (Dev2A) Laboratory, Sorbonne Université, Institut Biologie Paris Seine, CNRS UMR8263, Inserm U1345, Paris, France."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Ikemoto-Uezumi M",
+        "affiliations": [
+          "Division of Cell Heterogeneity, Medical Institute of Bioregulation, Kyushu University, Higashi-ku, Fukuoka, Japan."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Zhang L",
+        "affiliations": [
+          "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Watanabe S",
+        "affiliations": [
+          "Department of Cardiac Development and Remodeling, Max Planck Institute for Heart and Lung Research, Bad Nauheim, Hessen, Germany."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Yoshikawa HY",
+        "affiliations": [
+          "Department of Applied Physics, Graduate School of Engineering, The University of Osaka, Suita, Osaka, Japan."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Braun T",
+        "affiliations": [
+          "Department of Cardiac Development and Remodeling, Max Planck Institute for Heart and Lung Research, Bad Nauheim, Hessen, Germany."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Uezumi A",
+        "affiliations": [
+          "Division of Cell Heterogeneity, Medical Institute of Bioregulation, Kyushu University, Higashi-ku, Fukuoka, Japan."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Matsuzaki T",
+        "affiliations": [
+          "Department of Applied Physics, Graduate School of Engineering, The University of Osaka, Suita, Osaka, Japan; Division of Precision Engineering and Applied Physics, Center for Future Innovation, Graduate School of Engineering, The University of Osaka, Suita, Osaka, Japan. Electronic address: matsuzaki@ap.eng.osaka-u.ac.jp."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Fukada SI",
+        "affiliations": [
+          "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan. Electronic address: fukada@phs.osaka-u.ac.jp."
+        ],
+        "source": "Europe PMC"
+      }
+    ],
+    "publicationTypes": [
+      "IM",
+      "Journal Article",
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Kanako Iwamori",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Momoka Horikiri",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Atsushi Kubo",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Kosuke Tokiwa",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Taku Fukushima",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Nanami Sakurai",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Daiki Mori",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Ayasa Nakamura",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Miyu Kimura",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Nana Taniguchi",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Tamaki Kurosawa",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Madoka Ikemoto-Uezumi",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Lidan Zhang",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Shuichi Watanabe",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Hiroshi Y. Yoshikawa",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Thomas Braun",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Akiyoshi Uezumi",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Takahisa Matsuzaki",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "So-ichiro Fukada",
+            "affiliations": [],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      },
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Iwamori K",
+            "affiliations": [
+              "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Horikiri M",
+            "affiliations": [
+              "Department of Applied Physics, Graduate School of Engineering, The University of Osaka, Suita, Osaka, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Kubo A",
+            "affiliations": [
+              "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Tokiwa K",
+            "affiliations": [
+              "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Fukushima T",
+            "affiliations": [
+              "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Sakurai N",
+            "affiliations": [
+              "Department of Applied Physics, Graduate School of Engineering, The University of Osaka, Suita, Osaka, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Mori D",
+            "affiliations": [
+              "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Nakamura A",
+            "affiliations": [
+              "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Kimura M",
+            "affiliations": [
+              "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Taniguchi N",
+            "affiliations": [
+              "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Kurosawa T",
+            "affiliations": [
+              "Laboratory of Veterinary Pharmacology, Department of Veterinary Medical Sciences, Graduate School of Agriculture and Life Sciences, The University of Tokyo, Bunkyo-ku, Tokyo, Japan; Development Adaptation Ageing (Dev2A) Laboratory, Sorbonne Université, Institut Biologie Paris Seine, CNRS UMR8263, Inserm U1345, Paris, France."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Ikemoto-Uezumi M",
+            "affiliations": [
+              "Division of Cell Heterogeneity, Medical Institute of Bioregulation, Kyushu University, Higashi-ku, Fukuoka, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Zhang L",
+            "affiliations": [
+              "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Watanabe S",
+            "affiliations": [
+              "Department of Cardiac Development and Remodeling, Max Planck Institute for Heart and Lung Research, Bad Nauheim, Hessen, Germany."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Yoshikawa HY",
+            "affiliations": [
+              "Department of Applied Physics, Graduate School of Engineering, The University of Osaka, Suita, Osaka, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Braun T",
+            "affiliations": [
+              "Department of Cardiac Development and Remodeling, Max Planck Institute for Heart and Lung Research, Bad Nauheim, Hessen, Germany."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Uezumi A",
+            "affiliations": [
+              "Division of Cell Heterogeneity, Medical Institute of Bioregulation, Kyushu University, Higashi-ku, Fukuoka, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Matsuzaki T",
+            "affiliations": [
+              "Department of Applied Physics, Graduate School of Engineering, The University of Osaka, Suita, Osaka, Japan; Division of Precision Engineering and Applied Physics, Center for Future Innovation, Graduate School of Engineering, The University of Osaka, Suita, Osaka, Japan. Electronic address: matsuzaki@ap.eng.osaka-u.ac.jp."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Fukada SI",
+            "affiliations": [
+              "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan. Electronic address: fukada@phs.osaka-u.ac.jp."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "IM",
+          "Journal Article"
+        ]
+      }
+    },
+    "grade": "C",
+    "score": 0,
+    "topics": [
+      "F 跨领域启发性发现"
+    ],
+    "pending": true,
+    "evidence": {
+      "F 跨领域启发性发现": [
+        "YAP/TAZ"
+      ]
+    },
+    "reason": "规则命中：YAP/TAZ；摘要缺失或仅有可迁移线索，待人工确认。",
+    "rulesVersion": "2.0",
+    "inspirationScore": 2,
+    "transferMechanisms": [
+      "YAP/TAZ"
+    ],
+    "evidenceScope": "可能迁移的科学原理，未验证骨/牙周适用性",
+    "firstSeenAt": "2026-11-05T00:47:47.886614+00:00",
+    "lastSeenAt": "2026-11-05T00:47:47.886614+00:00",
+    "discoveryKind": "new",
+    "temporary": true,
+    "expiresAt": "2026-11-19T00:47:47.886614+00:00"
+  },
+  {
     "id": "10.1177/00220345261489583",
     "doi": "10.1177/00220345261489583",
     "title": "Multi-Omics Reveals Nonlinear Trajectories and Subtypes in TMJ Disease.",
@@ -10,10 +439,12 @@
     "datePrecision": "day",
     "url": "https://doi.org/10.1177/00220345261489583",
     "sources": [
+      "Crossref",
       "Europe PMC"
     ],
     "sourceIds": {
-      "Europe PMC": "42925003"
+      "Europe PMC": "42925003",
+      "Crossref": "10.1177/00220345261489583"
     },
     "authors": [
       {
@@ -77,7 +508,8 @@
       }
     ],
     "publicationTypes": [
-      "Journal Article"
+      "Journal Article",
+      "journal-article"
     ],
     "metadataBySource": {
       "Europe PMC": {
@@ -145,8 +577,76 @@
         "publicationTypes": [
           "Journal Article"
         ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "L. Wang",
+            "affiliations": [
+              "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Z. Chen",
+            "affiliations": [
+              "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Y. Zhang",
+            "affiliations": [
+              "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "J. Wang",
+            "affiliations": [
+              "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "W. Li",
+            "affiliations": [
+              "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China",
+              "Department of Oral Radiology, School & Hospital of Stomatology, Wuhan University, Wuhan, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "B. Li",
+            "affiliations": [
+              "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China",
+              "Department of Oral Radiology, School & Hospital of Stomatology, Wuhan University, Wuhan, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Y. Cheng",
+            "affiliations": [
+              "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China",
+              "Department of Oral Radiology, School & Hospital of Stomatology, Wuhan University, Wuhan, China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Y. Ji",
+            "affiliations": [
+              "State Key Laboratory of Oral & Maxillofacial Reconstruction and Regeneration, Key Laboratory of Oral Biomedicine Ministry of Education, Hubei Key Laboratory of Stomatology, School & Hospital of Stomatology, Wuhan University, Wuhan, China"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
       }
     },
+    "onlineDate": "2026-10-23",
+    "onlineDatePrecision": "day",
     "grade": "C",
     "score": 1,
     "topics": [
@@ -170,125 +670,9 @@
     ],
     "evidenceScope": "可能迁移的科学原理，未验证骨/牙周适用性",
     "firstSeenAt": "2026-10-24T00:29:34.080435+00:00",
-    "lastSeenAt": "2026-11-04T00:42:20.726737+00:00",
+    "lastSeenAt": "2026-11-05T00:47:47.886614+00:00",
     "discoveryKind": "historical-rediscovery",
     "temporary": true,
     "expiresAt": "2026-11-07T00:29:34.080435+00:00"
-  },
-  {
-    "id": "10.1038/s41467-026-78845-7",
-    "doi": "10.1038/s41467-026-78845-7",
-    "title": "Chronic TFE3 activation in TFE3-associated neurodevelopmental disorder drives metabolic rigidity, lysosomal failure, and cell-extracellular matrix destabilization",
-    "abstract": "Abstract The transcription factor TFE3 coordinates cellular adaptation to stress. While its acute activation is cytoprotective, chronic TFE3 dysregulation is linked to diverse pathologies. Here, we characterize the cellular landscape of TFE3-NDD, a recently described neurodevelopmental disorder caused by mutations that disrupt the TFE3-Rag GTPase interface, leading to constitutive TFE3 nuclear localization. Using patient-derived fibroblasts, we show that TFE3-NDD is primarily a metabolic and homeostatic disorder. Mutant cells undergo a profound rewiring toward oxidative phosphorylation (OXPHOS), resulting in metabolic rigidity and a vulnerability to energy failure. Despite a massive expansion of the lysosomal compartment, we observe a paradoxical qualitative failure characterized by impaired acidification, defective protease maturation, increased lysosomal exocytosis, and aberrant cathepsin K secretion. This secretory phenotype is coupled with a destabilized cell-extracellular matrix interface, marked by impaired migration, defective coordination between actomyosin tension and focal adhesion maturation, and a loss of synaptic stabilizers. Notably, TFE3-NDD shares a signature of high OXPHOS and ferroptosis resistance with TFE3-dependent cancers, such as translocation renal cell carcinoma. Our findings reveal how the chronic hyperactivation of a protective stress-response factor collapses cellular homeostasis, providing a mechanistic framework for the tissue malformations and neurodevelopmental deficits that define TFE3-NDD.",
-    "journal": "Nature Communications",
-    "journalId": "nature-communications",
-    "date": "2026-10-21",
-    "datePrecision": "day",
-    "url": "https://doi.org/10.1038/s41467-026-78845-7",
-    "sources": [
-      "Crossref"
-    ],
-    "sourceIds": {
-      "Crossref": "10.1038/s41467-026-78845-7"
-    },
-    "onlineDate": "2026-10-21",
-    "onlineDatePrecision": "day",
-    "authors": [
-      {
-        "name": "José A. Martina",
-        "affiliations": [],
-        "source": "Crossref"
-      },
-      {
-        "name": "Akriti Prashar",
-        "affiliations": [],
-        "source": "Crossref"
-      },
-      {
-        "name": "Ana M. Pasapera",
-        "affiliations": [],
-        "source": "Crossref"
-      },
-      {
-        "name": "Katie Rollins",
-        "affiliations": [],
-        "source": "Crossref"
-      },
-      {
-        "name": "Eutteum Jeong",
-        "affiliations": [],
-        "source": "Crossref"
-      },
-      {
-        "name": "Rosa Puertollano",
-        "affiliations": [],
-        "source": "Crossref"
-      }
-    ],
-    "publicationTypes": [
-      "journal-article"
-    ],
-    "metadataBySource": {
-      "Crossref": {
-        "authors": [
-          {
-            "name": "José A. Martina",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Akriti Prashar",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Ana M. Pasapera",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Katie Rollins",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Eutteum Jeong",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Rosa Puertollano",
-            "affiliations": [],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
-        ]
-      }
-    },
-    "grade": "C",
-    "score": 0,
-    "topics": [
-      "F 跨领域启发性发现"
-    ],
-    "pending": true,
-    "evidence": {
-      "F 跨领域启发性发现": [
-        "focal adhesion"
-      ]
-    },
-    "reason": "规则命中：focal adhesion；摘要缺失或仅有可迁移线索，待人工确认。",
-    "rulesVersion": "2.0",
-    "inspirationScore": 2,
-    "transferMechanisms": [
-      "focal adhesion"
-    ],
-    "evidenceScope": "可能迁移的科学原理，未验证骨/牙周适用性",
-    "firstSeenAt": "2026-10-22T00:26:16.630084+00:00",
-    "lastSeenAt": "2026-11-04T00:42:20.726737+00:00",
-    "discoveryKind": "historical-rediscovery",
-    "temporary": true,
-    "expiresAt": "2026-11-05T00:26:16.630084+00:00"
   }
 ]

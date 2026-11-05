@@ -1,13 +1,13 @@
 {
-  "attemptAt": "2026-11-04T00:42:21.952370+00:00",
-  "lastSuccess": "2026-11-04T00:42:37.017181+00:00",
+  "attemptAt": "2026-11-05T00:47:49.173007+00:00",
+  "lastSuccess": "2026-11-05T00:47:52.881961+00:00",
   "fetchOk": true,
   "publication": "see-github-actions",
   "activated": true,
   "retainedCount": 22,
   "window": {
-    "start": "2026-10-21",
-    "end": "2026-11-04"
+    "start": "2026-10-22",
+    "end": "2026-11-05"
   },
   "newCount": 0,
   "newIds": [],
@@ -17,28 +17,28 @@
       "id": "cidrr",
       "name": "Clinical Implant Dentistry and Related Research",
       "ok": true,
-      "lastSuccess": "2026-11-04T00:42:37.017181+00:00",
+      "lastSuccess": "2026-11-05T00:47:52.881961+00:00",
       "sources": [
         {
           "journalId": "cidrr",
           "source": "Europe PMC",
           "ok": true,
           "count": 0,
-          "finishedAt": "2026-11-04T00:42:26.887613+00:00",
-          "seconds": 0.6,
+          "finishedAt": "2026-11-05T00:47:51.422265+00:00",
+          "seconds": 0.58,
           "rejected": 0,
-          "query": "(ISSN:1523-0899 OR ISSN:1708-8208) AND FIRST_PDATE:[2026-10-21 TO 2026-11-04]"
+          "query": "(ISSN:1523-0899 OR ISSN:1708-8208) AND FIRST_PDATE:[2026-10-22 TO 2026-11-05]"
         },
         {
           "journalId": "cidrr",
           "source": "Crossref",
           "ok": true,
           "count": 3,
-          "finishedAt": "2026-11-04T00:42:33.511719+00:00",
-          "seconds": 7.22,
+          "finishedAt": "2026-11-05T00:47:51.567177+00:00",
+          "seconds": 0.72,
           "rejected": 0,
           "unsupportedIssns": [],
-          "query": "ISSNs 1523-0899, 1708-8208, publication 2026-10-21..2026-11-04"
+          "query": "ISSNs 1523-0899, 1708-8208, publication 2026-10-22..2026-11-05"
         }
       ],
       "total": 3,
@@ -49,28 +49,28 @@
       "id": "coir",
       "name": "Clinical Oral Implants Research",
       "ok": true,
-      "lastSuccess": "2026-11-04T00:42:37.017181+00:00",
+      "lastSuccess": "2026-11-05T00:47:52.881961+00:00",
       "sources": [
         {
           "journalId": "coir",
           "source": "Europe PMC",
           "ok": true,
           "count": 7,
-          "finishedAt": "2026-11-04T00:42:27.047035+00:00",
-          "seconds": 0.76,
+          "finishedAt": "2026-11-05T00:47:51.755635+00:00",
+          "seconds": 0.91,
           "rejected": 0,
-          "query": "(ISSN:0905-7161 OR ISSN:1600-0501) AND FIRST_PDATE:[2026-10-21 TO 2026-11-04]"
+          "query": "(ISSN:0905-7161 OR ISSN:1600-0501) AND FIRST_PDATE:[2026-10-22 TO 2026-11-05]"
         },
         {
           "journalId": "coir",
           "source": "Crossref",
           "ok": true,
           "count": 7,
-          "finishedAt": "2026-11-04T00:42:34.627534+00:00",
-          "seconds": 8.34,
+          "finishedAt": "2026-11-05T00:47:52.881488+00:00",
+          "seconds": 2.04,
           "rejected": 0,
           "unsupportedIssns": [],
-          "query": "ISSNs 0905-7161, 1600-0501, publication 2026-10-21..2026-11-04"
+          "query": "ISSNs 0905-7161, 1600-0501, publication 2026-10-22..2026-11-05"
         }
       ],
       "total": 10,
@@ -81,28 +81,28 @@
       "id": "jcp",
       "name": "Journal of Clinical Periodontology",
       "ok": true,
-      "lastSuccess": "2026-11-04T00:42:37.017181+00:00",
+      "lastSuccess": "2026-11-05T00:47:52.881961+00:00",
       "sources": [
         {
           "journalId": "jcp",
           "source": "Europe PMC",
           "ok": true,
           "count": 7,
-          "finishedAt": "2026-11-04T00:42:26.889431+00:00",
+          "finishedAt": "2026-11-05T00:47:51.423737+00:00",
           "seconds": 0.0,
           "rejected": 0,
-          "query": "(ISSN:0303-6979 OR ISSN:1600-051X) AND FIRST_PDATE:[2026-10-21 TO 2026-11-04]"
+          "query": "(ISSN:0303-6979 OR ISSN:1600-051X) AND FIRST_PDATE:[2026-10-22 TO 2026-11-05]"
         },
         {
           "journalId": "jcp",
           "source": "Crossref",
           "ok": true,
           "count": 7,
-          "finishedAt": "2026-11-04T00:42:26.892730+00:00",
+          "finishedAt": "2026-11-05T00:47:51.427042+00:00",
           "seconds": 0.0,
           "rejected": 0,
           "unsupportedIssns": [],
-          "query": "ISSNs 0303-6979, 1600-051X, publication 2026-10-21..2026-11-04"
+          "query": "ISSNs 0303-6979, 1600-051X, publication 2026-10-22..2026-11-05"
         }
       ],
       "total": 8,
@@ -113,28 +113,28 @@
       "id": "p2000",
       "name": "Periodontology 2000",
       "ok": true,
-      "lastSuccess": "2026-11-04T00:42:37.017181+00:00",
+      "lastSuccess": "2026-11-05T00:47:52.881961+00:00",
       "sources": [
-        {
-          "journalId": "p2000",
-          "source": "Europe PMC",
-          "ok": true,
-          "count": 1,
-          "finishedAt": "2026-11-04T00:42:27.900057+00:00",
-          "seconds": 1.01,
-          "rejected": 0,
-          "query": "(ISSN:0906-6713 OR ISSN:1600-0757) AND FIRST_PDATE:[2026-10-21 TO 2026-11-04]"
-        },
         {
           "journalId": "p2000",
           "source": "Crossref",
           "ok": true,
           "count": 1,
-          "finishedAt": "2026-11-04T00:42:37.016637+00:00",
-          "seconds": 9.97,
+          "finishedAt": "2026-11-05T00:47:52.211511+00:00",
+          "seconds": 0.64,
           "rejected": 0,
           "unsupportedIssns": [],
-          "query": "ISSNs 0906-6713, 1600-0757, publication 2026-10-21..2026-11-04"
+          "query": "ISSNs 0906-6713, 1600-0757, publication 2026-10-22..2026-11-05"
+        },
+        {
+          "journalId": "p2000",
+          "source": "Europe PMC",
+          "ok": true,
+          "count": 1,
+          "finishedAt": "2026-11-05T00:47:52.412477+00:00",
+          "seconds": 0.99,
+          "rejected": 0,
+          "query": "(ISSN:0906-6713 OR ISSN:1600-0757) AND FIRST_PDATE:[2026-10-22 TO 2026-11-05]"
         }
       ],
       "total": 1,

@@ -3197,7 +3197,7 @@
   {
     "id": "10.1111/prd.70100",
     "doi": "10.1111/prd.70100",
-    "title": "Contemporary zygomatic implant rehabilitation: A critical review of the evidence and clinical recommendations.",
+    "title": "Contemporary zygomatic implant rehabilitation: A critical review of the evidence and clinical recommendations",
     "abstract": "Abstract Background Zygomatic implant (ZI) therapy has evolved over the past two decades into an established modality for the rehabilitation of the severely atrophic maxilla, avoiding extensive bone augmentation procedures. Aim While the efficacy of ZI therapy is well established, variability in its clinical implementation and remaining knowledge gaps continue to influence its application in clinical practice. Methods This critical review, based on a focused PubMed/MEDLINE search, synthesized higher‐level and long‐term evidence on surgical approaches, loading protocols, indications and outcomes, complications, prosthetic considerations, digital workflows, and current consensus recommendations. Results Current evidence demonstrates favorable long‐term survival across a broad range of ZI indications. The Quad Zygoma Protocol has further expanded graftless rehabilitation for the severely atrophic edentulous maxilla. Surgical approach selection should be guided by maxillozygomatic anatomy and prosthetically driven planning, while digital technologies have progressively shifted ZI surgery toward precision‐oriented workflows. Nevertheless, heterogeneous complication profiles, inconsistent definitions of treatment success, and limited reporting of patient‐reported and long‐term biological and prosthetic outcomes remain important limitations. Conclusions Contemporary ZI rehabilitation represents an established treatment modality for complex maxillary rehabilitation, with the current focus shifting from demonstrating efficacy toward improving treatment predictability and long‐term outcomes. Clinical Recommendations Appropriate case selection is fundamental to successful ZI rehabilitation. Surgical planning should integrate anatomical feasibility, implant emergence, and restorative design, while structured maintenance and patient compliance support long‐term success. Digital workflows can enhance surgical accuracy and reproducibility but require surgical experience and clinical judgment.",
     "journal": "Periodontology 2000",
     "journalId": "p2000",
@@ -3209,33 +3209,33 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Europe PMC": "42921991",
-      "Crossref": "10.1111/prd.70100"
+      "Crossref": "10.1111/prd.70100",
+      "Europe PMC": "42921991"
     },
     "onlineDate": "2026-10-22",
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "Fan S",
+        "name": "Shengchi Fan",
         "affiliations": [
-          "Oral Surgery and Implantology, Faculty of Medicine and Health Sciences, University of Barcelona, Barcelona, Spain.",
-          "Implants and Esthetic Restorative Dentistry, Faculty of Dentistry, Chulalongkorn University, Bangkok, Thailand."
+          "Oral Surgery and Implantology, Faculty of Medicine and Health Sciences University of Barcelona Barcelona Spain",
+          "Implants and Esthetic Restorative Dentistry, Faculty of Dentistry Chulalongkorn University Bangkok Thailand"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Albrektsson T",
+        "name": "Tomas Albrektsson",
         "affiliations": [
-          "Department of Biomaterials, University of Gothenburg, Gothenburg, Sweden."
+          "Department of Biomaterials University of Gothenburg Gothenburg Sweden"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Davó R",
+        "name": "Rubén Davó",
         "affiliations": [
-          "Department of Implantology and Maxillofacial Surgery, Vithas Davo Instituto Dental, Hospital Medimar Internacional, Alicante, Spain."
+          "Department of Implantology and Maxillofacial Surgery Vithas Davo Instituto Dental, Hospital Medimar Internacional Alicante Spain"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       }
     ],
     "publicationTypes": [
@@ -3244,6 +3244,35 @@
       "journal-article"
     ],
     "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Shengchi Fan",
+            "affiliations": [
+              "Oral Surgery and Implantology, Faculty of Medicine and Health Sciences University of Barcelona Barcelona Spain",
+              "Implants and Esthetic Restorative Dentistry, Faculty of Dentistry Chulalongkorn University Bangkok Thailand"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Tomas Albrektsson",
+            "affiliations": [
+              "Department of Biomaterials University of Gothenburg Gothenburg Sweden"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Rubén Davó",
+            "affiliations": [
+              "Department of Implantology and Maxillofacial Surgery Vithas Davo Instituto Dental, Hospital Medimar Internacional Alicante Spain"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      },
       "Europe PMC": {
         "authors": [
           {
@@ -3272,35 +3301,6 @@
         "publicationTypes": [
           "Review",
           "Journal Article"
-        ]
-      },
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Shengchi Fan",
-            "affiliations": [
-              "Oral Surgery and Implantology, Faculty of Medicine and Health Sciences University of Barcelona Barcelona Spain",
-              "Implants and Esthetic Restorative Dentistry, Faculty of Dentistry Chulalongkorn University Bangkok Thailand"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Tomas Albrektsson",
-            "affiliations": [
-              "Department of Biomaterials University of Gothenburg Gothenburg Sweden"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Rubén Davó",
-            "affiliations": [
-              "Department of Implantology and Maxillofacial Surgery Vithas Davo Instituto Dental, Hospital Medimar Internacional Alicante Spain"
-            ],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
         ]
       }
     },
