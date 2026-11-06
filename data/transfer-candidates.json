@@ -3,160 +3,118 @@
     "id": "10.1016/j.celrep.2026.118246",
     "doi": "10.1016/j.celrep.2026.118246",
     "title": "The YAP/TAZ-Tgfbr2-stiffness feedback loop governs divergent cell fates of muscle-resident mesenchymal progenitors",
-    "abstract": "Mesenchymal progenitors are essential for muscle regeneration, but also contribute to fat accumulation and fibrosis. Several extrinsic and intrinsic factors regulating adipogenic or fibrogenic differentiation of mesenchymal progenitors have been identified. However, it remains unclear how different cues are integrated to determine cell fate. Here, we demonstrate that interstitial stiffness and the mechanosensitive hippo pathway regulate mesenchymal progenitor cell fate. Fat accumulation model reduced interstitial stiffness and nuclear YAP/TAZ-positive mesenchymal progenitors compared with a regeneration model, whereas YAP/TAZ deficiency in mesenchymal progenitors enhanced fat deposition. Mechanistically, YAP/TAZ induced expression of the anti-adipogenic genes Aldh1a2 and Wnt5a, and the pro-fibrogenic gene Tgfbr2, which mediates TGF-β binding. Loss of Tgfbr2 in mesenchymal progenitors reduced transient collagen deposition, decreased stiffness, and increased fat accumulation during regeneration. We propose a stiffness-YAP/TAZ-Tgfbr2-collagen regulatory loop governing mesenchymal progenitor cell fate and highlight its importance for optimal muscle regeneration.",
+    "abstract": "",
     "journal": "Cell Reports",
     "journalId": "cell-reports",
     "date": "2026-11-01",
     "datePrecision": "month",
     "url": "https://doi.org/10.1016/j.celrep.2026.118246",
     "sources": [
-      "Crossref",
-      "Europe PMC"
+      "Crossref"
     ],
     "sourceIds": {
-      "Crossref": "10.1016/j.celrep.2026.118246",
-      "Europe PMC": "42981197"
+      "Crossref": "10.1016/j.celrep.2026.118246"
     },
     "onlineDate": null,
     "onlineDatePrecision": "partial",
     "authors": [
       {
-        "name": "Iwamori K",
-        "affiliations": [
-          "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
-        ],
-        "source": "Europe PMC"
+        "name": "Kanako Iwamori",
+        "affiliations": [],
+        "source": "Crossref"
       },
       {
-        "name": "Horikiri M",
-        "affiliations": [
-          "Department of Applied Physics, Graduate School of Engineering, The University of Osaka, Suita, Osaka, Japan."
-        ],
-        "source": "Europe PMC"
+        "name": "Momoka Horikiri",
+        "affiliations": [],
+        "source": "Crossref"
       },
       {
-        "name": "Kubo A",
-        "affiliations": [
-          "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
-        ],
-        "source": "Europe PMC"
+        "name": "Atsushi Kubo",
+        "affiliations": [],
+        "source": "Crossref"
       },
       {
-        "name": "Tokiwa K",
-        "affiliations": [
-          "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
-        ],
-        "source": "Europe PMC"
+        "name": "Kosuke Tokiwa",
+        "affiliations": [],
+        "source": "Crossref"
       },
       {
-        "name": "Fukushima T",
-        "affiliations": [
-          "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
-        ],
-        "source": "Europe PMC"
+        "name": "Taku Fukushima",
+        "affiliations": [],
+        "source": "Crossref"
       },
       {
-        "name": "Sakurai N",
-        "affiliations": [
-          "Department of Applied Physics, Graduate School of Engineering, The University of Osaka, Suita, Osaka, Japan."
-        ],
-        "source": "Europe PMC"
+        "name": "Nanami Sakurai",
+        "affiliations": [],
+        "source": "Crossref"
       },
       {
-        "name": "Mori D",
-        "affiliations": [
-          "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
-        ],
-        "source": "Europe PMC"
+        "name": "Daiki Mori",
+        "affiliations": [],
+        "source": "Crossref"
       },
       {
-        "name": "Nakamura A",
-        "affiliations": [
-          "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
-        ],
-        "source": "Europe PMC"
+        "name": "Ayasa Nakamura",
+        "affiliations": [],
+        "source": "Crossref"
       },
       {
-        "name": "Kimura M",
-        "affiliations": [
-          "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
-        ],
-        "source": "Europe PMC"
+        "name": "Miyu Kimura",
+        "affiliations": [],
+        "source": "Crossref"
       },
       {
-        "name": "Taniguchi N",
-        "affiliations": [
-          "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
-        ],
-        "source": "Europe PMC"
+        "name": "Nana Taniguchi",
+        "affiliations": [],
+        "source": "Crossref"
       },
       {
-        "name": "Kurosawa T",
-        "affiliations": [
-          "Laboratory of Veterinary Pharmacology, Department of Veterinary Medical Sciences, Graduate School of Agriculture and Life Sciences, The University of Tokyo, Bunkyo-ku, Tokyo, Japan; Development Adaptation Ageing (Dev2A) Laboratory, Sorbonne Université, Institut Biologie Paris Seine, CNRS UMR8263, Inserm U1345, Paris, France."
-        ],
-        "source": "Europe PMC"
+        "name": "Tamaki Kurosawa",
+        "affiliations": [],
+        "source": "Crossref"
       },
       {
-        "name": "Ikemoto-Uezumi M",
-        "affiliations": [
-          "Division of Cell Heterogeneity, Medical Institute of Bioregulation, Kyushu University, Higashi-ku, Fukuoka, Japan."
-        ],
-        "source": "Europe PMC"
+        "name": "Madoka Ikemoto-Uezumi",
+        "affiliations": [],
+        "source": "Crossref"
       },
       {
-        "name": "Zhang L",
-        "affiliations": [
-          "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
-        ],
-        "source": "Europe PMC"
+        "name": "Lidan Zhang",
+        "affiliations": [],
+        "source": "Crossref"
       },
       {
-        "name": "Watanabe S",
-        "affiliations": [
-          "Department of Cardiac Development and Remodeling, Max Planck Institute for Heart and Lung Research, Bad Nauheim, Hessen, Germany."
-        ],
-        "source": "Europe PMC"
+        "name": "Shuichi Watanabe",
+        "affiliations": [],
+        "source": "Crossref"
       },
       {
-        "name": "Yoshikawa HY",
-        "affiliations": [
-          "Department of Applied Physics, Graduate School of Engineering, The University of Osaka, Suita, Osaka, Japan."
-        ],
-        "source": "Europe PMC"
+        "name": "Hiroshi Y. Yoshikawa",
+        "affiliations": [],
+        "source": "Crossref"
       },
       {
-        "name": "Braun T",
-        "affiliations": [
-          "Department of Cardiac Development and Remodeling, Max Planck Institute for Heart and Lung Research, Bad Nauheim, Hessen, Germany."
-        ],
-        "source": "Europe PMC"
+        "name": "Thomas Braun",
+        "affiliations": [],
+        "source": "Crossref"
       },
       {
-        "name": "Uezumi A",
-        "affiliations": [
-          "Division of Cell Heterogeneity, Medical Institute of Bioregulation, Kyushu University, Higashi-ku, Fukuoka, Japan."
-        ],
-        "source": "Europe PMC"
+        "name": "Akiyoshi Uezumi",
+        "affiliations": [],
+        "source": "Crossref"
       },
       {
-        "name": "Matsuzaki T",
-        "affiliations": [
-          "Department of Applied Physics, Graduate School of Engineering, The University of Osaka, Suita, Osaka, Japan; Division of Precision Engineering and Applied Physics, Center for Future Innovation, Graduate School of Engineering, The University of Osaka, Suita, Osaka, Japan. Electronic address: matsuzaki@ap.eng.osaka-u.ac.jp."
-        ],
-        "source": "Europe PMC"
+        "name": "Takahisa Matsuzaki",
+        "affiliations": [],
+        "source": "Crossref"
       },
       {
-        "name": "Fukada SI",
-        "affiliations": [
-          "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan. Electronic address: fukada@phs.osaka-u.ac.jp."
-        ],
-        "source": "Europe PMC"
+        "name": "So-ichiro Fukada",
+        "affiliations": [],
+        "source": "Crossref"
       }
     ],
     "publicationTypes": [
-      "IM",
-      "Journal Article",
       "journal-article"
     ],
     "metadataBySource": {
@@ -261,147 +219,6 @@
         "publicationTypes": [
           "journal-article"
         ]
-      },
-      "Europe PMC": {
-        "authors": [
-          {
-            "name": "Iwamori K",
-            "affiliations": [
-              "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Horikiri M",
-            "affiliations": [
-              "Department of Applied Physics, Graduate School of Engineering, The University of Osaka, Suita, Osaka, Japan."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Kubo A",
-            "affiliations": [
-              "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Tokiwa K",
-            "affiliations": [
-              "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Fukushima T",
-            "affiliations": [
-              "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Sakurai N",
-            "affiliations": [
-              "Department of Applied Physics, Graduate School of Engineering, The University of Osaka, Suita, Osaka, Japan."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Mori D",
-            "affiliations": [
-              "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Nakamura A",
-            "affiliations": [
-              "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Kimura M",
-            "affiliations": [
-              "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Taniguchi N",
-            "affiliations": [
-              "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Kurosawa T",
-            "affiliations": [
-              "Laboratory of Veterinary Pharmacology, Department of Veterinary Medical Sciences, Graduate School of Agriculture and Life Sciences, The University of Tokyo, Bunkyo-ku, Tokyo, Japan; Development Adaptation Ageing (Dev2A) Laboratory, Sorbonne Université, Institut Biologie Paris Seine, CNRS UMR8263, Inserm U1345, Paris, France."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Ikemoto-Uezumi M",
-            "affiliations": [
-              "Division of Cell Heterogeneity, Medical Institute of Bioregulation, Kyushu University, Higashi-ku, Fukuoka, Japan."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Zhang L",
-            "affiliations": [
-              "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Watanabe S",
-            "affiliations": [
-              "Department of Cardiac Development and Remodeling, Max Planck Institute for Heart and Lung Research, Bad Nauheim, Hessen, Germany."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Yoshikawa HY",
-            "affiliations": [
-              "Department of Applied Physics, Graduate School of Engineering, The University of Osaka, Suita, Osaka, Japan."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Braun T",
-            "affiliations": [
-              "Department of Cardiac Development and Remodeling, Max Planck Institute for Heart and Lung Research, Bad Nauheim, Hessen, Germany."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Uezumi A",
-            "affiliations": [
-              "Division of Cell Heterogeneity, Medical Institute of Bioregulation, Kyushu University, Higashi-ku, Fukuoka, Japan."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Matsuzaki T",
-            "affiliations": [
-              "Department of Applied Physics, Graduate School of Engineering, The University of Osaka, Suita, Osaka, Japan; Division of Precision Engineering and Applied Physics, Center for Future Innovation, Graduate School of Engineering, The University of Osaka, Suita, Osaka, Japan. Electronic address: matsuzaki@ap.eng.osaka-u.ac.jp."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Fukada SI",
-            "affiliations": [
-              "Laboratory of Stem Cell Regeneration and Adaptation, Graduate School of Pharmaceutical Sciences, The University of Osaka, Suita, Osaka, Japan. Electronic address: fukada@phs.osaka-u.ac.jp."
-            ],
-            "source": "Europe PMC"
-          }
-        ],
-        "publicationTypes": [
-          "IM",
-          "Journal Article"
-        ]
       }
     },
     "grade": "C",
@@ -423,8 +240,8 @@
     ],
     "evidenceScope": "可能迁移的科学原理，未验证骨/牙周适用性",
     "firstSeenAt": "2026-11-05T00:47:47.886614+00:00",
-    "lastSeenAt": "2026-11-05T00:47:47.886614+00:00",
-    "discoveryKind": "new",
+    "lastSeenAt": "2026-11-06T00:46:18.590898+00:00",
+    "discoveryKind": "historical-rediscovery",
     "temporary": true,
     "expiresAt": "2026-11-19T00:47:47.886614+00:00"
   },
@@ -670,7 +487,7 @@
     ],
     "evidenceScope": "可能迁移的科学原理，未验证骨/牙周适用性",
     "firstSeenAt": "2026-10-24T00:29:34.080435+00:00",
-    "lastSeenAt": "2026-11-05T00:47:47.886614+00:00",
+    "lastSeenAt": "2026-11-06T00:46:18.590898+00:00",
     "discoveryKind": "historical-rediscovery",
     "temporary": true,
     "expiresAt": "2026-11-07T00:29:34.080435+00:00"

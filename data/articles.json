@@ -1,214 +1,251 @@
 [
   {
+    "id": "10.1177/00220345261495934",
+    "doi": "10.1177/00220345261495934",
+    "title": "Toward Sex-Specific Host Modulation Therapy for Periodontitis",
+    "abstract": "Periodontitis, a leading cause of tooth loss worldwide, arises from a dysregulated host immune response, and males consistently show higher prevalence and more severe disease than females. This disparity historically has been attributed to behavioral/environmental factors, but growing evidence indicates that biological sex, acting through hormonal signaling and sex chromosome–linked genetic mechanisms, independently shapes periodontal immune responses and subsequent bone resorption. In this review, we examine preclinical and clinical evidence on the impact of biological sex on host modulation therapies to prevent periodontitis. The IL-1β/inflammasome pathway and osteoclast differentiation via receptor activator of nuclear factor–κB ligand (RANKL)/osteoprotegerin (OPG) signaling both show clear sex-dependent regulation in experimental periodontitis, illustrating the biological complexity that single-target therapies must address in this heterogeneous condition. In a mouse model, inflammasome-mediated IL-1β signaling drives alveolar bone loss selectively in males, while females progress to comparable bone loss through IL-1β–independent mechanisms. IL-17 plays a dual role, driving inflammatory bone resorption while also supporting antimicrobial defense, and evidence points to this balance being sex dependent, with more severe effects observed in females when IL-17 signaling is disrupted. IL-6 is an established driver of periodontal bone loss, and although sex-specific data within periodontitis remain limited, sex-dependent anti–IL-6 receptor treatment responses have been observed in other inflammatory diseases that warrant further investigation. Complement-mediated immunity shows biological sex differences in humans and animal models, though whether these discrepancies directly influence periodontal disease progression needs to be determined. Resolvins and cyclooxygenase inhibitors also show sex-dependent effects outside the periodontal field. Collectively, this evidence positions biological sex as a tractable, currently underappreciated variable to improve host modulation strategies. Incorporating sex as a biological variable into preclinical and clinical periodontal research and ensuring sex-disaggregated data reporting offer a clear opportunity to develop precise, sex-informed nonsurgical therapeutics that better serve both male and female patients.",
+    "journal": "Journal of Dental Research",
+    "journalId": "jdr",
+    "date": "2026-11-05",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1177/00220345261495934",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1177/00220345261495934"
+    },
+    "onlineDate": "2026-11-05",
+    "onlineDatePrecision": "day",
+    "authors": [
+      {
+        "name": "D.N. Araujo Silva",
+        "affiliations": [
+          "Section of Periodontics, School of Dentistry, University of California, Los Angeles, CA, USA"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "V.L. Ribeiro",
+        "affiliations": [
+          "Department of Periodontology, Endodontics and Dental Hygiene, Adams School of Dentistry, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "K.V. Swanson",
+        "affiliations": [
+          "Division of Infectious Diseases, School of Medicine, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA",
+          "Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel Hill, NC, USA"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "F. Pirih",
+        "affiliations": [
+          "Section of Periodontics, School of Dentistry, University of California, Los Angeles, CA, USA"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "J.T. Marchesan",
+        "affiliations": [
+          "Department of Periodontology, Endodontics and Dental Hygiene, Adams School of Dentistry, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA"
+        ],
+        "source": "Crossref"
+      }
+    ],
+    "publicationTypes": [
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "D.N. Araujo Silva",
+            "affiliations": [
+              "Section of Periodontics, School of Dentistry, University of California, Los Angeles, CA, USA"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "V.L. Ribeiro",
+            "affiliations": [
+              "Department of Periodontology, Endodontics and Dental Hygiene, Adams School of Dentistry, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "K.V. Swanson",
+            "affiliations": [
+              "Division of Infectious Diseases, School of Medicine, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA",
+              "Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel Hill, NC, USA"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "F. Pirih",
+            "affiliations": [
+              "Section of Periodontics, School of Dentistry, University of California, Los Angeles, CA, USA"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "J.T. Marchesan",
+            "affiliations": [
+              "Department of Periodontology, Endodontics and Dental Hygiene, Adams School of Dentistry, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "grade": "A",
+    "score": 20,
+    "topics": [
+      "A 牙周炎与牙槽骨吸收",
+      "B 骨代谢与骨重塑",
+      "D 骨免疫与炎症微环境"
+    ],
+    "pending": false,
+    "evidence": {
+      "A 牙周炎与牙槽骨吸收": [
+        "periodontitis",
+        "alveolar bone loss",
+        "periodontal disease"
+      ],
+      "B 骨代谢与骨重塑": [
+        "osteoclast",
+        "bone resorption"
+      ],
+      "D 骨免疫与炎症微环境": [
+        "immune",
+        "inflamm"
+      ]
+    },
+    "reason": "规则命中：periodontitis, alveolar bone loss, periodontal disease；osteoclast, bone resorption；immune, inflamm；分级仅表示关键词证据，未经语义或人工验证。",
+    "rulesVersion": "2.0",
+    "inspirationScore": 0,
+    "transferMechanisms": [],
+    "evidenceScope": "直接领域词汇证据",
+    "firstSeenAt": "2026-11-06T00:46:18.590898+00:00",
+    "lastSeenAt": "2026-11-06T00:46:18.590898+00:00",
+    "discoveryKind": "new"
+  },
+  {
     "id": "10.1177/00220345261493921",
     "doi": "10.1177/00220345261493921",
-    "title": "Periodontitis-Associated Shifts in Bloodstream Infections among Allo-HSCT Recipients.",
-    "abstract": "This study aimed to investigate how periodontitis would alter bloodstream infections (BSIs) in patients undergoing allogeneic hematopoietic stem cell transplantation (allo-HSCT). We hypothesized that periodontitis would alter the microbiological profile of BSIs, particularly the relative prevalence of viridans group streptococci (VGS), common oral bacteria frequently implicated in BSIs in allo-HSCT recipients, and other non-VGS organisms. We further investigated whether these microbiological changes were associated with clinical outcomes and alterations in VGS-specific humoral immune responses. A retrospective cohort ( n = 489 patients, 2010-2020) and a prospective cohort ( n = 149 patients, 2021-2022) were included for this observational study recruited from Princess Margaret Cancer Centre. Patients were categorized based on pretransplant history of periodontitis. BSIs occurring during the hospitalization period and mortality up to 1,000 days posttransplant were compared between patients with and without periodontitis. Pretransplant serum samples from the prospective cohort were analyzed for VGS-specific IgG and IgA using flow cytometry. There was no difference in the rates of BSI between groups; however, in the retrospective cohort, patients with a history of periodontitis had a higher incidence of non-VGS BSIs (76.7% vs. 56.8%, P = 0.019). A similar, though nonsignificant, trend was observed in the prospective cohort (63.4% vs. 45.8%, P = 0.16). Notably, the shift toward non-VGS BSIs was stage-dependent, increasing with advanced periodontitis in both cohorts ( P = 0.009 and P = 0.025, respectively). Patients with periodontitis had almost double the risk of mortality compared to those without (retrospective: hazard ratio [HR] = 1.86; 95% confidence interval [CI] = 1.31-2.69; P P = 0.06). Elevated VGS-specific IgG and IgA levels were observed in patients with periodontitis, with lower IgG levels correlating with VGS BSIs. History of periodontitis was associated with differences in BSI microbiology, including a higher proportion of non-VGS BSIs among patients who developed BSIs, and with poorer survival outcomes in allo-HSCT recipients.",
+    "title": "Periodontitis-Associated Shifts in Bloodstream Infections among Allo-HSCT Recipients",
+    "abstract": "This study aimed to investigate how periodontitis would alter bloodstream infections (BSIs) in patients undergoing allogeneic hematopoietic stem cell transplantation (allo-HSCT). We hypothesized that periodontitis would alter the microbiological profile of BSIs, particularly the relative prevalence of viridans group streptococci (VGS), common oral bacteria frequently implicated in BSIs in allo-HSCT recipients, and other non-VGS organisms. We further investigated whether these microbiological changes were associated with clinical outcomes and alterations in VGS-specific humoral immune responses. A retrospective cohort ( n = 489 patients, 2010–2020) and a prospective cohort ( n = 149 patients, 2021–2022) were included for this observational study recruited from Princess Margaret Cancer Centre. Patients were categorized based on pretransplant history of periodontitis. BSIs occurring during the hospitalization period and mortality up to 1,000 days posttransplant were compared between patients with and without periodontitis. Pretransplant serum samples from the prospective cohort were analyzed for VGS-specific IgG and IgA using flow cytometry. There was no difference in the rates of BSI between groups; however, in the retrospective cohort, patients with a history of periodontitis had a higher incidence of non-VGS BSIs (76.7% vs. 56.8%, P = 0.019). A similar, though nonsignificant, trend was observed in the prospective cohort (63.4% vs. 45.8%, P = 0.16). Notably, the shift toward non-VGS BSIs was stage-dependent, increasing with advanced periodontitis in both cohorts ( P = 0.009 and P = 0.025, respectively). Patients with periodontitis had almost double the risk of mortality compared to those without (retrospective: hazard ratio [HR] = 1.86; 95% confidence interval [CI] = 1.31-2.69; P P = 0.06). Elevated VGS-specific IgG and IgA levels were observed in patients with periodontitis, with lower IgG levels correlating with VGS BSIs. History of periodontitis was associated with differences in BSI microbiology, including a higher proportion of non-VGS BSIs among patients who developed BSIs, and with poorer survival outcomes in allo-HSCT recipients.",
     "journal": "Journal of Dental Research",
     "journalId": "jdr",
     "date": "2026-11-03",
     "datePrecision": "day",
     "url": "https://doi.org/10.1177/00220345261493921",
     "sources": [
-      "Crossref",
-      "Europe PMC"
+      "Crossref"
     ],
     "sourceIds": {
-      "Europe PMC": "42978299",
       "Crossref": "10.1177/00220345261493921"
     },
     "authors": [
       {
-        "name": "Elebyary O",
+        "name": "O. Elebyary",
         "affiliations": [
-          "Faculty of Dentistry, University of Toronto, Toronto, ON, Canada.",
-          "Dental Oncology, Princess Margaret Cancer Centre, Toronto, ON, Canada."
+          "Faculty of Dentistry, University of Toronto, Toronto, ON, Canada",
+          "Dental Oncology, Princess Margaret Cancer Centre, Toronto, ON, Canada"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Liu R",
+        "name": "R. Liu",
         "affiliations": [
-          "Department of Medicine, Faculty of Medicine, University of Toronto, Toronto, ON, Canada."
+          "Department of Medicine, Faculty of Medicine, University of Toronto, Toronto, ON, Canada"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Lee J",
+        "name": "J. Lee",
         "affiliations": [
-          "Dental Oncology, Princess Margaret Cancer Centre, Toronto, ON, Canada."
+          "Dental Oncology, Princess Margaret Cancer Centre, Toronto, ON, Canada"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Dukuray M",
+        "name": "M. Dukuray",
         "affiliations": [
-          "Dental Oncology, Princess Margaret Cancer Centre, Toronto, ON, Canada."
+          "Dental Oncology, Princess Margaret Cancer Centre, Toronto, ON, Canada"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Tsang J",
+        "name": "J. Tsang",
         "affiliations": [
-          "Department of Immunology, Faculty of Medicine, University of Toronto, Toronto, ON, Canada."
+          "Department of Immunology, Faculty of Medicine, University of Toronto, Toronto, ON, Canada"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Sun C",
+        "name": "C. Sun",
         "affiliations": [
-          "Faculty of Dentistry, University of Toronto, Toronto, ON, Canada."
+          "Faculty of Dentistry, University of Toronto, Toronto, ON, Canada"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Mojdami D",
+        "name": "D. Mojdami",
         "affiliations": [
-          "Dental Oncology, Princess Margaret Cancer Centre, Toronto, ON, Canada."
+          "Dental Oncology, Princess Margaret Cancer Centre, Toronto, ON, Canada"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Bendayan Y",
+        "name": "Y. Bendayan",
         "affiliations": [
-          "Faculty of Dentistry, University of Toronto, Toronto, ON, Canada.",
-          "Dental Oncology, Princess Margaret Cancer Centre, Toronto, ON, Canada."
+          "Faculty of Dentistry, University of Toronto, Toronto, ON, Canada",
+          "Dental Oncology, Princess Margaret Cancer Centre, Toronto, ON, Canada"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Watson E",
+        "name": "E. Watson",
         "affiliations": [
-          "Faculty of Dentistry, University of Toronto, Toronto, ON, Canada.",
-          "Dental Oncology, Princess Margaret Cancer Centre, Toronto, ON, Canada."
+          "Faculty of Dentistry, University of Toronto, Toronto, ON, Canada",
+          "Dental Oncology, Princess Margaret Cancer Centre, Toronto, ON, Canada"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Lipton JH",
+        "name": "J.H. Lipton",
         "affiliations": [
-          "Division of Medical Oncology and Hematology, Princess Margaret Cancer Centre, University Health Network, Department of Medicine, University of Toronto, Toronto, ON, Canada."
+          "Division of Medical Oncology and Hematology, Princess Margaret Cancer Centre, University Health Network, Department of Medicine, University of Toronto, Toronto, ON, Canada"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Coburn B",
+        "name": "B. Coburn",
         "affiliations": [
-          "Department of Medicine, Faculty of Medicine, University of Toronto, Toronto, ON, Canada.",
-          "Toronto General Hospital Research Institute, University Health Network, Toronto, ON, Canada."
+          "Department of Medicine, Faculty of Medicine, University of Toronto, Toronto, ON, Canada",
+          "Toronto General Hospital Research Institute, University Health Network, Toronto, ON, Canada"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Glogauer M",
+        "name": "M. Glogauer",
         "affiliations": [
-          "Faculty of Dentistry, University of Toronto, Toronto, ON, Canada.",
-          "Dental Oncology, Princess Margaret Cancer Centre, Toronto, ON, Canada."
+          "Faculty of Dentistry, University of Toronto, Toronto, ON, Canada",
+          "Dental Oncology, Princess Margaret Cancer Centre, Toronto, ON, Canada"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       }
     ],
     "publicationTypes": [
-      "Journal Article",
       "journal-article"
     ],
     "metadataBySource": {
-      "Europe PMC": {
-        "authors": [
-          {
-            "name": "Elebyary O",
-            "affiliations": [
-              "Faculty of Dentistry, University of Toronto, Toronto, ON, Canada.",
-              "Dental Oncology, Princess Margaret Cancer Centre, Toronto, ON, Canada."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Liu R",
-            "affiliations": [
-              "Department of Medicine, Faculty of Medicine, University of Toronto, Toronto, ON, Canada."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Lee J",
-            "affiliations": [
-              "Dental Oncology, Princess Margaret Cancer Centre, Toronto, ON, Canada."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Dukuray M",
-            "affiliations": [
-              "Dental Oncology, Princess Margaret Cancer Centre, Toronto, ON, Canada."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Tsang J",
-            "affiliations": [
-              "Department of Immunology, Faculty of Medicine, University of Toronto, Toronto, ON, Canada."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Sun C",
-            "affiliations": [
-              "Faculty of Dentistry, University of Toronto, Toronto, ON, Canada."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Mojdami D",
-            "affiliations": [
-              "Dental Oncology, Princess Margaret Cancer Centre, Toronto, ON, Canada."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Bendayan Y",
-            "affiliations": [
-              "Faculty of Dentistry, University of Toronto, Toronto, ON, Canada.",
-              "Dental Oncology, Princess Margaret Cancer Centre, Toronto, ON, Canada."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Watson E",
-            "affiliations": [
-              "Faculty of Dentistry, University of Toronto, Toronto, ON, Canada.",
-              "Dental Oncology, Princess Margaret Cancer Centre, Toronto, ON, Canada."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Lipton JH",
-            "affiliations": [
-              "Division of Medical Oncology and Hematology, Princess Margaret Cancer Centre, University Health Network, Department of Medicine, University of Toronto, Toronto, ON, Canada."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Coburn B",
-            "affiliations": [
-              "Department of Medicine, Faculty of Medicine, University of Toronto, Toronto, ON, Canada.",
-              "Toronto General Hospital Research Institute, University Health Network, Toronto, ON, Canada."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Glogauer M",
-            "affiliations": [
-              "Faculty of Dentistry, University of Toronto, Toronto, ON, Canada.",
-              "Dental Oncology, Princess Margaret Cancer Centre, Toronto, ON, Canada."
-            ],
-            "source": "Europe PMC"
-          }
-        ],
-        "publicationTypes": [
-          "Journal Article"
-        ]
-      },
       "Crossref": {
         "authors": [
           {
@@ -339,7 +376,7 @@
   {
     "id": "10.1177/00220345261493495",
     "doi": "10.1177/00220345261493495",
-    "title": "Effects of Maternal Ligature-Induced Periodontitis on Brain in Offspring.",
+    "title": "Effects of Maternal Ligature-Induced Periodontitis on Brain in Offspring",
     "abstract": "The combined effects of chronic maternal periodontitis on offspring gut microbiome and brain outcomes remain unclear. This study aimed to evaluate the effects of maternal oral microbiome disruption on brain function and gut microbiome in offspring. Periodontitis was induced in 11- to 12-wk-old parous C57BL/6J mice by maintaining ligatures around both sides of the maxillary second molars for 4 wk, followed by breeding with naïve male mice. Maternal oral and gut microbiome, as well as the offspring gut microbiome, was analyzed by 16S rRNA gene sequencing. Male offspring were evaluated at 7 to 8 wk of age via a set of analyses, including behavioral tests, microbiome profiling, RNA sequencing, immunohistochemistry for glial cell populations, and in vivo calcium imaging. Cerebellar DNA methylation was assessed at embryonic day 18.5 to examine early epigenetic alterations. Maternal periodontitis significantly reduced microbial diversity in the maternal oral microbiome and altered the composition of the maternal gut microbiome. In offspring, α-diversity was reduced in the gut microbiome. Behavioral analyses revealed impaired social interaction and reduced spontaneous locomotion, while motor coordination and memory-related behaviors were preserved. RNA sequencing identified region-specific changes in gene expression, particularly in the cerebellum, highlighting its vulnerability to maternal inflammatory conditions. DNA methylation analysis revealed epigenetic alterations during the fetal stage, suggesting early programming effects. Immunohistochemical analysis demonstrated a significant increase in astrocyte density in the cerebellum and frontal cortex, whereas oligodendrocytes and microglia were unaffected. Furthermore, calcium imaging revealed disrupted neuronal synchrony among Purkinje cells without significant changes in individual neuronal activity parameters. Maternal oral microbiome disruption induces coordinated alterations in maternal and offspring microbiomes and leads to persistent neurobehavioral, molecular, and cellular changes in offspring. These findings provide new insights into the link between maternal oral health and offspring neurodevelopment, highlighting the potential role of microbiome-mediated mechanisms in shaping brain function.",
     "journal": "Journal of Dental Research",
     "journalId": "jdr",
@@ -347,179 +384,93 @@
     "datePrecision": "day",
     "url": "https://doi.org/10.1177/00220345261493495",
     "sources": [
-      "Crossref",
-      "Europe PMC"
+      "Crossref"
     ],
     "sourceIds": {
-      "Europe PMC": "42978330",
       "Crossref": "10.1177/00220345261493495"
     },
     "authors": [
       {
-        "name": "Imai C",
+        "name": "C. Imai",
         "affiliations": [
-          "Department of Oral Biology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan.",
-          "Department of Periodontology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan."
+          "Department of Oral Biology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan",
+          "Department of Periodontology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Ohsugi Y",
+        "name": "Y. Ohsugi",
         "affiliations": [
-          "Department of Oral Biology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan.",
-          "Section of Oral-Systemic Health, Oral Science Center, Institute of Biomedical Engineering, Institute of Science Tokyo, Tokyo, Japan.",
-          "Section of Vascular Cell Biology, Joslin Diabetes Center, Harvard Medical School, MA, USA."
+          "Department of Oral Biology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan",
+          "Section of Oral-Systemic Health, Oral Science Center, Institute of Biomedical Engineering, Institute of Science Tokyo, Tokyo, Japan",
+          "Section of Vascular Cell Biology, Joslin Diabetes Center, Harvard Medical School, MA, USA"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Lin P",
+        "name": "P. Lin",
         "affiliations": [
-          "Department of Oral Biology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan.",
-          "Section of Oral-Systemic Health, Oral Science Center, Institute of Biomedical Engineering, Institute of Science Tokyo, Tokyo, Japan."
+          "Department of Oral Biology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan",
+          "Section of Oral-Systemic Health, Oral Science Center, Institute of Biomedical Engineering, Institute of Science Tokyo, Tokyo, Japan"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Toyoshima K",
+        "name": "K. Toyoshima",
         "affiliations": [
-          "Department of General Dentistry, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan."
+          "Department of General Dentistry, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Hirota T",
+        "name": "T. Hirota",
         "affiliations": [
-          "Division of Molecular Genetics, Research Center for Medical Science, The Jikei University School of Medicine, Tokyo, Japan."
+          "Division of Molecular Genetics, Research Center for Medical Science, The Jikei University School of Medicine, Tokyo, Japan"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Sekiguchi M",
+        "name": "M. Sekiguchi",
         "affiliations": [
-          "Department of Cognitive Neurobiology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan."
+          "Department of Cognitive Neurobiology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Shiba T",
+        "name": "T. Shiba",
         "affiliations": [
-          "Department of Periodontology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan."
+          "Department of Periodontology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Iwata T",
+        "name": "T. Iwata",
         "affiliations": [
-          "Department of Periodontology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan."
+          "Department of Periodontology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Uesaka N",
+        "name": "N. Uesaka",
         "affiliations": [
-          "Department of Cognitive Neurobiology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan."
+          "Department of Cognitive Neurobiology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Katagiri S",
+        "name": "S. Katagiri",
         "affiliations": [
-          "Department of Oral Biology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan.",
-          "Section of Oral-Systemic Health, Oral Science Center, Institute of Biomedical Engineering, Institute of Science Tokyo, Tokyo, Japan.",
-          "Section of Vascular Cell Biology, Joslin Diabetes Center, Harvard Medical School, MA, USA."
+          "Department of Oral Biology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan",
+          "Section of Oral-Systemic Health, Oral Science Center, Institute of Biomedical Engineering, Institute of Science Tokyo, Tokyo, Japan",
+          "Section of Vascular Cell Biology, Joslin Diabetes Center, Harvard Medical School, MA, USA"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       }
     ],
     "publicationTypes": [
-      "Journal Article",
       "journal-article"
     ],
     "metadataBySource": {
-      "Europe PMC": {
-        "authors": [
-          {
-            "name": "Imai C",
-            "affiliations": [
-              "Department of Oral Biology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan.",
-              "Department of Periodontology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Ohsugi Y",
-            "affiliations": [
-              "Department of Oral Biology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan.",
-              "Section of Oral-Systemic Health, Oral Science Center, Institute of Biomedical Engineering, Institute of Science Tokyo, Tokyo, Japan.",
-              "Section of Vascular Cell Biology, Joslin Diabetes Center, Harvard Medical School, MA, USA."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Lin P",
-            "affiliations": [
-              "Department of Oral Biology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan.",
-              "Section of Oral-Systemic Health, Oral Science Center, Institute of Biomedical Engineering, Institute of Science Tokyo, Tokyo, Japan."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Toyoshima K",
-            "affiliations": [
-              "Department of General Dentistry, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Hirota T",
-            "affiliations": [
-              "Division of Molecular Genetics, Research Center for Medical Science, The Jikei University School of Medicine, Tokyo, Japan."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Sekiguchi M",
-            "affiliations": [
-              "Department of Cognitive Neurobiology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Shiba T",
-            "affiliations": [
-              "Department of Periodontology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Iwata T",
-            "affiliations": [
-              "Department of Periodontology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Uesaka N",
-            "affiliations": [
-              "Department of Cognitive Neurobiology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Katagiri S",
-            "affiliations": [
-              "Department of Oral Biology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan.",
-              "Section of Oral-Systemic Health, Oral Science Center, Institute of Biomedical Engineering, Institute of Science Tokyo, Tokyo, Japan.",
-              "Section of Vascular Cell Biology, Joslin Diabetes Center, Harvard Medical School, MA, USA."
-            ],
-            "source": "Europe PMC"
-          }
-        ],
-        "publicationTypes": [
-          "Journal Article"
-        ]
-      },
       "Crossref": {
         "authors": [
           {
@@ -633,107 +584,60 @@
   {
     "id": "10.1177/00220345261489570",
     "doi": "10.1177/00220345261489570",
-    "title": "Metabolic Memory in Oral Inflammation.",
-    "abstract": "The global rise in metabolic diseases has increased the severity and therapeutic complexity of oral inflammatory disorders. Persistent inflammation driven by metabolic memory presents a central pathological mechanism. Even after metabolic parameters are normalized, abnormal gene expression can persist, leading to prolonged disease progression and recurrent episodes. In the oral cavity, metabolic memory is most clearly evident in periodontitis and impaired wound healing, where sustained immune dysregulation and tissue destruction remain after hyperglycemia or hyperlipidemia has been corrected. Epigenetic reprogramming presents a key molecular mechanism of metabolic memory, including DNA methylation, histone modifications, and expression of noncoding RNAs. The epigenetic alterations collectively reprogram immune cell function, driving the dysregulation of innate and adaptive immunity while influencing the fate of oral stromal cells and epithelial cells. Prolonged inflammation contributes to an altered host-microbiota interaction, reinforcing disease persistence and treatment resistance. Metabolic disorders induce coordinated epigenetic changes that can be grouped into permissive and repressive events affecting gene transcription. Permissive events include increased histone acetylation, enrichment of activating histone methylation marks (e.g., H3K4me3), and DNA demethylation at inflammatory gene loci. These modifications promote an open chromatin structure to enhance transcription factor access. Repressive events include increased DNA methylation and enrichment of repressive histone methylation marks (e.g., H3K9me3). DNA methylation typically occurs in promoter regions of genes, and repressive histone changes lead to the formation of compact chromatin, both of which reduce transcriptional activity. Noncoding RNAs generally decrease target messenger RNA stability or inhibit translation further, reinforcing a repressive effect. The combined effect of these modifications is a shift in protein expression that reinforces chronic inflammatory signaling in abnormal metabolic conditions. This review comprehensively summarizes the epigenetic mechanisms by which metabolic memory sustains oral inflammation at molecular, cellular, and tissue levels, as well as potential preventive and therapeutic interventions.",
+    "title": "Metabolic Memory in Oral Inflammation",
+    "abstract": "The global rise in metabolic diseases has increased the severity and therapeutic complexity of oral inflammatory disorders. Persistent inflammation driven by metabolic memory presents a central pathological mechanism. Even after metabolic parameters are normalized, abnormal gene expression can persist, leading to prolonged disease progression and recurrent episodes. In the oral cavity, metabolic memory is most clearly evident in periodontitis and impaired wound healing, where sustained immune dysregulation and tissue destruction remain after hyperglycemia or hyperlipidemia has been corrected. Epigenetic reprogramming presents a key molecular mechanism of metabolic memory, including DNA methylation, histone modifications, and expression of noncoding RNAs. The epigenetic alterations collectively reprogram immune cell function, driving the dysregulation of innate and adaptive immunity while influencing the fate of oral stromal cells and epithelial cells. Prolonged inflammation contributes to an altered host–microbiota interaction, reinforcing disease persistence and treatment resistance. Metabolic disorders induce coordinated epigenetic changes that can be grouped into permissive and repressive events affecting gene transcription. Permissive events include increased histone acetylation, enrichment of activating histone methylation marks (e.g., H3K4me3), and DNA demethylation at inflammatory gene loci. These modifications promote an open chromatin structure to enhance transcription factor access. Repressive events include increased DNA methylation and enrichment of repressive histone methylation marks (e.g., H3K9me3). DNA methylation typically occurs in promoter regions of genes, and repressive histone changes lead to the formation of compact chromatin, both of which reduce transcriptional activity. Noncoding RNAs generally decrease target messenger RNA stability or inhibit translation further, reinforcing a repressive effect. The combined effect of these modifications is a shift in protein expression that reinforces chronic inflammatory signaling in abnormal metabolic conditions. This review comprehensively summarizes the epigenetic mechanisms by which metabolic memory sustains oral inflammation at molecular, cellular, and tissue levels, as well as potential preventive and therapeutic interventions.",
     "journal": "Journal of Dental Research",
     "journalId": "jdr",
     "date": "2026-11-03",
     "datePrecision": "day",
     "url": "https://doi.org/10.1177/00220345261489570",
     "sources": [
-      "Crossref",
-      "Europe PMC"
+      "Crossref"
     ],
     "sourceIds": {
-      "Europe PMC": "42978263",
       "Crossref": "10.1177/00220345261489570"
     },
     "authors": [
       {
-        "name": "Liu R",
+        "name": "R. Liu",
         "affiliations": [
-          "State Key Laboratory of Oral Diseases & National Center for Stomatology & National Clinical Research Center for Oral Diseases, West China Hospital of Stomatology, Sichuan University, Chengdu, China."
+          "State Key Laboratory of Oral Diseases & National Center for Stomatology & National Clinical Research Center for Oral Diseases, West China Hospital of Stomatology, Sichuan University, Chengdu, China"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Cui A",
+        "name": "A. Cui",
         "affiliations": [
-          "State Key Laboratory of Oral Diseases & National Center for Stomatology & National Clinical Research Center for Oral Diseases, West China Hospital of Stomatology, Sichuan University, Chengdu, China."
+          "State Key Laboratory of Oral Diseases & National Center for Stomatology & National Clinical Research Center for Oral Diseases, West China Hospital of Stomatology, Sichuan University, Chengdu, China"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Dong H",
+        "name": "H. Dong",
         "affiliations": [
-          "State Key Laboratory of Oral Diseases & National Center for Stomatology & National Clinical Research Center for Oral Diseases, West China Hospital of Stomatology, Sichuan University, Chengdu, China."
+          "State Key Laboratory of Oral Diseases & National Center for Stomatology & National Clinical Research Center for Oral Diseases, West China Hospital of Stomatology, Sichuan University, Chengdu, China"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Graves DT",
+        "name": "D.T. Graves",
         "affiliations": [
-          "Department of Periodontics, School of Dental Medicine, University of Pennsylvania, Philadelphia, PA, USA."
+          "Department of Periodontics, School of Dental Medicine, University of Pennsylvania, Philadelphia, PA, USA"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       },
       {
-        "name": "Wang Q",
+        "name": "Q. Wang",
         "affiliations": [
-          "State Key Laboratory of Oral Diseases & National Center for Stomatology & National Clinical Research Center for Oral Diseases, West China Hospital of Stomatology, Sichuan University, Chengdu, China."
+          "State Key Laboratory of Oral Diseases & National Center for Stomatology & National Clinical Research Center for Oral Diseases, West China Hospital of Stomatology, Sichuan University, Chengdu, China"
         ],
-        "source": "Europe PMC"
+        "source": "Crossref"
       }
     ],
     "publicationTypes": [
-      "Journal Article",
-      "Review",
       "journal-article"
     ],
     "metadataBySource": {
-      "Europe PMC": {
-        "authors": [
-          {
-            "name": "Liu R",
-            "affiliations": [
-              "State Key Laboratory of Oral Diseases & National Center for Stomatology & National Clinical Research Center for Oral Diseases, West China Hospital of Stomatology, Sichuan University, Chengdu, China."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Cui A",
-            "affiliations": [
-              "State Key Laboratory of Oral Diseases & National Center for Stomatology & National Clinical Research Center for Oral Diseases, West China Hospital of Stomatology, Sichuan University, Chengdu, China."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Dong H",
-            "affiliations": [
-              "State Key Laboratory of Oral Diseases & National Center for Stomatology & National Clinical Research Center for Oral Diseases, West China Hospital of Stomatology, Sichuan University, Chengdu, China."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Graves DT",
-            "affiliations": [
-              "Department of Periodontics, School of Dental Medicine, University of Pennsylvania, Philadelphia, PA, USA."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Wang Q",
-            "affiliations": [
-              "State Key Laboratory of Oral Diseases & National Center for Stomatology & National Clinical Research Center for Oral Diseases, West China Hospital of Stomatology, Sichuan University, Chengdu, China."
-            ],
-            "source": "Europe PMC"
-          }
-        ],
-        "publicationTypes": [
-          "Review",
-          "Journal Article"
-        ]
-      },
       "Crossref": {
         "authors": [
           {
@@ -1023,69 +927,53 @@
     "id": "10.1016/j.celrep.2026.118242",
     "doi": "10.1016/j.celrep.2026.118242",
     "title": "Plagl2 reprograms adult mouse retinal Müller glia for proliferation and injury-enhanced neurogenic competence",
-    "abstract": "Müller glia (MG) in the adult mammalian retina have long been recognized as a potential endogenous source for the regeneration of lost retinal neurons. However, existing MG reprogramming strategies yield an incomplete regenerative response by favoring either proliferation or neurogenic differentiation. Here, we show that the zinc-finger transcription factor gene Plagl2, previously shown to reactivate quiescent neural stem cells, is sufficient to reprogram adult mouse MG into a progenitor-like state with coupled proliferative and neurogenic competence. Using histology, time-lapse imaging, and single-cell transcriptomics, we find that Plagl2 drives regulated rounds of MG cell cycle re-entry, while N-methyl-D-aspartate-induced retinal injury further promotes the acquisition of neurogenic competence biased toward inner nuclear layer neuronal identities. These findings indicate that Plagl2 regulates mammalian MG reprogramming, and supports a broader approach to tissue regeneration through the adaptation of reprogramming modules across distinct cell types.",
+    "abstract": "",
     "journal": "Cell Reports",
     "journalId": "cell-reports",
     "date": "2026-11-01",
     "datePrecision": "month",
     "url": "https://doi.org/10.1016/j.celrep.2026.118242",
     "sources": [
-      "Crossref",
-      "Europe PMC"
+      "Crossref"
     ],
     "sourceIds": {
-      "Crossref": "10.1016/j.celrep.2026.118242",
-      "Europe PMC": "42981189"
+      "Crossref": "10.1016/j.celrep.2026.118242"
     },
     "onlineDate": null,
     "onlineDatePrecision": "partial",
     "authors": [
       {
-        "name": "Masaki T",
-        "affiliations": [
-          "Laboratory for Neural Stem Cell Research, RIKEN Center for Biosystems Dynamics Research, Hyogo 650-0047, Japan; Graduate School of Medicine, Kyoto University, Kyoto 606-8501, Japan."
-        ],
-        "source": "Europe PMC"
+        "name": "Taimu Masaki",
+        "affiliations": [],
+        "source": "Crossref"
       },
       {
-        "name": "Watanabe M",
-        "affiliations": [
-          "Research Center, Kobe City Eye Hospital, Hyogo 650-0047, Japan; Cell and Gene Therapy in Ophthalmology Laboratory, RIKEN Baton Zone Program, Saitama 351-0198, Japan."
-        ],
-        "source": "Europe PMC"
+        "name": "Mikiya Watanabe",
+        "affiliations": [],
+        "source": "Crossref"
       },
       {
-        "name": "Mandai M",
-        "affiliations": [
-          "Research Center, Kobe City Eye Hospital, Hyogo 650-0047, Japan; Laboratory for Animal Resources and Genetic Engineering, RIKEN Center for Biosystems Dynamics Research, Hyogo 650-0047, Japan; Research Organization of Science and Technology, Ritsumeikan University, Shiga 525-8577, Japan."
-        ],
-        "source": "Europe PMC"
+        "name": "Michiko Mandai",
+        "affiliations": [],
+        "source": "Crossref"
       },
       {
-        "name": "Kihara M",
-        "affiliations": [
-          "Laboratory for Animal Resources and Genetic Engineering, RIKEN Center for Biosystems Dynamics Research, Hyogo 650-0047, Japan."
-        ],
-        "source": "Europe PMC"
+        "name": "Miho Kihara",
+        "affiliations": [],
+        "source": "Crossref"
       },
       {
-        "name": "Abe T",
-        "affiliations": [
-          "Laboratory for Animal Resources and Genetic Engineering, RIKEN Center for Biosystems Dynamics Research, Hyogo 650-0047, Japan."
-        ],
-        "source": "Europe PMC"
+        "name": "Takaya Abe",
+        "affiliations": [],
+        "source": "Crossref"
       },
       {
-        "name": "Kageyama R",
-        "affiliations": [
-          "Laboratory for Neural Stem Cell Research, RIKEN Center for Biosystems Dynamics Research, Hyogo 650-0047, Japan; Graduate School of Medicine, Kyoto University, Kyoto 606-8501, Japan. Electronic address: ryoichiro.kageyama@riken.jp."
-        ],
-        "source": "Europe PMC"
+        "name": "Ryoichiro Kageyama",
+        "affiliations": [],
+        "source": "Crossref"
       }
     ],
     "publicationTypes": [
-      "IM",
-      "Journal Article",
       "journal-article"
     ],
     "metadataBySource": {
@@ -1125,72 +1013,14 @@
         "publicationTypes": [
           "journal-article"
         ]
-      },
-      "Europe PMC": {
-        "authors": [
-          {
-            "name": "Masaki T",
-            "affiliations": [
-              "Laboratory for Neural Stem Cell Research, RIKEN Center for Biosystems Dynamics Research, Hyogo 650-0047, Japan; Graduate School of Medicine, Kyoto University, Kyoto 606-8501, Japan."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Watanabe M",
-            "affiliations": [
-              "Research Center, Kobe City Eye Hospital, Hyogo 650-0047, Japan; Cell and Gene Therapy in Ophthalmology Laboratory, RIKEN Baton Zone Program, Saitama 351-0198, Japan."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Mandai M",
-            "affiliations": [
-              "Research Center, Kobe City Eye Hospital, Hyogo 650-0047, Japan; Laboratory for Animal Resources and Genetic Engineering, RIKEN Center for Biosystems Dynamics Research, Hyogo 650-0047, Japan; Research Organization of Science and Technology, Ritsumeikan University, Shiga 525-8577, Japan."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Kihara M",
-            "affiliations": [
-              "Laboratory for Animal Resources and Genetic Engineering, RIKEN Center for Biosystems Dynamics Research, Hyogo 650-0047, Japan."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Abe T",
-            "affiliations": [
-              "Laboratory for Animal Resources and Genetic Engineering, RIKEN Center for Biosystems Dynamics Research, Hyogo 650-0047, Japan."
-            ],
-            "source": "Europe PMC"
-          },
-          {
-            "name": "Kageyama R",
-            "affiliations": [
-              "Laboratory for Neural Stem Cell Research, RIKEN Center for Biosystems Dynamics Research, Hyogo 650-0047, Japan; Graduate School of Medicine, Kyoto University, Kyoto 606-8501, Japan. Electronic address: ryoichiro.kageyama@riken.jp."
-            ],
-            "source": "Europe PMC"
-          }
-        ],
-        "publicationTypes": [
-          "IM",
-          "Journal Article"
-        ]
       }
     },
-    "grade": "B",
-    "score": 3,
-    "topics": [
-      "E 可迁移基础发现与技术"
-    ],
+    "grade": "C",
+    "score": 0,
+    "topics": [],
     "pending": true,
-    "evidence": {
-      "E 可迁移基础发现与技术": [
-        "stem cell",
-        "tissue regeneration",
-        "single-cell"
-      ]
-    },
-    "reason": "规则命中：stem cell, tissue regeneration, single-cell；摘要缺失或仅有可迁移线索，待人工确认。",
+    "evidence": {},
+    "reason": "未发现明确的目标领域词汇，作为低相关元数据归档。；摘要缺失或仅有可迁移线索，待人工确认。",
     "rulesVersion": "2.0",
     "inspirationScore": 0,
     "transferMechanisms": [],
@@ -1526,7 +1356,7 @@
   {
     "id": "10.1016/j.celrep.2026.118240",
     "doi": "10.1016/j.celrep.2026.118240",
-    "title": "Pot1a maintains mesenchymal stem cell niche function to support hematopoietic stem cells",
+    "title": "Pot1a maintains mesenchymal stem cell niche function to support hematopoietic stem cells.",
     "abstract": "Hematopoietic stem cells (HSCs) maintain their function through interactions with niche cells in the bone marrow. We previously demonstrated that protection of telomeres 1a (Pot1a), a shelterin component, maintains HSCs and neuron-glial antigen 2-expressing (NG2 + ) mesenchymal stem cells (MSCs) by suppressing DNA damage response (DDR) and reactive oxygen species (ROS) production. However, the role of Pot1a in leptin receptor-expressing (LepR + ) MSCs, a primary HSC niche component, remains unclear. LepR-specific Pot1a knockout mice showed decreased LepR + MSC numbers, increased DDR and ROS production, reduced HSC quiescence, and impaired long-term hematopoietic reconstitution. In contrast, cell-permeable Pot1a enhanced the hematopoietic-supporting function of LepR + MSCs. Pot1a deficiency reduced pleiotrophin (Ptn) expression, whereas Pot1a overexpression increased its expression. These findings suggest that Pot1a preserves LepR + MSC function by limiting stress-associated changes, maintaining MSC numbers, and regulating hematopoietic-supportive factor expression, including PTN.",
     "journal": "Cell Reports",
     "journalId": "cell-reports",
@@ -1538,8 +1368,8 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1016/j.celrep.2026.118240",
-      "Europe PMC": "42965868"
+      "Europe PMC": "42965868",
+      "Crossref": "10.1016/j.celrep.2026.118240"
     },
     "onlineDate": null,
     "onlineDatePrecision": "partial",
@@ -1592,43 +1422,6 @@
       "journal-article"
     ],
     "metadataBySource": {
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Yuki Esaki",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Kentaro Hosokawa",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Hisayuki Yao",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Shunichi Adachi",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Yoshihiro Baba",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Fumio Arai",
-            "affiliations": [],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
-        ]
-      },
       "Europe PMC": {
         "authors": [
           {
@@ -1676,6 +1469,43 @@
         ],
         "publicationTypes": [
           "Journal Article"
+        ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Yuki Esaki",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Kentaro Hosokawa",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Hisayuki Yao",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Shunichi Adachi",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Yoshihiro Baba",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Fumio Arai",
+            "affiliations": [],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
         ]
       }
     },

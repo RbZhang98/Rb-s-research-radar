@@ -1,5 +1,599 @@
 [
   {
+    "id": "10.1111/jcpe.70224",
+    "doi": "10.1111/jcpe.70224",
+    "title": "Periodontal Phenotype Modification of Mandibular Incisors Following Augmented Corticotomy During Orthodontic–Orthognathic Treatment in Skeletal Class III Patients: A Long‐Term Prospective Cohort Study",
+    "abstract": "ABSTRACT Aim To prospectively evaluate periodontal soft‐ and hard‐tissue changes in the mandibular incisor region after labial augmented corticotomy (AC) in skeletal Class III patients undergoing orthodontic–orthognathic treatment. Materials and Methods Thirty‐five skeletal Class III patients were included. A total of 140 mandibular incisors treated with AC were evaluated at baseline, 6 months after surgery and at treatment completion. Clinical parameters, gingival thickness, cemento‐enamel junction (CEJ) to alveolar crest distance and labial and lingual alveolar bone areas were assessed using clinical examination, cone‐beam computed tomography and integrated digital models. Results Probing depth and labial gingival recession showed no significant overall changes. Width of keratinised gingiva and gingival thickness increased significantly and remained higher than baseline at treatment completion. Labial CEJ to alveolar crest distance decreased and remained lower than baseline, whereas the lingual distance increased. Labial alveolar bone area remained higher than baseline, whereas lingual alveolar bone area progressively decreased over time. Conclusions Labial AC was associated with sustained improvement in periodontal soft tissue and labial alveolar bone in the mandibular incisor region through treatment completion, although lingual alveolar bone area decreased over time.",
+    "journal": "Journal of Clinical Periodontology",
+    "journalId": "jcp",
+    "date": "2026-11-05",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1111/jcpe.70224",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1111/jcpe.70224"
+    },
+    "onlineDate": "2026-11-05",
+    "onlineDatePrecision": "day",
+    "authors": [
+      {
+        "name": "Jian Liu",
+        "affiliations": [
+          "Fourth Clinical Division Peking University School and Hospital of Stomatology and National Center of Stomatology and National Clinical Research Center for Oral Diseases and National Engineering Laboratory for Digital and Material Technology of Stomatology and Beijing Key Laboratory of Digital Stomatology Beijing China"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Mengqiao Pan",
+        "affiliations": [
+          "Department of Periodontology, National Engineering Laboratory for Digital and Material Technology of Stomatology, Beijing Key Laboratory of Digital Stomatology Peking University School and Hospital for Stomatology Beijing China"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Jiaming Li",
+        "affiliations": [
+          "Department of Periodontology, National Engineering Laboratory for Digital and Material Technology of Stomatology, Beijing Key Laboratory of Digital Stomatology Peking University School and Hospital for Stomatology Beijing China"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Xiaotong Li",
+        "affiliations": [
+          "Department of Orthodontics, National Engineering Laboratory for Digital and Material Technology of Stomatology, Beijing Key Laboratory of Digital Stomatology Peking University School and Hospital for Stomatology Beijing China"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Xiaoxia Wang",
+        "affiliations": [
+          "Department of Oral and Maxillofacial Surgery, National Engineering Laboratory for Digital and Material Technology of Stomatology, and Beijing Key Laboratory of Digital Stomatology Peking University School and Hospital of Stomatology Beijing China"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Li Xu",
+        "affiliations": [
+          "Department of Periodontology Peking University School and Hospital of Stomatology and National Center of Stomatology and National Clinical Research Center for Oral Diseases and National Engineering Laboratory for Digital and Material Technology of Stomatology and Beijing Key Laboratory of Digital Stomatology Beijing China"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Jianxia Hou",
+        "affiliations": [
+          "Department of Periodontology Peking University School and Hospital of Stomatology and National Center of Stomatology and National Clinical Research Center for Oral Diseases and National Engineering Laboratory for Digital and Material Technology of Stomatology and Beijing Key Laboratory of Digital Stomatology Beijing China"
+        ],
+        "source": "Crossref"
+      }
+    ],
+    "publicationTypes": [
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Jian Liu",
+            "affiliations": [
+              "Fourth Clinical Division Peking University School and Hospital of Stomatology and National Center of Stomatology and National Clinical Research Center for Oral Diseases and National Engineering Laboratory for Digital and Material Technology of Stomatology and Beijing Key Laboratory of Digital Stomatology Beijing China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Mengqiao Pan",
+            "affiliations": [
+              "Department of Periodontology, National Engineering Laboratory for Digital and Material Technology of Stomatology, Beijing Key Laboratory of Digital Stomatology Peking University School and Hospital for Stomatology Beijing China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jiaming Li",
+            "affiliations": [
+              "Department of Periodontology, National Engineering Laboratory for Digital and Material Technology of Stomatology, Beijing Key Laboratory of Digital Stomatology Peking University School and Hospital for Stomatology Beijing China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Xiaotong Li",
+            "affiliations": [
+              "Department of Orthodontics, National Engineering Laboratory for Digital and Material Technology of Stomatology, Beijing Key Laboratory of Digital Stomatology Peking University School and Hospital for Stomatology Beijing China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Xiaoxia Wang",
+            "affiliations": [
+              "Department of Oral and Maxillofacial Surgery, National Engineering Laboratory for Digital and Material Technology of Stomatology, and Beijing Key Laboratory of Digital Stomatology Peking University School and Hospital of Stomatology Beijing China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Li Xu",
+            "affiliations": [
+              "Department of Periodontology Peking University School and Hospital of Stomatology and National Center of Stomatology and National Clinical Research Center for Oral Diseases and National Engineering Laboratory for Digital and Material Technology of Stomatology and Beijing Key Laboratory of Digital Stomatology Beijing China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jianxia Hou",
+            "affiliations": [
+              "Department of Periodontology Peking University School and Hospital of Stomatology and National Center of Stomatology and National Clinical Research Center for Oral Diseases and National Engineering Laboratory for Digital and Material Technology of Stomatology and Beijing Key Laboratory of Digital Stomatology Beijing China"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "grade": "B",
+    "score": 5,
+    "topics": [
+      "牙周治疗",
+      "骨增量与软组织"
+    ],
+    "pending": true,
+    "studyType": "前瞻性队列",
+    "studyTypeEvidence": {
+      "terms": [
+        "prospective cohort"
+      ],
+      "source": "标题/摘要规则，未经人工确认"
+    },
+    "evidence": {
+      "队列研究": {
+        "terms": [
+          "cohort study",
+          "prospective cohort"
+        ],
+        "source": "标题/摘要规则，未经人工确认"
+      },
+      "前瞻性队列": {
+        "terms": [
+          "prospective cohort"
+        ],
+        "source": "标题/摘要规则，未经人工确认"
+      }
+    },
+    "reason": "临床独立规则：前瞻性队列。类型由词组初筛或信息不足，待确认；优先级不等同于研究质量评价。",
+    "rulesVersion": "2.0",
+    "firstSeenAt": "2026-11-06T00:46:22.994736+00:00",
+    "lastSeenAt": "2026-11-06T00:46:22.994736+00:00",
+    "discoveryKind": "new"
+  },
+  {
+    "id": "10.1111/jcpe.70223",
+    "doi": "10.1111/jcpe.70223",
+    "title": "A Split‐Mouth Randomised Controlled Clinical Trial: Comparing Ostectomy Performed With Piezosurgery Versus Burs for Aesthetic Crown‐Lengthening Surgery",
+    "abstract": "ABSTRACT Aim To assess the clinical, profilometric, radiographic and patient‐reported outcomes following aesthetic crown lengthening (ECL) with ostectomy performed using either piezosurgery (PS) or rotary burs (RB). Methods Fifteen patients with altered passive eruption underwent ECL from maxillary premolar to premolar in a 6‐month split‐mouth randomised design. Ostectomy was performed with either PS or RB. Clinical, profilometric and radiographic assessments, as well as patient‐reported outcomes, were collected. The primary outcome was the change in gingival margin (GM) position between 6 weeks and 6 months, analysed with a linear mixed model with treatment as a fixed effect and patient as a random effect. Results Between 6 weeks and 6 months (primary outcome), GM change was 0.16 ± 0.19 mm in the PS group and 0.12 ± 0.21 mm in the RB group ( p = 0.170). The greatest reduction in crown height occurred between suturing and 7 days (−0.63 ± 0.35 mm). CEJ–BC remodelling from surgery to 6 months was −0.22 ± 0.42 mm ( PS ) and −0.26 ± 0.44 mm ( RB ) ( p = 0.491). Conclusion PS and RB showed no significant difference in GM stability following ECL, with the greatest changes in the first week and stability by 6 weeks.",
+    "journal": "Journal of Clinical Periodontology",
+    "journalId": "jcp",
+    "date": "2026-11-05",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1111/jcpe.70223",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1111/jcpe.70223"
+    },
+    "onlineDate": "2026-11-05",
+    "onlineDatePrecision": "day",
+    "authors": [
+      {
+        "name": "Kitichai Janaphan",
+        "affiliations": [
+          "Department of Periodontics, Faculty of Dentistry Thammasat University Bangkok Thailand"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Thipphayaphan Sathitthammaphon",
+        "affiliations": [
+          "Department of Periodontics, Faculty of Dentistry Thammasat University Bangkok Thailand"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Kamon Budsaba",
+        "affiliations": [
+          "Department of Mathematics and Statistics, Faculty of Science and Technology Thammasat University Bangkok Thailand"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Top Chitkraisorn",
+        "affiliations": [
+          "Department of Prosthodontics, Faculty of Dentistry Thammasat University Bangkok Thailand"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Jaruwat Hanroongsri",
+        "affiliations": [
+          "Department of Oral Diagnostics, Faculty of Dentistry Thammasat University Bangkok Thailand"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Hyun‐Chang Lim",
+        "affiliations": [
+          "Department of Periodontology, Kyung Hee University College of Dentistry, Periodontal‐Implant Clinical Research Institute, Kyung Hee University Medical Center Seoul South Korea"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Daniel S. Thoma",
+        "affiliations": [
+          "Clinic of Reconstructive Dentistry, Center for Dental Medicine University of Zurich Zurich Switzerland"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Thanasak Rakmanee",
+        "affiliations": [
+          "Department of Restorative and Esthetic Dentistry, Faculty of Dentistry Thammasat University Bangkok Thailand"
+        ],
+        "source": "Crossref"
+      }
+    ],
+    "publicationTypes": [
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Kitichai Janaphan",
+            "affiliations": [
+              "Department of Periodontics, Faculty of Dentistry Thammasat University Bangkok Thailand"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Thipphayaphan Sathitthammaphon",
+            "affiliations": [
+              "Department of Periodontics, Faculty of Dentistry Thammasat University Bangkok Thailand"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Kamon Budsaba",
+            "affiliations": [
+              "Department of Mathematics and Statistics, Faculty of Science and Technology Thammasat University Bangkok Thailand"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Top Chitkraisorn",
+            "affiliations": [
+              "Department of Prosthodontics, Faculty of Dentistry Thammasat University Bangkok Thailand"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jaruwat Hanroongsri",
+            "affiliations": [
+              "Department of Oral Diagnostics, Faculty of Dentistry Thammasat University Bangkok Thailand"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Hyun‐Chang Lim",
+            "affiliations": [
+              "Department of Periodontology, Kyung Hee University College of Dentistry, Periodontal‐Implant Clinical Research Institute, Kyung Hee University Medical Center Seoul South Korea"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Daniel S. Thoma",
+            "affiliations": [
+              "Clinic of Reconstructive Dentistry, Center for Dental Medicine University of Zurich Zurich Switzerland"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Thanasak Rakmanee",
+            "affiliations": [
+              "Department of Restorative and Esthetic Dentistry, Faculty of Dentistry Thammasat University Bangkok Thailand"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "grade": "B",
+    "score": 5,
+    "topics": [
+      "牙周治疗",
+      "临床方法与结局"
+    ],
+    "pending": true,
+    "studyType": "临床研究",
+    "studyTypeEvidence": {
+      "terms": [
+        "clinical trial"
+      ],
+      "source": "标题/摘要规则，未经人工确认"
+    },
+    "evidence": {
+      "临床研究": {
+        "terms": [
+          "clinical trial"
+        ],
+        "source": "标题/摘要规则，未经人工确认"
+      }
+    },
+    "reason": "临床独立规则：临床研究。类型由词组初筛或信息不足，待确认；优先级不等同于研究质量评价。",
+    "rulesVersion": "2.0",
+    "firstSeenAt": "2026-11-06T00:46:22.994736+00:00",
+    "lastSeenAt": "2026-11-06T00:46:22.994736+00:00",
+    "discoveryKind": "new"
+  },
+  {
+    "id": "10.1111/clr.70195",
+    "doi": "10.1111/clr.70195",
+    "title": "Probe Accuracy and Agreement and Patient Preferences in Peri‐Implant Probing Depth Assessment: A Cross‐Sectional Study",
+    "abstract": "ABSTRACT Objectives To record the accuracy and agreement of three types of probes (i.e., a common metal probe and two types of flexible probes) for peri‐implant probing depth (PD) assessment, including patient‐reported outcomes (PRO). Methods Fifty patients (85 implants) with an implant‐supported restoration were included. Peri‐implant PD was recorded with a metal, plastic, and electronic probe. Pain/discomfort and patient preference were registered. After removing the prosthetic restoration, the correct peri‐implant PD (cPD), the mucosal height (MH), and the PD measured from the implant level (iPD) were assessed. Results Good accuracy and agreement were noted for PD measurements with the metal and plastic probe. They differed in approximately 80% of the measurements by Conclusions While the electronic probe was unreliable, the metal and plastic probes were relatively accurate and comparable for assessing peri‐implant PD; the plastic probe caused less pain/discomfort. However, in approximately 1/5 of the measurements a ≥ 1.5 mm deviation from the correct value (cPD) may occur, and the accuracy of the metal probe appears negatively influenced by a thick peri‐implant mucosal phenotype. Trial Registration The protocol was registered at clinicaltrials.gov (NCT05332327)",
+    "journal": "Clinical Oral Implants Research",
+    "journalId": "coir",
+    "date": "2026-11-05",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1111/clr.70195",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1111/clr.70195"
+    },
+    "onlineDate": "2026-11-05",
+    "onlineDatePrecision": "day",
+    "authors": [
+      {
+        "name": "Magdalena Mayol",
+        "affiliations": [
+          "Periodontology, Faculty of Odontology Malmö University Malmö Sweden",
+          "ETEP Research Group, Faculty of Odontology University Complutense of Madrid Madrid Spain"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Kristina Bertl",
+        "affiliations": [
+          "Department of Periodontology, Dental Clinic, Faculty of Medicine Sigmund Freud University Vienna Vienna Austria",
+          "Department of Periodontology Blekinge Hospital Karlskrona Sweden"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Nikolaos Pandis",
+        "affiliations": [
+          "Department of Orthodontics and Dentofacial Orthopedics, School of Dental Medicine University of Bern Bern Switzerland"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Andreas Stavropoulos",
+        "affiliations": [
+          "Periodontology, Faculty of Odontology Malmö University Malmö Sweden",
+          "Department of Periodontology Blekinge Hospital Karlskrona Sweden",
+          "Division of Conservative Dentistry and Periodontology, University Clinic of Dentistry Medical University of Vienna Vienna Austria",
+          "Department of Periodontology, School of Dental Medicine University of Bern Bern Switzerland"
+        ],
+        "source": "Crossref"
+      }
+    ],
+    "publicationTypes": [
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Magdalena Mayol",
+            "affiliations": [
+              "Periodontology, Faculty of Odontology Malmö University Malmö Sweden",
+              "ETEP Research Group, Faculty of Odontology University Complutense of Madrid Madrid Spain"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Kristina Bertl",
+            "affiliations": [
+              "Department of Periodontology, Dental Clinic, Faculty of Medicine Sigmund Freud University Vienna Vienna Austria",
+              "Department of Periodontology Blekinge Hospital Karlskrona Sweden"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Nikolaos Pandis",
+            "affiliations": [
+              "Department of Orthodontics and Dentofacial Orthopedics, School of Dental Medicine University of Bern Bern Switzerland"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Andreas Stavropoulos",
+            "affiliations": [
+              "Periodontology, Faculty of Odontology Malmö University Malmö Sweden",
+              "Department of Periodontology Blekinge Hospital Karlskrona Sweden",
+              "Division of Conservative Dentistry and Periodontology, University Clinic of Dentistry Medical University of Vienna Vienna Austria",
+              "Department of Periodontology, School of Dental Medicine University of Bern Bern Switzerland"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "grade": "B",
+    "score": 5,
+    "topics": [
+      "种植修复"
+    ],
+    "pending": true,
+    "studyType": "研究类型待确认",
+    "studyTypeEvidence": {},
+    "evidence": {},
+    "reason": "临床独立规则：研究类型待确认。类型由词组初筛或信息不足，待确认；优先级不等同于研究质量评价。",
+    "rulesVersion": "2.0",
+    "firstSeenAt": "2026-11-06T00:46:22.994736+00:00",
+    "lastSeenAt": "2026-11-06T00:46:22.994736+00:00",
+    "discoveryKind": "new"
+  },
+  {
+    "id": "10.1111/cid.70189",
+    "doi": "10.1111/cid.70189",
+    "title": "DFDBA With or Without Platelet‐Rich Fibrin in Maxillary Sinus Augmentation: A Randomized Split‐Mouth Clinical Trial",
+    "abstract": "ABSTRACT Objectives To compare histologic and histomorphometric outcomes after bilateral lateral maxillary sinus augmentation with demineralized freeze‐dried bone allograft (DFDBA) alone versus DFDBA combined with platelet‐rich fibrin (PRF), and to report 1‐year prosthetic follow‐up of the restored implants. Materials and Methods This randomized split‐mouth clinical trial included subjects requiring bilateral lateral maxillary sinus augmentation before implant placement. In each subject, one sinus was randomly assigned to DFDBA alone and the contralateral sinus to DFDBA combined with leukocyte‐ and platelet‐rich fibrin (L‐PRF) and injectable PRF (i‐PRF). Bone biopsy specimens were harvested at the clinically relevant 6‐month implant placement time point. The primary outcome was newly formed bone. Secondary histomorphometric outcomes were residual graft material, connective tissue, and fibrosis; inflammation and necrosis were assessed histologically. Clinical and radiographic prosthetic follow‐up was performed 1 year after definitive prosthetic loading. Paired comparisons were performed using the Wilcoxon signed‐rank test. Results Of 24 enrolled subjects, 21 completed follow‐up and contributed 42 sinus sites to the paired analysis. Median newly formed bone was 48.72% (IQR, 33.33%–63.33%) on the PRF side and 45.76% (IQR, 37.14%–54.90%) on the non‐PRF side ( p = 0.5). Residual graft material was 6.74% versus 4.23% ( p = 0.2), connective tissue was 31.48% versus 36.92% ( p = 0.016), and fibrosis was 3.42% versus 2.56% ( p > 0.9). No inflammation or necrosis was observed. Following replacement of one implant that failed before prosthetic loading, all definitively restored implants remained functional during the 1‐year prosthetic follow‐up. Clinical and radiographic follow‐up was uneventful, and no biologic or prosthetic complications requiring intervention were observed. Conclusions Adding PRF to DFDBA did not significantly increase newly formed bone at the 6‐month implant placement time point. The lower connective tissue proportion on the PRF side may suggest altered tissue maturation; however, this secondary finding should be interpreted cautiously. Definitively restored implants showed 100% prosthetic survival during 1‐year follow‐up. Trial Registration ClinicalTrials.gov Identifier: NCT07348198; https://clinicaltrials.gov/study/NCT07348198 . This clinical trial was not registered prior to participant recruitment and randomization.",
+    "journal": "Clinical Implant Dentistry and Related Research",
+    "journalId": "cidrr",
+    "date": "2026-11-04",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1111/cid.70189",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1111/cid.70189"
+    },
+    "onlineDate": "2026-11-04",
+    "onlineDatePrecision": "day",
+    "authors": [
+      {
+        "name": "Erkin Doğan",
+        "affiliations": [
+          "Department of Oral and Maxillofacial Surgery, Faculty of Dentistry Marmara University Istanbul Türkiye"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Onur Gönül",
+        "affiliations": [
+          "Department of Oral and Maxillofacial Surgery, Faculty of Dentistry Marmara University Istanbul Türkiye"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "İbrahim Murat Afat",
+        "affiliations": [
+          "Department of Oral and Maxillofacial Surgery Ersoy Health Group Istanbul Türkiye"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Edip Eren Kadıkıran",
+        "affiliations": [
+          "Department of Oral and Maxillofacial Surgery, Faculty of Dentistry Marmara University Istanbul Türkiye"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Cem Berk Türk",
+        "affiliations": [
+          "Department of Pathology Başakşehir Çam and Sakura City Hospital Istanbul Türkiye"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Alpay Demir",
+        "affiliations": [
+          "Department of Oral and Maxillofacial Surgery, Faculty of Dentistry Marmara University Istanbul Türkiye"
+        ],
+        "source": "Crossref"
+      }
+    ],
+    "publicationTypes": [
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Erkin Doğan",
+            "affiliations": [
+              "Department of Oral and Maxillofacial Surgery, Faculty of Dentistry Marmara University Istanbul Türkiye"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Onur Gönül",
+            "affiliations": [
+              "Department of Oral and Maxillofacial Surgery, Faculty of Dentistry Marmara University Istanbul Türkiye"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "İbrahim Murat Afat",
+            "affiliations": [
+              "Department of Oral and Maxillofacial Surgery Ersoy Health Group Istanbul Türkiye"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Edip Eren Kadıkıran",
+            "affiliations": [
+              "Department of Oral and Maxillofacial Surgery, Faculty of Dentistry Marmara University Istanbul Türkiye"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Cem Berk Türk",
+            "affiliations": [
+              "Department of Pathology Başakşehir Çam and Sakura City Hospital Istanbul Türkiye"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Alpay Demir",
+            "affiliations": [
+              "Department of Oral and Maxillofacial Surgery, Faculty of Dentistry Marmara University Istanbul Türkiye"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "grade": "B",
+    "score": 5,
+    "topics": [
+      "种植修复",
+      "临床方法与结局"
+    ],
+    "pending": true,
+    "studyType": "临床研究",
+    "studyTypeEvidence": {
+      "terms": [
+        "clinical trial"
+      ],
+      "source": "标题/摘要规则，未经人工确认"
+    },
+    "evidence": {
+      "临床研究": {
+        "terms": [
+          "clinical trial"
+        ],
+        "source": "标题/摘要规则，未经人工确认"
+      }
+    },
+    "reason": "临床独立规则：临床研究。类型由词组初筛或信息不足，待确认；优先级不等同于研究质量评价。",
+    "rulesVersion": "2.0",
+    "firstSeenAt": "2026-11-06T00:46:22.994736+00:00",
+    "lastSeenAt": "2026-11-06T00:46:22.994736+00:00",
+    "discoveryKind": "new"
+  },
+  {
     "id": "10.1111/clr.70202",
     "doi": "10.1111/clr.70202",
     "title": "Effect of Non-Splinting Techniques and Non-Calibrated Implant Scan Body Systems on the Accuracy of Complete-Arch Implant Scans: A Comparative Clinical Study.",
