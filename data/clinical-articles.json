@@ -337,6 +337,159 @@
     "discoveryKind": "new"
   },
   {
+    "id": "10.1111/clr.70199",
+    "doi": "10.1111/clr.70199",
+    "title": "Immediate Implants With or Without a Volume Stable Collagen Matrix: A Randomized Clinical Trial",
+    "abstract": "ABSTRACT Aim This randomized clinical trial evaluated soft tissue thickness (STT) around immediate implants with or without soft tissue augmentation using a volume‐stable collagen matrix (VCMX). Secondary outcomes included clinical, esthetic, volumetric, and patient‐reported outcomes. Materials and Methods Participants received immediate implants in the anterior esthetic zone with (Test) or without (Control) simultaneous VCMX augmentation. Outcomes were assessed before surgery, immediately after surgery, and at 6 and 12 months. The primary outcome was STT. Within‐ and between‐group comparisons were performed using the Friedman rank test and Mann–Whitney U test, respectively. Secondary outcomes included mucosal level (ML), marginal bone level (MBL), esthetic and patient‐reported outcomes, and volumetric changes. Results Thirty‐eight out of 40 patients completed the study. STT was significantly greater in the Test group at all follow‐ups ( p p p = 0.0917), whereas STT in the Control group decreased non‐significantly at 3 mm (0.18 mm, SE 0.18, p = 0.6213) and at 6 mm (0.36 mm, SE 0.10, p = 0.1054). ML remained stable in the Test group but showed significant recession in the Control group. Selected esthetic and patient‐reported outcomes favored the Test group. MBL did not change significantly over time in either group. Volumetric analysis showed no significant change over time in the Test group, whereas the Control group showed significant shrinkage ( p = 0.0201). Conclusions VCMX augmentation may improve soft tissue stability around immediate implants. Trial Registration The study protocol was registered on September 20, 2021 in the ClinicalTrials.gov database (registration number: NCT05081284)",
+    "journal": "Clinical Oral Implants Research",
+    "journalId": "coir",
+    "date": "2026-11-05",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1111/clr.70199",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1111/clr.70199"
+    },
+    "onlineDate": "2026-11-05",
+    "onlineDatePrecision": "day",
+    "authors": [
+      {
+        "name": "Chiara Cinquini",
+        "affiliations": [
+          "Department of Surgical Medical Molecular and Critical Area Pathology University of Pisa Pisa Italy"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Niccolò Baldi",
+        "affiliations": [
+          "Department of Surgical Medical Molecular and Critical Area Pathology University of Pisa Pisa Italy"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Rossana Izzetti",
+        "affiliations": [
+          "Department of Surgical Medical Molecular and Critical Area Pathology University of Pisa Pisa Italy"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Riccardo Simonini",
+        "affiliations": [
+          "Department of Surgical Medical Molecular and Critical Area Pathology University of Pisa Pisa Italy"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Jacopo Buti",
+        "affiliations": [
+          "Unit of Periodontology Eastman Dental Institute, UCL London UK",
+          "Centre for Oral Health and Performance Eastman Dental Institute, UCL London UK"
+        ],
+        "source": "Crossref"
+      },
+      {
+        "name": "Antonio Barone",
+        "affiliations": [
+          "Department of Surgical Medical Molecular and Critical Area Pathology University of Pisa Pisa Italy"
+        ],
+        "source": "Crossref"
+      }
+    ],
+    "publicationTypes": [
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Chiara Cinquini",
+            "affiliations": [
+              "Department of Surgical Medical Molecular and Critical Area Pathology University of Pisa Pisa Italy"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Niccolò Baldi",
+            "affiliations": [
+              "Department of Surgical Medical Molecular and Critical Area Pathology University of Pisa Pisa Italy"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Rossana Izzetti",
+            "affiliations": [
+              "Department of Surgical Medical Molecular and Critical Area Pathology University of Pisa Pisa Italy"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Riccardo Simonini",
+            "affiliations": [
+              "Department of Surgical Medical Molecular and Critical Area Pathology University of Pisa Pisa Italy"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jacopo Buti",
+            "affiliations": [
+              "Unit of Periodontology Eastman Dental Institute, UCL London UK",
+              "Centre for Oral Health and Performance Eastman Dental Institute, UCL London UK"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Antonio Barone",
+            "affiliations": [
+              "Department of Surgical Medical Molecular and Critical Area Pathology University of Pisa Pisa Italy"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "grade": "A",
+    "score": 10,
+    "topics": [
+      "种植修复",
+      "骨增量与软组织",
+      "临床方法与结局"
+    ],
+    "pending": true,
+    "studyType": "随机对照试验",
+    "studyTypeEvidence": {
+      "terms": [
+        "randomized clinical trial"
+      ],
+      "source": "标题/摘要规则，未经人工确认"
+    },
+    "evidence": {
+      "随机对照试验": {
+        "terms": [
+          "randomized clinical trial"
+        ],
+        "source": "标题/摘要规则，未经人工确认"
+      },
+      "临床研究": {
+        "terms": [
+          "clinical trial"
+        ],
+        "source": "标题/摘要规则，未经人工确认"
+      }
+    },
+    "reason": "临床独立规则：随机对照试验。类型由词组初筛或信息不足，待确认；优先级不等同于研究质量评价。",
+    "rulesVersion": "2.0",
+    "firstSeenAt": "2026-11-07T00:43:58.285143+00:00",
+    "lastSeenAt": "2026-11-07T00:43:58.285143+00:00",
+    "discoveryKind": "new"
+  },
+  {
     "id": "10.1111/clr.70195",
     "doi": "10.1111/clr.70195",
     "title": "Probe Accuracy and Agreement and Patient Preferences in Peri‐Implant Probing Depth Assessment: A Cross‐Sectional Study",
