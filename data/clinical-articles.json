@@ -747,6 +747,49 @@
     "discoveryKind": "new"
   },
   {
+    "id": "10.1111/clr.70203",
+    "doi": "10.1111/clr.70203",
+    "title": "Issue Information",
+    "abstract": "",
+    "journal": "Clinical Oral Implants Research",
+    "journalId": "coir",
+    "date": "2026-11-01",
+    "datePrecision": "month",
+    "url": "https://doi.org/10.1111/clr.70203",
+    "sources": [
+      "Crossref"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1111/clr.70203"
+    },
+    "onlineDate": "2026-11-06",
+    "onlineDatePrecision": "day",
+    "authors": [],
+    "publicationTypes": [
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "grade": "B",
+    "score": 5,
+    "topics": [],
+    "pending": true,
+    "studyType": "研究类型待确认",
+    "studyTypeEvidence": {},
+    "evidence": {},
+    "reason": "临床独立规则：研究类型待确认。类型由词组初筛或信息不足，待确认；优先级不等同于研究质量评价。",
+    "rulesVersion": "2.0",
+    "firstSeenAt": "2026-11-08T00:43:22.760774+00:00",
+    "lastSeenAt": "2026-11-08T00:43:22.760774+00:00",
+    "discoveryKind": "new"
+  },
+  {
     "id": "10.1111/clr.70202",
     "doi": "10.1111/clr.70202",
     "title": "Effect of Non-Splinting Techniques and Non-Calibrated Implant Scan Body Systems on the Accuracy of Complete-Arch Implant Scans: A Comparative Clinical Study.",
