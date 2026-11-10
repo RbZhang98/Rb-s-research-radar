@@ -2,7 +2,7 @@
   {
     "id": "10.1093/jbmr/zjag158",
     "doi": "10.1093/jbmr/zjag158",
-    "title": "Opportunistic Osteoporosis Screening Using CT-Derived Volumetric Bone Mineral Density Reference Curves",
+    "title": "Opportunistic Osteoporosis Screening Using CT-Derived Volumetric Bone Mineral Density Reference Curves.",
     "abstract": "Abstract Computed tomography (CT) scans are a widely available yet underused resource that can be leveraged for opportunistic osteoporosis screening. This study aimed to develop sex- and site-specific reference curves for volumetric bone mineral density (vBMD) to define dual X-ray absorptiometry (DXA)-anchored percentile thresholds for osteoporosis classification, and to evaluate whether these thresholds identified individuals who subsequently sustain a major osteoporotic fracture (MOF). A retrospective cohort of 4,418 clinical CT scans was analyzed, including a subset of 1,088 scans with corresponding DXA imaging within one year. MOF incidence and timing following CT were obtained from linked administrative health data. CT images were segmented with deep learning models to extract the first lumbar vertebra (L1) and femoral neck from which vBMDs were assessed using internal calibration. Sex-specific vBMD centile curves were generated for each region using Generalized Additive Models for Location, Scale and Shape. A receiver operating characteristic analysis with the Youden index defined percentile thresholds that aligned with DXA-defined osteoporosis. Clinical relevance was assessed by determining the proportion of participants classified as osteoporotic by the CT-derived percentile thresholds who subsequently sustained a MOF, and by evaluating the association between CT-defined osteoporosis and time to incident fracture using Cox proportional hazards models. The cohort included 2,368 males and 2,050 females. At the vertebral body, 66.3% (n=67) of female and 41.9% (n=26) of male fracture cases had vBMD values below the CT-defined osteoporosis threshold, consistent with osteoporosis. Among these, 44.8% (n=30) of females and 76.9% (n=20) of males had not undergone DXA screening. Individuals classified as osteoporotic based on CT-derived thresholds had up to 2.86 times higher risk of sustaining an MOF across all vertebral sites in both sexes. These findings indicate that CT-derived vBMD percentile thresholds offer clinically meaningful cut-points for opportunistic screening and support their use as a diagnostic flag for further evaluation.",
     "journal": "Journal of Bone and Mineral Research",
     "journalId": "jbmr",
@@ -10,62 +10,117 @@
     "datePrecision": "day",
     "url": "https://doi.org/10.1093/jbmr/zjag158",
     "sources": [
-      "Crossref"
+      "Crossref",
+      "Europe PMC"
     ],
     "sourceIds": {
+      "Europe PMC": "42999935",
       "Crossref": "10.1093/jbmr/zjag158"
     },
     "onlineDate": "2026-11-08",
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "Bryn E Matheson",
+        "name": "Matheson BE",
         "affiliations": [
-          "McCaig Institute for Bone and Joint Health, Cumming School of Medicine, University of Calgary , Calgary AB ,",
-          "Department of Biomedical Engineering, Schulich School of Engineering, University of Calgary , Calgary, AB T2N 1N4 ,",
-          "Department of Radiology, University of Calgary , Calgary, AB T2N 1N4 ,"
+          "McCaig Institute for Bone and Joint Health, Cumming School of Medicine, University of Calgary, Calgary AB, Canada.",
+          "Department of Biomedical Engineering, Schulich School of Engineering, University of Calgary, Calgary, AB T2N 1N4, Canada.",
+          "Department of Radiology, University of Calgary, Calgary, AB T2N 1N4, Canada."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Matthias Walle",
+        "name": "Walle M",
         "affiliations": [
-          "McCaig Institute for Bone and Joint Health, Cumming School of Medicine, University of Calgary , Calgary AB ,",
-          "Department of Biomedical Engineering, Schulich School of Engineering, University of Calgary , Calgary, AB T2N 1N4 ,",
-          "Department of Radiology, University of Calgary , Calgary, AB T2N 1N4 ,"
+          "McCaig Institute for Bone and Joint Health, Cumming School of Medicine, University of Calgary, Calgary AB, Canada.",
+          "Department of Biomedical Engineering, Schulich School of Engineering, University of Calgary, Calgary, AB T2N 1N4, Canada.",
+          "Department of Radiology, University of Calgary, Calgary, AB T2N 1N4, Canada."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Lauren A Burt",
+        "name": "Burt LA",
         "affiliations": [
-          "McCaig Institute for Bone and Joint Health, Cumming School of Medicine, University of Calgary , Calgary AB ,",
-          "Department of Radiology, University of Calgary , Calgary, AB T2N 1N4 ,"
+          "McCaig Institute for Bone and Joint Health, Cumming School of Medicine, University of Calgary, Calgary AB, Canada.",
+          "Department of Radiology, University of Calgary, Calgary, AB T2N 1N4, Canada."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Carrie Ye",
+        "name": "Ye C",
         "affiliations": [
-          "McCaig Institute for Bone and Joint Health, Cumming School of Medicine, University of Calgary , Calgary AB ,",
-          "Department of Medicine, University of Alberta , Edmonton, AB ,"
+          "McCaig Institute for Bone and Joint Health, Cumming School of Medicine, University of Calgary, Calgary AB, Canada.",
+          "Department of Medicine, University of Alberta, Edmonton, AB, Canada."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Steven K Boyd",
+        "name": "Boyd SK",
         "affiliations": [
-          "McCaig Institute for Bone and Joint Health, Cumming School of Medicine, University of Calgary , Calgary AB ,",
-          "Department of Biomedical Engineering, Schulich School of Engineering, University of Calgary , Calgary, AB T2N 1N4 ,",
-          "Department of Radiology, University of Calgary , Calgary, AB T2N 1N4 ,"
+          "McCaig Institute for Bone and Joint Health, Cumming School of Medicine, University of Calgary, Calgary AB, Canada.",
+          "Department of Biomedical Engineering, Schulich School of Engineering, University of Calgary, Calgary, AB T2N 1N4, Canada.",
+          "Department of Radiology, University of Calgary, Calgary, AB T2N 1N4, Canada."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
+      "IM",
+      "Journal Article",
       "journal-article"
     ],
     "metadataBySource": {
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Matheson BE",
+            "affiliations": [
+              "McCaig Institute for Bone and Joint Health, Cumming School of Medicine, University of Calgary, Calgary AB, Canada.",
+              "Department of Biomedical Engineering, Schulich School of Engineering, University of Calgary, Calgary, AB T2N 1N4, Canada.",
+              "Department of Radiology, University of Calgary, Calgary, AB T2N 1N4, Canada."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Walle M",
+            "affiliations": [
+              "McCaig Institute for Bone and Joint Health, Cumming School of Medicine, University of Calgary, Calgary AB, Canada.",
+              "Department of Biomedical Engineering, Schulich School of Engineering, University of Calgary, Calgary, AB T2N 1N4, Canada.",
+              "Department of Radiology, University of Calgary, Calgary, AB T2N 1N4, Canada."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Burt LA",
+            "affiliations": [
+              "McCaig Institute for Bone and Joint Health, Cumming School of Medicine, University of Calgary, Calgary AB, Canada.",
+              "Department of Radiology, University of Calgary, Calgary, AB T2N 1N4, Canada."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Ye C",
+            "affiliations": [
+              "McCaig Institute for Bone and Joint Health, Cumming School of Medicine, University of Calgary, Calgary AB, Canada.",
+              "Department of Medicine, University of Alberta, Edmonton, AB, Canada."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Boyd SK",
+            "affiliations": [
+              "McCaig Institute for Bone and Joint Health, Cumming School of Medicine, University of Calgary, Calgary AB, Canada.",
+              "Department of Biomedical Engineering, Schulich School of Engineering, University of Calgary, Calgary, AB T2N 1N4, Canada.",
+              "Department of Radiology, University of Calgary, Calgary, AB T2N 1N4, Canada."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "IM",
+          "Journal Article"
+        ]
+      },
       "Crossref": {
         "authors": [
           {
@@ -148,82 +203,157 @@
     "datePrecision": "day",
     "url": "https://doi.org/10.1093/jbmr/zjag156",
     "sources": [
-      "Crossref"
+      "Crossref",
+      "Europe PMC"
     ],
     "sourceIds": {
+      "Europe PMC": "42999936",
       "Crossref": "10.1093/jbmr/zjag156"
     },
     "onlineDate": "2026-11-08",
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "Szilvia Meszaros",
+        "name": "Meszaros S",
         "affiliations": [
-          "Department of Internal Medicine and Oncology, Semmelweis University , Budapest ,"
+          "Department of Internal Medicine and Oncology, Semmelweis University, Budapest, Hungary."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Balazs Szili",
+        "name": "Szili B",
         "affiliations": [
-          "Department of Internal Medicine and Oncology, Semmelweis University , Budapest ,"
+          "Department of Internal Medicine and Oncology, Semmelweis University, Budapest, Hungary."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Boglarka Szabo",
+        "name": "Szabo B",
         "affiliations": [
-          "Department of Internal Medicine and Oncology, Semmelweis University , Budapest ,"
+          "Department of Internal Medicine and Oncology, Semmelweis University, Budapest, Hungary."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Zsuzsanna Nemeth",
+        "name": "Nemeth Z",
         "affiliations": [
-          "Department of Internal Medicine and Oncology, Semmelweis University , Budapest ,"
+          "Department of Internal Medicine and Oncology, Semmelweis University, Budapest, Hungary."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Balint Mazzag",
+        "name": "Mazzag B",
         "affiliations": [
-          "Research Flow Kft. , Budapest ,"
+          "Research Flow Kft., Budapest, Hungary."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Robert Frigyesy",
+        "name": "Frigyesy R",
         "affiliations": [
-          "Research Flow Kft. , Budapest ,"
+          "Research Flow Kft., Budapest, Hungary."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Eniko Jokai",
+        "name": "Jokai E",
         "affiliations": [
-          "Richter Gedeon Nyrt. , Budapest ,"
+          "Richter Gedeon Nyrt., Budapest, Hungary."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Peter Lakatos",
+        "name": "Lakatos P",
         "affiliations": [
-          "Department of Internal Medicine and Oncology, Semmelweis University , Budapest ,"
+          "Department of Internal Medicine and Oncology, Semmelweis University, Budapest, Hungary."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Istvan Takacs",
+        "name": "Takacs I",
         "affiliations": [
-          "Department of Internal Medicine and Oncology, Semmelweis University , Budapest ,"
+          "Department of Internal Medicine and Oncology, Semmelweis University, Budapest, Hungary."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
+      "IM",
+      "Journal Article",
       "journal-article"
     ],
     "metadataBySource": {
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Meszaros S",
+            "affiliations": [
+              "Department of Internal Medicine and Oncology, Semmelweis University, Budapest, Hungary."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Szili B",
+            "affiliations": [
+              "Department of Internal Medicine and Oncology, Semmelweis University, Budapest, Hungary."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Szabo B",
+            "affiliations": [
+              "Department of Internal Medicine and Oncology, Semmelweis University, Budapest, Hungary."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Nemeth Z",
+            "affiliations": [
+              "Department of Internal Medicine and Oncology, Semmelweis University, Budapest, Hungary."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Mazzag B",
+            "affiliations": [
+              "Research Flow Kft., Budapest, Hungary."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Frigyesy R",
+            "affiliations": [
+              "Research Flow Kft., Budapest, Hungary."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Jokai E",
+            "affiliations": [
+              "Richter Gedeon Nyrt., Budapest, Hungary."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Lakatos P",
+            "affiliations": [
+              "Department of Internal Medicine and Oncology, Semmelweis University, Budapest, Hungary."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Takacs I",
+            "affiliations": [
+              "Department of Internal Medicine and Oncology, Semmelweis University, Budapest, Hungary."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "IM",
+          "Journal Article"
+        ]
+      },
       "Crossref": {
         "authors": [
           {
@@ -326,10 +456,12 @@
     "datePrecision": "day",
     "url": "https://doi.org/10.1177/00220345261495934",
     "sources": [
-      "Crossref"
+      "Crossref",
+      "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1177/00220345261495934"
+      "Crossref": "10.1177/00220345261495934",
+      "Europe PMC": "42984391"
     },
     "onlineDate": "2026-11-05",
     "onlineDatePrecision": "day",
@@ -372,6 +504,8 @@
       }
     ],
     "publicationTypes": [
+      "Journal Article",
+      "Review",
       "journal-article"
     ],
     "metadataBySource": {
@@ -416,6 +550,50 @@
         ],
         "publicationTypes": [
           "journal-article"
+        ]
+      },
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Araujo Silva DN",
+            "affiliations": [
+              "Section of Periodontics, School of Dentistry, University of California, Los Angeles, CA, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Ribeiro VL",
+            "affiliations": [
+              "Department of Periodontology, Endodontics and Dental Hygiene, Adams School of Dentistry, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Swanson KV",
+            "affiliations": [
+              "Division of Infectious Diseases, School of Medicine, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA.",
+              "Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel Hill, NC, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Pirih F",
+            "affiliations": [
+              "Section of Periodontics, School of Dentistry, University of California, Los Angeles, CA, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Marchesan JT",
+            "affiliations": [
+              "Department of Periodontology, Endodontics and Dental Hygiene, Adams School of Dentistry, University of North Carolina at Chapel Hill, Chapel Hill, NC, USA."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "Review",
+          "Journal Article"
         ]
       }
     },
@@ -462,10 +640,12 @@
     "datePrecision": "day",
     "url": "https://doi.org/10.1177/00220345261493921",
     "sources": [
-      "Crossref"
+      "Crossref",
+      "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1177/00220345261493921"
+      "Crossref": "10.1177/00220345261493921",
+      "Europe PMC": "42978299"
     },
     "authors": [
       {
@@ -559,6 +739,7 @@
       }
     ],
     "publicationTypes": [
+      "Journal Article",
       "journal-article"
     ],
     "metadataBySource": {
@@ -657,6 +838,102 @@
         "publicationTypes": [
           "journal-article"
         ]
+      },
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Elebyary O",
+            "affiliations": [
+              "Faculty of Dentistry, University of Toronto, Toronto, ON, Canada.",
+              "Dental Oncology, Princess Margaret Cancer Centre, Toronto, ON, Canada."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Liu R",
+            "affiliations": [
+              "Department of Medicine, Faculty of Medicine, University of Toronto, Toronto, ON, Canada."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Lee J",
+            "affiliations": [
+              "Dental Oncology, Princess Margaret Cancer Centre, Toronto, ON, Canada."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Dukuray M",
+            "affiliations": [
+              "Dental Oncology, Princess Margaret Cancer Centre, Toronto, ON, Canada."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Tsang J",
+            "affiliations": [
+              "Department of Immunology, Faculty of Medicine, University of Toronto, Toronto, ON, Canada."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Sun C",
+            "affiliations": [
+              "Faculty of Dentistry, University of Toronto, Toronto, ON, Canada."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Mojdami D",
+            "affiliations": [
+              "Dental Oncology, Princess Margaret Cancer Centre, Toronto, ON, Canada."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Bendayan Y",
+            "affiliations": [
+              "Faculty of Dentistry, University of Toronto, Toronto, ON, Canada.",
+              "Dental Oncology, Princess Margaret Cancer Centre, Toronto, ON, Canada."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Watson E",
+            "affiliations": [
+              "Faculty of Dentistry, University of Toronto, Toronto, ON, Canada.",
+              "Dental Oncology, Princess Margaret Cancer Centre, Toronto, ON, Canada."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Lipton JH",
+            "affiliations": [
+              "Division of Medical Oncology and Hematology, Princess Margaret Cancer Centre, University Health Network, Department of Medicine, University of Toronto, Toronto, ON, Canada."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Coburn B",
+            "affiliations": [
+              "Department of Medicine, Faculty of Medicine, University of Toronto, Toronto, ON, Canada.",
+              "Toronto General Hospital Research Institute, University Health Network, Toronto, ON, Canada."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Glogauer M",
+            "affiliations": [
+              "Faculty of Dentistry, University of Toronto, Toronto, ON, Canada.",
+              "Dental Oncology, Princess Margaret Cancer Centre, Toronto, ON, Canada."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ]
       }
     },
     "onlineDate": "2026-11-03",
@@ -700,10 +977,12 @@
     "datePrecision": "day",
     "url": "https://doi.org/10.1177/00220345261493495",
     "sources": [
-      "Crossref"
+      "Crossref",
+      "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1177/00220345261493495"
+      "Crossref": "10.1177/00220345261493495",
+      "Europe PMC": "42978330"
     },
     "authors": [
       {
@@ -784,6 +1063,7 @@
       }
     ],
     "publicationTypes": [
+      "Journal Article",
       "journal-article"
     ],
     "metadataBySource": {
@@ -869,6 +1149,89 @@
         "publicationTypes": [
           "journal-article"
         ]
+      },
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Imai C",
+            "affiliations": [
+              "Department of Oral Biology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan.",
+              "Department of Periodontology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Ohsugi Y",
+            "affiliations": [
+              "Department of Oral Biology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan.",
+              "Section of Oral-Systemic Health, Oral Science Center, Institute of Biomedical Engineering, Institute of Science Tokyo, Tokyo, Japan.",
+              "Section of Vascular Cell Biology, Joslin Diabetes Center, Harvard Medical School, MA, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Lin P",
+            "affiliations": [
+              "Department of Oral Biology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan.",
+              "Section of Oral-Systemic Health, Oral Science Center, Institute of Biomedical Engineering, Institute of Science Tokyo, Tokyo, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Toyoshima K",
+            "affiliations": [
+              "Department of General Dentistry, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Hirota T",
+            "affiliations": [
+              "Division of Molecular Genetics, Research Center for Medical Science, The Jikei University School of Medicine, Tokyo, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Sekiguchi M",
+            "affiliations": [
+              "Department of Cognitive Neurobiology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Shiba T",
+            "affiliations": [
+              "Department of Periodontology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Iwata T",
+            "affiliations": [
+              "Department of Periodontology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Uesaka N",
+            "affiliations": [
+              "Department of Cognitive Neurobiology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Katagiri S",
+            "affiliations": [
+              "Department of Oral Biology, Graduate School of Medical and Dental Sciences, Institute of Science Tokyo, Tokyo, Japan.",
+              "Section of Oral-Systemic Health, Oral Science Center, Institute of Biomedical Engineering, Institute of Science Tokyo, Tokyo, Japan.",
+              "Section of Vascular Cell Biology, Joslin Diabetes Center, Harvard Medical School, MA, USA."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ]
       }
     },
     "onlineDate": "2026-11-03",
@@ -908,10 +1271,12 @@
     "datePrecision": "day",
     "url": "https://doi.org/10.1177/00220345261489570",
     "sources": [
-      "Crossref"
+      "Crossref",
+      "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1177/00220345261489570"
+      "Crossref": "10.1177/00220345261489570",
+      "Europe PMC": "42978263"
     },
     "authors": [
       {
@@ -951,6 +1316,8 @@
       }
     ],
     "publicationTypes": [
+      "Journal Article",
+      "Review",
       "journal-article"
     ],
     "metadataBySource": {
@@ -995,6 +1362,49 @@
         "publicationTypes": [
           "journal-article"
         ]
+      },
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Liu R",
+            "affiliations": [
+              "State Key Laboratory of Oral Diseases & National Center for Stomatology & National Clinical Research Center for Oral Diseases, West China Hospital of Stomatology, Sichuan University, Chengdu, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Cui A",
+            "affiliations": [
+              "State Key Laboratory of Oral Diseases & National Center for Stomatology & National Clinical Research Center for Oral Diseases, West China Hospital of Stomatology, Sichuan University, Chengdu, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Dong H",
+            "affiliations": [
+              "State Key Laboratory of Oral Diseases & National Center for Stomatology & National Clinical Research Center for Oral Diseases, West China Hospital of Stomatology, Sichuan University, Chengdu, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Graves DT",
+            "affiliations": [
+              "Department of Periodontics, School of Dental Medicine, University of Pennsylvania, Philadelphia, PA, USA."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Wang Q",
+            "affiliations": [
+              "State Key Laboratory of Oral Diseases & National Center for Stomatology & National Clinical Research Center for Oral Diseases, West China Hospital of Stomatology, Sichuan University, Chengdu, China."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "Review",
+          "Journal Article"
+        ]
       }
     },
     "onlineDate": "2026-11-03",
@@ -1027,7 +1437,7 @@
   {
     "id": "10.1093/jbmr/zjag153",
     "doi": "10.1093/jbmr/zjag153",
-    "title": "Unraveling the Pathogenesis of Medication-Related Osteonecrosis of the Jaw",
+    "title": "Unraveling the Pathogenesis of Medication-Related Osteonecrosis of the Jaw.",
     "abstract": "Abstract Medication-related osteonecrosis of the jaw (MRONJ) is a serious complication associated with bone-modifying and antiangiogenic therapies. As the use of these agents expands in osteoporosis management and cancer care, the population at risk of MRONJ is increasing. Despite its substantial clinical burden, effective prevention and treatment remain limited by an incomplete understanding of its pathogenesis and of the biological features that may confer susceptibility to the jaws. This review critically synthesizes current evidence across five potentially interacting pathogenic domains: impaired bone remodeling, compromised vascular and lymphatic support, impaired oral soft-tissue healing, microbial dysbiosis and biofilm formation, and immune dysregulation. Systemic comorbidities and concomitant therapies are also considered as potential modifiers of disease susceptibility and clinical course. In addition, we examine jaw-specific susceptibility by integrating evidence from developmental biology, comparative anatomy, cellular pharmacology, and local osteoimmune biology. Together, these observations support a multifactorial model of MRONJ in which drug-specific effects interact with local tissue characteristics and host factors, while the temporal sequence and relative contribution of individual mechanisms remain incompletely defined. A more precise understanding of these interactions may improve risk stratification and inform future preventive and therapeutic strategies.",
     "journal": "Journal of Bone and Mineral Research",
     "journalId": "jbmr",
@@ -1039,60 +1449,60 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1093/jbmr/zjag153",
-      "Europe PMC": "42969786"
+      "Europe PMC": "42969786",
+      "Crossref": "10.1093/jbmr/zjag153"
     },
     "onlineDate": "2026-11-02",
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "Weidong Liu",
+        "name": "Liu W",
         "affiliations": [
-          "Department of Prosthodontics, Shanghai Stomatological Hospital & School of Stomatology, Fudan University , Shanghai 201102 ,"
+          "Department of Prosthodontics, Shanghai Stomatological Hospital & School of Stomatology, Fudan University, Shanghai 201102, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Chenghao Jiang",
+        "name": "Jiang C",
         "affiliations": [
-          "Department of Oral Implantology, the Affiliated Stomatological Hospital, State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University , Nanjing 210029 ,"
+          "Department of Oral Implantology, the Affiliated Stomatological Hospital, State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing 210029, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Yili Liu",
+        "name": "Liu Y",
         "affiliations": [
-          "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine , Shanghai 200011 ,"
+          "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai 200011, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Fei Jiang",
+        "name": "Jiang F",
         "affiliations": [
-          "Department of Oral Implantology, the Affiliated Stomatological Hospital, State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University , Nanjing 210029 ,"
+          "Department of Oral Implantology, the Affiliated Stomatological Hospital, State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University, Nanjing 210029, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Junjun Jing",
+        "name": "Jing J",
         "affiliations": [
-          "State Key Laboratory of Oral Diseases, National Center for Stomatology, National Clinical Research Center for Oral Diseases, West China Hospital of Stomatology, Sichuan University , Chengdu 610041 ,"
+          "State Key Laboratory of Oral Diseases, National Center for Stomatology, National Clinical Research Center for Oral Diseases, West China Hospital of Stomatology, Sichuan University, Chengdu 610041, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Jiahui Du",
+        "name": "Du J",
         "affiliations": [
-          "Department of Prosthodontics, Shanghai Stomatological Hospital & School of Stomatology, Fudan University , Shanghai 201102 ,"
+          "Department of Prosthodontics, Shanghai Stomatological Hospital & School of Stomatology, Fudan University, Shanghai 201102, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Xinquan Jiang",
+        "name": "Jiang X",
         "affiliations": [
-          "Department of Prosthodontics, Shanghai Stomatological Hospital & School of Stomatology, Fudan University , Shanghai 201102 ,"
+          "Department of Prosthodontics, Shanghai Stomatological Hospital & School of Stomatology, Fudan University, Shanghai 201102, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
@@ -1100,62 +1510,6 @@
       "journal-article"
     ],
     "metadataBySource": {
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Weidong Liu",
-            "affiliations": [
-              "Department of Prosthodontics, Shanghai Stomatological Hospital & School of Stomatology, Fudan University , Shanghai 201102 ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Chenghao Jiang",
-            "affiliations": [
-              "Department of Oral Implantology, the Affiliated Stomatological Hospital, State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University , Nanjing 210029 ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Yili Liu",
-            "affiliations": [
-              "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine , Shanghai 200011 ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Fei Jiang",
-            "affiliations": [
-              "Department of Oral Implantology, the Affiliated Stomatological Hospital, State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University , Nanjing 210029 ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Junjun Jing",
-            "affiliations": [
-              "State Key Laboratory of Oral Diseases, National Center for Stomatology, National Clinical Research Center for Oral Diseases, West China Hospital of Stomatology, Sichuan University , Chengdu 610041 ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Jiahui Du",
-            "affiliations": [
-              "Department of Prosthodontics, Shanghai Stomatological Hospital & School of Stomatology, Fudan University , Shanghai 201102 ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Xinquan Jiang",
-            "affiliations": [
-              "Department of Prosthodontics, Shanghai Stomatological Hospital & School of Stomatology, Fudan University , Shanghai 201102 ,"
-            ],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
-        ]
-      },
       "Europe PMC": {
         "authors": [
           {
@@ -1211,6 +1565,62 @@
         "publicationTypes": [
           "Journal Article"
         ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Weidong Liu",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Stomatological Hospital & School of Stomatology, Fudan University , Shanghai 201102 ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Chenghao Jiang",
+            "affiliations": [
+              "Department of Oral Implantology, the Affiliated Stomatological Hospital, State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University , Nanjing 210029 ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Yili Liu",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine , Shanghai 200011 ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Fei Jiang",
+            "affiliations": [
+              "Department of Oral Implantology, the Affiliated Stomatological Hospital, State Key Laboratory Cultivation Base of Research, Prevention and Treatment for Oral Diseases, Nanjing Medical University , Nanjing 210029 ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Junjun Jing",
+            "affiliations": [
+              "State Key Laboratory of Oral Diseases, National Center for Stomatology, National Clinical Research Center for Oral Diseases, West China Hospital of Stomatology, Sichuan University , Chengdu 610041 ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jiahui Du",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Stomatological Hospital & School of Stomatology, Fudan University , Shanghai 201102 ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Xinquan Jiang",
+            "affiliations": [
+              "Department of Prosthodontics, Shanghai Stomatological Hospital & School of Stomatology, Fudan University , Shanghai 201102 ,"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
       }
     },
     "grade": "A",
@@ -1238,6 +1648,135 @@
     "firstSeenAt": "2026-11-03T00:44:08.731621+00:00",
     "lastSeenAt": "2026-11-03T00:44:08.731621+00:00",
     "discoveryKind": "new"
+  },
+  {
+    "id": "10.1016/j.stem.2026.10.002",
+    "doi": "10.1016/j.stem.2026.10.002",
+    "title": "Enabling autonomous remodeling in bone organoids",
+    "abstract": "Recreating bone remodeling remains challenging in bone organoids. In this issue of Cell Stem Cell, Pinho et al. 1 develop bone organoids within liquefied microcapsules that support osteoblast, osteocyte, and osteoclast differentiation without exogenous differentiation inducers. This model supports matrix deposition and resorption, enabling investigation of cellular interactions underlying bone remodeling.",
+    "journal": "Cell Stem Cell",
+    "journalId": "cell-stem-cell",
+    "date": "2026-11-01",
+    "datePrecision": "month",
+    "url": "https://doi.org/10.1016/j.stem.2026.10.002",
+    "sources": [
+      "Crossref",
+      "Europe PMC"
+    ],
+    "sourceIds": {
+      "Crossref": "10.1016/j.stem.2026.10.002",
+      "Europe PMC": "42987793"
+    },
+    "onlineDate": null,
+    "onlineDatePrecision": "partial",
+    "authors": [
+      {
+        "name": "Dong Z",
+        "affiliations": [
+          "Department of Orthopedics, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, P.R. China; Institute of Musculoskeletal Injury and Translational Medicine of Organoids, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, P.R. China."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Wu Y",
+        "affiliations": [
+          "Department of Orthopedics, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, P.R. China; Institute of Musculoskeletal Injury and Translational Medicine of Organoids, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, P.R. China."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Su J",
+        "affiliations": [
+          "Department of Orthopedics, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, P.R. China; Institute of Musculoskeletal Injury and Translational Medicine of Organoids, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, P.R. China; Organoid Research Center, Institute of Translational Medicine, Shanghai University, Shanghai, P.R. China. Electronic address: jiacansu@shu.edu.cn."
+        ],
+        "source": "Europe PMC"
+      }
+    ],
+    "publicationTypes": [
+      "Comment",
+      "Journal Article",
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Zhenglin Dong",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Yan Wu",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jiacan Su",
+            "affiliations": [],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      },
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Dong Z",
+            "affiliations": [
+              "Department of Orthopedics, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, P.R. China; Institute of Musculoskeletal Injury and Translational Medicine of Organoids, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, P.R. China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Wu Y",
+            "affiliations": [
+              "Department of Orthopedics, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, P.R. China; Institute of Musculoskeletal Injury and Translational Medicine of Organoids, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, P.R. China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Su J",
+            "affiliations": [
+              "Department of Orthopedics, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, P.R. China; Institute of Musculoskeletal Injury and Translational Medicine of Organoids, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, P.R. China; Organoid Research Center, Institute of Translational Medicine, Shanghai University, Shanghai, P.R. China. Electronic address: jiacansu@shu.edu.cn."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "Comment",
+          "Journal Article"
+        ]
+      }
+    },
+    "grade": "A",
+    "score": 13,
+    "topics": [
+      "B 骨代谢与骨重塑",
+      "E 可迁移基础发现与技术"
+    ],
+    "pending": false,
+    "evidence": {
+      "B 骨代谢与骨重塑": [
+        "osteoblast",
+        "osteoclast",
+        "bone remodeling",
+        "osteocyte"
+      ],
+      "E 可迁移基础发现与技术": [
+        "stem cell",
+        "organoid"
+      ]
+    },
+    "reason": "规则命中：osteoblast, osteoclast, bone remodeling, osteocyte；stem cell, organoid；分级仅表示关键词证据，未经语义或人工验证。",
+    "rulesVersion": "2.0",
+    "inspirationScore": 0,
+    "transferMechanisms": [],
+    "evidenceScope": "直接领域词汇证据",
+    "firstSeenAt": "2026-11-06T00:46:18.590898+00:00",
+    "lastSeenAt": "2026-11-10T00:44:06.589877+00:00",
+    "discoveryKind": "historical-rediscovery"
   },
   {
     "id": "10.1016/j.stem.2026.09.014",
@@ -1328,57 +1867,121 @@
   {
     "id": "10.1016/j.celrep.2026.118242",
     "doi": "10.1016/j.celrep.2026.118242",
-    "title": "Plagl2 reprograms adult mouse retinal Müller glia for proliferation and injury-enhanced neurogenic competence",
-    "abstract": "",
+    "title": "Plagl2 reprograms adult mouse retinal Müller glia for proliferation and injury-enhanced neurogenic competence.",
+    "abstract": "Müller glia (MG) in the adult mammalian retina have long been recognized as a potential endogenous source for the regeneration of lost retinal neurons. However, existing MG reprogramming strategies yield an incomplete regenerative response by favoring either proliferation or neurogenic differentiation. Here, we show that the zinc-finger transcription factor gene Plagl2, previously shown to reactivate quiescent neural stem cells, is sufficient to reprogram adult mouse MG into a progenitor-like state with coupled proliferative and neurogenic competence. Using histology, time-lapse imaging, and single-cell transcriptomics, we find that Plagl2 drives regulated rounds of MG cell cycle re-entry, while N-methyl-D-aspartate-induced retinal injury further promotes the acquisition of neurogenic competence biased toward inner nuclear layer neuronal identities. These findings indicate that Plagl2 regulates mammalian MG reprogramming, and supports a broader approach to tissue regeneration through the adaptation of reprogramming modules across distinct cell types.",
     "journal": "Cell Reports",
     "journalId": "cell-reports",
     "date": "2026-11-01",
     "datePrecision": "month",
     "url": "https://doi.org/10.1016/j.celrep.2026.118242",
     "sources": [
-      "Crossref"
+      "Crossref",
+      "Europe PMC"
     ],
     "sourceIds": {
+      "Europe PMC": "42981189",
       "Crossref": "10.1016/j.celrep.2026.118242"
     },
     "onlineDate": null,
     "onlineDatePrecision": "partial",
     "authors": [
       {
-        "name": "Taimu Masaki",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Masaki T",
+        "affiliations": [
+          "Laboratory for Neural Stem Cell Research, RIKEN Center for Biosystems Dynamics Research, Hyogo 650-0047, Japan; Graduate School of Medicine, Kyoto University, Kyoto 606-8501, Japan."
+        ],
+        "source": "Europe PMC"
       },
       {
-        "name": "Mikiya Watanabe",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Watanabe M",
+        "affiliations": [
+          "Research Center, Kobe City Eye Hospital, Hyogo 650-0047, Japan; Cell and Gene Therapy in Ophthalmology Laboratory, RIKEN Baton Zone Program, Saitama 351-0198, Japan."
+        ],
+        "source": "Europe PMC"
       },
       {
-        "name": "Michiko Mandai",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Mandai M",
+        "affiliations": [
+          "Research Center, Kobe City Eye Hospital, Hyogo 650-0047, Japan; Laboratory for Animal Resources and Genetic Engineering, RIKEN Center for Biosystems Dynamics Research, Hyogo 650-0047, Japan; Research Organization of Science and Technology, Ritsumeikan University, Shiga 525-8577, Japan."
+        ],
+        "source": "Europe PMC"
       },
       {
-        "name": "Miho Kihara",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Kihara M",
+        "affiliations": [
+          "Laboratory for Animal Resources and Genetic Engineering, RIKEN Center for Biosystems Dynamics Research, Hyogo 650-0047, Japan."
+        ],
+        "source": "Europe PMC"
       },
       {
-        "name": "Takaya Abe",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Abe T",
+        "affiliations": [
+          "Laboratory for Animal Resources and Genetic Engineering, RIKEN Center for Biosystems Dynamics Research, Hyogo 650-0047, Japan."
+        ],
+        "source": "Europe PMC"
       },
       {
-        "name": "Ryoichiro Kageyama",
-        "affiliations": [],
-        "source": "Crossref"
+        "name": "Kageyama R",
+        "affiliations": [
+          "Laboratory for Neural Stem Cell Research, RIKEN Center for Biosystems Dynamics Research, Hyogo 650-0047, Japan; Graduate School of Medicine, Kyoto University, Kyoto 606-8501, Japan. Electronic address: ryoichiro.kageyama@riken.jp."
+        ],
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
+      "Journal Article",
       "journal-article"
     ],
     "metadataBySource": {
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Masaki T",
+            "affiliations": [
+              "Laboratory for Neural Stem Cell Research, RIKEN Center for Biosystems Dynamics Research, Hyogo 650-0047, Japan; Graduate School of Medicine, Kyoto University, Kyoto 606-8501, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Watanabe M",
+            "affiliations": [
+              "Research Center, Kobe City Eye Hospital, Hyogo 650-0047, Japan; Cell and Gene Therapy in Ophthalmology Laboratory, RIKEN Baton Zone Program, Saitama 351-0198, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Mandai M",
+            "affiliations": [
+              "Research Center, Kobe City Eye Hospital, Hyogo 650-0047, Japan; Laboratory for Animal Resources and Genetic Engineering, RIKEN Center for Biosystems Dynamics Research, Hyogo 650-0047, Japan; Research Organization of Science and Technology, Ritsumeikan University, Shiga 525-8577, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Kihara M",
+            "affiliations": [
+              "Laboratory for Animal Resources and Genetic Engineering, RIKEN Center for Biosystems Dynamics Research, Hyogo 650-0047, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Abe T",
+            "affiliations": [
+              "Laboratory for Animal Resources and Genetic Engineering, RIKEN Center for Biosystems Dynamics Research, Hyogo 650-0047, Japan."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Kageyama R",
+            "affiliations": [
+              "Laboratory for Neural Stem Cell Research, RIKEN Center for Biosystems Dynamics Research, Hyogo 650-0047, Japan; Graduate School of Medicine, Kyoto University, Kyoto 606-8501, Japan. Electronic address: ryoichiro.kageyama@riken.jp."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ]
+      },
       "Crossref": {
         "authors": [
           {
@@ -1417,12 +2020,20 @@
         ]
       }
     },
-    "grade": "C",
-    "score": 0,
-    "topics": [],
+    "grade": "B",
+    "score": 3,
+    "topics": [
+      "E 可迁移基础发现与技术"
+    ],
     "pending": true,
-    "evidence": {},
-    "reason": "未发现明确的目标领域词汇，作为低相关元数据归档。；摘要缺失或仅有可迁移线索，待人工确认。",
+    "evidence": {
+      "E 可迁移基础发现与技术": [
+        "stem cell",
+        "tissue regeneration",
+        "single-cell"
+      ]
+    },
+    "reason": "规则命中：stem cell, tissue regeneration, single-cell；摘要缺失或仅有可迁移线索，待人工确认。",
     "rulesVersion": "2.0",
     "inspirationScore": 0,
     "transferMechanisms": [],
@@ -1432,9 +2043,240 @@
     "discoveryKind": "new"
   },
   {
+    "id": "10.1016/j.celrep.2026.118239",
+    "doi": "10.1016/j.celrep.2026.118239",
+    "title": "Intermittent fasting enhances muscle regeneration via an EDA2R-NIK-myomixer axis.",
+    "abstract": "Skeletal muscle exhibits a remarkable regenerative capacity that relies on adult stem cells known as satellite cells (SCs), which differentiate into myogenic progenitors to drive muscle repair. How varying energy availability alters myogenesis, however, remains unknown. Here, we demonstrate that intermittent fasting (IF) in mice upregulates a myogenic gene program, including Myomixer, a muscle-specific fusogen that facilitates the merging of progenitor cells into myofibers. IF enhances the regeneration of injured muscles by expanding the SC population and promoting the proliferation and fusion of myogenic progenitors. These effects are absent in an SC-depletion model. We show that fasting-induced EDA2R-NIK signaling increases Myomixer expression and fusion in myoblasts. Notably, mice lacking EDA2R or NIK fail to respond to the myogenic effects of IF. Furthermore, our data suggest that mice with Duchenne muscular dystrophy also benefit from an IF regimen. Therefore, IF-induced regeneration holds potential for aiding recovery from muscle damage.",
+    "journal": "Cell Reports",
+    "journalId": "cell-reports",
+    "date": "2026-11-01",
+    "datePrecision": "month",
+    "url": "https://doi.org/10.1016/j.celrep.2026.118239",
+    "sources": [
+      "Crossref",
+      "Europe PMC"
+    ],
+    "sourceIds": {
+      "Europe PMC": "42982041",
+      "Crossref": "10.1016/j.celrep.2026.118239"
+    },
+    "authors": [
+      {
+        "name": "Arabaci DH",
+        "affiliations": [
+          "Department of Molecular Biology and Genetics, Koc University, Istanbul 34450, Türkiye."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Sucuoglu M",
+        "affiliations": [
+          "Department of Molecular Biology and Genetics, Koc University, Istanbul 34450, Türkiye."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Gokoglan FG",
+        "affiliations": [
+          "Department of Molecular Biology and Genetics, Koc University, Istanbul 34450, Türkiye."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Agca S",
+        "affiliations": [
+          "Department of Molecular Biology and Genetics, Koc University, Istanbul 34450, Türkiye."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Kizilyer A",
+        "affiliations": [
+          "Department of Molecular Biology and Genetics, Koc University, Istanbul 34450, Türkiye."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Gurel Z",
+        "affiliations": [
+          "Department of Molecular Biology and Genetics, Koc University, Istanbul 34450, Türkiye."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Uslucan C",
+        "affiliations": [
+          "Department of Molecular Biology and Genetics, Koc University, Istanbul 34450, Türkiye."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Serit I",
+        "affiliations": [
+          "Department of Molecular Biology and Genetics, Koc University, Istanbul 34450, Türkiye."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Kir S",
+        "affiliations": [
+          "Department of Molecular Biology and Genetics, Koc University, Istanbul 34450, Türkiye. Electronic address: skir@ku.edu.tr."
+        ],
+        "source": "Europe PMC"
+      }
+    ],
+    "publicationTypes": [
+      "Journal Article",
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Arabaci DH",
+            "affiliations": [
+              "Department of Molecular Biology and Genetics, Koc University, Istanbul 34450, Türkiye."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Sucuoglu M",
+            "affiliations": [
+              "Department of Molecular Biology and Genetics, Koc University, Istanbul 34450, Türkiye."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Gokoglan FG",
+            "affiliations": [
+              "Department of Molecular Biology and Genetics, Koc University, Istanbul 34450, Türkiye."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Agca S",
+            "affiliations": [
+              "Department of Molecular Biology and Genetics, Koc University, Istanbul 34450, Türkiye."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Kizilyer A",
+            "affiliations": [
+              "Department of Molecular Biology and Genetics, Koc University, Istanbul 34450, Türkiye."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Gurel Z",
+            "affiliations": [
+              "Department of Molecular Biology and Genetics, Koc University, Istanbul 34450, Türkiye."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Uslucan C",
+            "affiliations": [
+              "Department of Molecular Biology and Genetics, Koc University, Istanbul 34450, Türkiye."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Serit I",
+            "affiliations": [
+              "Department of Molecular Biology and Genetics, Koc University, Istanbul 34450, Türkiye."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Kir S",
+            "affiliations": [
+              "Department of Molecular Biology and Genetics, Koc University, Istanbul 34450, Türkiye. Electronic address: skir@ku.edu.tr."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "Journal Article"
+        ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Dilsad H. Arabaci",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Melis Sucuoglu",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Funda Gizem Gokoglan",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Samet Agca",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Aleyna Kizilyer",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Zubeyde Gurel",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Caroline Uslucan",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Ilayda Serit",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Serkan Kir",
+            "affiliations": [],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "grade": "B",
+    "score": 3,
+    "topics": [
+      "E 可迁移基础发现与技术"
+    ],
+    "pending": false,
+    "evidence": {
+      "E 可迁移基础发现与技术": [
+        "stem cell"
+      ]
+    },
+    "reason": "规则命中：stem cell；分级仅表示关键词证据，未经语义或人工验证。",
+    "rulesVersion": "2.0",
+    "inspirationScore": 0,
+    "transferMechanisms": [],
+    "evidenceScope": "直接领域词汇证据",
+    "firstSeenAt": "2026-11-05T00:47:47.886614+00:00",
+    "lastSeenAt": "2026-11-10T00:44:06.589877+00:00",
+    "discoveryKind": "historical-rediscovery"
+  },
+  {
     "id": "10.1038/s41413-026-00590-w",
     "doi": "10.1038/s41413-026-00590-w",
-    "title": "Metabolic reprogramming in macrophages: the central role of lipid metabolism in bone homeostasis.",
+    "title": "Metabolic reprogramming in macrophages: the central role of lipid metabolism in bone homeostasis",
     "abstract": "Abstract Macrophage lipid metabolism is a pivotal regulator of bone homeostasis. Macrophages orchestrate the balance between bone resorption and formation primarily through their M1/M2 polarization states, with M1 macrophages promoting resorption and M2 macrophages supporting formation. This review comprehensively describes how key lipid metabolic pathways, such as fatty acid oxidation (FAO) and cholesterol metabolism, govern this polarization and subsequent bone remodeling. It integrates the core mechanisms by which lipid metabolism drives M1 and M2 polarization, and highlights that targeting macrophage lipid metabolism represents a promising therapeutic strategy for bone diseases. Finally, we identify emerging frontiers, including the “gut-bone axis” and epigenetic regulation, as critical directions for future research.",
     "journal": "Bone Research",
     "journalId": "bone-research",
@@ -1446,8 +2288,8 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Europe PMC": "42963349",
-      "Crossref": "10.1038/s41413-026-00590-w"
+      "Crossref": "10.1038/s41413-026-00590-w",
+      "Europe PMC": "42963349"
     },
     "onlineDate": "2026-10-30",
     "onlineDatePrecision": "day",
@@ -1559,6 +2401,68 @@
       "review-article"
     ],
     "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Longping Li",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Yuxiao Zhang",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Shuo Huang",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Yang Xiao",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Genyu Liu",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Zhengjie Wu",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Yiqian Hu",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Shiqiang Gong",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jing Mao",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Ke Song",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Qilin Li",
+            "affiliations": [],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      },
       "Europe PMC": {
         "authors": [
           {
@@ -1665,68 +2569,6 @@
           "review-article",
           "Review",
           "Journal Article"
-        ]
-      },
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Longping Li",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Yuxiao Zhang",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Shuo Huang",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Yang Xiao",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Genyu Liu",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Zhengjie Wu",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Yiqian Hu",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Shiqiang Gong",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Jing Mao",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Ke Song",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Qilin Li",
-            "affiliations": [],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
         ]
       }
     },
@@ -2445,7 +3287,7 @@
   {
     "id": "10.1093/jbmr/zjag148",
     "doi": "10.1093/jbmr/zjag148",
-    "title": "Clonal Hematopoiesis of Indeterminate Potential and Bone Mineral Density in Cohorts from Trans-Omics for Precision Medicine",
+    "title": "Clonal Hematopoiesis of Indeterminate Potential and Bone Mineral Density in Cohorts from Trans-Omics for Precision Medicine.",
     "abstract": "Abstract A somatic mutation causing clonal expansion in hematopoietic stem cells (HSC), but not resulting in hematologic malignancy, is termed clonal hematopoiesis of indeterminate potential (CHIP). CHIP is associated with non-hematologic disorders, including accelerated atherosclerosis, heart failure, ischemic stroke, gout, liver disease, and kidney disease. Because osteoclasts are derived from the macrophage-monocyte lineage of HSCs, changes in the bone marrow niche due to CHIP may drive changes in BMD. To investigate whether CHIP may be related to BMD, we used CHIP mutation calls from the Trans-omics for Precision Medicine (TOPMed) whole genome sequencing data and DXA derived BMD from multiple cohorts. Data from the the Amish cohort, Cardiovascular Health Study, the Framingham Heart Study, San Antonio Family Study, and the Women’s Health Initiative were combined for analysis. Multiple linear regression was used to determine the association between CHIP mutation status and BMD, adjusting for cohort, age, age,2 sex, and, for family-based cohorts, empiric kinship estimated from genotype data. CHIP mutation status was analyzed both as a binary variable (any CHIP mutation) and as an ordinal variable (no CHIP mutation, 1 CHIP mutation in any gene, two or more CHIP mutations in a single gene, two or more CHIP mutations in different genes). A total of 3368 samples had both CHIP and BMD data, and 10.9% of samples contained any CHIP mutation. The presence of any CHIP mutations was not associated with either femoral neck or lumbar spine BMD; however, the presence of two or more CHIP mutations in different genes was positively associated with LSBMD (beta = 0.36, p = .015). We found no overall association between the presence of CHIP mutations and BMD in a large, diverse sample of genomes. Our findings of greater BMD in persons harboring multiple CHIP mutations confirm mouse models demonstrating that Dnmt3a and Tet2 mutations independently cause increased BMD.",
     "journal": "Journal of Bone and Mineral Research",
     "journalId": "jbmr",
@@ -2457,106 +3299,106 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1093/jbmr/zjag148",
-      "Europe PMC": "42949023"
+      "Europe PMC": "42949023",
+      "Crossref": "10.1093/jbmr/zjag148"
     },
     "onlineDate": "2026-10-28",
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "Douglas P Kiel",
+        "name": "Kiel DP",
         "affiliations": [
-          "Hinda and Arthur Marcus Institute for Aging Research and Department of Medicine, Hebrew SeniorLife , Boston, Massachusetts ,",
-          "Department of Medicine, Beth Israel Deaconess Medical Center , Boston, MA ,",
-          "Department of Medicine, Harvard Medical School , Boston, MA ,"
+          "Hinda and Arthur Marcus Institute for Aging Research and Department of Medicine, Hebrew SeniorLife, Boston, Massachusetts, United States.",
+          "Department of Medicine, Beth Israel Deaconess Medical Center, Boston, MA, United States.",
+          "Department of Medicine, Harvard Medical School, Boston, MA, United States."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Wingel Xue",
+        "name": "Xue W",
         "affiliations": [
-          "Department of Medicine, Harvard Medical School , Boston, MA ,"
+          "Department of Medicine, Harvard Medical School, Boston, MA, United States."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Hanfei Xu",
+        "name": "Xu H",
         "affiliations": [
-          "Department of Biostatistics, Boston University School of Public Health , Boston, MA ,"
+          "Department of Biostatistics, Boston University School of Public Health, Boston, MA, United States."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Alexander Bick",
+        "name": "Bick A",
         "affiliations": [
-          "Vanderbilt University Medical Center , Nashville, TN ,"
+          "Vanderbilt University Medical Center, Nashville, TN, United States."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Carolyn J Crandall",
+        "name": "Crandall CJ",
         "affiliations": [
-          "David Geffen School of Medicine at University of California , Los Angeles, CA ,"
+          "David Geffen School of Medicine at University of California, Los Angeles, CA, United States."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Yi-Hsiang Hsu",
+        "name": "Hsu YH",
         "affiliations": [
-          "Hinda and Arthur Marcus Institute for Aging Research and Department of Medicine, Hebrew SeniorLife , Boston, Massachusetts ,",
-          "Department of Medicine, Beth Israel Deaconess Medical Center , Boston, MA ,",
-          "Department of Medicine, Harvard Medical School , Boston, MA ,"
+          "Hinda and Arthur Marcus Institute for Aging Research and Department of Medicine, Hebrew SeniorLife, Boston, Massachusetts, United States.",
+          "Department of Medicine, Beth Israel Deaconess Medical Center, Boston, MA, United States.",
+          "Department of Medicine, Harvard Medical School, Boston, MA, United States."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "David Karasik",
+        "name": "Karasik D",
         "affiliations": [
-          "Hinda and Arthur Marcus Institute for Aging Research and Department of Medicine, Hebrew SeniorLife , Boston, Massachusetts ,"
+          "Hinda and Arthur Marcus Institute for Aging Research and Department of Medicine, Hebrew SeniorLife, Boston, Massachusetts, United States."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Braxton D Mitchell",
+        "name": "Mitchell BD",
         "affiliations": [
-          "Department of Medicine, University of Maryland School of Medicine , Baltimore, MD ,"
+          "Department of Medicine, University of Maryland School of Medicine, Baltimore, MD, United States."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "May E Montasser",
+        "name": "Montasser ME",
         "affiliations": [
-          "Department of Medicine, University of Maryland School of Medicine , Baltimore, MD ,"
+          "Department of Medicine, University of Maryland School of Medicine, Baltimore, MD, United States."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Joshua S Weinstock",
+        "name": "Weinstock JS",
         "affiliations": [
-          "Department of Human Genetics, Emory University School of Medicine , Atlanta, GA ,"
+          "Department of Human Genetics, Emory University School of Medicine, Atlanta, GA, United States."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Kerri L Wiggins",
+        "name": "Wiggins KL",
         "affiliations": [
-          "Cardiovascular Health Research Unit, Department of Medicine, University of Washington , Seattle, WA ,"
+          "Cardiovascular Health Research Unit, Department of Medicine, University of Washington, Seattle, WA, United States."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Ching- Ti Liu",
+        "name": "Liu CT",
         "affiliations": [
-          "Department of Biostatistics, Boston University School of Public Health , Boston, MA ,"
+          "Department of Biostatistics, Boston University School of Public Health, Boston, MA, United States."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Rebecca D Jackson",
+        "name": "Jackson RD",
         "affiliations": [
-          "Medicine, Ohio State University Health System"
+          "Medicine, Ohio State University Health System."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
@@ -2565,108 +3407,6 @@
       "research-article"
     ],
     "metadataBySource": {
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Douglas P Kiel",
-            "affiliations": [
-              "Hinda and Arthur Marcus Institute for Aging Research and Department of Medicine, Hebrew SeniorLife , Boston, Massachusetts ,",
-              "Department of Medicine, Beth Israel Deaconess Medical Center , Boston, MA ,",
-              "Department of Medicine, Harvard Medical School , Boston, MA ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Wingel Xue",
-            "affiliations": [
-              "Department of Medicine, Harvard Medical School , Boston, MA ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Hanfei Xu",
-            "affiliations": [
-              "Department of Biostatistics, Boston University School of Public Health , Boston, MA ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Alexander Bick",
-            "affiliations": [
-              "Vanderbilt University Medical Center , Nashville, TN ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Carolyn J Crandall",
-            "affiliations": [
-              "David Geffen School of Medicine at University of California , Los Angeles, CA ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Yi-Hsiang Hsu",
-            "affiliations": [
-              "Hinda and Arthur Marcus Institute for Aging Research and Department of Medicine, Hebrew SeniorLife , Boston, Massachusetts ,",
-              "Department of Medicine, Beth Israel Deaconess Medical Center , Boston, MA ,",
-              "Department of Medicine, Harvard Medical School , Boston, MA ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "David Karasik",
-            "affiliations": [
-              "Hinda and Arthur Marcus Institute for Aging Research and Department of Medicine, Hebrew SeniorLife , Boston, Massachusetts ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Braxton D Mitchell",
-            "affiliations": [
-              "Department of Medicine, University of Maryland School of Medicine , Baltimore, MD ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "May E Montasser",
-            "affiliations": [
-              "Department of Medicine, University of Maryland School of Medicine , Baltimore, MD ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Joshua S Weinstock",
-            "affiliations": [
-              "Department of Human Genetics, Emory University School of Medicine , Atlanta, GA ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Kerri L Wiggins",
-            "affiliations": [
-              "Cardiovascular Health Research Unit, Department of Medicine, University of Washington , Seattle, WA ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Ching- Ti Liu",
-            "affiliations": [
-              "Department of Biostatistics, Boston University School of Public Health , Boston, MA ,"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Rebecca D Jackson",
-            "affiliations": [
-              "Medicine, Ohio State University Health System"
-            ],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
-        ]
-      },
       "Europe PMC": {
         "authors": [
           {
@@ -2769,6 +3509,108 @@
           "research-article",
           "Journal Article"
         ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Douglas P Kiel",
+            "affiliations": [
+              "Hinda and Arthur Marcus Institute for Aging Research and Department of Medicine, Hebrew SeniorLife , Boston, Massachusetts ,",
+              "Department of Medicine, Beth Israel Deaconess Medical Center , Boston, MA ,",
+              "Department of Medicine, Harvard Medical School , Boston, MA ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Wingel Xue",
+            "affiliations": [
+              "Department of Medicine, Harvard Medical School , Boston, MA ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Hanfei Xu",
+            "affiliations": [
+              "Department of Biostatistics, Boston University School of Public Health , Boston, MA ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Alexander Bick",
+            "affiliations": [
+              "Vanderbilt University Medical Center , Nashville, TN ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Carolyn J Crandall",
+            "affiliations": [
+              "David Geffen School of Medicine at University of California , Los Angeles, CA ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Yi-Hsiang Hsu",
+            "affiliations": [
+              "Hinda and Arthur Marcus Institute for Aging Research and Department of Medicine, Hebrew SeniorLife , Boston, Massachusetts ,",
+              "Department of Medicine, Beth Israel Deaconess Medical Center , Boston, MA ,",
+              "Department of Medicine, Harvard Medical School , Boston, MA ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "David Karasik",
+            "affiliations": [
+              "Hinda and Arthur Marcus Institute for Aging Research and Department of Medicine, Hebrew SeniorLife , Boston, Massachusetts ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Braxton D Mitchell",
+            "affiliations": [
+              "Department of Medicine, University of Maryland School of Medicine , Baltimore, MD ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "May E Montasser",
+            "affiliations": [
+              "Department of Medicine, University of Maryland School of Medicine , Baltimore, MD ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Joshua S Weinstock",
+            "affiliations": [
+              "Department of Human Genetics, Emory University School of Medicine , Atlanta, GA ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Kerri L Wiggins",
+            "affiliations": [
+              "Cardiovascular Health Research Unit, Department of Medicine, University of Washington , Seattle, WA ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Ching- Ti Liu",
+            "affiliations": [
+              "Department of Biostatistics, Boston University School of Public Health , Boston, MA ,"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Rebecca D Jackson",
+            "affiliations": [
+              "Medicine, Ohio State University Health System"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
       }
     },
     "grade": "A",
@@ -2803,7 +3645,7 @@
   {
     "id": "10.1038/s41551-026-01819-z",
     "doi": "10.1038/s41551-026-01819-z",
-    "title": "Cartilage-binding coacervate with therapeutic payload delivery and biomimetic lubrication alleviates osteoarthritis by reducing joint friction and inflammation",
+    "title": "Cartilage-binding coacervate with therapeutic payload delivery and biomimetic lubrication alleviates osteoarthritis by reducing joint friction and inflammation.",
     "abstract": "Healthy articular cartilage maintains ultralow friction through the lipid/hyaluronic acid/lubricin complex lubrication layer, in which the zwitterionic lipids mediate lubrication and the hyaluronic acid and lubricin anchor to cartilage matrix. However, in osteoarthritis this lubrication system is progressively degraded, leading to increased cartilage wear and joint dysfunction. Therefore, early and lubrication-based intervention is urgently needed. Here we present biomimetic polyzwitterionic coacervates (pZCOs) that recapitulate both the lubrication and cartilage-binding functionalities of the natural boundary lubrication layer. pZCOs exhibit strong binding affinity to fibronectin, establish a stable and ultralow-friction lubrication layer on the cartilage surface, facilitate the sustained release of anti-inflammatory drugs, and preserve the viability and anti-inflammatory paracrine secretion of encapsulated mesenchymal stem cells. In both rat and mini-pig models of osteoarthritis, intra-articular administration of drug/MSC-laden pZCOs effectively reduces cartilage degradation, suppresses inflammation and promotes cartilage integrity, outperforming clinical hyaluronic acid lubricants in lubrication performance, in vivo retention and therapeutic efficacy. These findings highlight the translational potential of engineered biomimetic coacervates as next-generation joint lubricants for integrated management of osteoarthritis.",
     "journal": "Nature Biomedical Engineering",
     "journalId": "nature-biomedical-engineering",
@@ -2815,8 +3657,8 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1038/s41551-026-01819-z",
-      "Europe PMC": "42946753"
+      "Europe PMC": "42946753",
+      "Crossref": "10.1038/s41551-026-01819-z"
     },
     "authors": [
       {
@@ -2901,58 +3743,6 @@
       "journal-article"
     ],
     "metadataBySource": {
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Sirong Chen",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Tianshen Jiang",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Xiaorou Qiu",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Ruitong Luo",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Haiyang Yao",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Ruinan Wang",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Zhuo Li",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Pengchao Zhao",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Liming Bian",
-            "affiliations": [],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
-        ]
-      },
       "Europe PMC": {
         "authors": [
           {
@@ -3035,6 +3825,58 @@
         "publicationTypes": [
           "Journal Article"
         ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Sirong Chen",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Tianshen Jiang",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Xiaorou Qiu",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Ruitong Luo",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Haiyang Yao",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Ruinan Wang",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Zhuo Li",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Pengchao Zhao",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Liming Bian",
+            "affiliations": [],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
       }
     },
     "onlineDate": "2026-10-27",
@@ -3066,7 +3908,7 @@
   {
     "id": "10.1038/s41413-026-00584-8",
     "doi": "10.1038/s41413-026-00584-8",
-    "title": "KMT2C and KMT2D regulate skeletal development through stage-specific epigenetic control of chondrogenesis.",
+    "title": "KMT2C and KMT2D regulate skeletal development through stage-specific epigenetic control of chondrogenesis",
     "abstract": "Abstract Many craniofacial disorders linked to mutations in enhancer-associated chromatin modifiers, including Kabuki syndrome (KS), present with skeletal abnormalities. KS is a craniofacial developmental disorder characterized by mutations in KMT2D, a histone H3 lysine 4 (H3K4) methyltransferase. The cellular origins and molecular pathways leading to KMT2D-dependent skeletal deficits in KS are not well characterized. We previously demonstrated that KMT2D deletion in mouse cranial neural crest cells (cNCCs), multipotent stem cells contributing to craniofacial structures, impairs chondrocyte hypertrophic differentiation. Although we observed defects in cNCC endochondral ossification, KMT2D’s broader skeletal role remains unclear and its functional redundancy in skeletal development with its paralog, KMT2C, is understudied. We now find that KMT2D mutation within chondrocyte lineages results in postnatal growth defects. Chondrocytes deficient in both methyltransferases yield severe deficits in bone formation, revealing redundant roles for KMT2C/D in endochondral ossification. These methyltransferases regulate chondrocyte state transitions as hypertrophic differentiation is impaired with loss of KMT2C/D. When both methyltransferases are deleted in stem cell lineages, cNCCs fail to induce factors downstream of SOX9 activation. At the molecular level, H3K4me1 is lost at de novo chondrocyte enhancers essential for skeletal development, accompanied by reduced H3K27ac deposition, indicating KMT2C/D-dependent enhancer priming. We indicate roles for KMT2C/D in facilitating activation of genes downstream of SOX9 and RUNX2 transcription factors. Our findings define a regulatory cascade mediated by chromatin-level modifications to ensure commitment of chondrocyte lineages, expanding the known roles of histone modifiers and offering insights into the epigenetic underpinnings of skeletal dysplasia and related congenital disorders.",
     "journal": "Bone Research",
     "journalId": "bone-research",
@@ -3078,8 +3920,8 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Europe PMC": "42946707",
-      "Crossref": "10.1038/s41413-026-00584-8"
+      "Crossref": "10.1038/s41413-026-00584-8",
+      "Europe PMC": "42946707"
     },
     "onlineDate": "2026-10-27",
     "onlineDatePrecision": "day",
@@ -3163,6 +4005,63 @@
       "research-article"
     ],
     "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Gabrielle Quickstad",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Dimitrios V. Bikas",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Marielle L. Bond",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Sara Vardabasso",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Andrew N. Wyper",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Young-Kwon Park",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Kai Ge",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Richard F. Loeser",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Terry Magnuson",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Karl B. Shpargel",
+            "affiliations": [],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      },
       "Europe PMC": {
         "authors": [
           {
@@ -3241,63 +4140,6 @@
         "publicationTypes": [
           "research-article",
           "Journal Article"
-        ]
-      },
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Gabrielle Quickstad",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Dimitrios V. Bikas",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Marielle L. Bond",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Sara Vardabasso",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Andrew N. Wyper",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Young-Kwon Park",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Kai Ge",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Richard F. Loeser",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Terry Magnuson",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Karl B. Shpargel",
-            "affiliations": [],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
         ]
       }
     },
