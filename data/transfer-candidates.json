@@ -2,7 +2,7 @@
   {
     "id": "10.1016/j.celrep.2026.118246",
     "doi": "10.1016/j.celrep.2026.118246",
-    "title": "The YAP/TAZ-Tgfbr2-stiffness feedback loop governs divergent cell fates of muscle-resident mesenchymal progenitors.",
+    "title": "The YAP/TAZ-Tgfbr2-stiffness feedback loop governs divergent cell fates of muscle-resident mesenchymal progenitors",
     "abstract": "Mesenchymal progenitors are essential for muscle regeneration, but also contribute to fat accumulation and fibrosis. Several extrinsic and intrinsic factors regulating adipogenic or fibrogenic differentiation of mesenchymal progenitors have been identified. However, it remains unclear how different cues are integrated to determine cell fate. Here, we demonstrate that interstitial stiffness and the mechanosensitive hippo pathway regulate mesenchymal progenitor cell fate. Fat accumulation model reduced interstitial stiffness and nuclear YAP/TAZ-positive mesenchymal progenitors compared with a regeneration model, whereas YAP/TAZ deficiency in mesenchymal progenitors enhanced fat deposition. Mechanistically, YAP/TAZ induced expression of the anti-adipogenic genes Aldh1a2 and Wnt5a, and the pro-fibrogenic gene Tgfbr2, which mediates TGF-β binding. Loss of Tgfbr2 in mesenchymal progenitors reduced transient collagen deposition, decreased stiffness, and increased fat accumulation during regeneration. We propose a stiffness-YAP/TAZ-Tgfbr2-collagen regulatory loop governing mesenchymal progenitor cell fate and highlight its importance for optimal muscle regeneration.",
     "journal": "Cell Reports",
     "journalId": "cell-reports",
@@ -14,9 +14,11 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Europe PMC": "42981197",
-      "Crossref": "10.1016/j.celrep.2026.118246"
+      "Crossref": "10.1016/j.celrep.2026.118246",
+      "Europe PMC": "42981197"
     },
+    "onlineDate": null,
+    "onlineDatePrecision": "partial",
     "authors": [
       {
         "name": "Iwamori K",
@@ -157,6 +159,108 @@
       "journal-article"
     ],
     "metadataBySource": {
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Kanako Iwamori",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Momoka Horikiri",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Atsushi Kubo",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Kosuke Tokiwa",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Taku Fukushima",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Nanami Sakurai",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Daiki Mori",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Ayasa Nakamura",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Miyu Kimura",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Nana Taniguchi",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Tamaki Kurosawa",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Madoka Ikemoto-Uezumi",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Lidan Zhang",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Shuichi Watanabe",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Hiroshi Y. Yoshikawa",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Thomas Braun",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Akiyoshi Uezumi",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "Takahisa Matsuzaki",
+            "affiliations": [],
+            "source": "Crossref"
+          },
+          {
+            "name": "So-ichiro Fukada",
+            "affiliations": [],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      },
       "Europe PMC": {
         "authors": [
           {
@@ -296,108 +400,6 @@
         "publicationTypes": [
           "Journal Article"
         ]
-      },
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Kanako Iwamori",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Momoka Horikiri",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Atsushi Kubo",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Kosuke Tokiwa",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Taku Fukushima",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Nanami Sakurai",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Daiki Mori",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Ayasa Nakamura",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Miyu Kimura",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Nana Taniguchi",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Tamaki Kurosawa",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Madoka Ikemoto-Uezumi",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Lidan Zhang",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Shuichi Watanabe",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Hiroshi Y. Yoshikawa",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Thomas Braun",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Akiyoshi Uezumi",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "Takahisa Matsuzaki",
-            "affiliations": [],
-            "source": "Crossref"
-          },
-          {
-            "name": "So-ichiro Fukada",
-            "affiliations": [],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
-        ]
       }
     },
     "grade": "C",
@@ -419,7 +421,7 @@
     ],
     "evidenceScope": "可能迁移的科学原理，未验证骨/牙周适用性",
     "firstSeenAt": "2026-11-05T00:47:47.886614+00:00",
-    "lastSeenAt": "2026-11-10T00:44:06.589877+00:00",
+    "lastSeenAt": "2026-11-11T00:43:38.616142+00:00",
     "discoveryKind": "historical-rediscovery",
     "temporary": true,
     "expiresAt": "2026-11-19T00:47:47.886614+00:00"
