@@ -1,5 +1,281 @@
 [
   {
+    "id": "10.1111/jcpe.70226",
+    "doi": "10.1111/jcpe.70226",
+    "title": "Neutrophil Extracellular Traps Contribute to Peri-Implant Bone Loss: Insights Into Pro-Inflammatory Macrophage-Neutrophil Crosstalk.",
+    "abstract": "ABSTRACT Aims To investigate the contribution of neutrophil extracellular traps (NETs) to peri‐implant bone loss and explore upstream cellular mechanisms associated with aberrant NETosis. Materials and Methods Clinical specimens were analysed for NET formation and inflammatory markers. A rat peri‐implantitis (PI) model with local DNase I treatment was used to evaluate the contribution of NETs to peri‐implant bone loss. Single‐cell and spatial transcriptomics, cell–cell communication analyses and functional experiments were integrated to investigate macrophage–neutrophil interactions. Results NET‐associated markers were increased in PI specimens and correlated with inflammatory cytokines. DNase I attenuated peri‐implant bone resorption and inflammation in rats. Integrated transcriptomic analyses identified a NETosis‐associated neutrophil subpopulation (NNeu) with a prominent NET‐forming phenotype. Spatial proximity and cell–cell communication analyses identified pro‐inflammatory macrophages (PMac) as a candidate upstream population. Mechanistically, PMac‐derived macrophage migration inhibitory factor (MIF) promoted NETosis through CD74–p38 MAPK signalling in vitro, while experimental modulation of MIF–CD74 signalling in vivo was accompanied by corresponding changes in NET formation, inflammation and peri‐implant bone loss. Conclusions NETs contribute to inflammatory bone loss in an experimental PI model. in vitro findings further suggest that pro‐inflammatory macrophage–neutrophil crosstalk regulates NET formation through MIF–CD74–p38 MAPK signalling, highlighting a potential immunomodulatory target.",
+    "journal": "Journal of Clinical Periodontology",
+    "journalId": "jcp",
+    "date": "2026-11-13",
+    "datePrecision": "day",
+    "url": "https://doi.org/10.1111/jcpe.70226",
+    "sources": [
+      "Crossref",
+      "Europe PMC"
+    ],
+    "sourceIds": {
+      "Europe PMC": "43021680",
+      "Crossref": "10.1111/jcpe.70226"
+    },
+    "authors": [
+      {
+        "name": "Li Y",
+        "affiliations": [
+          "Department of Oral Implantology, The Affiliated Hospital of Qingdao University, Qingdao University, Qingdao, China.",
+          "School of Stomatology, Qingdao University, Qingdao, China."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Yang C",
+        "affiliations": [
+          "Department of Dermatology, The Affiliated Hospital of Qingdao University, Qingdao University, Qingdao, China."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Li X",
+        "affiliations": [
+          "Department of Oral Implantology, The Affiliated Hospital of Qingdao University, Qingdao University, Qingdao, China.",
+          "School of Stomatology, Qingdao University, Qingdao, China."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Zhang W",
+        "affiliations": [
+          "School of Stomatology, Qingdao University, Qingdao, China."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Wang D",
+        "affiliations": [
+          "Department of Oral Implantology, The Affiliated Hospital of Qingdao University, Qingdao University, Qingdao, China.",
+          "School of Stomatology, Qingdao University, Qingdao, China."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Xing Y",
+        "affiliations": [
+          "Department of Stomatology, Zhongshan Hospital of Fudan University, Fudan University, Shanghai, China."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Yu Y",
+        "affiliations": [
+          "Department of Stomatology, Zhongshan Hospital of Fudan University, Fudan University, Shanghai, China."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Zhao B",
+        "affiliations": [
+          "Department of Oral Implantology, The Affiliated Hospital of Qingdao University, Qingdao University, Qingdao, China.",
+          "School of Stomatology, Qingdao University, Qingdao, China."
+        ],
+        "source": "Europe PMC"
+      },
+      {
+        "name": "Li F",
+        "affiliations": [
+          "Department of Oral Implantology, The Affiliated Hospital of Qingdao University, Qingdao University, Qingdao, China.",
+          "School of Stomatology, Qingdao University, Qingdao, China."
+        ],
+        "source": "Europe PMC"
+      }
+    ],
+    "publicationTypes": [
+      "IM",
+      "Journal Article",
+      "journal-article"
+    ],
+    "metadataBySource": {
+      "Europe PMC": {
+        "authors": [
+          {
+            "name": "Li Y",
+            "affiliations": [
+              "Department of Oral Implantology, The Affiliated Hospital of Qingdao University, Qingdao University, Qingdao, China.",
+              "School of Stomatology, Qingdao University, Qingdao, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Yang C",
+            "affiliations": [
+              "Department of Dermatology, The Affiliated Hospital of Qingdao University, Qingdao University, Qingdao, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Li X",
+            "affiliations": [
+              "Department of Oral Implantology, The Affiliated Hospital of Qingdao University, Qingdao University, Qingdao, China.",
+              "School of Stomatology, Qingdao University, Qingdao, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Zhang W",
+            "affiliations": [
+              "School of Stomatology, Qingdao University, Qingdao, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Wang D",
+            "affiliations": [
+              "Department of Oral Implantology, The Affiliated Hospital of Qingdao University, Qingdao University, Qingdao, China.",
+              "School of Stomatology, Qingdao University, Qingdao, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Xing Y",
+            "affiliations": [
+              "Department of Stomatology, Zhongshan Hospital of Fudan University, Fudan University, Shanghai, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Yu Y",
+            "affiliations": [
+              "Department of Stomatology, Zhongshan Hospital of Fudan University, Fudan University, Shanghai, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Zhao B",
+            "affiliations": [
+              "Department of Oral Implantology, The Affiliated Hospital of Qingdao University, Qingdao University, Qingdao, China.",
+              "School of Stomatology, Qingdao University, Qingdao, China."
+            ],
+            "source": "Europe PMC"
+          },
+          {
+            "name": "Li F",
+            "affiliations": [
+              "Department of Oral Implantology, The Affiliated Hospital of Qingdao University, Qingdao University, Qingdao, China.",
+              "School of Stomatology, Qingdao University, Qingdao, China."
+            ],
+            "source": "Europe PMC"
+          }
+        ],
+        "publicationTypes": [
+          "IM",
+          "Journal Article"
+        ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Ying Li",
+            "affiliations": [
+              "Department of Oral Implantology The Affiliated Hospital of Qingdao University, Qingdao University Qingdao China",
+              "School of Stomatology Qingdao University Qingdao China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Chenglin Yang",
+            "affiliations": [
+              "Department of Dermatology The Affiliated Hospital of Qingdao University, Qingdao University Qingdao China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Xiaojing Li",
+            "affiliations": [
+              "Department of Oral Implantology The Affiliated Hospital of Qingdao University, Qingdao University Qingdao China",
+              "School of Stomatology Qingdao University Qingdao China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Wenping Zhang",
+            "affiliations": [
+              "School of Stomatology Qingdao University Qingdao China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Dashan Wang",
+            "affiliations": [
+              "Department of Oral Implantology The Affiliated Hospital of Qingdao University, Qingdao University Qingdao China",
+              "School of Stomatology Qingdao University Qingdao China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Yixiao Xing",
+            "affiliations": [
+              "Department of Stomatology Zhongshan Hospital of Fudan University, Fudan University Shanghai China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Youcheng Yu",
+            "affiliations": [
+              "Department of Stomatology Zhongshan Hospital of Fudan University, Fudan University Shanghai China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Baodong Zhao",
+            "affiliations": [
+              "Department of Oral Implantology The Affiliated Hospital of Qingdao University, Qingdao University Qingdao China",
+              "School of Stomatology Qingdao University Qingdao China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Fan Li",
+            "affiliations": [
+              "Department of Oral Implantology The Affiliated Hospital of Qingdao University, Qingdao University Qingdao China",
+              "School of Stomatology Qingdao University Qingdao China"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
+      }
+    },
+    "onlineDate": "2026-11-13",
+    "onlineDatePrecision": "day",
+    "grade": "C",
+    "score": 0,
+    "topics": [
+      "种植修复",
+      "围种植体疾病"
+    ],
+    "pending": true,
+    "studyType": "临床前研究",
+    "studyTypeEvidence": {
+      "terms": [
+        "in vitro"
+      ],
+      "source": "标题/摘要规则，未经人工确认"
+    },
+    "evidence": {
+      "临床前研究": {
+        "terms": [
+          "in vitro"
+        ],
+        "source": "标题/摘要规则，未经人工确认"
+      }
+    },
+    "reason": "临床独立规则：临床前研究。类型由词组初筛或信息不足，待确认；优先级不等同于研究质量评价。",
+    "rulesVersion": "2.0",
+    "firstSeenAt": "2026-11-14T00:44:23.023435+00:00",
+    "lastSeenAt": "2026-11-14T00:44:23.023435+00:00",
+    "discoveryKind": "new"
+  },
+  {
     "id": "10.1111/jcpe.70098",
     "doi": "10.1111/jcpe.70098",
     "title": "Issue Information",
@@ -525,7 +801,7 @@
   {
     "id": "10.1111/clr.70201",
     "doi": "10.1111/clr.70201",
-    "title": "Scan Body Optimisation for Enhancing Full‐Arch Implant Scanning Accuracy Using Smartphone Video and a Deep Learning Model: An In Vitro Study",
+    "title": "Scan Body Optimisation for Enhancing Full-Arch Implant Scanning Accuracy Using Smartphone Video and a Deep Learning Model: An In Vitro Study.",
     "abstract": "ABSTRACT Objective A multi‐view 3D reconstruction deep learning (DL) model was used to convert smartphone videos of a full‐arch implant cast into 3D scans. This study aimed to determine whether a custom scan body (SB) would outperform regular stock SB in this DL scenario, compared with conventional impressions and photogrammetry. Materials and Methods A maxillary edentulous model with six implant analogues was scanned using four protocols ( n = 10/group): conventional splinted open‐tray impression (CO), photogrammetry (PG; Icam4D), DL using stock PEEK SBs (DLS), and DL using custom SBs (DLC). DL scans were reconstructed from smartphone videos using Neuralangelo. The custom SBs were 3D‐printed with geometric features and spray‐coated. Trueness and precision were assessed by root mean square (RMS), linear, and angular deviations. Results DLC outperformed DLS in trueness (RMS: 51.1 ± 7.6 vs. 80.6 ± 27.8 μm; linear: 78.0 ± 43.5 vs. 144.1 ± 83.4 μm) and precision (RMS: 50.5 ± 9.6 vs. 75.3 ± 19.7 μm; linear: 78.9 ± 43.5 vs. 122.8 ± 71.3 μm; all p p = 0.93) and linear (32.4 ± 14.1 vs. 35.7 ± 31.4 μm; p = 0.663) trueness. PG achieved the best precision across RMS (7.9 ± 3.3 μm), linear (8.7 ± 4.2 μm) and angular (0.07° ± 0.05°) measurements. Conclusion Custom SB significantly improves the accuracy of DL‐based full‐arch implant scanning compared with PEEK stock SB. While early stage, this DL approach shows potential as a viable option for full‐arch implant scanning.",
     "journal": "Clinical Oral Implants Research",
     "journalId": "coir",
@@ -537,47 +813,47 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1111/clr.70201",
-      "Europe PMC": "43004133"
+      "Europe PMC": "43004133",
+      "Crossref": "10.1111/clr.70201"
     },
     "onlineDate": "2026-11-09",
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "Yuqing Lu",
+        "name": "Lu Y",
         "affiliations": [
-          "Department of Biologic and Materials Sciences & Prosthodontics University of Michigan School of Dentistry Ann Arbor Michigan USA",
-          "Department of Reconstructive Oral Care, Academic Centre for Dentistry Amsterdam (ACTA) Universiteit van Amsterdam and Vrije Universiteit Amsterdam the Netherlands"
+          "Department of Biologic and Materials Sciences & Prosthodontics, University of Michigan School of Dentistry, Ann Arbor, Michigan, USA.",
+          "Department of Reconstructive Oral Care, Academic Centre for Dentistry Amsterdam (ACTA), Universiteit van Amsterdam and Vrije Universiteit, Amsterdam, the Netherlands."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Jiayi Yu",
+        "name": "Yu J",
         "affiliations": [
-          "Department of Biologic and Materials Sciences & Prosthodontics University of Michigan School of Dentistry Ann Arbor Michigan USA"
+          "Department of Biologic and Materials Sciences & Prosthodontics, University of Michigan School of Dentistry, Ann Arbor, Michigan, USA."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Fei Liu",
+        "name": "Liu F",
         "affiliations": [
-          "Department of Biologic and Materials Sciences & Prosthodontics University of Michigan School of Dentistry Ann Arbor Michigan USA"
+          "Department of Biologic and Materials Sciences & Prosthodontics, University of Michigan School of Dentistry, Ann Arbor, Michigan, USA."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Tim Joda",
+        "name": "Joda T",
         "affiliations": [
-          "Clinic of Reconstructive Dentistry, Center for Dental Medicine University of Zurich Zurich Switzerland"
+          "Clinic of Reconstructive Dentistry, Center for Dental Medicine, University of Zurich, Zurich, Switzerland."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Junying Li",
+        "name": "Li J",
         "affiliations": [
-          "Department of Biologic and Materials Sciences & Prosthodontics University of Michigan School of Dentistry Ann Arbor Michigan USA"
+          "Department of Biologic and Materials Sciences & Prosthodontics, University of Michigan School of Dentistry, Ann Arbor, Michigan, USA."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
@@ -585,49 +861,6 @@
       "journal-article"
     ],
     "metadataBySource": {
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Yuqing Lu",
-            "affiliations": [
-              "Department of Biologic and Materials Sciences & Prosthodontics University of Michigan School of Dentistry Ann Arbor Michigan USA",
-              "Department of Reconstructive Oral Care, Academic Centre for Dentistry Amsterdam (ACTA) Universiteit van Amsterdam and Vrije Universiteit Amsterdam the Netherlands"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Jiayi Yu",
-            "affiliations": [
-              "Department of Biologic and Materials Sciences & Prosthodontics University of Michigan School of Dentistry Ann Arbor Michigan USA"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Fei Liu",
-            "affiliations": [
-              "Department of Biologic and Materials Sciences & Prosthodontics University of Michigan School of Dentistry Ann Arbor Michigan USA"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Tim Joda",
-            "affiliations": [
-              "Clinic of Reconstructive Dentistry, Center for Dental Medicine University of Zurich Zurich Switzerland"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Junying Li",
-            "affiliations": [
-              "Department of Biologic and Materials Sciences & Prosthodontics University of Michigan School of Dentistry Ann Arbor Michigan USA"
-            ],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
-        ]
-      },
       "Europe PMC": {
         "authors": [
           {
@@ -670,6 +903,49 @@
         "publicationTypes": [
           "Journal Article"
         ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Yuqing Lu",
+            "affiliations": [
+              "Department of Biologic and Materials Sciences & Prosthodontics University of Michigan School of Dentistry Ann Arbor Michigan USA",
+              "Department of Reconstructive Oral Care, Academic Centre for Dentistry Amsterdam (ACTA) Universiteit van Amsterdam and Vrije Universiteit Amsterdam the Netherlands"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jiayi Yu",
+            "affiliations": [
+              "Department of Biologic and Materials Sciences & Prosthodontics University of Michigan School of Dentistry Ann Arbor Michigan USA"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Fei Liu",
+            "affiliations": [
+              "Department of Biologic and Materials Sciences & Prosthodontics University of Michigan School of Dentistry Ann Arbor Michigan USA"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Tim Joda",
+            "affiliations": [
+              "Clinic of Reconstructive Dentistry, Center for Dental Medicine University of Zurich Zurich Switzerland"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Junying Li",
+            "affiliations": [
+              "Department of Biologic and Materials Sciences & Prosthodontics University of Michigan School of Dentistry Ann Arbor Michigan USA"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
       }
     },
     "grade": "C",
@@ -702,7 +978,7 @@
   {
     "id": "10.1111/clr.70194",
     "doi": "10.1111/clr.70194",
-    "title": "Effects of Flap Management and Membrane Fixation on Augmented Ridge Dimensions in Guided Bone Regeneration: A Preclinical In Vivo Study",
+    "title": "Effects of Flap Management and Membrane Fixation on Augmented Ridge Dimensions in Guided Bone Regeneration: A Preclinical In Vivo Study.",
     "abstract": "ABSTRACT Objectives To investigate the main effects of flap management and membrane fixation and their interaction on augmented ridge dimensions 12 weeks after guided bone regeneration (GBR) in chronic noncontained defects. Materials and Methods Implants were placed into chronic noncontained defects in six male dogs using a split‐mouth 2 × 2 factorial design ( n = 6 sites per condition). Buccal defects were augmented with particulate bone substitute and resorbable collagen membranes and assigned to four groups based on the stabilization strategy: retentive flap (limited periosteal release) with or without membrane fixation (Ret‐F, Ret‐UF) and extensive flap release with or without membrane fixation (Ex‐F, Ex‐UF). Augmented ridge dimensions and tissue composition were assessed using micro‐computed tomography and histomorphometric analyses at 12 weeks. Results Flap × fixation interactions were identified for micro‐CT augmented ridge area ( p = 0.015) and volume ( p = 0.005) and for several histomorphometric outcomes. A flap main effect occurred only at 5‐mm augmented tissue width ( p = 0.033). Micro‐CT volume was greater for Ret‐UF than for Ex‐UF (difference, 106.70 mm 3 ; p = 0.029) and for Ex‐F than for Ex‐UF (114.65 mm 3 ; p = 0.021). Micro‐CT area was greater for Ex‐F than for Ex‐UF (8.072 mm 2 ; p = 0.042), and tissue width at 5 mm was greater for Ret‐UF than for Ex‐UF (2.442 mm; p = 0.015). Conclusion In this exploratory study, flap management and membrane fixation had context‐dependent associations with augmented dimensions. Limited release without fixation and extensive release with fixation showed greater dimensions than extensive release without fixation in selected comparisons.",
     "journal": "Clinical Oral Implants Research",
     "journalId": "coir",
@@ -714,53 +990,53 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1111/clr.70194",
-      "Europe PMC": "43004549"
+      "Europe PMC": "43004549",
+      "Crossref": "10.1111/clr.70194"
     },
     "onlineDate": "2026-11-09",
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "Jung‐Yoon Kim",
+        "name": "Kim JY",
         "affiliations": [
-          "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul South Korea"
+          "Department of Periodontology, Research Institute for Periodontal Regeneration, Yonsei University College of Dentistry, Seoul, South Korea."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Seung Ha Yoo",
+        "name": "Yoo SH",
         "affiliations": [
-          "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul South Korea"
+          "Department of Periodontology, Research Institute for Periodontal Regeneration, Yonsei University College of Dentistry, Seoul, South Korea."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Betül Hwang",
+        "name": "Hwang B",
         "affiliations": [
-          "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul South Korea"
+          "Department of Periodontology, Research Institute for Periodontal Regeneration, Yonsei University College of Dentistry, Seoul, South Korea."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Seung‐Hyun Park",
+        "name": "Park SH",
         "affiliations": [
-          "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul South Korea"
+          "Department of Periodontology, Research Institute for Periodontal Regeneration, Yonsei University College of Dentistry, Seoul, South Korea."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Jin‐Young Park",
+        "name": "Park JY",
         "affiliations": [
-          "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul South Korea"
+          "Department of Periodontology, Research Institute for Periodontal Regeneration, Yonsei University College of Dentistry, Seoul, South Korea."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Jung‐Seok Lee",
+        "name": "Lee JS",
         "affiliations": [
-          "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul South Korea"
+          "Department of Periodontology, Research Institute for Periodontal Regeneration, Yonsei University College of Dentistry, Seoul, South Korea."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
@@ -768,55 +1044,6 @@
       "journal-article"
     ],
     "metadataBySource": {
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Jung‐Yoon Kim",
-            "affiliations": [
-              "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul South Korea"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Seung Ha Yoo",
-            "affiliations": [
-              "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul South Korea"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Betül Hwang",
-            "affiliations": [
-              "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul South Korea"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Seung‐Hyun Park",
-            "affiliations": [
-              "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul South Korea"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Jin‐Young Park",
-            "affiliations": [
-              "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul South Korea"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Jung‐Seok Lee",
-            "affiliations": [
-              "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul South Korea"
-            ],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
-        ]
-      },
       "Europe PMC": {
         "authors": [
           {
@@ -864,6 +1091,55 @@
         ],
         "publicationTypes": [
           "Journal Article"
+        ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Jung‐Yoon Kim",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul South Korea"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Seung Ha Yoo",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul South Korea"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Betül Hwang",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul South Korea"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Seung‐Hyun Park",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul South Korea"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jin‐Young Park",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul South Korea"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jung‐Seok Lee",
+            "affiliations": [
+              "Department of Periodontology, Research Institute for Periodontal Regeneration Yonsei University College of Dentistry Seoul South Korea"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
         ]
       }
     },
@@ -1348,7 +1624,7 @@
   {
     "id": "10.1111/clr.70199",
     "doi": "10.1111/clr.70199",
-    "title": "Immediate Implants With or Without a Volume Stable Collagen Matrix: A Randomized Clinical Trial",
+    "title": "Immediate Implants With or Without a Volume Stable Collagen Matrix: A Randomized Clinical Trial.",
     "abstract": "ABSTRACT Aim This randomized clinical trial evaluated soft tissue thickness (STT) around immediate implants with or without soft tissue augmentation using a volume‐stable collagen matrix (VCMX). Secondary outcomes included clinical, esthetic, volumetric, and patient‐reported outcomes. Materials and Methods Participants received immediate implants in the anterior esthetic zone with (Test) or without (Control) simultaneous VCMX augmentation. Outcomes were assessed before surgery, immediately after surgery, and at 6 and 12 months. The primary outcome was STT. Within‐ and between‐group comparisons were performed using the Friedman rank test and Mann–Whitney U test, respectively. Secondary outcomes included mucosal level (ML), marginal bone level (MBL), esthetic and patient‐reported outcomes, and volumetric changes. Results Thirty‐eight out of 40 patients completed the study. STT was significantly greater in the Test group at all follow‐ups ( p p p = 0.0917), whereas STT in the Control group decreased non‐significantly at 3 mm (0.18 mm, SE 0.18, p = 0.6213) and at 6 mm (0.36 mm, SE 0.10, p = 0.1054). ML remained stable in the Test group but showed significant recession in the Control group. Selected esthetic and patient‐reported outcomes favored the Test group. MBL did not change significantly over time in either group. Volumetric analysis showed no significant change over time in the Test group, whereas the Control group showed significant shrinkage ( p = 0.0201). Conclusions VCMX augmentation may improve soft tissue stability around immediate implants. Trial Registration The study protocol was registered on September 20, 2021 in the ClinicalTrials.gov database (registration number: NCT05081284)",
     "journal": "Clinical Oral Implants Research",
     "journalId": "coir",
@@ -1360,54 +1636,54 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1111/clr.70199",
-      "Europe PMC": "42989498"
+      "Europe PMC": "42989498",
+      "Crossref": "10.1111/clr.70199"
     },
     "onlineDate": "2026-11-05",
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "Chiara Cinquini",
+        "name": "Cinquini C",
         "affiliations": [
-          "Department of Surgical Medical Molecular and Critical Area Pathology University of Pisa Pisa Italy"
+          "Department of Surgical Medical Molecular and Critical Area Pathology, University of Pisa, Pisa, Italy."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Niccolò Baldi",
+        "name": "Baldi N",
         "affiliations": [
-          "Department of Surgical Medical Molecular and Critical Area Pathology University of Pisa Pisa Italy"
+          "Department of Surgical Medical Molecular and Critical Area Pathology, University of Pisa, Pisa, Italy."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Rossana Izzetti",
+        "name": "Izzetti R",
         "affiliations": [
-          "Department of Surgical Medical Molecular and Critical Area Pathology University of Pisa Pisa Italy"
+          "Department of Surgical Medical Molecular and Critical Area Pathology, University of Pisa, Pisa, Italy."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Riccardo Simonini",
+        "name": "Simonini R",
         "affiliations": [
-          "Department of Surgical Medical Molecular and Critical Area Pathology University of Pisa Pisa Italy"
+          "Department of Surgical Medical Molecular and Critical Area Pathology, University of Pisa, Pisa, Italy."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Jacopo Buti",
+        "name": "Buti J",
         "affiliations": [
-          "Unit of Periodontology Eastman Dental Institute, UCL London UK",
-          "Centre for Oral Health and Performance Eastman Dental Institute, UCL London UK"
+          "Unit of Periodontology, Eastman Dental Institute, UCL, London, UK.",
+          "Centre for Oral Health and Performance, Eastman Dental Institute, UCL, London, UK."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Antonio Barone",
+        "name": "Barone A",
         "affiliations": [
-          "Department of Surgical Medical Molecular and Critical Area Pathology University of Pisa Pisa Italy"
+          "Department of Surgical Medical Molecular and Critical Area Pathology, University of Pisa, Pisa, Italy."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
@@ -1415,56 +1691,6 @@
       "journal-article"
     ],
     "metadataBySource": {
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Chiara Cinquini",
-            "affiliations": [
-              "Department of Surgical Medical Molecular and Critical Area Pathology University of Pisa Pisa Italy"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Niccolò Baldi",
-            "affiliations": [
-              "Department of Surgical Medical Molecular and Critical Area Pathology University of Pisa Pisa Italy"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Rossana Izzetti",
-            "affiliations": [
-              "Department of Surgical Medical Molecular and Critical Area Pathology University of Pisa Pisa Italy"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Riccardo Simonini",
-            "affiliations": [
-              "Department of Surgical Medical Molecular and Critical Area Pathology University of Pisa Pisa Italy"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Jacopo Buti",
-            "affiliations": [
-              "Unit of Periodontology Eastman Dental Institute, UCL London UK",
-              "Centre for Oral Health and Performance Eastman Dental Institute, UCL London UK"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Antonio Barone",
-            "affiliations": [
-              "Department of Surgical Medical Molecular and Critical Area Pathology University of Pisa Pisa Italy"
-            ],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
-        ]
-      },
       "Europe PMC": {
         "authors": [
           {
@@ -1514,6 +1740,56 @@
         "publicationTypes": [
           "Journal Article"
         ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Chiara Cinquini",
+            "affiliations": [
+              "Department of Surgical Medical Molecular and Critical Area Pathology University of Pisa Pisa Italy"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Niccolò Baldi",
+            "affiliations": [
+              "Department of Surgical Medical Molecular and Critical Area Pathology University of Pisa Pisa Italy"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Rossana Izzetti",
+            "affiliations": [
+              "Department of Surgical Medical Molecular and Critical Area Pathology University of Pisa Pisa Italy"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Riccardo Simonini",
+            "affiliations": [
+              "Department of Surgical Medical Molecular and Critical Area Pathology University of Pisa Pisa Italy"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Jacopo Buti",
+            "affiliations": [
+              "Unit of Periodontology Eastman Dental Institute, UCL London UK",
+              "Centre for Oral Health and Performance Eastman Dental Institute, UCL London UK"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Antonio Barone",
+            "affiliations": [
+              "Department of Surgical Medical Molecular and Critical Area Pathology University of Pisa Pisa Italy"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
       }
     },
     "grade": "A",
@@ -1554,7 +1830,7 @@
   {
     "id": "10.1111/clr.70195",
     "doi": "10.1111/clr.70195",
-    "title": "Probe Accuracy and Agreement and Patient Preferences in Peri‐Implant Probing Depth Assessment: A Cross‐Sectional Study",
+    "title": "Probe Accuracy and Agreement and Patient Preferences in Peri-Implant Probing Depth Assessment: A Cross-Sectional Study.",
     "abstract": "ABSTRACT Objectives To record the accuracy and agreement of three types of probes (i.e., a common metal probe and two types of flexible probes) for peri‐implant probing depth (PD) assessment, including patient‐reported outcomes (PRO). Methods Fifty patients (85 implants) with an implant‐supported restoration were included. Peri‐implant PD was recorded with a metal, plastic, and electronic probe. Pain/discomfort and patient preference were registered. After removing the prosthetic restoration, the correct peri‐implant PD (cPD), the mucosal height (MH), and the PD measured from the implant level (iPD) were assessed. Results Good accuracy and agreement were noted for PD measurements with the metal and plastic probe. They differed in approximately 80% of the measurements by Conclusions While the electronic probe was unreliable, the metal and plastic probes were relatively accurate and comparable for assessing peri‐implant PD; the plastic probe caused less pain/discomfort. However, in approximately 1/5 of the measurements a ≥ 1.5 mm deviation from the correct value (cPD) may occur, and the accuracy of the metal probe appears negatively influenced by a thick peri‐implant mucosal phenotype. Trial Registration The protocol was registered at clinicaltrials.gov (NCT05332327)",
     "journal": "Clinical Oral Implants Research",
     "journalId": "coir",
@@ -1566,44 +1842,44 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1111/clr.70195",
-      "Europe PMC": "42984420"
+      "Europe PMC": "42984420",
+      "Crossref": "10.1111/clr.70195"
     },
     "onlineDate": "2026-11-05",
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "Magdalena Mayol",
+        "name": "Mayol M",
         "affiliations": [
-          "Periodontology, Faculty of Odontology Malmö University Malmö Sweden",
-          "ETEP Research Group, Faculty of Odontology University Complutense of Madrid Madrid Spain"
+          "Periodontology, Faculty of Odontology, Malmö University, Malmö, Sweden.",
+          "ETEP Research Group, Faculty of Odontology, University Complutense of Madrid, Madrid, Spain."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Kristina Bertl",
+        "name": "Bertl K",
         "affiliations": [
-          "Department of Periodontology, Dental Clinic, Faculty of Medicine Sigmund Freud University Vienna Vienna Austria",
-          "Department of Periodontology Blekinge Hospital Karlskrona Sweden"
+          "Department of Periodontology, Dental Clinic, Faculty of Medicine, Sigmund Freud University Vienna, Vienna, Austria.",
+          "Department of Periodontology, Blekinge Hospital, Karlskrona, Sweden."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Nikolaos Pandis",
+        "name": "Pandis N",
         "affiliations": [
-          "Department of Orthodontics and Dentofacial Orthopedics, School of Dental Medicine University of Bern Bern Switzerland"
+          "Department of Orthodontics and Dentofacial Orthopedics, School of Dental Medicine, University of Bern, Bern, Switzerland."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Andreas Stavropoulos",
+        "name": "Stavropoulos A",
         "affiliations": [
-          "Periodontology, Faculty of Odontology Malmö University Malmö Sweden",
-          "Department of Periodontology Blekinge Hospital Karlskrona Sweden",
-          "Division of Conservative Dentistry and Periodontology, University Clinic of Dentistry Medical University of Vienna Vienna Austria",
-          "Department of Periodontology, School of Dental Medicine University of Bern Bern Switzerland"
+          "Periodontology, Faculty of Odontology, Malmö University, Malmö, Sweden.",
+          "Department of Periodontology, Blekinge Hospital, Karlskrona, Sweden.",
+          "Division of Conservative Dentistry and Periodontology, University Clinic of Dentistry, Medical University of Vienna, Vienna, Austria.",
+          "Department of Periodontology, School of Dental Medicine, University of Bern, Bern, Switzerland."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
@@ -1611,46 +1887,6 @@
       "journal-article"
     ],
     "metadataBySource": {
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Magdalena Mayol",
-            "affiliations": [
-              "Periodontology, Faculty of Odontology Malmö University Malmö Sweden",
-              "ETEP Research Group, Faculty of Odontology University Complutense of Madrid Madrid Spain"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Kristina Bertl",
-            "affiliations": [
-              "Department of Periodontology, Dental Clinic, Faculty of Medicine Sigmund Freud University Vienna Vienna Austria",
-              "Department of Periodontology Blekinge Hospital Karlskrona Sweden"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Nikolaos Pandis",
-            "affiliations": [
-              "Department of Orthodontics and Dentofacial Orthopedics, School of Dental Medicine University of Bern Bern Switzerland"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Andreas Stavropoulos",
-            "affiliations": [
-              "Periodontology, Faculty of Odontology Malmö University Malmö Sweden",
-              "Department of Periodontology Blekinge Hospital Karlskrona Sweden",
-              "Division of Conservative Dentistry and Periodontology, University Clinic of Dentistry Medical University of Vienna Vienna Austria",
-              "Department of Periodontology, School of Dental Medicine University of Bern Bern Switzerland"
-            ],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
-        ]
-      },
       "Europe PMC": {
         "authors": [
           {
@@ -1690,18 +1926,71 @@
         "publicationTypes": [
           "Journal Article"
         ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Magdalena Mayol",
+            "affiliations": [
+              "Periodontology, Faculty of Odontology Malmö University Malmö Sweden",
+              "ETEP Research Group, Faculty of Odontology University Complutense of Madrid Madrid Spain"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Kristina Bertl",
+            "affiliations": [
+              "Department of Periodontology, Dental Clinic, Faculty of Medicine Sigmund Freud University Vienna Vienna Austria",
+              "Department of Periodontology Blekinge Hospital Karlskrona Sweden"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Nikolaos Pandis",
+            "affiliations": [
+              "Department of Orthodontics and Dentofacial Orthopedics, School of Dental Medicine University of Bern Bern Switzerland"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Andreas Stavropoulos",
+            "affiliations": [
+              "Periodontology, Faculty of Odontology Malmö University Malmö Sweden",
+              "Department of Periodontology Blekinge Hospital Karlskrona Sweden",
+              "Division of Conservative Dentistry and Periodontology, University Clinic of Dentistry Medical University of Vienna Vienna Austria",
+              "Department of Periodontology, School of Dental Medicine University of Bern Bern Switzerland"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
       }
     },
     "grade": "B",
     "score": 5,
     "topics": [
-      "种植修复"
+      "种植修复",
+      "围种植体疾病"
     ],
     "pending": true,
-    "studyType": "研究类型待确认",
-    "studyTypeEvidence": {},
-    "evidence": {},
-    "reason": "临床独立规则：研究类型待确认。类型由词组初筛或信息不足，待确认；优先级不等同于研究质量评价。",
+    "studyType": "横断面研究",
+    "studyTypeEvidence": {
+      "terms": [
+        "cross-sectional"
+      ],
+      "source": "标题/摘要规则，未经人工确认"
+    },
+    "evidence": {
+      "横断面研究": {
+        "terms": [
+          "cross-sectional"
+        ],
+        "source": "标题/摘要规则，未经人工确认"
+      }
+    },
+    "reason": "临床独立规则：横断面研究。类型由词组初筛或信息不足，待确认；优先级不等同于研究质量评价。",
     "rulesVersion": "2.0",
     "firstSeenAt": "2026-11-06T00:46:22.994736+00:00",
     "lastSeenAt": "2026-11-06T00:46:22.994736+00:00",
@@ -1897,7 +2186,7 @@
   {
     "id": "10.1111/clr.70202",
     "doi": "10.1111/clr.70202",
-    "title": "Effect of Non‐Splinting Techniques and Non‐Calibrated Implant Scan Body Systems on the Accuracy of Complete‐Arch Implant Scans: A Comparative Clinical Study",
+    "title": "Effect of Non-Splinting Techniques and Non-Calibrated Implant Scan Body Systems on the Accuracy of Complete-Arch Implant Scans: A Comparative Clinical Study.",
     "abstract": "ABSTRACT Purpose To evaluate the accuracy of complete‐arch implant scans obtained using non‐splinting and non‐calibrated implant scan body (ISB) methods captured by an intraoral scanner (IOS) with 2 scanning patterns with and without artificial intelligence (AI)‐based tools. Materials and Methods A patient with an edentulous maxillary arch and 4 implants was enrolled. Four groups were established according to scanning technique evaluated: non‐splinting with PEEK or titanium ISBs, 2 non‐calibrated ISBs methods. For each technique, the maxillary arch was scanned using an IOS, applying both a circumferential and an occlusal‐buccal‐lingual scanning pattern, with and without the use of the integrated AI‐based tool of the selected IOS. A stone cast fabricated through the conventional splinted impression was verified and digitized with a laboratory scanner to serve as reference. Linear and angular discrepancies among the designed bars for reference and experimental scans were analyzed. Results Non‐calibrated techniques demonstrated better linear trueness and better angular trueness and precision than non‐splinting methods ( p p > 0.05). The titanium ISBs of the non‐splinting group resulted in better trueness and precision than the PEEK ISBs ( p p p > 0.05). Conclusions Implant scanning technique and AI‐based tool of the IOS selected influenced the accuracy of the complete‐arch implant scans; however, the scanning pattern did not affect the accuracy of the scanning process.",
     "journal": "Clinical Oral Implants Research",
     "journalId": "coir",
@@ -1909,57 +2198,57 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1111/clr.70202",
-      "Europe PMC": "42967971"
+      "Europe PMC": "42967971",
+      "Crossref": "10.1111/clr.70202"
     },
     "onlineDate": "2026-11-01",
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "Theodoros Tasopoulos",
+        "name": "Tasopoulos T",
         "affiliations": [
-          "Private Practice Athens Greece"
+          "Private Practice, Athens, Greece."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Marta Revilla‐León",
+        "name": "Revilla-León M",
         "affiliations": [
-          "Department of Restorative Dentistry, School of Dentistry University of Washington Seattle Washington USA",
-          "Kois Center Seattle Washington USA",
-          "Department of Prosthodontics, School of Dental Medicine Tufts University Boston Massachusetts USA"
+          "Department of Restorative Dentistry, School of Dentistry, University of Washington, Seattle, Washington, USA.",
+          "Kois Center, Seattle, Washington, USA.",
+          "Department of Prosthodontics, School of Dental Medicine, Tufts University, Boston, Massachusetts, USA."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Abdul B. Barmak",
+        "name": "Barmak AB",
         "affiliations": [
-          "Clinical Research and Biostatistics Eastman Institute of Oral Health, University of Rochester Medical Center Rochester New York USA"
+          "Clinical Research and Biostatistics, Eastman Institute of Oral Health, University of Rochester Medical Center, Rochester, New York, USA."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Olga Naka",
+        "name": "Naka O",
         "affiliations": [
-          "Department of Prosthodontics School of Dentistry, Aristotle University of Thessaloniki Thessaloniki Greece"
+          "Department of Prosthodontics, School of Dentistry, Aristotle University of Thessaloniki, Thessaloniki, Greece."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Konstantinos Vazouras",
+        "name": "Vazouras K",
         "affiliations": [
-          "Department of Prosthodontics, School of Dental Medicine Tufts University Boston Massachusetts USA"
+          "Department of Prosthodontics, School of Dental Medicine, Tufts University, Boston, Massachusetts, USA."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Panagiotis Ntovas",
+        "name": "Ntovas P",
         "affiliations": [
-          "Department of Prosthodontics, School of Dental Medicine Tufts University Boston Massachusetts USA",
-          "Department of Operative Dentistry School of Dentistry, National and Kapodistrian University of Athens Athens Greece",
-          "Division of Fixed Prosthodontics and Biomaterials University Clinics for Dental Medicine, University of Geneva Geneva Switzerland"
+          "Department of Prosthodontics, School of Dental Medicine, Tufts University, Boston, Massachusetts, USA.",
+          "Department of Operative Dentistry, School of Dentistry, National and Kapodistrian University of Athens, Athens, Greece.",
+          "Division of Fixed Prosthodontics and Biomaterials, University Clinics for Dental Medicine, University of Geneva, Geneva, Switzerland."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
@@ -1967,59 +2256,6 @@
       "journal-article"
     ],
     "metadataBySource": {
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Theodoros Tasopoulos",
-            "affiliations": [
-              "Private Practice Athens Greece"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Marta Revilla‐León",
-            "affiliations": [
-              "Department of Restorative Dentistry, School of Dentistry University of Washington Seattle Washington USA",
-              "Kois Center Seattle Washington USA",
-              "Department of Prosthodontics, School of Dental Medicine Tufts University Boston Massachusetts USA"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Abdul B. Barmak",
-            "affiliations": [
-              "Clinical Research and Biostatistics Eastman Institute of Oral Health, University of Rochester Medical Center Rochester New York USA"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Olga Naka",
-            "affiliations": [
-              "Department of Prosthodontics School of Dentistry, Aristotle University of Thessaloniki Thessaloniki Greece"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Konstantinos Vazouras",
-            "affiliations": [
-              "Department of Prosthodontics, School of Dental Medicine Tufts University Boston Massachusetts USA"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Panagiotis Ntovas",
-            "affiliations": [
-              "Department of Prosthodontics, School of Dental Medicine Tufts University Boston Massachusetts USA",
-              "Department of Operative Dentistry School of Dentistry, National and Kapodistrian University of Athens Athens Greece",
-              "Division of Fixed Prosthodontics and Biomaterials University Clinics for Dental Medicine, University of Geneva Geneva Switzerland"
-            ],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
-        ]
-      },
       "Europe PMC": {
         "authors": [
           {
@@ -2072,6 +2308,59 @@
         "publicationTypes": [
           "Journal Article"
         ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Theodoros Tasopoulos",
+            "affiliations": [
+              "Private Practice Athens Greece"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Marta Revilla‐León",
+            "affiliations": [
+              "Department of Restorative Dentistry, School of Dentistry University of Washington Seattle Washington USA",
+              "Kois Center Seattle Washington USA",
+              "Department of Prosthodontics, School of Dental Medicine Tufts University Boston Massachusetts USA"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Abdul B. Barmak",
+            "affiliations": [
+              "Clinical Research and Biostatistics Eastman Institute of Oral Health, University of Rochester Medical Center Rochester New York USA"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Olga Naka",
+            "affiliations": [
+              "Department of Prosthodontics School of Dentistry, Aristotle University of Thessaloniki Thessaloniki Greece"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Konstantinos Vazouras",
+            "affiliations": [
+              "Department of Prosthodontics, School of Dental Medicine Tufts University Boston Massachusetts USA"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Panagiotis Ntovas",
+            "affiliations": [
+              "Department of Prosthodontics, School of Dental Medicine Tufts University Boston Massachusetts USA",
+              "Department of Operative Dentistry School of Dentistry, National and Kapodistrian University of Athens Athens Greece",
+              "Division of Fixed Prosthodontics and Biomaterials University Clinics for Dental Medicine, University of Geneva Geneva Switzerland"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
       }
     },
     "grade": "B",
@@ -2104,7 +2393,7 @@
   {
     "id": "10.1111/clr.70200",
     "doi": "10.1111/clr.70200",
-    "title": "AI Enabled Automated Digital Image Analysis for Peri‐Implant Health Monitoring: A Preliminary Diagnostic Study",
+    "title": "AI Enabled Automated Digital Image Analysis for Peri-Implant Health Monitoring: A Preliminary Diagnostic Study.",
     "abstract": "ABSTRACT Objectives To develop and validate an AI‐driven Digital Erythema Score (DES) for objective, non‐invasive assessment of peri‐implant mucosal erythema using intraoral scan (IOS) data. Materials and Methods An internal dataset (200 patients, 265 implants) was utilized, with the reference standard established via consensus by two independent experts. We developed a U‐Net model to automatically segment the peri‐implant mucosal margins to calculate the DES and diagnose erythema (modified Gingival Index mGI 0, ≥ 1). We used the YOLO model for object detection to localize erythema regions. The system's diagnostic performance was validated on an independent external dataset (23 patients, 30 implants), supplemented by a multi‐observer study to evaluate the AI's assistance across clinicians with varying experience levels. Results The U‐Net model achieved precise ROI segmentation (Dice similarity coefficient 0.69 ± 0.11) and reliable colorimetric calculation (ICC > 0.95). At the optimal threshold, the DES accurately identified mucosal erythema (AUC, internal 0.9228 [95% CI: 0.8533 to 0.9760], external 0.9018 [0.8135 to 0.9773]). DES and mGI showed significant correlations with bleeding on probing ( B = 7.38, OR = 5.32, both p ). The YOLO model localized inflammatory regions (mAP internal 0.8968, external 0.6820). In the external validation, the DES‐driven diagnostic framework enhanced the diagnostic performance of observers with different levels of experience and increased the inter‐observer consistency. Conclusions The DES provides an objective metric that converts chromatic signals into a diagnostic score and is significantly correlated with clinical inflammation. This AI‐driven framework reduces clinical subjectivity and establishes a non‐invasive paradigm for teledentistry and high‐frequency, home‐based monitoring of peri‐implant health in the future after validation with patient‐accessible imaging devices. Trial Registration This study has been prospectively registered (NCT07349095)",
     "journal": "Clinical Oral Implants Research",
     "journalId": "coir",
@@ -2116,67 +2405,67 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1111/clr.70200",
-      "Europe PMC": "42968416"
+      "Europe PMC": "42968416",
+      "Crossref": "10.1111/clr.70200"
     },
     "onlineDate": "2026-11-01",
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "Xinyu Wu",
+        "name": "Wu X",
         "affiliations": [
-          "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology Shanghai China"
+          "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital, Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Xindi Wei",
+        "name": "Wei X",
         "affiliations": [
-          "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology Shanghai China"
+          "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital, Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Xiaolei Lv",
+        "name": "Lv X",
         "affiliations": [
-          "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology Shanghai China"
+          "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital, Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Xiaojiao Fu",
+        "name": "Fu X",
         "affiliations": [
-          "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology Shanghai China"
+          "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital, Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Ziqi He",
+        "name": "He Z",
         "affiliations": [
-          "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology Shanghai China"
+          "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital, Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Wanting Yin",
+        "name": "Yin W",
         "affiliations": [
-          "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology Shanghai China"
+          "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital, Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Hongchang Lai",
+        "name": "Lai H",
         "affiliations": [
-          "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology Shanghai China"
+          "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital, Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Junyu Shi",
+        "name": "Shi J",
         "affiliations": [
-          "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology Shanghai China"
+          "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital, Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology, Shanghai, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
@@ -2184,69 +2473,6 @@
       "journal-article"
     ],
     "metadataBySource": {
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Xinyu Wu",
-            "affiliations": [
-              "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology Shanghai China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Xindi Wei",
-            "affiliations": [
-              "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology Shanghai China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Xiaolei Lv",
-            "affiliations": [
-              "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology Shanghai China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Xiaojiao Fu",
-            "affiliations": [
-              "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology Shanghai China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Ziqi He",
-            "affiliations": [
-              "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology Shanghai China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Wanting Yin",
-            "affiliations": [
-              "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology Shanghai China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Hongchang Lai",
-            "affiliations": [
-              "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology Shanghai China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Junyu Shi",
-            "affiliations": [
-              "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology Shanghai China"
-            ],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
-        ]
-      },
       "Europe PMC": {
         "authors": [
           {
@@ -2309,12 +2535,76 @@
         "publicationTypes": [
           "Journal Article"
         ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Xinyu Wu",
+            "affiliations": [
+              "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology Shanghai China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Xindi Wei",
+            "affiliations": [
+              "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology Shanghai China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Xiaolei Lv",
+            "affiliations": [
+              "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology Shanghai China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Xiaojiao Fu",
+            "affiliations": [
+              "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology Shanghai China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Ziqi He",
+            "affiliations": [
+              "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology Shanghai China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Wanting Yin",
+            "affiliations": [
+              "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology Shanghai China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Hongchang Lai",
+            "affiliations": [
+              "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology Shanghai China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Junyu Shi",
+            "affiliations": [
+              "Department of Oral and Maxillofacial Implantology, Shanghai Ninth People Hospital Shanghai Jiao Tong University School of Medicine, College of Stomatology, Shanghai Jiao Tong University, National Center of Stomatology, National Clinical Research Center for Oral Diseases, Shanghai Key Laboratory of Stomatology Shanghai China"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
+        ]
       }
     },
     "grade": "B",
     "score": 5,
     "topics": [
       "种植修复",
+      "围种植体疾病",
       "牙周治疗"
     ],
     "pending": true,
@@ -2330,7 +2620,7 @@
   {
     "id": "10.1111/clr.70197",
     "doi": "10.1111/clr.70197",
-    "title": "Prevalence, Risk Factors, and Outcomes of Radiographically Detected Void Formation Following Lateral Sinus Floor Elevation: A Retrospective Study",
+    "title": "Prevalence, Risk Factors, and Outcomes of Radiographically Detected Void Formation Following Lateral Sinus Floor Elevation: A Retrospective Study.",
     "abstract": "ABSTRACT Objectives To investigate the prevalence, risk factors, and impact of void formation within graft materials following lateral sinus floor elevation (LSFE) on long‐term implant survival. Materials and Methods This retrospective study analyzed 307 patients who underwent LSFE between 2018 and 2023. Voids were identified on 6‐month postoperative cone‐beam computed tomography (CBCT), and patient‐, anatomical‐, and surgery‐related variables were assessed. Least Absolute Shrinkage and Selection Operator (LASSO) regression and multivariable logistic regression were used to identify independent risk factors. Implant survival in void versus non‐void groups was compared using Kaplan–Meier analysis and the log‐rank test. Results Voids were detected in 31.3% of cases (96/307). Three independent risk factors were identified: a specific graft material (OR = 4.02, 95% CI: 1.73–9.33, p = 0.001), increased graft amount (OR = 2.20, 95% CI: 1.20–4.01, p = 0.011), and a smaller sinus mucosa tension angle (SMTA; OR = 0.98, 95% CI: 0.96–1.00, p = 0.027). In a sensitivity analysis confined to conventional graft materials, graft material amount remained robust (OR = 2.02, p = 0.025), with Stage III periodontitis, multiple‐tooth units, and endo‐sinus bone gain additionally identified, whereas membrane perforation was unexpectedly protective (OR = 0.30, p = 0.049). Over a mean 46.6‐month follow‐up, voids were significantly associated with a higher implant failure rate (7.3% vs. 1.9%) and reduced cumulative survival ( p = 0.014). Conclusions Radiographically detected voids following LSFE are associated with increased implant failure and lower cumulative survival. Void formation was independently associated with graft composition, graft material amount, and SMTA; the association with graft material amount persisted after excluding one specific material. Membrane perforation showed an unexpected protective association requiring prospective validation.",
     "journal": "Clinical Oral Implants Research",
     "journalId": "coir",
@@ -2342,74 +2632,74 @@
       "Europe PMC"
     ],
     "sourceIds": {
-      "Crossref": "10.1111/clr.70197",
-      "Europe PMC": "42965484"
+      "Europe PMC": "42965484",
+      "Crossref": "10.1111/clr.70197"
     },
     "onlineDate": "2026-10-31",
     "onlineDatePrecision": "day",
     "authors": [
       {
-        "name": "Yue Xi",
+        "name": "Xi Y",
         "affiliations": [
-          "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital Zhejiang University School of Medicine Hangzhou China"
+          "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital, Zhejiang University School of Medicine, Hangzhou, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Xiaoru Qin",
+        "name": "Qin X",
         "affiliations": [
-          "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital Zhejiang University School of Medicine Hangzhou China"
+          "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital, Zhejiang University School of Medicine, Hangzhou, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Zhikang Wang",
+        "name": "Wang Z",
         "affiliations": [
-          "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital Zhejiang University School of Medicine Hangzhou China"
+          "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital, Zhejiang University School of Medicine, Hangzhou, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Xinyuan Qu",
+        "name": "Qu X",
         "affiliations": [
-          "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital Zhejiang University School of Medicine Hangzhou China"
+          "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital, Zhejiang University School of Medicine, Hangzhou, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Qifeng Jiang",
+        "name": "Jiang Q",
         "affiliations": [
-          "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital Zhejiang University School of Medicine Hangzhou China"
+          "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital, Zhejiang University School of Medicine, Hangzhou, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Xuanru Jin",
+        "name": "Jin X",
         "affiliations": [
-          "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital Zhejiang University School of Medicine Hangzhou China"
+          "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital, Zhejiang University School of Medicine, Hangzhou, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Ying Wang",
+        "name": "Wang Y",
         "affiliations": [
-          "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital Zhejiang University School of Medicine Hangzhou China"
+          "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital, Zhejiang University School of Medicine, Hangzhou, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Kaichen Lai",
+        "name": "Lai K",
         "affiliations": [
-          "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital Zhejiang University School of Medicine Hangzhou China"
+          "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital, Zhejiang University School of Medicine, Hangzhou, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       },
       {
-        "name": "Guoli Yang",
+        "name": "Yang G",
         "affiliations": [
-          "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital Zhejiang University School of Medicine Hangzhou China"
+          "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital, Zhejiang University School of Medicine, Hangzhou, China."
         ],
-        "source": "Crossref"
+        "source": "Europe PMC"
       }
     ],
     "publicationTypes": [
@@ -2417,76 +2707,6 @@
       "journal-article"
     ],
     "metadataBySource": {
-      "Crossref": {
-        "authors": [
-          {
-            "name": "Yue Xi",
-            "affiliations": [
-              "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital Zhejiang University School of Medicine Hangzhou China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Xiaoru Qin",
-            "affiliations": [
-              "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital Zhejiang University School of Medicine Hangzhou China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Zhikang Wang",
-            "affiliations": [
-              "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital Zhejiang University School of Medicine Hangzhou China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Xinyuan Qu",
-            "affiliations": [
-              "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital Zhejiang University School of Medicine Hangzhou China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Qifeng Jiang",
-            "affiliations": [
-              "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital Zhejiang University School of Medicine Hangzhou China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Xuanru Jin",
-            "affiliations": [
-              "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital Zhejiang University School of Medicine Hangzhou China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Ying Wang",
-            "affiliations": [
-              "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital Zhejiang University School of Medicine Hangzhou China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Kaichen Lai",
-            "affiliations": [
-              "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital Zhejiang University School of Medicine Hangzhou China"
-            ],
-            "source": "Crossref"
-          },
-          {
-            "name": "Guoli Yang",
-            "affiliations": [
-              "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital Zhejiang University School of Medicine Hangzhou China"
-            ],
-            "source": "Crossref"
-          }
-        ],
-        "publicationTypes": [
-          "journal-article"
-        ]
-      },
       "Europe PMC": {
         "authors": [
           {
@@ -2555,6 +2775,76 @@
         ],
         "publicationTypes": [
           "Journal Article"
+        ]
+      },
+      "Crossref": {
+        "authors": [
+          {
+            "name": "Yue Xi",
+            "affiliations": [
+              "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital Zhejiang University School of Medicine Hangzhou China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Xiaoru Qin",
+            "affiliations": [
+              "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital Zhejiang University School of Medicine Hangzhou China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Zhikang Wang",
+            "affiliations": [
+              "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital Zhejiang University School of Medicine Hangzhou China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Xinyuan Qu",
+            "affiliations": [
+              "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital Zhejiang University School of Medicine Hangzhou China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Qifeng Jiang",
+            "affiliations": [
+              "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital Zhejiang University School of Medicine Hangzhou China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Xuanru Jin",
+            "affiliations": [
+              "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital Zhejiang University School of Medicine Hangzhou China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Ying Wang",
+            "affiliations": [
+              "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital Zhejiang University School of Medicine Hangzhou China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Kaichen Lai",
+            "affiliations": [
+              "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital Zhejiang University School of Medicine Hangzhou China"
+            ],
+            "source": "Crossref"
+          },
+          {
+            "name": "Guoli Yang",
+            "affiliations": [
+              "School of Stomatology, Zhejiang Provincial Clinical Research Center for Oral Diseases, Key Laboratory of Oral Biomedical Research of Zhejiang Province, Engineering Research Center of Oral Biomaterials and Devices of Zhejiang Province, Stomatology Hospital Zhejiang University School of Medicine Hangzhou China"
+            ],
+            "source": "Crossref"
+          }
+        ],
+        "publicationTypes": [
+          "journal-article"
         ]
       }
     },
